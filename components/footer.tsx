@@ -6,11 +6,12 @@ const Footer = () => {
     <footer className="bg-neutral-50 border-t border-neutral-200">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
+          <h2 className="sr-only">Footer</h2>
           <div className="xl:gap-8 xl:grid-cols-4 grid sm:grid-cols-2 gap-y-4 md:grid-cols-4 mb-4">
             <a href="" className="md:justify-self-end">
-              <h2 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
+              <span className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:text-blue-800">
                 Accessibility First
-              </h2>
+              </span>
             </a>
             <div className="xs:ml-4 sm:mx-auto">
               <h3 className="font-semibold m-0 uppercase">Blog</h3>
