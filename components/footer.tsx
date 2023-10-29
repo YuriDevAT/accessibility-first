@@ -9,7 +9,7 @@ const Footer = () => {
           <h2 className="sr-only">Footer</h2>
           <div className="xl:gap-8 xl:grid-cols-4 grid sm:grid-cols-2 gap-y-4 md:grid-cols-4 mb-4">
             <a href="" className="md:justify-self-end">
-              <span className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:text-blue-800">
+              <span className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline">
                 Accessibility First
               </span>
             </a>

@@ -1,18 +1,16 @@
 ---
 title: 'Why blind people in Vienna hate trashcans'
 excerpt: 'When I first started doing research for Hope Tech’s Sixth Sense, we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars,...'
-coverImage: '/assets/blog/descriptive-name/cover.jpg'
+coverImage: '/assets/blog/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
 date: '2023-10-04T05:35:07.322Z'
 author:
   name: Laura Wissiak
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/descriptive-name/cover.jpg'
+  url: '/assets/blog/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
 originalPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 ---
-
-
 
 When I first started doing research for Hope Tech’s Sixth Sense, we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars, or bicyclists of which there are many in Vienna. In my mind, a crash was something that requires two moving things going straight at each other.
 
