@@ -5,7 +5,7 @@ coverImage: '/assets/blog/descriptive-name/cover.jpg'
 date: '2022-03-16T05:35:07.322Z'
 author:
   name: Julia Undeutsch
-  picture: '/assets/blog/authors/julia.jpeg'
+  picture: '/assets/blog/authors/julia.jpg'
 ogImage:
   url: '/assets/blog/descriptive-name/cover.jpg'
 ---
