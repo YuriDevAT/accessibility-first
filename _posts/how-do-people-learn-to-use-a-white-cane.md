@@ -3,14 +3,14 @@ title: 'How do people learn to use a white cane?'
 excerpt: 'At the first real user trial, we finally put our actual prototype on an actually blind person, instead of a blindfolded engineer. The participant gave us a great tip: to get in touch with an orientational mobility officer.Since there is no industry standard for haptic...'
 coverImage: '/assets/blog/how-do-people-learn-to-use-a-white-cane/cover.png'
 date: '2023-10-16T05:35:07.322Z'
-type: 'blog'
-category: 'uxresearch'
+tags: 'Blog'
+category: 'UX Research'
 author:
   name: Laura Wissiak
   picture: '/assets/authors/laura.jpg'
 ogImage:
   url: '/assets/blog/how-do-people-learn-to-use-a-white-cane/cover.png'
-originalPost:
+oglPost:
   url: 'https://www.laura-wissiak.com/blog/how-do-people-learn-to-use-a-white-cane'
 ---
 

@@ -3,14 +3,14 @@ title: 'Why blind people in Vienna hate trashcans'
 excerpt: 'When I first started doing research for Hope Tech’s Sixth Sense, we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars,...'
 coverImage: '/assets/blog/why-blind-people-in-vienna-hate-trash-cans/cover.png'
 date: '2023-10-04T05:35:07.322Z'
-type: 'blog'
-category: 'uxresearch'
+tags: 'Blog'
+category: 'UX Research'
 author:
   name: Laura Wissiak
   picture: '/assets/authors/laura.jpg'
 ogImage:
   url: '/assets/blog/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
-originalPost:
+ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 ---
 

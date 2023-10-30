@@ -1,23 +1,30 @@
 ---
 title: 'Accessibility: The What, Why & How'
-excerpt: 'At the first real user trial, we finally put our actual prototype on an actually blind person, instead of a blindfolded engineer. The participant gave us a great tip: to get in touch with an orientational mobility officer.Since there is no industry standard for haptic...'
+excerpt: 'Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important. Let’s get an overall understanding on accessibility by introducing you to this topic ...'
 coverImage: '/assets/blog/accessibility-the-what-why-&-how/cover.png'
 date: '2023-10-09T05:35:07.322Z'
-type: 'blog'
-category: 'general'
+tags: 'Blog'
+category: 'Accessibility'
 author:
   name: Julia Undeutsch
   picture: '/assets/authors/julia.jpg'
 ogImage:
   url: '/assets/blog/accessibility-the-what-why-&-how/cover.png'
-originalPost:
+ogPost:
   url: ''
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Let’s get an overall understanding on accessibility by introducing you to this topic in the context of the **what**, **why** and **how**: what accessibility is, why it’s important and how we can achieve accessible design.
 
-## Lorem Ipsum
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## What is accessibility
+
+Regarding to [Wikipedia](https://en.wikipedia.org/wiki/Accessibility),
+
+>Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, more users have equal access to information and functionality.
+
+There are all kinds of disabilities, some are recognizable, like people who are in wheelchairs, and others are hidden, like people who are deaf. There are also age-related disabilities like hearing loss or low vision, and temporary disabilities like having a broken arm or even holding a baby.
+
+You may have seen the hashtag **#a11y**, which is the short version of the word accessibility. The reason for this shortening is that there are 11 characters between the letter “a” and the letter “y”. In my opinion, this is a cool way to shorten a word and much easier to use as a hashtag.
