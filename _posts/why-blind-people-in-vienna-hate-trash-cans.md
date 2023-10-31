@@ -14,12 +14,16 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 ---
 
-When I first started doing research for Hope Tech’s Sixth Sense, we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars, or bicyclists of which there are many in Vienna. In my mind, a crash was something that requires two moving things going straight at each other.
+When I first started doing research for [Hope Tech’s Sixth Sense](https://www.hopetech.vision/), we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars, or bicyclists of which there are many in Vienna. In my mind, a crash was something that requires two moving things going straight at each other.
 
 Although a blind person walking into a trashcan sounds just like the punchline of a problematic joke, it is a real daily problem!
 
-A bit of background knowledge:
+---
+
+**A bit of background knowledge:**
 Vienna’s trashcans are managed by the wonderful MA 48, department for waste management and street cleaning. To make the bins easy to empty, they are suspended on street poles. Street cleaners can open the lid on the bottom and catch the contents with a net. Super easy, super fast, and as tidy as trash can be!
+
+---
 
 Because the bins are invisible to the white cane, many users have learned to walk around with one hand up in front of their chest. Extending their hand about 20 cm away from the chest allows them to notice trash bins or other suspended objects. A neat trick to work around this!
 

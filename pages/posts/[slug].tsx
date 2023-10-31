@@ -45,10 +45,15 @@ export default function Post({ post, morePosts, preview }: Props) {
                 author={post.author}
               />
                 <PostBody content={post.content} category={post.category} />
-                <div className="max-w-2xl mx-auto">
-                  <SectionSeparator />
-                  <PostOriginal ogPost={post.ogPost.url} />
-                </div>
+                {post.ogPost.url != '' ? (
+                  <div className="max-w-2xl mx-auto">
+                    <SectionSeparator />
+                    <PostOriginal ogPost={post.ogPost.url} />
+                  </div>
+                ) : (
+                  null
+                )
+                }
             </article>
           </>
         )}
