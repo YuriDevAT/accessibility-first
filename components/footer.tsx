@@ -4,7 +4,7 @@ import { CMS_NAME } from '../lib/constants'
 
 const Footer = () => {
   return (
-    <footer className="bg-neutral-50 border-t border-neutral-200 text-lg">
+    <footer className="bg-stone-200 border-t border-stone-200 text-lg">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h2 className="sr-only">Footer</h2>
@@ -81,7 +81,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="sm:mt-6 border-t border-t-1px border-slate-300 py-4 text-center">
+        <div className="sm:mt-6 border-t border-t-1px border-stone-300 py-4 text-center">
           <p className="my-5 md:pl-8">
             A statically generated blog using{' '}
             <a
