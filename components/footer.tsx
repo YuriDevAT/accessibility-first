@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import Container from './container'
 import { CMS_NAME } from '../lib/constants'
 
@@ -8,38 +9,38 @@ const Footer = () => {
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h2 className="sr-only">Footer</h2>
           <div className="xl:gap-8 xl:grid-cols-4 grid sm:grid-cols-2 gap-y-4 md:grid-cols-4 mb-4">
-            <a href="/" className="md:justify-self-end">
+            <Link href="/" className="md:justify-self-end">
               <span className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline">
                 Accessibility First
               </span>
-            </a>
+            </Link>
             <div className="xs:ml-4 sm:mx-auto">
               <h3 className="font-semibold m-0 uppercase">Blog</h3>
               <ul className="mt-2 underline">
                 <li>
-                  <a href="articles" className="block py-1">
+                  <Link href="articles" className="block py-1">
                     All articles
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="accessibility" className="block py-1">
+                  <Link href="accessibility" className="block py-1">
                     Accessibility
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="ux-design" className="block py-1">
+                  <Link href="ux-design" className="block py-1">
                     UX design
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="web-development" className="block py-1">
+                  <Link href="web-development" className="block py-1">
                     Web development
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="qa-testing" className="block py-1">
+                  <Link href="qa-testing" className="block py-1">
                     QA testing
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -47,29 +48,29 @@ const Footer = () => {
               <h3 className="font-semibold m-0 uppercase">Organization</h3>
               <ul className="mt-2 underline">
                 <li>
-                  <a href="about" className="block py-1">
+                  <Link href="about" className="block py-1">
                     About
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="team" className="block py-1">
+                  <Link href="team" className="block py-1">
                     Team
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="events" className="block py-1">
+                  <Link href="events" className="block py-1">
                     Events
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="accessibility-statement" className="block py-1">
+                  <Link href="accessibility-statement" className="block py-1">
                     Accessibility Statement
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="sitemap" className="block py-1">
+                  <Link href="sitemap" className="block py-1">
                     Sitemap
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
