@@ -21,7 +21,7 @@ Let’s get an overall understanding on accessibility by introducing you to this
 
 ## What is accessibility
 
-Regarding to [Wikipedia](https://en.wikipedia.org/wiki/Accessibility),
+Regarding to [Wikipedia](https://en.wikipedia.org/wiki/Accessibility "Wikipedia Definition Accessibility"),
 
 >Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, more users have equal access to information and functionality.
 
@@ -31,7 +31,7 @@ You may have seen the hashtag **#a11y**, which is the short version of the word 
 
 ## Why does it matter
 
-“The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
+The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.”
 
 Tim Berners-Lee, W3C Director and inventor of the World Wide Web
 

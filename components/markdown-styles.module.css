@@ -22,7 +22,7 @@
 }
 
 .markdown blockquote {
-  @apply border-l-4 border-l-blue-800 pl-6
+  @apply border-l-4 pl-6 border-l-gray-950
 }
 
 .markdown code {

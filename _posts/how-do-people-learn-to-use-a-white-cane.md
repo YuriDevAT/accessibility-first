@@ -10,11 +10,9 @@ author:
   picture: '/assets/authors/laura.jpg'
 ogImage:
   url: '/assets/blog/how-do-people-learn-to-use-a-white-cane/cover.png'
-oglPost:
+ogPost:
   url: 'https://www.laura-wissiak.com/blog/how-do-people-learn-to-use-a-white-cane'
 ---
-
-
 
 At the first real user trial, we finally put our actual prototype on an actually blind person, instead of a blindfolded engineer. The participant gave us a great tip: to get in touch with an orientational mobility officer.
 
@@ -22,7 +20,7 @@ Since there is no industry standard for haptic and audio feedback in assistive t
 
 Now the obvious challenge for me, a sighted person, is that I have no clue how one learns to navigate with a white cane. Furthermore, while navigational mobility officer sounded fancy, I had no idea what this role would be called in German, and if there even was a counterpart for this role outside the UK.
 
-Confused as to where to find one, but fully convinced to try by the brilliance of the idea our test user gave us, I started by asking my contacts at Hilfsgemeinschaft for help. And oh my did they come through! Not only with the German translation but with a personal recommendation plus contact details to Blindenverand! Jackpot! So after writing another email explaining all of the above, I already had a meeting scheduled.
+Confused as to where to find one, but fully convinced to try by the brilliance of the idea our test user gave us, I started by asking my contacts at [Hilfsgemeinschaft](https://www.hilfsgemeinschaft.at/) for help. And oh my did they come through! Not only with the German translation but with a personal recommendation plus contact details to [Blindenverand](https://www.blindenverband-wnb.at/)! Jackpot! So after writing another email explaining all of the above, I already had a meeting scheduled.
 
 ## What does an Orientational Mobility Officer (OMO) do?
 
@@ -49,11 +47,11 @@ indoor navigation tools. braille labels, tactile floor maps, click sonar, clearl
 
 Depending on the length of your cane, you only have about 1.5 to 2.5 steps time to react. There is no standardization for cane length, but often the more confident you become with navigating, the faster you walk, the longer your cane gets.
 
-Another technique is click sonar. This one is neat because it works both indoors and outdoors. You learn how sound ricochets off different objects, and through that, you can tell where walls and objects are located (insert Batman joke here).
+Another technique is **click sonar**. This one is neat because it works both indoors and outdoors. You learn how sound ricochets off different objects, and through that, you can tell where walls and objects are located (insert Batman joke here).
 
 Click sonar is a great technique, but never recommended to use alone. Remember our biggest enemy indoors? Yes, stairs. Anything that relies on echolocation or ultrasound has a major flaw: It needs a surface to reflect back from. With openings, such as stairs going down, hallways or garage openings, there is nothing close enough to reflect from.
 
-That’s why it is always recommended to use it in combination with the white cane. Another issue, that you might already have guessed, is that it gets trickier to hear properly in noisy environments. If you can read German, this article goes more in-depth about click sonar [German] and also explains that a bit of white noise is already enough to disorient you.
+That’s why _it is always recommended to use it in combination with the white cane_. Another issue, that you might already have guessed, is that it gets trickier to hear properly in noisy environments. If you can read German, this article goes more [in-depth about click sonar [German]](https://www.blindenverband-wnb.at/blog/mit-klick-sonar-sicher-durch-den-alltag/) and also explains that a bit of white noise is already enough to disorient you.
 
 As you set your goals you can also choose what house you want to learn. Your home, your office …. During the lockdowns Blindenverband was even able to use the main building of the University of Vienna for training. With such a huge building you can really work on local and global navigation.
 
@@ -67,9 +65,9 @@ When talking about navigation we split it into two sections: local and global. L
 
 Can’t forget about this essential: Shorelining is the practice of using an edge, wall, or natural edge to stay on a straight path. Shorelining is the reason why white cane users will often follow along the wall or edge of a paved grass patch. It’s also the reason why you should never ever come between a cane user and the wall!
 
-Even if the cane user walking towards you is not directly following along the wall, still make sure to bypass them on the street-facing side. They might know this route very well, but could still want to sureline for reassurance at any time. And yes, they might not see you, as realize the mistake you made and anxiously try to spider-man along the wall to avoid their cane, but they can still hear and/or smell you. One participant told me that it’s always weird when you’re suddenly hit by a whiff of perfume or cologne, and realize someone just invaded your personal space.
+Even if the cane user walking towards you is not directly following along the wall, still make sure to bypass them on the street-facing side. They might know this route very well, but could still want to shoreline for reassurance at any time. And yes, they might not see you, as realize the mistake you made and anxiously try to spider-man along the wall to avoid their cane, but they can still hear and/or smell you. One participant told me that it’s always weird when you’re suddenly hit by a whiff of perfume or cologne, and realize someone just invaded your personal space.
 
-Shout out to Blindenverband!
+## Shout out to [Blindenverband](https://www.blindenverband-wnb.at/)!
 
 A big thank you to the wonderful people at Blindenverband! It was a densely information-packed 1.5 hours with lots of new input for me. You may have already noticed that from the length of this blog post!
 

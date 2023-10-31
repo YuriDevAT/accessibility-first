@@ -10,6 +10,8 @@ import PostTitle from '../../components/post-title'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
+import PostOriginal from '../../components/post-original'
+import SectionSeparator from '../../components/section-separator'
 
 type Props = {
   post: PostType
@@ -42,7 +44,11 @@ export default function Post({ post, morePosts, preview }: Props) {
                 date={post.date}
                 author={post.author}
               />
-              <PostBody content={post.content} />
+                <PostBody content={post.content} category={post.category} />
+                <div className="max-w-2xl mx-auto">
+                  <SectionSeparator />
+                  <PostOriginal ogPost={post.ogPost.url} />
+                </div>
             </article>
           </>
         )}
@@ -67,6 +73,7 @@ export async function getStaticProps({ params }: Params) {
     'category',
     'content',
     'ogImage',
+    'ogPost',
     'coverImage',
   ])
   const content = await markdownToHtml(post.content || '')
