@@ -18,27 +18,27 @@ const Footer = () => {
               <h3 className="font-semibold m-0 uppercase">Blog</h3>
               <ul className="mt-2 underline">
                 <li>
-                  <Link href="articles" className="block py-1">
+                  <Link href="/" className="block py-1">
                     All articles
                   </Link>
                 </li>
                 <li>
-                  <Link href="accessibility" className="block py-1">
+                  <Link href="/accessibility" className="block py-1">
                     Accessibility
                   </Link>
                 </li>
                 <li>
-                  <Link href="ux-design" className="block py-1">
+                  <Link href="/ux-design" className="block py-1">
                     UX design
                   </Link>
                 </li>
                 <li>
-                  <Link href="web-development" className="block py-1">
+                  <Link href="/web-development" className="block py-1">
                     Web development
                   </Link>
                 </li>
                 <li>
-                  <Link href="qa-testing" className="block py-1">
+                  <Link href="/qa-testing" className="block py-1">
                     QA testing
                   </Link>
                 </li>
@@ -48,27 +48,27 @@ const Footer = () => {
               <h3 className="font-semibold m-0 uppercase">Organization</h3>
               <ul className="mt-2 underline">
                 <li>
-                  <Link href="about" className="block py-1">
+                  <Link href="/about" className="block py-1">
                     About
                   </Link>
                 </li>
                 <li>
-                  <Link href="team" className="block py-1">
+                  <Link href="/team" className="block py-1">
                     Team
                   </Link>
                 </li>
                 <li>
-                  <Link href="events" className="block py-1">
+                  <Link href="/events" className="block py-1">
                     Events
                   </Link>
                 </li>
                 <li>
-                  <Link href="accessibility-statement" className="block py-1">
+                  <Link href="/accessibility-statement" className="block py-1">
                     Accessibility Statement
                   </Link>
                 </li>
                 <li>
-                  <Link href="sitemap" className="block py-1">
+                  <Link href="/sitemap" className="block py-1">
                     Sitemap
                   </Link>
                 </li>
