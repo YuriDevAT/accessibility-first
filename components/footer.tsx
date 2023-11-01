@@ -76,7 +76,22 @@ const Footer = () => {
             </div>
             <div className="xs:ml-4 sm:mx-auto">
               <h3 className="font-semibold m-0 uppercase">Social Media</h3>
-              <ul className="mt-2">
+              <ul className="mt-2 underline">
+                <li>
+                  <a href="https://www.instagram.com/accessibilityfirst/" className="block py-1">
+                    Instagram
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.instagram.com/accessibilityfirst/" className="block py-1">
+                    LinkedIn
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.youtube.com/@accessibilityfirst" className="block py-1">
+                    YouTube
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
