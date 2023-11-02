@@ -6,7 +6,7 @@ date: '2023-10-09T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
 author:
-  name: Julia Undeutsch
+  name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
   url: '/assets/blog/accessibility-the-what-why-&-how/cover.png'
@@ -17,7 +17,6 @@ ogPost:
 Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important.
 
 Let’s get an overall understanding on accessibility by introducing you to this topic in the context of the **what**, **why** and **how**: what accessibility is, why it’s important and how we can achieve accessible design.
-
 
 ## What is accessibility
 

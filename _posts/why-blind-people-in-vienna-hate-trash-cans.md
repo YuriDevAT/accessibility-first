@@ -6,7 +6,7 @@ date: '2023-10-04T05:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
 author:
-  name: Laura Wissiak
+  name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
   url: '/assets/blog/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
