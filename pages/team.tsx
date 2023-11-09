@@ -6,8 +6,8 @@ const Team = () => {
   return (
     <Layout>
       <Container>
-        <section className="mt-16 mb-32">
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">Meet the team</h1>
+        <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">Meet the team</h1>
+        <section className="mt-16 mb-32 max-w-4xl">
           <ul>
             <li className="flex flex-col md:flex-row items-center gap-x-8 mb-16 md:mb-0">
               <Image
