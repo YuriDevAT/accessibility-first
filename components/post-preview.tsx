@@ -35,7 +35,7 @@ const PostPreview = ({
           {title}
         </Link>
       </h3>
-      <div className="mb-4 font-mono text-lg">
+      <div className="mb-4 font-mono text-lg dark:text-slate-200">
         <DateFormatter dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>

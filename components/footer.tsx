@@ -1,15 +1,16 @@
 import Link from 'next/link'
 import Container from './container'
 import { CMS_NAME } from '../lib/constants'
+import DarkModeToggle from './dark-mode-toggle'
 
 const Footer = () => {
   return (
-    <footer className="bg-stone-200 border-t border-stone-200 text-sm mt-6">
+    <footer className="bg-stone-200 border-stone-200 dark:bg-slate-950 text-sm mt-6">
       <Container>
         <div className="flex flex-wrap justify-between py-16 mb-5">
           <h2 className="sr-only">Footer</h2>
           <Link href="/" className="w-full lg:w-4/12 mb-8">
-            <span className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline">
+            <span className="text-4xl dark:text-slate-200 lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline">
               Accessibility First
             </span>
           </Link>
@@ -108,13 +109,21 @@ const Footer = () => {
               </li>
             </ul>
           </div>
+          <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
+            <h3 className="font-semibold mb-3 uppercase">Settings</h3>
+            <ul className="underline">
+              <li>
+                <DarkModeToggle />
+              </li>
+            </ul>
+          </div>
         </div>
-        <div className="border-t border-t-1px border-stone-300 py-6 flex justify-between flex-row-reverse items-center">
+        <div className="border-t border-t-1px border-stone-300 dark:border-slate-800 py-6 flex justify-between flex-row-reverse items-center">
           <p>
             A statically generated blog made with <span className="text-red-800">&#9829;</span> and ♫ using{' '}
             <a
               href="https://nextjs.org/"
-              className="underline hover:text-blue-800 duration-200 transition-colors"
+              className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors"
             >
               Next.js
             </a>{' '}
