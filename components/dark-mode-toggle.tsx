@@ -10,7 +10,7 @@ const DarkModeToggle = () => {
   }
 
   return (
-    <label className={`${isEnabled ? "bg-blue-500" : "bg-inherit border border-black"} relative inline-flex h-[38px] w-[38px] shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none focus-visible:ring-2  focus-visible:ring-white focus-visible:ring-opacity-75`}>
+    <label className={`${isEnabled ? "bg-blue-500 border-none" : "bg-inherit border-slate-800"} relative inline-flex h-[38px] w-[38px] shrink-0 cursor-pointer rounded-full border-2 transition-colors duration-200 ease-in-out focus:outline-none focus-visible:ring-2  focus-visible:ring-white focus-visible:ring-opacity-75`}>
       <input
         type="checkbox"
         aria-label="use mode"

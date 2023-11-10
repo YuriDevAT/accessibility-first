@@ -1,9 +1,15 @@
 import Layout from '../components/layout'
 import Container from '../components/container'
+import Head from "next/head";
+
+const title = "Welcome to accessibility first | about"
 
 const About = () => {
   return (
     <Layout>
+      <Head>
+        <title>{title}</title>
+      </Head>
       <Container>
         <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left max-w-5xl">Welcome to Accessibility <span className="text-blue-800 dark:text-blue-500">First</span></h1>
         <section className="mb-32 max-w-4xl">

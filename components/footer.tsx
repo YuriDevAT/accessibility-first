@@ -19,7 +19,7 @@ const Footer = () => {
             <ul className="underline">
               <li>
                 <Link href="/" className="block mb-3">
-                  All articles
+                  All Articles
                   </Link>
                 </li>
                 <li>
@@ -29,22 +29,22 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/ux-research" className="block mb-3">
-                  UX research
+                  UX Research
                 </Link>
               </li>
               <li>
                 <Link href="/ux-design" className="block mb-3">
-                  UX design
+                  UX Design
                 </Link>
               </li>
               <li>
                 <Link href="/web-development" className="block mb-3">
-                  Web development
+                  Web Development
                 </Link>
               </li>
               <li>
                 <Link href="/qa-testing" className="block mb-3">
-                  QA testing
+                  QA Testing
                 </Link>
               </li>
               <li>
