@@ -4,7 +4,7 @@ excerpt: 'Some paths should not be walked alone. I’m excited to announce that 
 coverImage: '/assets/blog/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
 date: '2023-09-06T05:35:07.322Z'
 tags: 'Blog'
-category: 'Accessibility'
+category: 'News'
 author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'

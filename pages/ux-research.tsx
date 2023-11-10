@@ -6,14 +6,14 @@ import PostGrid from '../components/post-grid'
 import { getAllPosts } from '../lib/api'
 import Post from '../interfaces/post'
 
-const title = "UX Design"
+const title = "UX Research"
 
 type Props = {
   allPosts: Post[]
 }
 
-const UXDesign = ({ allPosts }: Props) => {
-  const posts = allPosts.filter((category) => category.category === "UX Design")
+const UXResearch = ({ allPosts }: Props) => {
+  const posts = allPosts.filter((category) => category.category === "UX Research")
 
   return (
     <Layout>
@@ -35,7 +35,7 @@ const UXDesign = ({ allPosts }: Props) => {
   )
 }
 
-export default UXDesign
+export default UXResearch
 
 export const getStaticProps = async () => {
   const allPosts = getAllPosts([
