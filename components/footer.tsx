@@ -98,7 +98,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/accessibilityfirst/" className="block mb-3">
+                <a href="https://www.linkedin.com/company/accessibilityfirst/" className="block mb-3">
                   LinkedIn
                 </a>
               </li>
