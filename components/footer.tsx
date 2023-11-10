@@ -1,16 +1,17 @@
 import Link from 'next/link'
 import Container from './container'
 import { CMS_NAME } from '../lib/constants'
+import DarkModeToggle from './dark-mode-toggle'
 
 const Footer = () => {
   return (
-    <footer className="bg-stone-200 border-t border-stone-200 text-lg">
+    <footer className="bg-stone-200 text-lg dark:bg-slate-950">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h2 className="sr-only">Footer</h2>
           <div className="xl:gap-8 xl:grid-cols-4 grid sm:grid-cols-2 gap-y-4 md:grid-cols-4 mb-4">
             <Link href="/" className="md:justify-self-end">
-              <span className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline">
+              <span className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline dark:text-slate-200">
                 Accessibility First
               </span>
             </Link>
@@ -93,15 +94,16 @@ const Footer = () => {
                   </a>
                 </li>
               </ul>
+              <DarkModeToggle />
             </div>
           </div>
         </div>
-        <div className="sm:mt-6 border-t border-t-1px border-stone-300 py-4 text-center">
+        <div className="sm:mt-6 border-t border-t-1px border-stone-300 dark:border-stone-800 py-4 text-center">
           <p className="my-5 md:pl-8">
             A statically generated blog using{' '}
             <a
               href="https://nextjs.org/"
-              className="underline hover:text-blue-800 duration-200 transition-colors"
+              className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors"
             >
               Next.js
             </a>{' '}

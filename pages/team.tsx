@@ -21,14 +21,14 @@ const Team = () => {
                 <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>
                   Julia Undeutsch
                 </h2>
-                <p className="mb-4 font-mono text-lg text-center md:text-left">
+                <p className="mb-4 font-mono text-lg text-center md:text-left dark:text-slate-200">
                   Founder
                 </p>
                 <p className="text-lg leading-relaxed my-6">
                   I am Web & UX Accessibility Specialist at Atos Austria.
                   After graduating University in Musicology and Japanese Studies in summer 2020, I started learning front-end development and specialized in the topic of web accessibility early on.
                   Since then, I take every opportunity to spread awareness on the topic by regularly creating content in form of writing blog articles and such.
-                  Since 2022, I have been certified by IAAP as a <a href="https://www.accessibilityassociation.org/s/certified-professional" className="underline">Professional in Accessibility Core Competencies (CPACC)</a>.
+                  Since 2022, I have been certified by IAAP as a <a href="https://www.accessibilityassociation.org/s/certified-professional" className="underline dark:text-slate-200">Professional in Accessibility Core Competencies (CPACC)</a>.
                 </p>
               </div>
             </li>
@@ -44,7 +44,7 @@ const Team = () => {
                 <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>
                   Laura Wissiak
                 </h2>
-                <p className="mb-4 font-mono text-lg text-center md:text-left">
+                <p className="mb-4 font-mono text-lg text-center md:text-left dark:text-slate-200">
                   Lead UX Researcher
                 </p>
                 <p className="text-lg leading-relaxed my-6">

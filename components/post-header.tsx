@@ -17,7 +17,7 @@ const PostHeader = ({ title, coverImage, date, author }: Props) => {
       <PostTitle>{title}</PostTitle>
       <div className="md:flex items-center hidden md:mb-12">
         <Avatar name={author.name} picture={author.picture} />
-        <div className="md:ml-4 md:border-l md:border-l-black md:pl-4 font-mono text-lg">
+        <div className="md:ml-4 md:border-l md:border-l-black dark:md:border-l-slate-200 dark:text-slate-200 md:pl-4 font-mono text-lg">
           <DateFormatter dateString={date} />
         </div>
       </div>
@@ -26,7 +26,7 @@ const PostHeader = ({ title, coverImage, date, author }: Props) => {
       </div>
       <div className="max-w-2xl mx-auto block md:hidden mb-6">
         <Avatar name={author.name} picture={author.picture} />
-        <div className="font-mono text-lg">
+        <div className="font-mono text-lg dark:text-slate-200">
           <DateFormatter dateString={date} />
         </div>
       </div>
