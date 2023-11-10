@@ -8,7 +8,7 @@ type Props = {
 
 const PostBody = ({ content, category }: Props) => {
   return (
-    <div className={`max-w-2xl mx-auto ${category == "UX Research" ? "research" : "general"}`}>
+    <div className="max-w-2xl mx-auto">
       <div
         className={markdownStyles['markdown']}
         dangerouslySetInnerHTML={{ __html: content }}
