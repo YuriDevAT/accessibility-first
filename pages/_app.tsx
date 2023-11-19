@@ -1,6 +1,6 @@
 import { AppProps } from 'next/app'
 import '../styles/index.css'
-import localFont from '@next/font/local'
+import localFont from 'next/font/local'
 
 const alliance = localFont({
   src: [
