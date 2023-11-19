@@ -20,6 +20,14 @@ const Events = () => {
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 How to keep up with tech knowledge output? Focus accessibility (Julia)</h3>
               <p className="mb-4 font-mono text-lg text-center md:text-left">November 28, 2023, Discussion @Girlcode Break Time</p>
             </li>
+            <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Getting started with designing for Web Accessibility (Julia)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">December 01, 2023, Talk @GDE DevFest Calabar</p>
+            </li>
+            <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Die blinde User Experience bei Hope Tech Plus (Laura)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">January 11, 2024, @Discussion Drive CX Breakfast</p>
+            </li>
           </ul>
           <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>Past Events</h2>
           <ul className="text-lg leading-relaxed my-6">
@@ -32,12 +40,24 @@ const Events = () => {
               <p className="mb-4 font-mono text-lg text-center md:text-left">May 18, 2023, Panel Discussion @Atos</p>
             </li>
             <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Self-Learning to Start Your Coding Career (Julia)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">Jannuary 11, 2023, Talk @CodeSmith</p>
+            </li>
+            <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Human (soft) skills for developers (Julia)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">December 20, 2022, Talk @daily.dev</p>
+            </li>
+            <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Myths & Misconception about Accessibility (Julia)</h3>
               <p className="mb-4 font-mono text-lg text-center md:text-left">September 13, 2022, Talk @Frontend Foxes</p>
             </li>
             <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Who is responsible for accessibility? (Julia, Laura)</h3>
               <p className="mb-4 font-mono text-lg text-center md:text-left">June 08, 2022, Q&A @A1 Telekom</p>
+            </li>
+            <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 From Poker dealer to coder (Julia)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">April 04, 2022, Q&A @EddieJaoude</p>
             </li>
           </ul>
         </section>
