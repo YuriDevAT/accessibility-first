@@ -31,7 +31,7 @@ const About = () => {
           <p className="text-lg leading-relaxed my-6">
             Interdisciplinary teams, working together to make their respective corners of the World Wide Web a pleasant experience for all users.
           </p>
-          <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>About Accessibility</h2>
+          <h2>About Accessibility</h2>
           <p className="text-lg leading-relaxed my-6">
             Accessibility is a team effort. Every role contributes a part to the puzzle to build a good user experience.
           </p>
