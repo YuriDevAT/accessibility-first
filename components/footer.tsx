@@ -107,11 +107,6 @@ const Footer = () => {
                   YouTube
                 </a>
               </li>
-              <li>
-                <a href="@mailto:info@accessibilityfirst.at" className="block mb-3">
-                  info@accessibilityfirst.at
-                </a>
-              </li>
             </ul>
           </div>
           <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
@@ -123,10 +118,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        <div className="border-t border-t-1px border-stone-300 dark:border-slate-800 py-6 flex flex-wrap-reverse sm:justify-center lg:justify-between sm:items-center">
-          <p>
-            © 2022-{new Date().getFullYear()} Accessibility First. All rights reserved.
-          </p>
+        <div className="border-t border-t-1px border-stone-300 dark:border-slate-800 py-6 flex justify-between flex-row-reverse items-center">
           <p>
             A statically generated blog made with <span className="text-red-800">&#9829;</span> and ♫ using{' '}
             <a
@@ -136,6 +128,9 @@ const Footer = () => {
               Next.js
             </a>{' '}
             and {CMS_NAME}.
+          </p>
+          <p>
+            © 2022-{new Date().getFullYear()} Accessibility First. All rights reserved.
           </p>
         </div>
       </Container>
