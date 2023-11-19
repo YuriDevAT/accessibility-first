@@ -32,9 +32,11 @@ const Team = () => {
                 </p>
                 <p className="text-lg leading-relaxed my-6">
                   I am Web & UX Accessibility Specialist at Atos Austria.
-                  After graduating University in Musicology and Japanese Studies in summer 2020, I started learning front-end development and specialized in the topic of web accessibility early on.
+                  After graduating University in Musicology (BA, MA) and Japanese Studies (BA, JLPT N3) in summer 2020, I started learning front-end development and specialized in the topic of web accessibility early on.
                   Since then, I take every opportunity to spread awareness on the topic by regularly creating content in form of writing blog articles and such.
-                  Since 2022, I have been certified by IAAP as a <a href="https://www.accessibilityassociation.org/s/certified-professional" className="underline dark:text-slate-200">Professional in Accessibility Core Competencies (CPACC)</a>.
+                </p>
+                <p className="text-lg leading-relaxed my-6">
+                  I have been certified by IAAP as a <a href="https://www.accessibilityassociation.org/s/certified-professional" className="underline dark:text-slate-200">Professional in Accessibility Core Competencies (CPACC)</a> in 2022 and got accepted in the <a href="https://developers.google.com/community/experts" className="underline dark:text-slate-200">Google Developer Expert Program</a> in 2023.
                 </p>
               </div>
             </li>
@@ -55,10 +57,12 @@ const Team = () => {
                 </p>
                 <p className="text-lg leading-relaxed my-6">
                   I am a UX researcher currently working on assistive tech for blind and visually impaired users.
-
                   My passion lies with all things accessibility, from easy language to assistive technology. Whatever the product, my goal is to eliminate as many obstacles as possible from it. Creating inclusive and comfortable experiences is what I strive for, both on and offline.
-
-                  Besides the above, I bring a socio-cultural background to the table, through a BA in Japanese Studies, which taught me about cultural and social science, and not to forget communication, on- and offline, through curricula extensions in Social Media Communication as well as Transcultural Communication.
+                </p>
+                <p className="text-lg leading-relaxed my-6">
+                  Besides the above, I bring a socio-cultural background to the table, through a BA in Japanese Studies (JLPT N2), which taught me about cultural and social science, and not to forget communication, on- and offline, through curricula extensions in Social Media Communication as well as Transcultural Communication.
+                  <br />
+                  <a href="https://www.laura-wissiak.com/" className="underline dark:text-slate-200"><span className="sr-only">Laura&apos;s</span>Personal Website</a>
                 </p>
               </div>
             </li>
