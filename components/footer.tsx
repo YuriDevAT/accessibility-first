@@ -5,7 +5,7 @@ import DarkModeToggle from './dark-mode-toggle'
 
 const Footer = () => {
   return (
-    <footer className="bg-stone-200 border-stone-200 dark:bg-slate-950 text-sm mt-6">
+    <footer className="bg-purple-200 border-purple-200 dark:bg-purple-950 text-sm mt-6">
       <Container>
         <div className="flex flex-wrap justify-between py-16 mb-5">
           <h2 className="sr-only">Footer</h2>
@@ -123,7 +123,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        <div className="border-t border-t-1px border-stone-300 dark:border-slate-800 py-6 flex flex-wrap-reverse sm:justify-center lg:justify-between sm:items-center">
+        <div className="border-t border-t-1px border-purple-300 dark:border-purple-800 py-6 flex flex-wrap-reverse sm:justify-center lg:justify-between sm:items-center">
           <p>
             © 2022-{new Date().getFullYear()} Accessibility First. All rights reserved.
           </p>
@@ -131,7 +131,7 @@ const Footer = () => {
             A statically generated blog made with <span className="text-red-800">&#9829;</span> and ♫ using{' '}
             <a
               href="https://nextjs.org/"
-              className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors"
+              className="underline hover:text-blue-800 dark:text-purple-200 dark:hover:text-blue-500 duration-200 transition-colors"
             >
               Next.js
             </a>{' '}
