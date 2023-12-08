@@ -120,8 +120,8 @@ const Footer = () => {
               <li className="mb-3">
                 <DarkModeToggle />
               </li>
-              <li className="before:content-bug before:inline-block">
-                <Link href="https://github.com/YuriDevAT/accessibility-first#readme" target="_blank">Report bug</Link>
+              <li className="before:content-bug before:inline-block before:w-3 before:h-full before:mr-0.5">
+                <Link href="https://github.com/YuriDevAT/accessibility-first#readme" target="_blank">Report bug<span className="sr-only"> opens in a new tab</span></Link>
               </li>
             </ul>
           </div>
