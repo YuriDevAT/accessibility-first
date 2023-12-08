@@ -57,6 +57,9 @@ const config: Config = {
         'xs': '475px',
         ...defaultTheme.screens,
       },
+      content: {
+        'bug': 'url("/assets/icons/bug.svg")',
+      }
     },
   },
   darkMode: 'class',
