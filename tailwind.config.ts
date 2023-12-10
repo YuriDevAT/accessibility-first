@@ -57,6 +57,13 @@ const config: Config = {
         'xs': '475px',
         ...defaultTheme.screens,
       },
+      content: {
+        'dark': 'url("/assets/icons/moon.svg")',
+        'dark-mode': 'url("/assets/icons/moon-dark.svg")',
+        'light': 'url("/assets/icons/sun.svg")',
+        'light-mode': 'url("/assets/icons/sun-dark.svg")',
+        'system': 'url("/assets/icons/system.svg")',
+      }
     },
   },
   darkMode: 'class',
