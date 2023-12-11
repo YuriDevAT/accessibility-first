@@ -58,6 +58,7 @@ const config: Config = {
         ...defaultTheme.screens,
       },
       content: {
+        'bug': 'url("/assets/icons/bug.svg")',
         'dark': 'url("/assets/icons/moon.svg")',
         'dark-mode': 'url("/assets/icons/moon-dark.svg")',
         'light': 'url("/assets/icons/sun.svg")',

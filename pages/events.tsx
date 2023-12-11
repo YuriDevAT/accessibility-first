@@ -17,20 +17,25 @@ const Events = () => {
           <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>Upcoming Events</h2>
           <ul className="text-lg leading-relaxed my-6">
             <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 How to keep up with tech knowledge output? Focus accessibility (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">November 28, 2023, Discussion @Girlcode Break Time</p>
-            </li>
-            <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Getting started with designing for Web Accessibility (Julia)</h3>
               <p className="mb-4 font-mono text-lg text-center md:text-left">December 01, 2023, Talk @GDE DevFest Calabar</p>
             </li>
             <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Digital Accessibility Meet Up (Laura)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">December 07, 2023, Meetup @PWC Austria</p>
+            </li>
+            <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Die blinde User Experience bei Hope Tech Plus (Laura)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">January 11, 2024, @Discussion Drive CX Breakfast</p>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">January 11, 2024, Discussion @Drive CX Breakfast</p>
             </li>
           </ul>
+
           <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>Past Events</h2>
           <ul className="text-lg leading-relaxed my-6">
+            <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 How to keep up with tech knowledge output? Focus accessibility (Julia)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">November 28, 2023, Discussion @Girlcode Break Time</p>
+            </li>
             <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Devs need to learn more about accessibility, but how? (Julia)</h3>
               <p className="mb-4 font-mono text-lg text-center md:text-left">October 17, 2023, Twitter Space @SpaghettiSpaces</p>
