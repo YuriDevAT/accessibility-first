@@ -26,5 +26,9 @@
 }
 
 .markdown code {
-  @apply bg-stone-200 px-1 rounded-md
+  @apply bg-stone-200 px-1 rounded-md;
+}
+
+.markdown ul {
+  @apply list-disc list-inside ml-4;
 }
