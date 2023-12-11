@@ -59,6 +59,7 @@ const config: Config = {
       },
       content: {
         'bug': 'url("/assets/icons/bug.svg")',
+        'bug-dark': 'url("/assets/icons/bug-dark.svg")',
         'dark': 'url("/assets/icons/moon.svg")',
         'dark-mode': 'url("/assets/icons/moon-dark.svg")',
         'light': 'url("/assets/icons/sun.svg")',
