@@ -116,11 +116,11 @@ const Footer = () => {
           </div>
           <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
             <h3 className="font-semibold mb-3 uppercase">Settings</h3>
-            <ul className="underline">
+            <ul>
               <li className="mb-3">
                 <DarkModeToggle />
               </li>
-              <li className="before:content-bug before:inline-block before:w-3 before:h-full before:mr-0.5">
+              <li className="before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
                 <Link href="https://github.com/YuriDevAT/accessibility-first#readme" target="_blank">Report bug<span className="sr-only"> opens in a new tab</span></Link>
               </li>
             </ul>

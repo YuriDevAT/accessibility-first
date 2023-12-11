@@ -1,7 +1,28 @@
 {
   "name": "accessibility-first",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "private": true,
+  "homepage": "https://accessibilityfirst.at",
+  "description": "Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you erradicate invisible barriers.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriDevAT/accessibility-first.git"
+  },
+  "keywords": [
+    "javascript",
+    "semantic-html",
+    "socials",
+    "accessibilityfirst",
+    "reactjs",
+    "react",
+    "nextjs",
+    "accessibility",
+    "blog"
+  ],
+  "author": "Julia Undeutsch",
+  "bugs": {
+    "url": "https://github.com/YuriDevAT/accessibility-first/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
