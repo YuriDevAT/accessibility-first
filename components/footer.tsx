@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import Container from './container'
 import { CMS_NAME } from '../lib/constants'
 import DarkModeToggle from './dark-mode-toggle'
@@ -9,10 +10,11 @@ const Footer = () => {
       <Container>
         <div className="flex flex-wrap justify-between py-16 mb-5">
           <h2 className="sr-only">Footer</h2>
-          <Link href="/" className="w-full lg:w-4/12 mb-8">
+          <Link href="/" className="w-full lg:w-4/12 mb-8 flex lg:block">
             <span className="text-4xl dark:text-slate-200 lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline">
               Accessibility First
             </span>
+            <Image src="/assets/logo.png" alt="" width="125" height="125" className="hidden xs:block w-12 h-12 ml-2 lg:w-32 lg:h-32 lg:ml-0" />
           </Link>
           <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
             <h3 className="font-semibold mb-3 uppercase">Blog</h3>
