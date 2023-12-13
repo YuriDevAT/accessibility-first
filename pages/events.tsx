@@ -14,16 +14,9 @@ const Events = () => {
         <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">{title}</h1>
         <section className="mt-16 mb-32 max-w-4xl">
           <p className="text-xl leading-relaxed my-6">We are available for motivational and informative speaking. We love to write about your event, create and share content on all major platforms like LinkedIn, Instagram, Twitter and more.</p>
+          <p className="text-xl leading-relaxed my-6">You&apos;re also likely to find us attending local accessibility meetings, as well as local and international tech conferences.</p>
           <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>Upcoming Events</h2>
           <ul className="text-lg leading-relaxed my-6">
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Getting started with designing for Web Accessibility (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">December 01, 2023, Talk @GDE DevFest Calabar</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Digital Accessibility Meet Up (Laura)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">December 07, 2023, Meetup @PWC Austria</p>
-            </li>
             <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Die blinde User Experience bei Hope Tech Plus (Laura)</h3>
               <p className="mb-4 font-mono text-lg text-center md:text-left">January 11, 2024, Discussion @Drive CX Breakfast</p>
@@ -32,6 +25,14 @@ const Events = () => {
 
           <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>Past Events</h2>
           <ul className="text-lg leading-relaxed my-6">
+            <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Digital Accessibility Meet Up (Laura)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">December 07, 2023, Meetup @PWC Austria</p>
+            </li>
+            <li>
+              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Getting started with designing for Web Accessibility (Julia)</h3>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">December 01, 2023, Talk @GDE DevFest Calabar</p>
+            </li>
             <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 How to keep up with tech knowledge output? Focus accessibility (Julia)</h3>
               <p className="mb-4 font-mono text-lg text-center md:text-left">November 28, 2023, Discussion @Girlcode Break Time</p>
@@ -46,7 +47,7 @@ const Events = () => {
             </li>
             <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Self-Learning to Start Your Coding Career (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">Jannuary 11, 2023, Talk @CodeSmith</p>
+              <p className="mb-4 font-mono text-lg text-center md:text-left">January 11, 2023, Talk @CodeSmith</p>
             </li>
             <li>
               <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Human (soft) skills for developers (Julia)</h3>
