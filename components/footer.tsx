@@ -123,7 +123,7 @@ const Footer = () => {
                 <DarkModeToggle />
               </li>
               <li className="before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
-                <Link href="https://github.com/YuriDevAT/accessibility-first#readme" target="_blank">Report bug<span className="sr-only"> opens in a new tab</span></Link>
+                <Link href="https://github.com/AccessibilityFirst/website-bug-tracker#readme" target="_blank">Report bug<span className="sr-only"> opens in a new tab</span></Link>
               </li>
             </ul>
           </div>
