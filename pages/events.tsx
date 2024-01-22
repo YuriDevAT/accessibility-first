@@ -1,10 +1,17 @@
 import Layout from '../components/layout'
 import Container from '../components/container'
 import Head from "next/head";
+import { Event } from '../@types/events';
+import { events } from '../data/events';
 
 const title = "Events"
 
 const Events = () => {
+  const currentDate = new Date();
+
+  const upcomingEvents: Event[] = events.filter(event => new Date(event.date) >= currentDate);
+  const pastEvents: Event[] = events.filter(event => new Date(event.date) < currentDate);
+
   return (
     <Layout>
       <Head>
@@ -17,54 +24,23 @@ const Events = () => {
           <p className="text-xl leading-relaxed my-6">You&apos;re also likely to find us attending local accessibility meetings, as well as local and international tech conferences.</p>
           <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>Upcoming Events</h2>
           <ul className="text-lg leading-relaxed my-6">
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Die blinde User Experience bei Hope Tech Plus (Laura)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">January 11, 2024, Discussion @Drive CX Breakfast</p>
-            </li>
+            {upcomingEvents.map((event, index) => (
+              <li key={event.date} className={`${index % 2 !== 0 ? 'bg-yellow-200' : event.speaker === 'Julia' ? 'bg-blue-200' : 'bg-purple-200'
+              } py-1 px-4 rounded-md my-3`}>
+                <h3 className="text-2xl mt-6 mb-4 leading-snug font-semibold">{event.icon} {event.title} ({event.speaker})</h3>
+                <p className="mb-4 font-mono text-lg text-center md:text-left">{event.date}, {event.type} @{event.location}</p>
+              </li>
+            ))}
           </ul>
-
           <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left'>Past Events</h2>
-          <ul className="text-lg leading-relaxed my-6">
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Digital Accessibility Meet Up (Laura)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">December 07, 2023, Meetup @PWC Austria</p>
+          <ul>
+            {pastEvents.map((event, index) => (
+              <li key={event.date} className={`${index % 2 !== 0 ? 'bg-yellow-200' : event.speaker === 'Julia' ? 'bg-blue-200' : 'bg-purple-200'
+            } py-1 px-4 rounded-md my-3`}>
+                <h3 className="text-2xl mt-6 mb-4 leading-snug font-semibold">{event.icon} {event.title} ({event.speaker})</h3>
+                <p className="mb-4 font-mono text-lg text-center md:text-left">{event.date}, {event.type} @{event.location}</p>
             </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Getting started with designing for Web Accessibility (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">December 01, 2023, Talk @GDE DevFest Calabar</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 How to keep up with tech knowledge output? Focus accessibility (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">November 28, 2023, Discussion @Girlcode Break Time</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Devs need to learn more about accessibility, but how? (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">October 17, 2023, Twitter Space @SpaghettiSpaces</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 GAAD – Global Accessibility Awareness Day (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">May 18, 2023, Panel Discussion @Atos</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Self-Learning to Start Your Coding Career (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">January 11, 2023, Talk @CodeSmith</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Human (soft) skills for developers (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">December 20, 2022, Talk @daily.dev</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🎦 Myths & Misconception about Accessibility (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">September 13, 2022, Talk @Frontend Foxes</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 Who is responsible for accessibility? (Julia, Laura)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">June 08, 2022, Q&A @A1 Telekom</p>
-            </li>
-            <li>
-              <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">🗣 From Poker dealer to coder (Julia)</h3>
-              <p className="mb-4 font-mono text-lg text-center md:text-left">April 04, 2022, Q&A @EddieJaoude</p>
-            </li>
+            ))}
           </ul>
         </section>
       </Container>
