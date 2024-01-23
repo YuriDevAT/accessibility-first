@@ -27,7 +27,7 @@ const Events = () => {
             {upcomingEvents.map((event, index) => (
               <li key={event.date} className={`${index % 2 !== 0 ? 'bg-yellow-200' : event.speaker === 'Julia' ? 'bg-blue-200' : 'bg-purple-200'
               } py-1 px-4 rounded-md my-3`}>
-                <h3 className="text-2xl mt-6 mb-4 leading-snug font-semibold">{event.icon} {event.title} ({event.speaker})</h3>
+                <h3 className="text-2xl mt-6 mb-4 leading-snug font-semibold"><event.icon size={20} className="inline" aria-labelledby={event.type} /> {event.title} ({event.speaker})</h3>
                 <p className="mb-4 font-mono text-lg text-center md:text-left">{event.date}, {event.type} @{event.location}</p>
               </li>
             ))}
@@ -37,7 +37,7 @@ const Events = () => {
             {pastEvents.map((event, index) => (
               <li key={event.date} className={`${index % 2 !== 0 ? 'bg-yellow-200' : event.speaker === 'Julia' ? 'bg-blue-200' : 'bg-purple-200'
             } py-1 px-4 rounded-md my-3`}>
-                <h3 className="text-2xl mt-6 mb-4 leading-snug font-semibold">{event.icon} {event.title} ({event.speaker})</h3>
+                <h3 className="text-2xl mt-6 mb-4 leading-snug font-semibold"><event.icon size={20} className="inline" aria-labelledby={event.type} />  {event.title} ({event.speaker})</h3>
                 <p className="mb-4 font-mono text-lg text-center md:text-left">{event.date}, {event.type} @{event.location}</p>
             </li>
             ))}
