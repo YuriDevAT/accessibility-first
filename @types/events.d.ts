@@ -1,6 +1,8 @@
+import { IconType } from 'react-icons/lib';
+
 export type Event = {
     title: string;
-    icon: string;
+    icon: IconType;
     date: string;
     speaker: string;
     type: string;
