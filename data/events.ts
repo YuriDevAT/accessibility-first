@@ -2,10 +2,11 @@ import { Event } from '../@types/events';
 import { GiDiscussion, GiPublicSpeaker, GiVideoConference } from "react-icons/gi";
 
 export const events: Event[] = [
-    { title: 'Getting started with designing for Web Accessibility', icon: GiPublicSpeaker, speaker: 'Julia', date: 'February 17, 2024', type: 'Talk', location: 'GDG Oran' },
-    { title: 'Getting started with designing for Web Accessibility', icon: GiPublicSpeaker, speaker: 'Julia', date: 'March 16, 2024', type: 'Talk', location: 'GDG Toyko' },
-    { title: 'Getting started with designing for Web Accessibility', icon: GiPublicSpeaker, speaker: 'Julia', date: 'April 20, 2024', type: 'Talk', location: 'GDG Shikoku' },
+    { title: 'Accessibility is not a checklist', icon: GiPublicSpeaker, speaker: 'Julia, Laura', date: 'September 20, 2024', type: 'Workshop', location: 'UXCon Vienna' },
     { title: 'Getting started with designing for Web Accessibility', icon: GiPublicSpeaker, speaker: 'Julia', date: 'April 27, 2024', type: 'Talk', location: 'Kobe' },
+    { title: 'Getting started with designing for Web Accessibility', icon: GiPublicSpeaker, speaker: 'Julia', date: 'April 20, 2024', type: 'Talk', location: 'GDG Shikoku' },
+    { title: 'Getting started with designing for Web Accessibility', icon: GiPublicSpeaker, speaker: 'Julia', date: 'March 16, 2024', type: 'Talk', location: 'GDG Toyko' },
+    { title: 'What is accessibility in tech?', icon: GiDiscussion, speaker: 'Julia', date: 'February 24, 2023', type: 'Discussion', location: '50DaysOfSpaces' },
     { title: 'Die blinde User Experience bei Hope Tech Plus', icon: GiVideoConference, speaker: 'Laura', date: 'January 11, 2024', type: 'Talk', location: 'Drive CX Breakfast' },
     { title: 'Digital Accessibility Meet Up', icon: GiDiscussion, speaker: 'Laura', date: 'December 07, 2023', type: 'Panel Discussion', location: 'PWC Austria' },
     { title: 'Getting started with designing for Web Accessibility', icon: GiVideoConference, speaker: 'Julia', date: 'December 01, 2023', type: 'Talk', location: 'GDE DevFest Calabar' },
