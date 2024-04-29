@@ -17,7 +17,7 @@ const Team = () => {
           <ul>
             <li className="flex flex-col md:flex-row items-center gap-x-8 mb-16 md:mb-0">
               <Image
-                className="h-64 w-64 rounded-full block"
+                className="h-64 w-64 rounded-full block object-cover"
                 src="/assets/authors/julia.jpg"
                 alt="Julia Undeutsch"
                 width="49"

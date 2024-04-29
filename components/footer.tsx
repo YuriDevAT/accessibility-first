@@ -105,13 +105,8 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.youtube.com/@accessibilityfirst" className="block mb-3">
+                <a href="www.youtube.com/@yuridevat" className="block mb-3">
                   YouTube
-                </a>
-              </li>
-              <li>
-                <a href="@mailto:info@accessibilityfirst.at" className="block mb-3">
-                  info@accessibilityfirst.at
                 </a>
               </li>
             </ul>
@@ -123,7 +118,7 @@ const Footer = () => {
                 <DarkModeToggle />
               </li>
               <li className="before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
-                <Link href="https://github.com/AccessibilityFirst/website-bug-tracker#readme" target="_blank">Report bug<span className="sr-only"> opens in a new tab</span></Link>
+                <Link href="https://github.com/YuriDevAT/website-bug-tracker#readme" target="_blank">Report bug<span className="sr-only"> opens in a new tab</span></Link>
               </li>
             </ul>
           </div>

@@ -31,7 +31,6 @@ const AccessibilityStatement = () => {
           <h2 className='text-3xl mt-12 mb-4 leading-snug font-bold'>Feedback</h2>
           <p className="text-lg leading-relaxed my-6">We welcome your feedback on the accessibility of Accessibility First. Please let us know if you encounter accessibility barriers on Accessibility First:</p>
           <ul className="text-lg leading-relaxed my-6">
-            <li>E-mail: <a href="mailto:info@accessibilityfirst.at" className="underline">info@accessibilityfirst.at</a></li>
             <li>LinkedIn: <a href="https://www.linkedin.com/company/accessibilityfirst/" className="underline">@company/accessibilityfirst</a></li>
             <li>Instagram: <a href="https://www.instagram.com/accessibilityfirst/" className="underline">@accessibilityfirst</a></li>
           </ul >
