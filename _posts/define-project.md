@@ -4,7 +4,7 @@ excerpt: 'On October 10, we took part in the presentation of the DEFINE project.
 coverImage: '/assets/blog/define-project/cover.png'
 date: '2023-10-22T11:35:07.322Z'
 tags: 'Blog'
-category: 'News'
+category: 'UX Research'
 author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'

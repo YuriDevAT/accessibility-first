@@ -2,7 +2,7 @@
 title: 'Accessibility: The What, Why & How'
 excerpt: 'Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important. Let’s get an overall understanding on accessibility by introducing you to this topic ...'
 coverImage: '/assets/blog/accessibility-the-what-why-&-how/cover.png'
-date: '2023-10-09T05:35:07.322Z'
+date: '2022-10-09T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
 author:

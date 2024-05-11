@@ -128,14 +128,14 @@ const Footer = () => {
             © 2022-{new Date().getFullYear()} Accessibility First. All rights reserved.
           </p>
           <p>
-            A statically generated blog made with <span className="text-red-800">&#9829;</span> and ♫ using{' '}
+            A blog made with <span className="text-red-800">&#9829;</span> and ♫ using{' '}
             <a
-              href="https://nextjs.org/"
+              href="https://juliaundeutsch.com/"
               className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors"
             >
-              Next.js
+              Julia Undeutsch,
             </a>{' '}
-            and {CMS_NAME}.
+            cute images by <a href="https://www.linkedin.com/in/sailorjohnny/" className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors">Yan Kurochin</a>.
           </p>
         </div>
       </Container>
