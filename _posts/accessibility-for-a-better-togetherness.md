@@ -2,7 +2,7 @@
 title: 'Web accessibility for better togetherness'
 excerpt: 'The Vienna district where I live organizes an event called "Miteinander in Mariahilf" (en.: Together in Mariahilf), where locals can contribute different ideas for a better living together. This is where my specialty web accessibility comes into action. Let me share my thoughts....'
 coverImage: '/assets/blog/accessibility-for-a-better-togetherness/cover.png'
-date: '2023-07-07T05:35:07.322Z'
+date: '2022-07-07T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
 author:

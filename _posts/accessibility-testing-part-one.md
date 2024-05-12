@@ -1,7 +1,7 @@
 ---
 title: 'Accessibility Testing Part 1'
 excerpt: 'Today I’m starting my very first accessibility check. I’ll be auditing websites to see how well they implement accessibility and pointing out the problems and items that need improvement...'
-coverImage: '/assets/blog/accessibility-testing-one/cover.png'
+coverImage: '/assets/blog/accessibility-testing-part-one/cover.png'
 date: '2022-07-30T05:35:07.322Z'
 tags: 'Blog'
 category: 'QA Testing'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/accessibility-testing-one/cover.png'
+  url: '/assets/blog/accessibility-testing-part-one/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/accessibility-check-1-3c38'
 ---
@@ -71,11 +71,19 @@ Ensures every HTML document has a `lang` attribute.
 ### How to solve
 Adding the language of the website, in this case English, with the `lang` attribute.
 
-`<html lang="en"><!--document head and body--></html>`
+`<html lang="en">`
+
+`<!--document head and body-->`
+
+`</html>`
 
 If words or paragraphs are used in a language other than the default, you can also specify the language directly in this HTML tag.
 
-`<p lang="es">Text in another language</p>`
+`<p lang="es">`
+
+`Text in another language`
+
+`</p>`
 
 Here is a list with all [HTML Language Code References](https://www.w3schools.com/tags/ref_language_codes.asp).
 
@@ -86,7 +94,11 @@ The last serious problem concerns an anchor tag around the company logo in the t
 ### Issue Description
 Ensures links have discernible text.
 
-`<a href="#" class="logo-link w-nav-brand"><img loading="lazy" src="https://logo.svg" alt="" class="image" /></a>`
+`<a href="#" class="logo-link w-nav-brand">`
+
+`<img loading="lazy" src="https://logo.svg" alt="" class="image" />`
+
+`</a>`
 
 The link around the logo leads nowhere when clicked. So the a tag is misused here. But I see how it is. The website was created with Webflow. So I'm assuming that they made Webflow do this as a default, because many websites link to their home page when you click on the logo, but that's not the case here.
 
