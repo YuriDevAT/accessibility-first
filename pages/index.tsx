@@ -7,6 +7,7 @@ import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import Post from '../interfaces/post'
+import Alert from '../components/alert'
 
 type Props = {
   allPosts: Post[]
@@ -32,6 +33,7 @@ export default function Index({ allPosts }: Props) {
         <Head>
           <title>Accessibility First</title>
         </Head>
+        <Alert />
         <Container>
           <Intro />
           {heroPost && (
