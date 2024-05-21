@@ -29,14 +29,14 @@ Through implemented emulation, it is possible to create an effect that helps see
 Color contrast is the ratio of contrast between two or more components. To be accessible, there must be adequate contrast between the color of the foreground information and the color of the background.
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-4.png)
-_Source: [WebAIM Million Report]((https://webaim.org/projects/million/)). Last Update: March 28, 2024_
+_Source: [WebAIM Million Report](https://webaim.org/projects/million/). Last Update: March 28, 2024_
 
 As the [annual WebAIM study](https://webaim.org/projects/million/) shows, insufficient color contrast is the most common automatically identified accessibility error on the web. More than 80% of all tested homepages have insufficient color contrast.
 
 Contrast and color are crucial factors regarding accessibility. The content of a webpage must be perceivable for all users, regardless of visual impairment.
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-5.png)
-_Source: [WebAIM Million Report]((https://webaim.org/projects/million/)). Last Update: March 28, 2024_
+_Source: [WebAIM Million Report](https://webaim.org/projects/million/). Last Update: March 28, 2024_
 
 Here are the results in tabular form. Homepages with the most WCAG 2 errors, categorized by WCAG error type and the percentage of homepages affected by them: Insufficient color contrast 81%, missing alternative text for images 54.5%, missing form input labels 48.6%, empty links/no link text available 44.6%, empty buttons/no button text available 28.2%, missing document language/homepage language: 17.1%.
 
