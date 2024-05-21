@@ -1,8 +1,12 @@
-import { Html, Head, Main, NextScript } from 'next/document'
+import Document, { Html, Head, Main, NextScript, DocumentContext, DocumentInitialProps  } from 'next/document'
 
-export default function Document() {
+interface MyDocumentProps extends DocumentInitialProps {
+  locale: string;
+}
+
+const MyDocument = ({ locale }: MyDocumentProps) => {
   return (
-    <Html lang="en" className="">
+    <Html lang={locale}>
       <Head />
       <body className="bg-stone-50 text-stone-950 dark:bg-slate-800 dark:text-slate-400">
         <Main />
@@ -11,3 +15,12 @@ export default function Document() {
     </Html>
   )
 }
+
+MyDocument.getInitialProps = async (ctx: DocumentContext): Promise<MyDocumentProps> => {
+  const initialProps = await Document.getInitialProps(ctx);
+  const { locale } = ctx;
+
+  return { ...initialProps, locale: locale || 'en' };
+};
+
+export default MyDocument;

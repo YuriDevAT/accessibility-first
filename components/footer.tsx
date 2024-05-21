@@ -1,10 +1,12 @@
+import { useRouter } from 'next/router';
 import Link from 'next/link'
 import Image from 'next/image'
 import Container from './container'
-import { CMS_NAME } from '../lib/constants'
 import DarkModeToggle from './dark-mode-toggle'
 
 const Footer = () => {
+  const { locale, locales, asPath } = useRouter();
+
   return (
     <footer className="bg-stone-200 border-stone-200 dark:bg-slate-950 text-sm mt-6">
       <Container>
@@ -119,6 +121,13 @@ const Footer = () => {
               </li>
               <li className="before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
                 <Link href="https://github.com/YuriDevAT/website-bug-tracker#readme" target="_blank" className="outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">Report bug<span className="sr-only"> opens in a new tab</span></Link>
+              </li>
+              <li className="mb-3">
+                {locales?.map((loc) => (
+                  <Link key={loc} href={asPath} locale={loc}>
+                      {loc.toUpperCase()}
+                  </Link>
+                ))}
               </li>
             </ul>
           </div>
