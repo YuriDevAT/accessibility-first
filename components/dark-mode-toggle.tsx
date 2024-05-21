@@ -1,6 +1,7 @@
 import { useEffect, useState, useRef } from "react";
 
 const DarkModeToggle = () => {
+  const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [isOpen, setIsOpen] = useState(false);
   const selectRef = useRef<HTMLDivElement>(null);
 
@@ -17,6 +18,12 @@ const DarkModeToggle = () => {
       }
     };
 
+    const savedTheme = localStorage.getItem('theme') as 'light' | 'dark';
+    if (savedTheme) {
+      setTheme(savedTheme);
+      document.documentElement.setAttribute('class', savedTheme);
+    }
+
     document.addEventListener('mousedown', handleClickOutside);
     document.addEventListener('focusin', handleFocusChange);
 
@@ -27,16 +34,23 @@ const DarkModeToggle = () => {
 
   }, []);
 
-  const handleOpenSelect = () => {
+  const selectTheme = (selectedTheme: 'light' | 'dark') => {
+    setTheme(selectedTheme);
+    document.documentElement.setAttribute('class', selectedTheme);
+    localStorage.setItem('theme', selectedTheme);
     setIsOpen(!isOpen);
-  }
+  };
+
+  const handleOpenSelect  = () => setIsOpen(true);
 
   const handleLight = () => {
+    selectTheme('light');
     document.documentElement.classList.remove("dark");
     setIsOpen(false);
   }
 
   const handleDark = () => {
+    selectTheme('dark')
     document.documentElement.classList.add("dark");
     setIsOpen(false);
   }
