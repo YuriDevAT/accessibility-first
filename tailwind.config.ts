@@ -65,6 +65,7 @@ const config: Config = {
         'light': 'url("/assets/icons/sun.svg")',
         'light-mode': 'url("/assets/icons/sun-dark.svg")',
         'system': 'url("/assets/icons/system.svg")',
+        'exclamation': 'url("/assets/icons/exclamation.svg")',
       }
     },
   },

@@ -10,7 +10,7 @@ const Footer = () => {
       <Container>
         <div className="flex flex-wrap justify-between py-16 mb-5">
           <h2 className="sr-only">Footer</h2>
-          <Link href="/" className="w-full lg:w-4/12 mb-8 flex lg:block">
+          <Link href="/" className="w-full lg:w-4/12 mb-8 flex lg:block outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
             <span className="text-4xl dark:text-slate-200 lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline">
               Accessibility First
             </span>
@@ -20,37 +20,37 @@ const Footer = () => {
             <h3 className="font-semibold mb-3 uppercase">Blog</h3>
             <ul className="underline">
               <li>
-                <Link href="/" className="block mb-3">
+                <Link href="/" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   All Articles
                   </Link>
                 </li>
                 <li>
-                <Link href="/accessibility" className="block mb-3">
+                <Link href="/accessibility" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   Accessibility
                 </Link>
               </li>
               <li>
-                <Link href="/ux-research" className="block mb-3">
+                <Link href="/ux-research" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   UX Research
                 </Link>
               </li>
               <li>
-                <Link href="/ux-design" className="block mb-3">
+                <Link href="/ux-design" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   UX Design
                 </Link>
               </li>
               <li>
-                <Link href="/web-development" className="block mb-3">
+                <Link href="/web-development" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   Web Development
                 </Link>
               </li>
               <li>
-                <Link href="/qa-testing" className="block mb-3">
+                <Link href="/qa-testing" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   QA Testing
                 </Link>
               </li>
               <li>
-                <Link href="/documents" className="block mb-3">
+                <Link href="/documents" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   Documents
                 </Link>
               </li>
@@ -60,32 +60,32 @@ const Footer = () => {
             <h3 className="font-semibold mb-3 uppercase">Organization</h3>
             <ul className="underline">
               <li>
-                <Link href="/news" className="block mb-3">
+                <Link href="/news" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   News
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="block mb-3">
+                <Link href="/about" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   About
                 </Link>
               </li>
               <li>
-                <Link href="/team" className="block mb-3">
+                <Link href="/team" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   Team
                 </Link>
               </li>
               <li>
-                <Link href="/events" className="block mb-3">
+                <Link href="/events" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   Events
                 </Link>
               </li>
               <li>
-                <Link href="/accessibility-statement" className="block mb-3">
+                <Link href="/accessibility-statement" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   Accessibility Statement
                 </Link>
               </li>
               <li>
-                <Link href="/sitemap" className="block mb-3">
+                <Link href="/sitemap" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   Sitemap
                 </Link>
               </li>
@@ -95,17 +95,17 @@ const Footer = () => {
             <h3 className="font-semibold mb-3 uppercase">Social Media</h3>
             <ul className="underline">
               <li>
-                <a href="https://www.instagram.com/accessibilityfirst/" className="block mb-3">
+                <a href="https://www.instagram.com/accessibilityfirst/" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   Instagram
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/company/accessibilityfirst/" className="block mb-3">
+                <a href="https://www.linkedin.com/company/accessibilityfirst/" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   LinkedIn
                 </a>
               </li>
               <li>
-                <a href="www.youtube.com/@yuridevat" className="block mb-3">
+                <a href="www.youtube.com/@yuridevat" className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                   YouTube
                 </a>
               </li>
@@ -118,7 +118,7 @@ const Footer = () => {
                 <DarkModeToggle />
               </li>
               <li className="before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
-                <Link href="https://github.com/YuriDevAT/website-bug-tracker#readme" target="_blank">Report bug<span className="sr-only"> opens in a new tab</span></Link>
+                <Link href="https://github.com/YuriDevAT/website-bug-tracker#readme" target="_blank" className="outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">Report bug<span className="sr-only"> opens in a new tab</span></Link>
               </li>
             </ul>
           </div>
@@ -131,11 +131,11 @@ const Footer = () => {
             A blog made with <span className="text-red-800">&#9829;</span> and ♫ using{' '}
             <a
               href="https://juliaundeutsch.com/"
-              className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors"
+              className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
             >
               Julia Undeutsch,
             </a>{' '}
-            cute images by <a href="https://www.linkedin.com/in/sailorjohnny/" className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors">Yan Kurochin</a>.
+            cute images by <a href="https://www.linkedin.com/in/sailorjohnny/" className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors  outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">Yan Kurochin</a>.
           </p>
         </div>
       </Container>

@@ -30,9 +30,9 @@ const PostPreview = ({
         <Link
           as={`/posts/${slug}`}
           href="/posts/[slug]"
-          className="hover:underline"
+          className="hover:underline  outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
         >
-          {title}
+         {title}
         </Link>
       </h3>
       <div className="mb-4 font-mono text-lg dark:text-slate-200">

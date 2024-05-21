@@ -44,7 +44,7 @@ const DarkModeToggle = () => {
   return (
     <>
       <div ref={selectRef} className="relative">
-        <button type="button" id="theme-btn" aria-haspopup="menu" aria-expanded="false" aria-controls="theme-menu" onClick={handleOpenSelect} className="flex items-center before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode before:content-light dark:text-slate-200">
+        <button type="button" id="theme-btn" aria-haspopup="menu" aria-expanded="false" aria-controls="theme-menu" onClick={handleOpenSelect} className="flex items-center before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode before:content-light dark:text-slate-200 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200 ">
           <span>
             <span className="sr-only">Change </span>
             Theme
@@ -53,13 +53,13 @@ const DarkModeToggle = () => {
         {isOpen && (
           <ul id="theme-menu" className="block absolute left-0 top-3 bg-stone-200 dark:bg-slate-950 z-50 rounded-lg ring-1 ring-slate-900/10 dark:ring-slate-400 shadow-lg overflow-hidden w-36 py-1 text-sm dark:highlight-white/5 mt-4">
             <li className="p-2 hover:bg-slate-600/30">
-              <button type="button" onClick={handleLight} className="flex items-center before:content-light before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-light-mode w-full">
+              <button type="button" onClick={handleLight} className="flex items-center before:content-light before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-light-mode w-full outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                 <span>Light
                 </span>
               </button>
             </li>
             <li className="p-2 hover:bg-slate-600/30">
-              <button type="button" onClick={handleDark} className="flex items-center before:content-dark before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode w-full">
+              <button type="button" onClick={handleDark} className="flex items-center before:content-dark before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode w-full outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">
                 <span>Dark
                 </span>
               </button>

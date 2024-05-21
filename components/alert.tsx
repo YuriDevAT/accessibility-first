@@ -1,48 +1,31 @@
 import Container from './container'
-import cn from 'classnames'
-import { EXAMPLE_PATH } from '../lib/constants'
+import React, { useState } from 'react';
 
-type Props = {
-  preview?: boolean
-}
+const Alert = () => {
+  const [isVisible, setIsVisible] = useState(true);
 
-const Alert = ({ preview }: Props) => {
+  const onDismiss = () => {
+      setIsVisible(false);
+  }
+
+
   return (
-    <div
-      className={cn('border-b', {
-        'bg-neutral-800 border-neutral-800 text-white': preview,
-        'bg-neutral-50 border-neutral-200': !preview,
-      })}
-    >
-      <Container>
-        <div className="py-2 text-center text-sm">
-          {preview ? (
-            <>
-              This page is a preview.{' '}
-              <a
-                href="/api/exit-preview"
-                className="underline hover:text-teal-300 duration-200 transition-colors"
-              >
-                Click here
-              </a>{' '}
-              to exit preview mode.
-            </>
-          ) : (
-            <>
-              The source code for this blog is{' '}
-              <a
-                href={`#/${EXAMPLE_PATH}`}
-                className="underline hover:text-blue-600 duration-200 transition-colors"
-              >
-                available on GitHub
-              </a>
-              .
-            </>
-          )}
+    <>
+      {isVisible && (
+        <div
+          className="p-4 bg-yellow-100/80 text-yellow-700"
+        >
+          <Container>
+            <div className="text-center text-sm before:inline-block before:w-6 before:h-6 before:mr-2 before:exclamation">
+              Currently working on <span className="font-medium">version 1.0</span> for a better user experience. {" "}
+              <button type="button" className="font-bold underline" onClick={onDismiss}>Dismiss</button>
+            </div>
+          </Container>
         </div>
-      </Container>
-    </div>
-  )
+      )}
+    </>
+  );
 }
+
 
 export default Alert
