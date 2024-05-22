@@ -5,6 +5,7 @@ import Head from "next/head";
 import PostGrid from '../components/post-grid'
 import { getAllPosts } from '../lib/api'
 import Post from '../interfaces/post'
+import { GetStaticProps } from 'next'
 
 const title = "Documents"
 
@@ -26,7 +27,7 @@ const Documents = ({ allPosts }: Props) => {
           {posts.length > 0 ? <PostGrid posts={posts} /> :
             <>
               <p className="text-3xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">Nothing there yet</p>
-          <Image src={"/assets/coming-soon.png"} width={250} height={250} alt="" />
+              <Image src={"/assets/coming-soon.png"} width={250} height={250} alt="" />
             </>
           }
         </section>
@@ -37,8 +38,8 @@ const Documents = ({ allPosts }: Props) => {
 
 export default Documents
 
-export const getStaticProps = async () => {
-  const allPosts = getAllPosts([
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  const allPosts = getAllPosts(locale!, [
     'title',
     'date',
     'slug',

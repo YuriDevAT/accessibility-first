@@ -5,6 +5,7 @@ import Head from "next/head";
 import PostGrid from '../components/post-grid'
 import { getAllPosts } from '../lib/api'
 import Post from '../interfaces/post'
+import { GetStaticProps } from 'next'
 
 const title = "UX Research"
 
@@ -37,8 +38,8 @@ const UXResearch = ({ allPosts }: Props) => {
 
 export default UXResearch
 
-export const getStaticProps = async () => {
-  const allPosts = getAllPosts([
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  const allPosts = getAllPosts(locale!, [
     'title',
     'date',
     'slug',
