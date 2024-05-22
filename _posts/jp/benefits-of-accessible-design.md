@@ -1,7 +1,7 @@
 ---
 title: 'Benefits of Accessible Design'
 excerpt: 'In my last article on Myths and Misconceptions about Accessibility, I talked about how people believe that only a few people would benefit from accessibility. The fact is that accessibility benefits a wide range of people, society and the economy...'
-coverImage: '/assets/blog/en/benefits-of-accessible-design/cover.png'
+coverImage: '/assets/blog/benefits-of-accessible-design/cover.png'
 date: '2022-07-14T07:35:07.322Z'
 tags: 'Blog'
 category: 'UX Design'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/benefits-of-accessible-design/cover.png'
+  url: '/assets/blog/benefits-of-accessible-design/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/benefits-of-accessible-design-4m2a'
 ---

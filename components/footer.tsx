@@ -6,7 +6,7 @@ import Container from './container'
 import DarkModeToggle from './dark-mode-toggle'
 
 const Footer = () => {
-  const { locale, locales, asPath } = useRouter();
+  const { locales, asPath } = useRouter();
 
   return (
     <footer className="bg-stone-200 border-stone-200 dark:bg-slate-950 text-sm mt-6">
@@ -121,12 +121,12 @@ const Footer = () => {
                 <DarkModeToggle />
               </li>
               <li className="mb-3 before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
-                <Link href="https://github.com/YuriDevAT/website-bug-tracker#readme" target="_blank" className="outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">Report bug<span className="sr-only"> opens in a new tab</span></Link>
+                <Link id="reportBug-btn" href="https://github.com/YuriDevAT/website-bug-tracker#readme" target="_blank" className="outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">Report bug<span className="sr-only"> opens in a new tab</span></Link>
               </li>
               <li>
                 {locales?.map((loc, index) => (
                   <Fragment key={loc}>
-                    <Link href={asPath} locale={loc}>
+                    <Link id="i18n-btn" href={asPath} locale={loc}>
                       {loc.toUpperCase()}
                     </Link>
                     {index < locales.length - 1 && ' | '}

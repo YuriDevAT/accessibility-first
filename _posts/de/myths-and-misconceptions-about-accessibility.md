@@ -1,7 +1,7 @@
 ---
 title: 'Myths and Misconceptions about Accessibility'
 excerpt: 'In this article, I will address common myths about and objections to accessibility by presenting evidence and examples that debunk them and support reasons for accessibility....'
-coverImage: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
+coverImage: '/assets/blog/myths-and-misconceptions-about-accessibility/cover.png'
 date: '2022-07-10T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
+  url: '/assets/blog/myths-and-misconceptions-about-accessibility/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab'
 ---

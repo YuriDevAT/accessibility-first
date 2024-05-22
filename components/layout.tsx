@@ -1,6 +1,6 @@
 import Footer from './footer'
 import Meta from './meta'
-import SkipLink from '../components/skip-link'
+import SkipLink from './skip-link'
 
 type Props = {
   preview?: boolean
