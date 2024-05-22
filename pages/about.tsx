@@ -1,18 +1,24 @@
 import Layout from '../components/layout'
+import useTranslation from 'next-translate/useTranslation';
 import Container from '../components/container'
 import Head from "next/head";
 
 const title = "Welcome to accessibility first | about"
 
 const About = () => {
+  const { t } = useTranslation('about');
+
   return (
     <Layout>
       <Head>
         <title>{title}</title>
       </Head>
       <Container>
-        <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left max-w-5xl">Welcome to Accessibility <span className="text-blue-800 dark:text-blue-500">First</span></h1>
+        <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left max-w-5xl">
+        {t('welcome')}
+         </h1>
         <section className="mb-32 max-w-4xl">
+        Welcome to Accessibility <span className="text-blue-800 dark:text-blue-500">First</span>
           <p className="text-xl leading-relaxed my-6">
             Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you erradicate invisible barriers.
           </p>
