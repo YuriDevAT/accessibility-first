@@ -4,13 +4,13 @@
   "start_url": "https://accessibilityfirst.at",
   "icons": [
     {
-      "src": "/favicon/accessibility-first-192x192.png",
+      "src": "/accessibility-first-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/favicon/accessibility-first-512x512.png",
+      "src": "/accessibility-first-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }

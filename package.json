@@ -21,7 +21,7 @@
   ],
   "author": "Julia Undeutsch",
   "bugs": {
-    "url": "https://github.com/YuriDevAT/accessibility-first/issues"
+    "url": "https://github.com/YuriDevAT/website-bug-tracker"
   },
   "scripts": {
     "dev": "next dev",
