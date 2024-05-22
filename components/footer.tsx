@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link'
 import Image from 'next/image'
@@ -119,14 +120,17 @@ const Footer = () => {
               <li className="mb-3">
                 <DarkModeToggle />
               </li>
-              <li className="before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
+              <li className="mb-3 before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
                 <Link href="https://github.com/YuriDevAT/website-bug-tracker#readme" target="_blank" className="outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">Report bug<span className="sr-only"> opens in a new tab</span></Link>
               </li>
-              <li className="mb-3">
-                {locales?.map((loc) => (
-                  <Link key={loc} href={asPath} locale={loc}>
+              <li>
+                {locales?.map((loc, index) => (
+                  <Fragment key={loc}>
+                    <Link href={asPath} locale={loc}>
                       {loc.toUpperCase()}
-                  </Link>
+                    </Link>
+                    {index < locales.length - 1 && ' | '}
+                </Fragment>
                 ))}
               </li>
             </ul>
