@@ -1,17 +1,18 @@
 import fs from 'fs';
-import { join } from 'path';
+import path from 'path';
 import matter from 'gray-matter';
+import { GetStaticPropsContext } from 'next';
 
-const postsDirectory = join(process.cwd(), '_posts');
+const postsDirectory = path.join(process.cwd(), '_posts');
 
 export function getPostSlugs(locale: string) {
-  const localeDirectory = join(postsDirectory, locale);
-  return fs.readdirSync(localeDirectory).map(file => file.replace(/\.md$/, ''));
+  const localeDirectory = path.join(postsDirectory, locale);
+  return fs.readdirSync(localeDirectory);
 }
 
 export function getPostBySlug(locale: string, slug: string, fields: string[] = []) {
   const realSlug = slug.replace(/\.md$/, '');
-  const fullPath = join(postsDirectory, locale, `${realSlug}.md`);
+  const fullPath = path.join(postsDirectory, locale, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
 

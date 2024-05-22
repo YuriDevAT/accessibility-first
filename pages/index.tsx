@@ -8,6 +8,7 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import Post from '../interfaces/post'
 import Alert from '../components/alert'
+import { GetStaticProps } from 'next'
 
 type Props = {
   allPosts: Post[]
@@ -19,17 +20,17 @@ export default function Index({ allPosts }: Props) {
   return (
     <>
       <Layout>
-      {/* Google tag (gtag.js) */}
-      <Script async src="https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}" />
-      <Script id="google-analytics">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
- 
-          gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}');
-        `}
-      </Script>
+        {/* Google tag (gtag.js) */}
+        <Script async src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`} />
+        <Script id="google-analytics">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+   
+            gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}');
+          `}
+        </Script>
         <Head>
           <title>Accessibility First</title>
         </Head>
@@ -53,15 +54,15 @@ export default function Index({ allPosts }: Props) {
   )
 }
 
-export const getStaticProps = async () => {
-  const allPosts = getAllPosts([
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  const allPosts = getAllPosts(locale!, [
     'title',
     'date',
     'slug',
     'author',
     'coverImage',
     'excerpt',
-  ])
+  ]);
 
   return {
     props: { allPosts },
