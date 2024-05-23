@@ -17,6 +17,7 @@ type Props = {
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1)
+
   return (
     <>
       <Layout>
@@ -63,6 +64,8 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     'coverImage',
     'excerpt',
   ]);
+
+  allPosts.sort((post1, post2) => new Date(post2.date).getTime() - new Date(post1.date).getTime());
 
   return {
     props: { allPosts },

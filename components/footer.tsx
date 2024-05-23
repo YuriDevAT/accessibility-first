@@ -6,7 +6,7 @@ import Container from './container'
 import DarkModeToggle from './dark-mode-toggle'
 
 const Footer = () => {
-  const { locales, asPath } = useRouter();
+  const { locales, asPath, locale: currentLocale } = useRouter();
 
   return (
     <footer className="bg-stone-200 border-stone-200 dark:bg-slate-950 text-sm mt-6">
@@ -126,7 +126,7 @@ const Footer = () => {
               <li>
                 {locales?.map((loc, index) => (
                   <Fragment key={loc}>
-                    <Link id="i18n-btn" href={asPath} locale={loc}>
+                    <Link id="i18n-btn" href={asPath} locale={loc} className={currentLocale === loc ? 'underline' : ''}>
                       {loc.toUpperCase()}
                     </Link>
                     {index < locales.length - 1 && ' | '}
