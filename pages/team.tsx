@@ -7,7 +7,7 @@ import Head from "next/head";
 const title = "Team"
 
 const Team = () => {
-  const { t } = useTranslation('documents');
+  const { t } = useTranslation('team');
 
   return (
     <Layout>

@@ -4,6 +4,8 @@ import Link from 'next/link'
 import Image from 'next/image'
 import Container from './container'
 import DarkModeToggle from './dark-mode-toggle'
+import { CopyRight } from './copyright';
+import { BugReport } from './bug-report';
 
 const Footer = () => {
   const { locales, asPath, locale: currentLocale } = useRouter();
@@ -120,9 +122,9 @@ const Footer = () => {
               <li className="mb-3">
                 <DarkModeToggle />
               </li>
-              <li className="mb-3 before:content-bug dark:before:content-bug-dark before:inline-block before:w-3 before:h-full before:mr-1 flex items-center">
-                <Link id="reportBug-btn" href="https://github.com/YuriDevAT/website-bug-tracker#readme" target="_blank" className="outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">Report bug<span className="sr-only"> opens in a new tab</span></Link>
-              </li>
+             <li>
+              <BugReport />
+             </li>
               <li>
                 {locales?.map((loc, index) => (
                   <Fragment key={loc}>
@@ -136,21 +138,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        <div className="border-t border-t-1px border-stone-300 dark:border-slate-800 py-6 flex flex-wrap-reverse sm:justify-center lg:justify-between sm:items-center">
-          <p>
-            © 2022-{new Date().getFullYear()} Accessibility First. All rights reserved.
-          </p>
-          <p>
-            A blog made with <span className="text-red-800">&#9829;</span> and ♫ using{' '}
-            <a
-              href="https://juliaundeutsch.com/"
-              className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
-            >
-              Julia Undeutsch,
-            </a>{' '}
-            cute images by <a href="https://www.linkedin.com/in/sailorjohnny/" className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors  outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200">Yan Kurochin</a>.
-          </p>
-        </div>
+       <CopyRight />
       </Container>
     </footer>
   )
