@@ -1,0 +1,31 @@
+{
+  "h3-1": "Blog",
+  "h3-2": "Organization",
+  "h3-3": "Social Media",
+  "h3-4": "Settings",
+
+  "categories": {
+    "allArticles": "All Articles",
+    "accessibility": "Accessibility",
+    "uxResearch": "UX Research",
+    "uxDesign": "UX Design",
+    "webDevelopment": "Web Development",
+    "qaTesting": "QA Testing",
+    "documents": "Documents"
+  },
+
+  "organization": {
+    "news": "News",
+    "about": "About",
+    "team": "Team",
+    "Events": "Events",
+    "accessibilityStatement": "Accessibility Statement",
+    "Sitemap": "Sitemap"
+  },
+
+  "socials": {
+    "instagram": "Instagram",
+    "linkedIn": "LinkedIn",
+    "youtube": "YouTube"
+  }
+}

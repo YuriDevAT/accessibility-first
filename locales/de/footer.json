@@ -1,0 +1,31 @@
+{
+  "h3-1": "Blog",
+  "h3-2": "Organization",
+  "h3-3": "Social Media",
+  "h3-4": "Settings",
+  
+  "categories": {
+    "allArticles": "Alle Artikel",
+    "accessibility": "Barrierefreiheit",
+    "uxResearch": "UX-Forschung",
+    "uxDesign": "UX-Design",
+    "webDevelopment": "Webentwicklung",
+    "qaTesting": "QA-Tests",
+    "documents": "Dokumente"
+  },
+
+  "organization": {
+    "news": "News",
+    "about": "Über uns",
+    "team": "Team",
+    "Events": "Events",
+    "accessibilityStatement": "Accessibility Statement",
+    "Sitemap": "Sitemap"
+  },
+
+  "socials": {
+    "instagram": "Instagram",
+    "linkedIn": "LinkedIn",
+    "youtube": "YouTube"
+  }
+}
