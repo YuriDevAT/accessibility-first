@@ -1,3 +1,4 @@
+import useTranslation from 'next-translate/useTranslation';
 import Layout from '../components/layout'
 import Container from '../components/container'
 import Head from "next/head";
@@ -13,6 +14,7 @@ type Props = {
 }
 
 const Accessibility = ({ allPosts }: Props) => {
+  const { t } = useTranslation('accessibility');
   const posts = allPosts.filter((category) => category.category === "Accessibility")
 
   return (
@@ -21,7 +23,7 @@ const Accessibility = ({ allPosts }: Props) => {
         <title>{title}</title>
       </Head>
       <Container>
-        <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">{title}</h1>
+        <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">{t('title')}</h1>
         <section className="mt-16 mb-32">
           <PostGrid posts={posts} />
         </section>
