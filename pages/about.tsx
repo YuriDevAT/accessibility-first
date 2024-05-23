@@ -15,7 +15,7 @@ const About = () => {
       </Head>
       <Container>
         <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left max-w-5xl">
-        {t('welcome1')}<span className="text-blue-800 dark:text-blue-500">{t('welcome2')}</span>{t('welcome2')}
+        {t('welcome1')}<span className="text-blue-800 dark:text-blue-500">{t('welcome2')}</span>{t('welcome3')}
          </h1>
         <section className="mb-32 max-w-4xl">
           <p className="text-xl leading-relaxed my-6">

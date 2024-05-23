@@ -1,6 +1,6 @@
 import Script from 'next/script'
 import Container from '../components/container'
-import MoreStories from '../components/more-stories'
+import MorePosts from '../components/more-posts'
 import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
@@ -48,7 +48,7 @@ export default function Index({ allPosts }: Props) {
               excerpt={heroPost.excerpt}
             />
           )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          {morePosts.length > 0 && <MorePosts posts={morePosts} />}
         </Container>
       </Layout>
     </>
