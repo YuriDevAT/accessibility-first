@@ -1,7 +1,6 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
-import ErrorPage from 'next/error';
 import Container from '../../components/container';
 import Header from '../../components/header';
 import PostHeader from '../../components/post-header';
@@ -13,6 +12,7 @@ import PostType from '../../interfaces/post';
 import PostBody from '../../components/post-body';
 import PostOriginal from '../../components/post-original';
 import SectionSeparator from '../../components/section-separator';
+import Custom404 from '../404';
 
 type Props = {
   post: PostType;
@@ -24,7 +24,7 @@ export default function Post({ post, morePosts, preview }: Props) {
   const router = useRouter();
   const title = `${post.title} | Accessibility First Blog Post`;
   if (!router.isFallback && !post?.slug) {
-    return <ErrorPage statusCode={404} />;
+    return <Custom404 />;
   }
 
   return (
