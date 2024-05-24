@@ -1,7 +1,7 @@
 ---
 title: 'Preventing Color Contrast Errors with Effective Simulation Testing'
 excerpt: 'Designing and developing for various visual impairments can be challenging, especially when one doesn’t know exactly how people with visual impairments perceive colors and content on the web. Google Chrome DevTools offers a simple solution by simulating these impairments, thus helping to choose an accessible combination of colors and fonts...'
-coverImage: '/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
+coverImage: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 date: '2024-05-16T08:35:07.322Z'
 tags: 'Blog'
 category: 'QA Testing'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
+  url: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 ogPost:
   url: ''
 ---

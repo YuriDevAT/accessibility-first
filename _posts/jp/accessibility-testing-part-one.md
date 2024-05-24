@@ -1,7 +1,7 @@
 ---
 title: 'Accessibility Testing Part 1'
 excerpt: 'Today I’m starting my very first accessibility check. I’ll be auditing websites to see how well they implement accessibility and pointing out the problems and items that need improvement...'
-coverImage: '/assets/blog/accessibility-testing-part-one/cover.png'
+coverImage: '/assets/blog/en/accessibility-testing-part-one/cover.png'
 date: '2022-07-30T05:35:07.322Z'
 tags: 'Blog'
 category: 'QA Testing'
@@ -11,7 +11,7 @@ author:
 ogImage:
   url: '/assets/blog/accessibility-testing-part-one/cover.png'
 ogPost:
-  url: 'https://dev.to/yuridevat/accessibility-check-1-3c38'
+  url: 'https://dev.to/en/yuridevat/accessibility-check-1-3c38'
 ---
 
 Today I'm starting my very first accessibility check. I'll be auditing websites to see how well they implement accessibility and pointing out the problems and items that need improvement.

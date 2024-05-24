@@ -1,7 +1,7 @@
 ---
 title: 'Blind, visually impaired, or low sighted?'
 excerpt: 'There is an ongoing debate about what to call it. Visual Impairment or blindness? What is correct: A blind person or a person living with blindness or a person with low vision? But what is the right word? Well, I doubt there is just one...'
-coverImage: '/assets/blog/blind-visually-impaired-or-low-sighted/cover.png'
+coverImage: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
 date: '2023-09-01T10:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/blind-visually-impaired-or-low-sighted/cover.png'
+  url: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/blind-visually-impaired-or-low-sighted'
 ---

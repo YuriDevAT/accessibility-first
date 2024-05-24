@@ -1,7 +1,7 @@
 ---
 title: 'Vulnerable customers'
 excerpt: 'Did you know? 300,000 people in Austria have no or limited knowledge of German. For 56% being able to communicate in their first language is more important than the price point! 7.1% of 16 to 65-year-olds have quite low ...'
-coverImage: '/assets/blog/vulnerable-customers/cover.png'
+coverImage: '/assets/blog/en/vulnerable-customers/cover.png'
 date: '2023-07-31T10:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/vulnerable-customers/cover.jpg'
+  url: '/assets/blog/en/vulnerable-customers/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/vulnerable-customers'
 ---
