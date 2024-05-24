@@ -1,6 +1,6 @@
 ---
-title: 'Accessibility First collaborates with UX Researcher Laura Wissiak'
-excerpt: 'Some paths should not be walked alone. I’m excited to announce that Accessibility First welcomes a new face to its previously one-man team. When I started Accessibility First in the summer of 2022, my goal was to create content about accessibility, design, ...'
+title: 'Accessibility FirstがUX研究者ローラ・ウィシアックと協力'
+excerpt: '一人で歩いてはいけない道もある。Accessibility Firstが、これまで一人で活動していたチームに新しい顔を迎えたことをお知らせできることを嬉しく思います。2022年の夏にAccessibility Firstを立ち上げたとき、私の目標は、アクセサビリティ、デザイン、。。。'
 coverImage: '/assets/blog/en/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
 date: '2023-09-06T05:35:07.322Z'
 tags: 'Blog'
@@ -14,14 +14,12 @@ ogPost:
   url: ''
 ---
 
-Some paths should not be walked alone.
+一人で歩いてはいけない道もある。
 
-I’m excited to announce that Accessibility First welcomes a new face to its previously one-man team. When I started Accessibility First in the summer of 2022, my goal was to create content about accessibility, design, development, and testing to share with others and help them get started with accessibility in their field in a simple way.
+Accessibility Firstが、これまで一人で活動していたチームに新しい顔を迎えたことをお知らせできることを嬉しく思います。2022年の夏にAccessibility Firstを立ち上げたとき、私の目標は、アクセサビリティ、デザイン、開発、テストに関するコンテンツを作成し、他の人たちと共有することで、それぞれの分野でアクセシビリティをシンプルな方法で始める手助けをすることだった。
 
-With Laura on the team, readers will gain more insight into practical experiences with people with disabilities, accessibility issues in the real world, the architectural environment (not just the web world).
+ローラがチームに加わることで、読者は障害者との実践的な経験や、現実世界、建築環境（ウェブの世界だけでなく）におけるアクセシビリティの問題について、より深い洞察を得ることができるだろう。
 
-Laura is the resident UX researcher at [Hope Tech Plus](https://www.hopetech.vision/), a start-up that develops assistive tech for people with low vision. Her day job includes a lot of conversations with blind people, to assess their mobility needs and pain points.
+ローラは[Hope Tech Plus](https://www.hopetech.vision/)の専属UX研究者で、弱視者のための支援技術を開発する新興企業である。彼女の本業は、目の不自由な人たちとたくさん会話し、彼らの移動に関するニーズや悩みを評価することだ。
 
-Coming from a past as a UX designer with a special focus on web accessibility, Laura always loved talking about inclusive design. Now from her offline research, she has gained a new perspective on why the WCAG standards demand what they demand. And she is eager to share it with the Accessibility First community!
-
-2023 has been eventful here at Accessibility First!
+ウェブ・アクセシビリティに特化したUXデザイナーの経歴を持つローラは、インクルーシブ・デザインについて話すのが好きだった。今、彼女はオフラインでの調査から、WCAG規格がなぜ要求しているのかについて新たな視点を得た。そして、彼女はそれをアクセシビリティ・ファーストのコミュニティと共有することを熱望しています！

@@ -1,6 +1,6 @@
 ---
-title: '2023 has been eventful here at Accessibility First'
-excerpt: '2023 has been eventful here at Accessibility First! Laura has joined the party, a brand new website, march for inclusion, and much more ...'
+title: '2023年、Accessibility Firstでは様々な出来事があった'
+excerpt: '2023年、Accessibility Firstでは様々な出来事があった! ローラがパーティーに参加、真新しいウェブサイト、インクルージョンのための行進、その他もろもろ。。。'
 coverImage: '/assets/blog/en/2023-has-been-eventful-here-at-accessibility-first/cover.png'
 date: '2024-01-03T10:35:07.322Z'
 tags: 'Blog'
@@ -14,16 +14,16 @@ ogPost:
   url: ''
 ---
 
-2023 has been eventful here at Accessibility First!
+2023年、Accessibility Firstでは様々な出来事があった!
 
-## The biggest happening: Laura has joined the party
+## 最大のイベント：ローラが入党
 
-For 1 year, Accessibility First had been a one-man show run by Julia alone. Her goal was to share learnings about accessibility, design, development, and testing and help professionals get started on their web accessibility journey. With Laura on the team, readers can now gain more insight into the practical experiences of people with disabilities, accessibility issues in the real world, and the architectural environment (not just the web world).
+1年間、Accessibility Firstはユリア一人で運営していた。彼女の目標は、アクセシビリティ、デザイン、開発、テストに関する学びを共有し、専門家がウェブ・アクセシビリティの旅を始める手助けをすることだった。ローラがチームに加わったことで、読者は、障害を持つ人々の実践的な経験、現実世界におけるアクセシビリティの問題、建築環境（ウェブの世界だけではない）について、より深い洞察を得ることができるようになった。
 
-## A brand new Website
+## 真新しいウェブサイト
 
-Our dreams grew too big to be contained on a WordPress site. So Julia got to work and built us a new website! With full control over how we present out content, we hope to bring you more insights and anecdotes.
-Of course, we also made sure to paint it purple just in time for #IDPD24
+私たちの夢は、ワードプレスのサイトでは収まりきらないほど大きくなった。そこでユリアは仕事に取りかかり、新しいウェブサイトを構築した！コンテンツの見せ方を完全にコントロールできるようになったことで、より多くの洞察や逸話を皆さんにお届けしたいと思う。
+もちろん、#IDPD24に間に合わせるため、紫色にもしました。
 
 ## March for Inclusion
 

@@ -38,11 +38,11 @@ const Events = () => {
               <li
                 key={event.date}
                 className={`${
-                  index % 2 !== 0
-                    ? 'bg-yellow-200 dark:bg-yellow-500'
-                    : event.speaker === 'Julia'
-                      ? 'bg-blue-200 dark:bg-blue-500'
-                      : 'bg-purple-200 dark:bg-purple-500'
+                  event.speaker === 'Julia'
+                    ? 'bg-blue-200 dark:bg-blue-500'
+                    : event.speaker === 'Laura'
+                      ? 'bg-purple-200 dark:bg-purple-500'
+                      : 'bg-yellow-200 dark:bg-yellow-500'
                 } py-1 px-4 rounded-md my-3`}
               >
                 <h3 className="text-2xl mt-6 mb-4 leading-snug font-semibold dark:text-inherit">
@@ -67,11 +67,11 @@ const Events = () => {
               <li
                 key={event.date}
                 className={`${
-                  index % 2 !== 0
-                    ? 'bg-yellow-200 dark:bg-yellow-500'
-                    : event.speaker === 'Julia'
-                      ? 'bg-blue-200 dark:bg-blue-500'
-                      : 'bg-purple-200 dark:bg-purple-500'
+                  event.speaker === 'Julia'
+                    ? 'bg-blue-200 dark:bg-blue-500'
+                    : event.speaker === 'Laura'
+                      ? 'bg-purple-200 dark:bg-purple-500'
+                      : 'bg-yellow-200 dark:bg-yellow-500'
                 } py-1 px-4 rounded-md my-3`}
               >
                 <h3 className="text-2xl mt-6 mb-4 leading-snug font-semibold dark:text-inherit">

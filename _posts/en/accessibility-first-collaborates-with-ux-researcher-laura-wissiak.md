@@ -23,5 +23,3 @@ With Laura on the team, readers will gain more insight into practical experience
 Laura is the resident UX researcher at [Hope Tech Plus](https://www.hopetech.vision/), a start-up that develops assistive tech for people with low vision. Her day job includes a lot of conversations with blind people, to assess their mobility needs and pain points.
 
 Coming from a past as a UX designer with a special focus on web accessibility, Laura always loved talking about inclusive design. Now from her offline research, she has gained a new perspective on why the WCAG standards demand what they demand. And she is eager to share it with the Accessibility First community!
-
-2023 has been eventful here at Accessibility First!

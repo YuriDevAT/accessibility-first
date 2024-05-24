@@ -20,7 +20,15 @@ export const events: Event[] = [
     speaker: 'Julia',
     date: 'April 27, 2024',
     type: 'Talk',
-    location: 'Kobe',
+    location: 'GDG Kwansai Osaka',
+  },
+  {
+    title: 'How Can I Be a Part of the Solution to an Accessible World - An Engineering Approach',
+    icon: GiPublicSpeaker,
+    speaker: 'Laura',
+    date: 'April 22, 2024',
+    type: 'Workshop',
+    location: 'Senses Hub Nairobi',
   },
   {
     title: 'Getting started with designing for Web Accessibility',
@@ -36,7 +44,7 @@ export const events: Event[] = [
     speaker: 'Julia',
     date: 'March 16, 2024',
     type: 'Talk',
-    location: 'GDG Toyko',
+    location: 'GDG Tokyo',
   },
   {
     title: 'What is accessibility in tech?',
