@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from 'next/link';
 import useTranslation from 'next-translate/useTranslation';
 import { organization } from '../data/organization';
 
@@ -19,6 +19,6 @@ const OrganizationList = () => {
       ))}
     </ul>
   );
-}
+};
 
 export default OrganizationList;

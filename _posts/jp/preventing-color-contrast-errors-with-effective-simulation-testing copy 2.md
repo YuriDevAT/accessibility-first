@@ -133,6 +133,7 @@ A colourful image of the first generation starter Pokémon that does not simulat
 The effects of simulating blurred vision on the original image.
 
 ### Reduced contrast
+
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/reduced.png)
 The effects of simulating reduced contrast on the original image.
 
@@ -186,4 +187,3 @@ W3 Colour contrast value definition [https://www.w3.org/TR/WCAG21/#dfn-contrast-
 
 This post was originally published on [Fronta11y](https://www.fronta11y.org/) for GAAD 2024, in German.
 German article [Farbkontrastfehler vorbeugen mit effektivem Simulation-Testing](https://www.fronta11y.org/farbkontrastfehler-vorbeugen-mit-effektivem-simulationstesting/)
-

@@ -1,11 +1,11 @@
-import type { Config } from 'tailwindcss'
-const defaultTheme = require('tailwindcss/defaultTheme')
+import type { Config } from 'tailwindcss';
+const defaultTheme = require('tailwindcss/defaultTheme');
 
 const config: Config = {
   content: [
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
+    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
     extend: {
@@ -54,22 +54,22 @@ const config: Config = {
         md: '0 8px 30px rgba(0, 0, 0, 0.12)',
       },
       screens: {
-        'xs': '475px',
+        xs: '475px',
         ...defaultTheme.screens,
       },
       content: {
-        'bug': 'url("/assets/icons/bug.svg")',
+        bug: 'url("/assets/icons/bug.svg")',
         'bug-dark': 'url("/assets/icons/bug-dark.svg")',
-        'dark': 'url("/assets/icons/moon.svg")',
+        dark: 'url("/assets/icons/moon.svg")',
         'dark-mode': 'url("/assets/icons/moon-dark.svg")',
-        'light': 'url("/assets/icons/sun.svg")',
+        light: 'url("/assets/icons/sun.svg")',
         'light-mode': 'url("/assets/icons/sun-dark.svg")',
-        'system': 'url("/assets/icons/system.svg")',
-        'exclamation': 'url("/assets/icons/exclamation.svg")',
-      }
+        system: 'url("/assets/icons/system.svg")',
+        exclamation: 'url("/assets/icons/exclamation.svg")',
+      },
     },
   },
   darkMode: 'class',
   plugins: [],
-}
-export default config
+};
+export default config;

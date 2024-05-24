@@ -24,12 +24,12 @@ Until I get their approval, I won't show which websites I'm reviewing so as not 
 - [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 I test the website with the free axe DevTool extension, one of the best tools on the market.
-After I run the extension, 40 automatic* issues are found.
+After I run the extension, 40 automatic\* issues are found.
 These are divided into critical, serious, moderate and minor. The critical and serious issues are the most important ones to fix. Let's take a closer look and see what can be done to improve the website.
 
 ![](/assets/blog/accessibility-testing-one/image-1.png)
 
-_*Automatic means that vulnerabilities are found using accessibility development tools. However, even if all the listed vulnerabilities are fixed, it doesn't necessarily mean that the website is now fully accessible. Manual testing is still required, using only the keyboard and going through the website with a screen reader, to really point out and fix all the problems._
+_\*Automatic means that vulnerabilities are found using accessibility development tools. However, even if all the listed vulnerabilities are fixed, it doesn't necessarily mean that the website is now fully accessible. Manual testing is still required, using only the keyboard and going through the website with a screen reader, to really point out and fix all the problems._
 
 ## Elements Must Have Sufficient Color Contrast
 
@@ -38,6 +38,7 @@ Most of the serious problems were related to the color contrast. To easily find 
 ![](/assets/blog/accessibility-testing-one/image-2.png)
 
 ### Issue Description (by axe Devtools)
+
 Ensures the contrast between foreground and background colors meets WCAG2AA contrast ratio thresholds.
 
 People with low vision may have difficulty reading the content due to the weak color contrast.
@@ -59,6 +60,7 @@ The other two problems are caused by a gray tone used for the subheading.
 The gray (`#737373`) itself would suffice with a contrast ratio of **8.59:1** on a white (`#FFFFFF`) background, but an opacity of `rgba(115, 115, 115, 0.74)` has been set which weakens the contrast, to **2.95:1**.
 
 ### How to solve
+
 Changing the primary color to a darker color and removing the opacity will solve this problem.
 
 ## Element Must Have A `lang` Attribute
@@ -66,9 +68,11 @@ Changing the primary color to a darker color and removing the opacity will solve
 It is important that a default language is set. Otherwise, screen readers will use the language selected by the operating system, which can sound quite awful and incomprehensible, for example, if you pronounce a German word in French, which the screen reader user might not expect.
 
 ### Issue Description
+
 Ensures every HTML document has a `lang` attribute.
 
 ### How to solve
+
 Adding the language of the website, in this case English, with the `lang` attribute.
 
 `<html lang="en">`
@@ -92,6 +96,7 @@ Here is a list with all [HTML Language Code References](https://www.w3schools.co
 The last serious problem concerns an anchor tag around the company logo in the top left header.
 
 ### Issue Description
+
 Ensures links have discernible text.
 
 `<a href="#" class="logo-link w-nav-brand">`
@@ -105,6 +110,7 @@ The link around the logo leads nowhere when clicked. So the a tag is misused her
 And that is what is misleading. Screen reader users can tab to the logo because it's an a tag, so they assume something will happen when they click on it. Screen reader users don't get any further information in the `alt` attribute or via the aria-label that this is not a real link.
 
 ### How to solve
+
 The surrounding `<a>` tag should be removed.
 
 The href attribute gets a destination to link to and a discernible text e.g. in the `alt` attribute of the image. This website is a single web page which means the links in the navbar are linking to section within the page (like home, about). The destination could be just the same as the one for the home section.
@@ -116,4 +122,5 @@ I will contact the owner of the site and share my findings and tips, ask if chan
 I will keep you updated.
 
 ### Update 08/14/2022
+
 I have received a positive feedback from the owner of the website. He and his web designer will look at the issues I listed and make necessary adjustments. Mission accomplished.

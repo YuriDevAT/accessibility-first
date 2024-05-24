@@ -32,7 +32,7 @@ Your website will automatically be compatible with a wide range of devices, beca
 
 It also improves the ability of **search engines** to find and index your work with the appropriate keywords. Many of the techniques required for accessibility involve the intelligent use of semantic markup in text and HTML. This makes it easier for users and, more importantly, potential customers to find your website.
 
-A very important point that many people don't think about is that **people with disabilities can spend money too**, which means that accessibility will increase your customer base. 
+A very important point that many people don't think about is that **people with disabilities can spend money too**, which means that accessibility will increase your customer base.
 If they can access your website (and if they like what you offer of course), they are likely to buy it. But if they can't access your website, it doesn't matter much if they like what you offer because they can't go through the buying process. So accessibility benefits your bottom line.
 
 In many regions of the world, creating inaccessible websites is even against the law. The public sector is often required to make their websites 100% accessible according to [WCAG2.1 AA](https://www.w3.org/WAI/standards-guidelines/wcag/glance/). These organizations face a hefty penalty if they fail to comply.

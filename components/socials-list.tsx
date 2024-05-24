@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from 'next/link';
 import useTranslation from 'next-translate/useTranslation';
 import { socials } from '../data/socials';
 
@@ -8,7 +8,7 @@ const SocialsList = () => {
   return (
     <ul className="underline">
       {socials.map((item) => (
-        <li  key={item.key}>
+        <li key={item.key}>
           <Link
             href={item.path}
             className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
@@ -19,6 +19,6 @@ const SocialsList = () => {
       ))}
     </ul>
   );
-}
+};
 
 export default SocialsList;

@@ -14,9 +14,9 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/blind-visually-impaired-or-low-sighted'
 ---
 
-There is an ongoing debate about what to call it. Visual Impairment or blindness? What is correct: A _blind person_ or a _person living with blindness_ or a _person with low vision_? But what is the right word? Well, I doubt there is just one. 
+There is an ongoing debate about what to call it. Visual Impairment or blindness? What is correct: A _blind person_ or a _person living with blindness_ or a _person with low vision_? But what is the right word? Well, I doubt there is just one.
 
-The first thing I learned in my very first interviews was that blindness is highly individual. A lot of sighted people have the preconception that blindness means you have a black curtain in front of your eyes and you can’t see anything. Even if we stick with just the terms for blindness for a bit now, it’s still a lot more complicated than just that! 
+The first thing I learned in my very first interviews was that blindness is highly individual. A lot of sighted people have the preconception that blindness means you have a black curtain in front of your eyes and you can’t see anything. Even if we stick with just the terms for blindness for a bit now, it’s still a lot more complicated than just that!
 
 ## Legal Blindness is different from total blindness
 
@@ -25,14 +25,14 @@ In Austria, **legal blindness** is defined by visual acuity in the following cas
 - 0.02 (1/60) without visual field defects
 - 0.03 (2/60) with quadrantanopsia
 - 0.06 (4/60) with hemianopsia
-- 0.1 (6/60) with tunnel vision 
+- 0.1 (6/60) with tunnel vision
 
 **severe visual impairment** in comparison:
 
 - 0.05 (3/60) without visual field defects
 - 0.1 (6/60) with quadrantanopsia
 - 0.3 (6/20) with hemianopsia
-- 1.0 (6/6) with tunnel vision. 
+- 1.0 (6/6) with tunnel vision.
 
 This is defined by [BPGG §4a, [in German]](https://www.ris.bka.gv.at/normdokument.wxe?ShowPrintPreview=True&abfrage=bundesnormen&anlage=&artikel=&fassungvom=2021-05-12&gesetzesnummer=10008859&paragraf=4a&uebergangsrecht=). The BPGG stands for _Bundes-Pflege-Geld-Gesetz_, which approximately translates to the **Federal Care Allowance Act**. It handles the distribution of disability benefits under the Austrian social system. Of course, the exact definition will vary depending on your country’s social system.
 
@@ -47,14 +47,14 @@ Some people can identify contrast, contours, and colors - although color blindne
 
 ## Who prefers what?
 
-My approach to this is to simply ask. Blindness is a highly individual experience. Even with approximations with a percentage of vision, a diagnosis such as 2% can look different depending on the person you ask. I usually start my interview or usability testing process with the same set of baseline questions. These always include something along the lines of “Could you tell us how your vision works?” 
+My approach to this is to simply ask. Blindness is a highly individual experience. Even with approximations with a percentage of vision, a diagnosis such as 2% can look different depending on the person you ask. I usually start my interview or usability testing process with the same set of baseline questions. These always include something along the lines of “Could you tell us how your vision works?”
 
-Even if I am told in advance that my interview partner has a slight, medium, or strong visual impairment, I still ask that question to level the playing field. Again, blindness is highly individual, I cannot stress this enough! Asking this question can also show how comfortable a person is talking about it, which feeds into one of my underlying interests: societal stigma and self-perception. Once I get the answer to that question, I follow it up with “So how do you want to be referred to?” 
+Even if I am told in advance that my interview partner has a slight, medium, or strong visual impairment, I still ask that question to level the playing field. Again, blindness is highly individual, I cannot stress this enough! Asking this question can also show how comfortable a person is talking about it, which feeds into one of my underlying interests: societal stigma and self-perception. Once I get the answer to that question, I follow it up with “So how do you want to be referred to?”
 
-It’s as easy as that! And more often than not, the person will also give me the reasoning behind their decision. I love it when that happens because it gives me an insight into how disability is or is not a part of their identity. 
+It’s as easy as that! And more often than not, the person will also give me the reasoning behind their decision. I love it when that happens because it gives me an insight into how disability is or is not a part of their identity.
 
 ---
 
-At Hope Tech, we are currently using _visually impaired_ because it covers more than strictly blindness, plus it is easy to abbreviate _Visually Impaired Person_ as VIP for internal use. If we know a bit more about our test user, we will adjust accordingly, but VIP is the default for us. 
+At Hope Tech, we are currently using _visually impaired_ because it covers more than strictly blindness, plus it is easy to abbreviate _Visually Impaired Person_ as VIP for internal use. If we know a bit more about our test user, we will adjust accordingly, but VIP is the default for us.
 
 Some people are perfectly fine with being called blind, while others don’t identify as such. I have come to regard it like pronouns. It’s first and foremost a matter of respect to use the correct words that correspond to the person’s identity, even in the protocol that’s meant for internal use only.

@@ -20,9 +20,9 @@ Let’s get an overall understanding on accessibility by introducing you to this
 
 ## What is accessibility
 
-Regarding to [Wikipedia](https://en.wikipedia.org/wiki/Accessibility "Wikipedia Definition Accessibility"),
+Regarding to [Wikipedia](https://en.wikipedia.org/wiki/Accessibility 'Wikipedia Definition Accessibility'),
 
->Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, more users have equal access to information and functionality.
+> Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, more users have equal access to information and functionality.
 
 There are all kinds of disabilities, some are recognizable, like people who are in wheelchairs, and others are hidden, like people who are deaf. There are also age-related disabilities like hearing loss or low vision, and temporary disabilities like having a broken arm or even holding a baby.
 
@@ -30,11 +30,11 @@ You may have seen the hashtag **#a11y**, which is the short version of the word 
 
 ## Why does it matter
 
->The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
+> The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
 
 _Tim Berners-Lee, W3C Director and inventor of the World Wide Web_
 
-So why should we make websites accessible? First and foremost, it’s simply the right thing to do to give everyone equal access to information. Also, you may be [required by law](https://www.w3.org/WAI/policies/ "Web Accessibility Laws & Policies") to make your website accessible. Here in Austria, the public sector like universities are forced to make their website 100% accessible under [WCAG 2.1 AA (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/).
+So why should we make websites accessible? First and foremost, it’s simply the right thing to do to give everyone equal access to information. Also, you may be [required by law](https://www.w3.org/WAI/policies/ 'Web Accessibility Laws & Policies') to make your website accessible. Here in Austria, the public sector like universities are forced to make their website 100% accessible under [WCAG 2.1 AA (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 Between 10 and 20% of humanity has some kind of disability. Not all of them affect a person’s ability to use the internet, such as a person with paralysis in their legs. The most important disabilities in terms of web accessibility are disabilities of the eyes, ears, hands and brain.
 
@@ -48,7 +48,7 @@ Finally, when your sites are made more accessible to people with disabilities, t
 
 In addition, search engine optimization (SEO) also improves.
 
->We nee to make every single thing accessible to every single person with a disability
+> We nee to make every single thing accessible to every single person with a disability
 
 _Stevie Wonder, Grammy Awards Ceremony 2016. American singer-songwriter, musician, and record producer_
 

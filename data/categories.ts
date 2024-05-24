@@ -1,6 +1,6 @@
 import { Lists } from '../@types/lists';
 
-export const categories: Lists[]  = [
+export const categories: Lists[] = [
   { key: 'allArticles', path: '/' },
   { key: 'accessibility', path: '/accessibility' },
   { key: 'uxResearch', path: '/ux-research' },

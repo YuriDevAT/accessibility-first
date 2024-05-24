@@ -22,7 +22,7 @@ Hier kommt meine Spezialität, die Barrierefreiheit im Internet, zum Einsatz. La
 
 Ich lebe seit 15 Jahren in Mariahilf und ich liebe es hier. Mariahilf steht für DEI, solange ich denken kann: Vielfalt, Gleichberechtigung und Inklusion. Es ist ein Kulturbezirk, bekannt für seine vielen Schwulenbars, Frauen aus diesem Bezirk werden jedes Jahr eingeladen, kostenlos am Wiener Frauenlauf teilzunehmen, und kein anderer Bezirk feiert den Pride Month so intensiv wie wir.
 
-Gute Nachbarschaft wird in Mariahilf besonders gelebt und gefördert. Das zeigt auch die Initiative, die das Zusammenleben im Bezirk fördert - heuer zum ersten Mal mit dem [Mariahilfer Nachbarschaftspreis](https://www.gbstern.at/themen-projekte/miteinander-in-mariahilf/mariahilfer-nachbarschafts-award/). 
+Gute Nachbarschaft wird in Mariahilf besonders gelebt und gefördert. Das zeigt auch die Initiative, die das Zusammenleben im Bezirk fördert - heuer zum ersten Mal mit dem [Mariahilfer Nachbarschaftspreis](https://www.gbstern.at/themen-projekte/miteinander-in-mariahilf/mariahilfer-nachbarschafts-award/).
 
 ## Meine Idee - Barrierefreiheit im Web
 
@@ -35,4 +35,5 @@ Ich weiß, dass zum Beispiel einige Apps der Kinos in unserem Bezirk nicht volls
 Was haltet ihr alle von dieser Idee? Würde dies zu einer guten Nachbarschaft und einem respektvollen Zusammenleben beitragen und Menschen bei gemeinsamen Aktivitäten zusammenbringen?
 
 ## Update: 20. Oktober 2022
+
 Leider wurde meine Idee abgelehnt, bevor die Abstimmung überhaupt begonnen hatte. Ich vermute, wegen eines anderen Missverständnisses. "Barrierefreiheit hilft nur den Unternehmen, nicht den Menschen im Viertel".

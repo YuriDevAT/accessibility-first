@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from 'next/image';
 
 const Logo = () => {
   return (
@@ -18,7 +18,7 @@ const Logo = () => {
         className="hidden dark:xs:block w-12 h-12 ml-2 lg:w-32 lg:h-32 lg:ml-0"
       />
     </>
-  )
-}
+  );
+};
 
-export default Logo
+export default Logo;

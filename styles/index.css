@@ -1,7 +1,13 @@
 @tailwind base;
 
-h1, h2, h3, h4, h5, h6, a {
-  @apply dark:text-slate-200
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  @apply dark:text-slate-200;
 }
 
 blockquote {
@@ -9,7 +15,7 @@ blockquote {
 }
 
 code {
-  @apply dark:bg-slate-200 dark:text-slate-800
+  @apply dark:bg-slate-200 dark:text-slate-800;
 }
 
 @tailwind components;

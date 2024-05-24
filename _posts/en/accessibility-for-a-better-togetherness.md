@@ -22,7 +22,7 @@ This is where my specialty web accessibility comes into action. Let me share my 
 
 I have lived in Mariahilf for 15 years and I love it here. Mariahilf has stood for DEI for as long as I can remember: Diversity, Equality and Inclusion. It is a cultural district, known for its many gay bars, women from this district are invited every year to participate for free in the Vienna Women's Run, and no other district celebrates Pride Month as hard as we do.
 
-Good neighborhood is especially lived and supported in Mariahilf. This is also shown by the initiative that promotes living together in the district - this year for the first time with the [Mariahilfer Neighborhood Award (in German)](https://www.gbstern.at/themen-projekte/miteinander-in-mariahilf/mariahilfer-nachbarschafts-award/). 
+Good neighborhood is especially lived and supported in Mariahilf. This is also shown by the initiative that promotes living together in the district - this year for the first time with the [Mariahilfer Neighborhood Award (in German)](https://www.gbstern.at/themen-projekte/miteinander-in-mariahilf/mariahilfer-nachbarschafts-award/).
 
 ## My Idea - Web Accessibility
 
@@ -34,4 +34,5 @@ I know that, for example, some apps of the cinemas we have in our district are n
 What do you all think of this idea? Would this contribute to good neighborhood and respectful living together and bring people together in shared activities?
 
 ## Update: October 20th, 2022
+
 Unfortunately, my idea was rejected before the voting had even started. I guess because of another misconception. "Web Accessibility only helps businesses, not people in the district".

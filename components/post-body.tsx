@@ -1,10 +1,10 @@
-import markdownStyles from './markdown-styles.module.css'
-import PostType from '../interfaces/post'
+import markdownStyles from './markdown-styles.module.css';
+import PostType from '../interfaces/post';
 
 type Props = {
-  content: string
-  category: string
-}
+  content: string;
+  category: string;
+};
 
 const PostBody = ({ content, category }: Props) => {
   return (
@@ -14,7 +14,7 @@ const PostBody = ({ content, category }: Props) => {
         dangerouslySetInnerHTML={{ __html: content }}
       />
     </div>
-  )
-}
+  );
+};
 
-export default PostBody
+export default PostBody;

@@ -22,7 +22,7 @@ ogPost:
 
 Of course, the exact numbers will vary by country, but the underlying problems are the same.
 
-So, how might we support people with limited language skills or restricted cognitive abilities throughout the customer journey? 
+So, how might we support people with limited language skills or restricted cognitive abilities throughout the customer journey?
 
 ## And what did we find?
 

@@ -1,4 +1,11 @@
-import Document, { Html, Head, Main, NextScript, DocumentContext, DocumentInitialProps  } from 'next/document'
+import Document, {
+  Html,
+  Head,
+  Main,
+  NextScript,
+  DocumentContext,
+  DocumentInitialProps,
+} from 'next/document';
 
 interface MyDocumentProps extends DocumentInitialProps {
   locale: string;
@@ -13,10 +20,12 @@ const MyDocument = ({ locale }: MyDocumentProps) => {
         <NextScript />
       </body>
     </Html>
-  )
-}
+  );
+};
 
-MyDocument.getInitialProps = async (ctx: DocumentContext): Promise<MyDocumentProps> => {
+MyDocument.getInitialProps = async (
+  ctx: DocumentContext
+): Promise<MyDocumentProps> => {
   const initialProps = await Document.getInitialProps(ctx);
   const { locale } = ctx;
 

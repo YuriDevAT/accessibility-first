@@ -6,10 +6,16 @@ const postsDirectory = join(process.cwd(), '_posts');
 
 export function getPostSlugs(locale: string) {
   const localeDirectory = join(postsDirectory, locale);
-  return fs.readdirSync(localeDirectory).map(file => file.replace(/\.md$/, ''));
+  return fs
+    .readdirSync(localeDirectory)
+    .map((file) => file.replace(/\.md$/, ''));
 }
 
-export function getPostBySlug(locale: string, slug: string, fields: string[] = []) {
+export function getPostBySlug(
+  locale: string,
+  slug: string,
+  fields: string[] = []
+) {
   const realSlug = slug.replace(/\.md$/, '');
   const fullPath = join(postsDirectory, locale, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
@@ -17,7 +23,7 @@ export function getPostBySlug(locale: string, slug: string, fields: string[] = [
 
   const items: any = {};
 
-  fields.forEach(field => {
+  fields.forEach((field) => {
     if (field === 'slug') {
       items[field] = realSlug;
     }
@@ -34,6 +40,6 @@ export function getPostBySlug(locale: string, slug: string, fields: string[] = [
 
 export function getAllPosts(locale: string, fields: string[] = []) {
   const slugs = getPostSlugs(locale);
-  const posts = slugs.map(slug => getPostBySlug(locale, slug, fields));
+  const posts = slugs.map((slug) => getPostBySlug(locale, slug, fields));
   return posts;
 }

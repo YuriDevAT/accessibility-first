@@ -1,4 +1,4 @@
 export type Lists = {
-    key: string;
-    path: string;
-  };
+  key: string;
+  path: string;
+};

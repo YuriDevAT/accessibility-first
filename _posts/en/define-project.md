@@ -21,11 +21,11 @@ _Julia is holding a black version of the Meta Braille keyboard._
 
 ## User-Led Co-Creation
 
-Over the span of one year, Define has developed a DIY kit to 3D-print a braille keyboard. The [print instructions](https://gitlab.com/metabraille/metabraille) are open source and are free to download from GitHub. 
+Over the span of one year, Define has developed a DIY kit to 3D-print a braille keyboard. The [print instructions](https://gitlab.com/metabraille/metabraille) are open source and are free to download from GitHub.
 
 Usually, assembling a keyboard requires soldering contact points. Soldering is not particularly easy or safe for people with low vision to do on their own: It requires a lot of precision and you can’t really check whether everything is connected properly by feeling because you’d run the risk of burning your fingertips off. Yikes!
 
-So the Define Project workshopped a solution to this: Instead of contact points being soldered, they are connected by wrapping wires around them. This ensures steady contact and doesn’t rely on vision, which allows Makers with low to no vision to DIY it on their own. 
+So the Define Project workshopped a solution to this: Instead of contact points being soldered, they are connected by wrapping wires around them. This ensures steady contact and doesn’t rely on vision, which allows Makers with low to no vision to DIY it on their own.
 
 Through these workshops, a total of 8 MetaBraille keyboards were born. Doesn’t sound like a lot? Well, keep in mind that 3D printing each half of the keyboard shell takes around 4 hours, if the printing process goes smoothly! Because sometimes 3D printers are pranksters and shimmy a bit to the side while printing. The result is a misaligned, unusable print. So if you want to make one yourself, just know it could take a while.
 
@@ -45,15 +45,15 @@ _A green circuit board with an ESP32S3 processor on it. This processor is what t
 
 ### How do they interact with a website?
 
-Virtually like any other keyboard! In the case of the Metabraille, to the device, it will look just like any other Bluetooth keyboard. The translation from braille to the Latin alphabet letters happens within the MetaBraille. 
+Virtually like any other keyboard! In the case of the Metabraille, to the device, it will look just like any other Bluetooth keyboard. The translation from braille to the Latin alphabet letters happens within the MetaBraille.
 
-But you know what that means? It’s time to recap the basics of keyboard navigation! 
+But you know what that means? It’s time to recap the basics of keyboard navigation!
 
 - **Tab Navigation:** The Tab key is used for navigating through interactive elements such as buttons, links, and form fields. The standard stuff. Pressing the Tab key typically moves the focus from one element to the next and Shift+Tab is used to move backwards.
-- **Arrow Keys:** You can typically use the arrow keys (up, down, left, right) to move through menus, lists, and other elements. 
+- **Arrow Keys:** You can typically use the arrow keys (up, down, left, right) to move through menus, lists, and other elements.
 - **Enter or Spacebar:** These keys are often used to activate or select the currently focused element, like a button or a link. They replace the mouse click or tap with your finger.
 
-Braille keyboards are usually used together with screen reader software. So if you want your website or app to work well with braille keyboards, you also need to check things like alt-texts and HTML tags for sensible heading structures and landmarks, like defining the header, main, and footer as such. Screen readers and keyboard navigation go hand-in-hand (or software-in-hardware?), so learning about one teaches you about the other at the same time. The [Mozilla Developer Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Keyboard) are a great starting point in my opinion, best paired with learning by doing and by that, I mean manually testing out keyboard navigation through your user flow. 
+Braille keyboards are usually used together with screen reader software. So if you want your website or app to work well with braille keyboards, you also need to check things like alt-texts and HTML tags for sensible heading structures and landmarks, like defining the header, main, and footer as such. Screen readers and keyboard navigation go hand-in-hand (or software-in-hardware?), so learning about one teaches you about the other at the same time. The [Mozilla Developer Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Keyboard) are a great starting point in my opinion, best paired with learning by doing and by that, I mean manually testing out keyboard navigation through your user flow.
 
 ![Laura is trying out the MetaBraille with some help from the braille tables on the desk. It takes a bit of time to get used to, but it’s surprisingly fast!](/assets/blog/define-project/image-4.png)
 _Laura is trying out the MetaBraille with some help from the braille tables on the desk. It takes a bit of time to get used to, but it’s surprisingly fast!_
