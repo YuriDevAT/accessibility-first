@@ -1,6 +1,6 @@
 ---
-title: 'Accessibility: The What, Why & How'
-excerpt: 'Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important. Let’s get an overall understanding on accessibility by introducing you to this topic ...'
+title: 'Accessibility: Das Was, Warum, und Wie'
+excerpt: 'Der Barrierefreiheit im Internet wird in letzter Zeit glücklicherweise immer mehr Aufmerksamkeit geschenkt. Aber viele Menschen wissen immer noch nicht, was Barrierefreiheit im Internet eigentlich ist und warum sie so wichtig ist. Verschaffen wir uns einen Überblick über Barrierefreiheit, indem ich euch in dieses Thema einführe ...'
 coverImage: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
 date: '2022-10-09T05:35:07.322Z'
 tags: 'Blog'
@@ -14,75 +14,75 @@ ogPost:
   url: ''
 ---
 
-Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important.
+Der Barrierefreiheit im Internet wird in letzter Zeit glücklicherweise immer mehr Aufmerksamkeit geschenkt. Aber viele Menschen wissen immer noch nicht, was Barrierefreiheit im Web eigentlich ist und warum sie so wichtig ist.
 
-Let’s get an overall understanding on accessibility by introducing you to this topic in the context of the **what**, **why** and **how**: what accessibility is, why it’s important and how we can achieve accessible design.
+Verschaffen wir uns einen Überblick über Barrierefreiheit, indem ich euch dieses Thema im Zusammenhang mit dem **Was**, **Warum** und **Wie** vorstelle: was Barrierefreiheit ist, warum sie wichtig ist und wie wir barrierefreies Design erreichen können.
 
-## What is accessibility
+## Was ist barrierefreiheit
 
-Regarding to [Wikipedia](https://en.wikipedia.org/wiki/Accessibility 'Wikipedia Definition Accessibility'),
+Laut [Wikipedia](https://en.wikipedia.org/wiki/Accessibility 'Wikipedia Definition Accessibility'),
 
-> Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, more users have equal access to information and functionality.
+> Barrierefreiheit im Internet bedeutet, dass es keine Barrieren gibt, die die Interaktion mit oder den Zugang zu Websites im World Wide Web für Menschen mit körperlichen Behinderungen, situationsbedingten Behinderungen und sozioökonomischen Einschränkungen betreffend Bandbreite und Geschwindigkeit verhindern. Wenn Websites richtig konzipiert, entwickelt und bearbeitet werden, haben mehr Nutzer gleichen Zugang zu Informationen und Funktionen. (übersetzt von Julia)
 
-There are all kinds of disabilities, some are recognizable, like people who are in wheelchairs, and others are hidden, like people who are deaf. There are also age-related disabilities like hearing loss or low vision, and temporary disabilities like having a broken arm or even holding a baby.
+Es gibt alle Arten von Behinderungen, einige sind erkennbar, wie Menschen, die im Rollstuhl sitzen, und andere sind versteckt, wie Menschen, die taub sind. Es gibt auch altersbedingte Behinderungen wie Schwerhörigkeit oder Sehschwäche und vorübergehende Behinderungen wie einen gebrochenen Arm oder sogar das Halten eines Babys.
 
-You may have seen the hashtag **#a11y**, which is the short version of the word accessibility. The reason for this shortening is that there are 11 characters between the letter “a” and the letter “y”. In my opinion, this is a cool way to shorten a word and much easier to use as a hashtag.
+Vielleicht haben Sie schon einmal den Hashtag **#a11y** gesehen, der die Kurzversion des Wortes Barrierefreiheit ist. Der Grund für diese Verkürzung ist, dass zwischen dem Buchstaben "a" und dem Buchstaben "y" 11 Zeichen liegen. Meiner Meinung nach ist dies eine coole Art, ein Wort zu kürzen und viel einfacher als Hashtag zu verwenden.
 
-## Why does it matter
+## Warum ist es wichtig
 
-> The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
+> Die Macht des Internets liegt in seiner Universalität. Der Zugang für alle, unabhängig von einer Behinderung, ist ein wesentlicher Aspekt. [übersetzt von Julia]
 
 _Tim Berners-Lee, W3C Director and inventor of the World Wide Web_
 
-So why should we make websites accessible? First and foremost, it’s simply the right thing to do to give everyone equal access to information. Also, you may be [required by law](https://www.w3.org/WAI/policies/ 'Web Accessibility Laws & Policies') to make your website accessible. Here in Austria, the public sector like universities are forced to make their website 100% accessible under [WCAG 2.1 AA (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/).
+Warum sollten wir also Websites zugänglich machen? In erster Linie ist es einfach das Richtige, um allen den gleichen Zugang zu Informationen zu ermöglichen. Außerdem bist du vielleicht [gesetzlich] verpflichtet (https://www.w3.org/WAI/policies/ 'Web Accessibility Laws & Policies'), deine Website zugänglich zu machen. Hier in Österreich ist der öffentliche Sektor, wie z.B. Universitäten, gezwungen, ihre Website gemäß [WCAG 2.1 AA (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/) zu 100% zugänglich zu machen.
 
-Between 10 and 20% of humanity has some kind of disability. Not all of them affect a person’s ability to use the internet, such as a person with paralysis in their legs. The most important disabilities in terms of web accessibility are disabilities of the eyes, ears, hands and brain.
+Zwischen 10 und 20% der Menschheit hat irgendeine Art von Behinderung. Nicht alle von ihnen beeinträchtigen die Fähigkeit einer Person, das Internet zu nutzen, wie z. B. eine Person mit Lähmungen in den Beinen. Die wichtigsten Behinderungen im Hinblick auf die Zugänglichkeit des Internets sind Behinderungen der Augen, der Ohren, der Hände und des Gehirns.
 
-People with disabilities use assistive technologies to interact with the Web. To ensure that everyone can use the web with these technologies, it is our job to build websites so that they are properly recognized by these devices. For example, screen readers will not work if your code is not written with accessibility in mind.
+Menschen mit Behinderungen nutzen unterstützende Technologien, um mit dem Internet zu interagieren. Um sicherzustellen, dass jeder das Web mit diesen Technologien nutzen kann, ist es unsere Aufgabe, Websites so zu erstellen, dass sie von diesen Geräten richtig erkannt werden. Bildschirmlesegeräte funktionieren beispielsweise nicht, wenn Ihr Code nicht unter Berücksichtigung der Barrierefreiheit geschrieben wurde.
 
-The Internet has opened up a whole new world of possibilities, especially for people with disabilities, particularly in terms of vision. Information is now readily available on almost any topic imaginable.
+Das Internet hat eine ganz neue Welt der Möglichkeiten eröffnet, insbesondere für Menschen mit Behinderungen, vor allem in Bezug auf das Sehen. Informationen sind jetzt zu fast jedem erdenklichen Thema leicht zugänglich.
 
-People with visual impairments no longer have to rely on others to get the information they need, which means they can achieve a new level of independence that would have been unthinkable just a few years ago.
+Menschen mit Sehbehinderungen müssen sich nicht mehr auf andere verlassen, um die von ihnen benötigten Informationen zu erhalten, was bedeutet, dass sie ein neues Maß an Unabhängigkeit erreichen können, das noch vor wenigen Jahren undenkbar gewesen wäre.
 
-Finally, when your sites are made more accessible to people with disabilities, they become more **accessible to everyone**. This means that structuring the site well (which, in my opinion, is what makes a good frontend developer in the first place) by using semantic HTML tags, better design, for example with higher color contrast, and better accessibility for people with disabilities will automatically lead to better accessibility for all.
+Und schließlich werden Ihre Websites, wenn sie für Menschen mit Behinderungen zugänglicher gemacht werden, auch für alle **zugänglicher**. Das bedeutet, dass eine gute Strukturierung der Website (die meiner Meinung nach einen guten Frontend-Entwickler überhaupt erst ausmacht) durch die Verwendung semantischer HTML-Tags, ein besseres Design, z. B. mit höherem Farbkontrast, und eine bessere Zugänglichkeit für Menschen mit Behinderungen automatisch zu einer besseren Zugänglichkeit für alle führen wird.
 
-In addition, search engine optimization (SEO) also improves.
+Darüber hinaus verbessert sich auch die Suchmaschinenoptimierung (SEO).
 
-> We nee to make every single thing accessible to every single person with a disability
+> Wir müssen alles für jeden einzelnen Menschen mit einer Behinderung zugänglich machen [übersetzt von Julia]
 
-_Stevie Wonder, Grammy Awards Ceremony 2016. American singer-songwriter, musician, and record producer_
+_Stevie Wonder, Grammy Awards Ceremony 2016. Amerikanischer Singer-Songwriter, Musiker, and Producer_
 
-## How to develop the accessible way
+## Wie man barrierefrei entwicklet
 
-Here I would like to give a rough overview of how you can make your website accessible. In the coming weeks, I will write articles with more detailed information about each category.
+Hier möchte ich einen groben Überblick darüber geben, wie du deine Website zugänglich machen kannst. In den kommenden Wochen werde ich Artikel mit ausführlicheren Informationen zu den einzelnen Kategorien schreiben.
 
-The [W3C](https://www.w3.org/WAI/), a worldwide web consortium, maintains a working group that deals with website accessibility and publishes standards for it. These standards are called [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/), which stands for Web Content Accessibility Guidelines. This is a great resource to get more information on how to handle accessibility in your projects.
+Das [W3C](https://www.w3.org/WAI/), ein weltweites Web-Konsortium, betreibt eine Arbeitsgruppe, die sich mit der Zugänglichkeit von Websites befasst und entsprechende Standards veröffentlicht. Diese Standards werden [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) genannt, was für Web Content Accessibility Guidelines steht. Dies ist eine großartige Ressource, um weitere Informationen darüber zu erhalten, wie du Barrierefreiheit in deinen Projekten handhaben kannst.
 
-## How can we make the web or our websites more accessible?
+## Wie können wir das Web oder unsere Websites zugänglicher machen?
 
-Let’s go over a few points. If you follow them, your website won’t be 100% accessible right away, but it’s definitely a good starting point.
+Gehen wir ein paar Punkte durch. Wenn Sie diese befolgen, wird Ihre Website nicht sofort zu 100 % zugänglich sein, aber es ist auf jeden Fall ein guter Ausgangspunkt.
 
-### Use semantic HTML whenever possible!
+### Nutze semnatisches HTML wann immer möglich!
 
-When using `<header>`, `<main>`, `<footer>` you have already laid a good basic structure of your website that will allow screen reader users to find their way around your site.
+Wenn du `<header>`, `<main>`, `<footer>` verwendest, hast du bereits eine gute Grundstruktur deiner Website geschaffen, die es Nutzern von Screenreadern ermöglicht, sich auf deiner Website zurechtzufinden.
 
-The [list of semantic HTML tags](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) is long. Try to include as many as possible and use `<div>` and `<span>` and only for styling purposes, since they are not semantic.
-To not break legacy code, [aria (Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) offer a good (temporary) solution. Then you don’t have to replace your already built in `<div>` tags with semantic tags that would break the styling and thus bring increased extra work.
+Die [Liste von semantischen HTML tags (in Englisch)](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) ist lang. Versuche, so viele wie möglich zu verwenden, und verwende `<div>` und `<span>` nur für Stylingzwecke, da sie nicht semantisch sind.
+Um bestehenden Code nicht zu zerstören, bieten [aria (Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) eine gute (vorübergehende) Lösung. Dann musst du deine bereits eingebauten `<div>`-Tags nicht durch semantische Tags ersetzen, die das Styling zerstören und somit zusätzliche Arbeit verursachen würden.
 
-[Aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles), for example, simply take the role of the semantic tag as in the following example. Interactive elements such as links and buttons, as well as [multimedia elements](https://developer.mozilla.org/en-US/docs/Web/Media/Formats) such as images and videos, require a more detailed description (e.g. using alternative text) to be better understood by screen reader users.
+Die [Aria-Rollen](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles) beispielsweise übernehmen einfach die Rolle des semantischen Tags wie im folgenden Beispiel. Interaktive Elemente wie Links und Buttons sowie [Multimedia-Elemente](https://developer.mozilla.org/en-US/docs/Web/Media/Formats) wie Bilder und Videos erfordern eine ausführlichere Beschreibung (z. B. mit Alternativtext), damit sie von Screenreadern besser verstanden werden.
 
-Never use color alone to indicate specific information, such as a result on a chart, and use sufficient color contrast. Visually impaired people may have difficulty seeing the contrast between, for example, the background color and the text color.
+Verwende niemals Farbe allein, um bestimmte Informationen anzuzeigen, wie z. B. ein Ergebnis in einem Diagramm, und verwende einen ausreichenden Farbkontrast. Sehbehinderte Menschen können Schwierigkeiten haben, den Kontrast zwischen z. B. der Hintergrundfarbe und der Textfarbe zu erkennen.
 
-## How to identify a11y problems to fix?
+## Wie lassen sich a11y-Probleme erkennen und beheben?
 
-There are automated tools like [axe](https://www.deque.com/axe/), which already finds about 30% of the problems. The most common screen reader you can use to check your website is [NVDA](https://www.nvaccess.org/download/) in combination with Microsoft and VoiceOver screen reader already installed on macOS.
+Es gibt automatisierte Tools wie [axe](https://www.deque.com/axe/), die bereits etwa 30 % der Probleme finden. Der gebräuchlichste Screenreader, den Sie zur Überprüfung Ihrer Website verwenden können, ist [NVDA](https://www.nvaccess.org/download/) in Kombination mit Microsoft und VoiceOver Screenreader, der bereits auf macOS installiert ist.
 
-Other tools worth mentioning are [Wave](https://wave.webaim.org/), [Taba11y](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga), and [Color contrast Checker](https://webaim.org/resources/contrastchecker/) which I will go into in more detail in other articles.
+Andere erwähnenswerte Tools sind [Wave](https://wave.webaim.org/), [Taba11y](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga) und [Color contrast Checker](https://webaim.org/resources/contrastchecker/), auf die ich in anderen Artikeln noch näher eingehen werde.
 
-If you **make web pages 100% accessible** for mouse, keyboard, screen reader, and braille users, you have most of the accessibility covered. Therefore, this should be the goal of all of us.
+Wenn Sie **Webseiten zu zugänglich** für Maus-, Tastatur-, Screenreader- und Braille-Benutzer machen, haben Sie den größten Teil der Zugänglichkeit abgedeckt. Daher sollte dies das Ziel von uns allen sein.
 
-## Conclusion
+## Fazit
 
-If we all get involved with developing accessible websites and applications and get to it early enough, we can design them to be accessible from the start. This will make it harder for companies to avoid accessibility because of myths and misconceptions like “accessibility means ugly design” or “is very expensive.”
+Wenn wir uns alle an der Entwicklung barrierefreier Websites und Anwendungen beteiligen und früh genug damit beginnen, können wir sie von Anfang an barrierefrei gestalten. Dadurch wird es für Unternehmen schwieriger, Barrierefreiheit aufgrund von Mythen und Missverständnissen wie "Barrierefreiheit bedeutet hässliches Design" oder "ist sehr teuer" zu vermeiden.
 
-Show that you stand for inclusive design by contributing at least a little to make the world a better place for people with disabilities.
+Zeige, dass du für inklusives Design stehst, indem du zumindest einen kleinen Beitrag dazu leistest, die Welt für Menschen mit Behinderungen zu verbessern.

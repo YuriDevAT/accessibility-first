@@ -66,7 +66,7 @@ Let’s go over a few points. If you follow them, your website won’t be 100% a
 
 When using `<header>`, `<main>`, `<footer>` you have already laid a good basic structure of your website that will allow screen reader users to find their way around your site.
 
-The [list of semantic HTML tags](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) is long. Try to include as many as possible and use `<div>` and `<span>` and only for styling purposes, since they are not semantic.
+The [list of semantic HTML tags](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) is long. Try to include as many as possible and use `<div>` and `<span>` only for styling purposes, since they are not semantic.
 To not break legacy code, [aria (Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) offer a good (temporary) solution. Then you don’t have to replace your already built in `<div>` tags with semantic tags that would break the styling and thus bring increased extra work.
 
 [Aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles), for example, simply take the role of the semantic tag as in the following example. Interactive elements such as links and buttons, as well as [multimedia elements](https://developer.mozilla.org/en-US/docs/Web/Media/Formats) such as images and videos, require a more detailed description (e.g. using alternative text) to be better understood by screen reader users.
@@ -79,7 +79,7 @@ There are automated tools like [axe](https://www.deque.com/axe/), which already 
 
 Other tools worth mentioning are [Wave](https://wave.webaim.org/), [Taba11y](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga), and [Color contrast Checker](https://webaim.org/resources/contrastchecker/) which I will go into in more detail in other articles.
 
-If you **make web pages 100% accessible** for mouse, keyboard, screen reader, and braille users, you have most of the accessibility covered. Therefore, this should be the goal of all of us.
+If you **make web pages accessible** for mouse, keyboard, screen reader, and braille users, you have most of the accessibility covered. Therefore, this should be the goal of all of us.
 
 ## Conclusion
 

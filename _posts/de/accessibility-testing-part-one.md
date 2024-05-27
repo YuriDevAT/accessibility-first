@@ -1,6 +1,6 @@
 ---
 title: 'Accessibility Testing Part 1'
-excerpt: 'Today I’m starting my very first accessibility check. I’ll be auditing websites to see how well they implement accessibility and pointing out the problems and items that need improvement...'
+excerpt: 'Heute beginne ich mit meinem allerersten Accessibility-Check. Ich werde Websites daraufhin überprüfen, wie gut sie Barrierefreiheit umsetzen, und auf Probleme und verbesserungsbedürftige Punkte hinweisen ...'
 coverImage: '/assets/blog/en/accessibility-testing-part-one/cover.png'
 date: '2022-07-30T05:35:07.322Z'
 tags: 'Blog'
@@ -14,113 +14,111 @@ ogPost:
   url: 'https://dev.to/yuridevat/accessibility-check-1-3c38'
 ---
 
-Today I'm starting my very first accessibility check. I'll be auditing websites to see how well they implement accessibility and pointing out the problems and items that need improvement.
+Heute beginne ich mit meinem allerersten Barrierefreiheits-Check. Ich werde Websites daraufhin überprüfen, wie gut sie die Barrierefreiheit umsetzen, und auf Probleme und verbesserungswürdige Punkte hinweisen.
 
-Until I get their approval, I won't show which websites I'm reviewing so as not to embarrass anyone and to give them a chance to update their website and make it more accessible after I send them my assessment.
+Bis zur Genehmigung werde ich nicht zeigen, welche Websites ich überprüfe, um niemanden in Verlegenheit zu bringen und um ihnen die Möglichkeit zu geben, ihre Website zu aktualisieren und zugänglicher zu machen, nachdem ich ihnen meine Ergebnisse übermittelt habe.
 
-## Accessibility Tools And How To Use Them
+## Accessibility Tools Und Wie Man Diese Benutzt
 
 - [Axe Devtool Extension](https://www.deque.com/axe/browser-extensions/)
 - [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
-I test the website with the free axe DevTool extension, one of the best tools on the market.
-After I run the extension, 40 automatic\* issues are found.
-These are divided into critical, serious, moderate and minor. The critical and serious issues are the most important ones to fix. Let's take a closer look and see what can be done to improve the website.
+Ich teste die Website mit der kostenlosen axe DevTool-Erweiterung, einem der besten Tools auf dem Markt.
+Nachdem ich die Erweiterung ausgeführt habe, werden 40 automatische\* Probleme gefunden.
+Diese sind in critical, serious, moderate und minor unterteilt. Die critical und serious Probleme sind die wichtigsten, die behoben werden müssen. Schauen wir uns diese genauer an und überlegen, was getan werden kann, um die Website zu verbessern.
 
 ![](/assets/blog/accessibility-testing-one/image-1.png)
 
-_\*Automatic means that vulnerabilities are found using accessibility development tools. However, even if all the listed vulnerabilities are fixed, it doesn't necessarily mean that the website is now fully accessible. Manual testing is still required, using only the keyboard and going through the website with a screen reader, to really point out and fix all the problems._
+_\*Automatisch bedeutet, dass die Schwachstellen mit Hilfe von Entwicklungswerkzeugen für die Barrierefreiheit gefunden werden. Doch selbst wenn alle aufgelisteten Schwachstellen behoben sind, bedeutet das nicht unbedingt, dass die Website nun vollständig zugänglich ist. Es sind immer noch manuelle Tests erforderlich, bei denen z.B. nur die Tastatur verwendet oder die Website mit einem Bildschirmlesegerät bedient wird, um wirklich alle Probleme aufzuzeigen und diese beheben zu können._
 
 ## Elements Must Have Sufficient Color Contrast
 
-Most of the serious problems were related to the color contrast. To easily find the errors on the website, you can highlight them by activating the "Highlight" button.
+"Elemente müssen einen ausreichenden Farbkontrast aufweisen". Die meisten schwerwiegenden Probleme standen im Zusammenhang mit dem Farbkontrast. Um die Fehler auf der Website leicht zu finden, können Sie sie durch Aktivieren der Schaltfläche "Hervorheben" hervorheben.
 
-![](/assets/blog/accessibility-testing-one/image-2.png)
+![](/assets/blog/en/accessibility-testing-one/image-2.png)
 
-### Issue Description (by axe Devtools)
+### Problembeschreibung (von axe Devtools, übersetzt von Julia)
 
-Ensures the contrast between foreground and background colors meets WCAG2AA contrast ratio thresholds.
+Stellt sicher, dass der Kontrast zwischen Vorder- und Hintergrundfarben den Grenzwerten der WCAG2AA für das Kontrastverhältnis entspricht.
 
-People with low vision may have difficulty reading the content due to the weak color contrast.
+Menschen mit Sehschwäche können aufgrund des schwachen Farbkontrasts Schwierigkeiten beim Lesen des Inhalts haben.
 
 ### Primary color
 
-This button does not have sufficient color contrast (blue HEX color value of `#2FAFF5` on white HEX `#FFFFFF`). The WebAIMS Color Contrast Checker shows that the contrast ratio is only **2.45:1**, which is quite low. To meet WCAG2.1 AA, the contrast ratio needs to be at least **4.5:1**. The blue would have to be reduced to a brightness of 32% to achieve this ratio.
+Dieser Button hat keinen ausreichenden Farbkontrast (blauer HEX-Farbwert von "#2FAFF5" auf weißem HEX "#FFFFFF"). Der WebAIM Color Contrast Checker zeigt, dass das Kontrastverhältnis nur **2,45:1** beträgt, was ziemlich niedrig ist. Um WCAG2.1 AA zu erfüllen, muss das Kontrastverhältnis mindestens **4,5:1** betragen. Um dieses Verhältnis zu erreichen, müsste das Blau auf eine Helligkeit von 32 % reduziert werden.
 
-![](/assets/blog/accessibility-testing-one/image-3.png)
+![](/assets/blog/en/accessibility-testing-one/image-3.png)
 
-This color combination also causes three of the other problems.
+Diese Farbkombination verursacht auch drei der anderen Probleme.
 
-## Neutral color
+## Neutrale Farbe
 
-The other two problems are caused by a gray tone used for the subheading.
+Die beiden anderen Probleme werden durch einen Grauton in der Zwischenüberschrift verursacht.
 
-![](/assets/blog/accessibility-testing-one/image-4.png)
+![](/assets/blog/en/accessibility-testing-one/image-4.png)
 
-The gray (`#737373`) itself would suffice with a contrast ratio of **8.59:1** on a white (`#FFFFFF`) background, but an opacity of `rgba(115, 115, 115, 0.74)` has been set which weakens the contrast, to **2.95:1**.
+Das Grau (`#737373`) selbst würde mit einem Kontrastverhältnis von **8,59:1** auf einem weißen (`#FFFFFF`) Hintergrund ausreichen, aber es wurde eine Deckkraft von `rgba(115, 115, 115, 0,74)` eingestellt, die den Kontrast auf **2,95:1** abschwächt.
 
-### How to solve
+### Wie man das Problem löst
 
-Changing the primary color to a darker color and removing the opacity will solve this problem.
+Wenn Sie die Primärfarbe oder die Textfarbe in eine dunklere Farbe ändern und die Deckkraft aufheben, ist dieses Problem gelöst.
 
-## Element Must Have A `lang` Attribute
+## Element muss ein "lang" Attribut haben
 
-It is important that a default language is set. Otherwise, screen readers will use the language selected by the operating system, which can sound quite awful and incomprehensible, for example, if you pronounce a German word in French, which the screen reader user might not expect.
+Es ist wichtig, dass eine Standardsprache eingestellt ist. Andernfalls verwenden Bildschirmlesegeräte die vom Betriebssystem gewählte Sprache, was ziemlich schrecklich und unverständlich klingen kann, wenn Sie beispielsweise ein deutsches Wort auf Französisch aussprechen, was der Benutzer des Bildschirmlesegeräts vielleicht nicht erwartet.
 
-### Issue Description
+### Problembeschreibung
 
-Ensures every HTML document has a `lang` attribute.
+Stellt sicher, dass jedes HTML-Dokument ein `lang`-Attribut hat.
 
-### How to solve
+### Wie man das Problem löst
 
-Adding the language of the website, in this case English, with the `lang` attribute.
+Hinzufügen der Sprache der Website, in diesem Fall Englisch, mit dem Attribut `lang`.
 
-`<html lang="en">`
+```javascript
+<html lang="en">
+  <!--document head und body-->
+</html>
+```
 
-`<!--document head and body-->`
+Wenn Wörter oder Absätze in einer anderen Sprache als der Standardsprache verwendet werden, können Sie die Sprache auch direkt in diesem HTML-Tag angeben.
 
-`</html>`
+```javascript
+<p lang="es">Text in einer anderen Sprache</p>
+```
 
-If words or paragraphs are used in a language other than the default, you can also specify the language directly in this HTML tag.
+Hier ist eine Liste mit allen [HTML Language Code References](https://www.w3schools.com/tags/ref_language_codes.asp).
 
-`<p lang="es">`
+## Links müssen erkennbaren Text haben
 
-`Text in another language`
+Das letzte schwerwiegende Problem betrifft einen Anker-Tag um das Firmenlogo in der Kopfzeile oben links.
 
-`</p>`
+### Problembeschreibung
 
-Here is a list with all [HTML Language Code References](https://www.w3schools.com/tags/ref_language_codes.asp).
+Stellt sicher, dass Links einen erkennbaren Text haben.
 
-## Links Must Have Discernible Text
+```javascript
+<a href="#" class="logo-link w-nav-brand">
+  <img loading="lazy" src="https://logo.svg" alt="" class="image" />
+</a>
+```
 
-The last serious problem concerns an anchor tag around the company logo in the top left header.
+Der Link um das Logo herum führt nirgendwo hin, wenn er angeklickt wird. Der a-Tag wird hier also missbraucht. Aber ich sehe, wie es ist. Die Website wurde mit Webflow erstellt. Ich nehme also an, dass Webflow dies standardmäßig macht, denn viele Websites verlinken auf ihre Homepage, wenn man auf das Logo klickt, aber das ist hier nicht der Fall.
 
-### Issue Description
+Und das ist es, was irreführend ist. Benutzer von Bildschirmlesegeräten können mit der Tabulatortaste auf das Logo zugreifen, weil es sich um ein a-Tag handelt, so dass sie davon ausgehen, dass etwas passiert, wenn sie darauf klicken. Screenreader-Nutzer erhalten keine weiteren Informationen im Attribut `alt` oder über das aria-label, dass es sich nicht um einen echten Link handelt.
 
-Ensures links have discernible text.
+### Wie man das Problem löst
 
-`<a href="#" class="logo-link w-nav-brand">`
+Das umgebende `<a>` Tag sollte entfernt werden.
 
-`<img loading="lazy" src="https://logo.svg" alt="" class="image" />`
+Das href-Attribut erhält ein Ziel, zu dem verlinkt wird, und einen erkennbaren Text, z. B. im Attribut `alt` des Bildes. Bei dieser Website handelt es sich um eine einseitige Webseite, d. h. die Links in der Navigationsleiste verweisen auf Abschnitte innerhalb der Seite (z. B. Home, About). Der Zielort könnte derselbe sein wie der für den Home-Bereich.
 
-`</a>`
+## Nächste Schritte
 
-The link around the logo leads nowhere when clicked. So the a tag is misused here. But I see how it is. The website was created with Webflow. So I'm assuming that they made Webflow do this as a default, because many websites link to their home page when you click on the logo, but that's not the case here.
+Ich werde mich mit dem Eigentümer der Website in Verbindung setzen und ihm meine Erkenntnisse und Tipps mitteilen, ihn fragen, ob Änderungen vorgenommen werden können, um das Web für alle zugänglich zu machen, und natürlich meine Hilfe anbieten, falls sie benötigt wird.
 
-And that is what is misleading. Screen reader users can tab to the logo because it's an a tag, so they assume something will happen when they click on it. Screen reader users don't get any further information in the `alt` attribute or via the aria-label that this is not a real link.
-
-### How to solve
-
-The surrounding `<a>` tag should be removed.
-
-The href attribute gets a destination to link to and a discernible text e.g. in the `alt` attribute of the image. This website is a single web page which means the links in the navbar are linking to section within the page (like home, about). The destination could be just the same as the one for the home section.
-
-## Next Steps
-
-I will contact the owner of the site and share my findings and tips, ask if changes can be made to make the web accessible to all, and of course offer my help if needed.
-
-I will keep you updated.
+Ich werde Sie auf dem Laufenden halten.
 
 ### Update 08/14/2022
 
-I have received a positive feedback from the owner of the website. He and his web designer will look at the issues I listed and make necessary adjustments. Mission accomplished.
+Ich habe eine positive Rückmeldung vom Eigentümer der Website erhalten. Er und sein Webdesigner werden sich die von mir aufgeführten Probleme ansehen und die notwendigen Anpassungen vornehmen. Auftrag erfüllt.

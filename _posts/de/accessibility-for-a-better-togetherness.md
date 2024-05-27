@@ -1,6 +1,6 @@
 ---
 title: 'Webzugänglichkeit für ein besseres Miteinander'
-excerpt: 'Der Wiener Bezirk, in dem ich wohne, organisiert eine Veranstaltung namens "Miteinander in Mariahilf", bei der die Bewohner verschiedene Ideen für ein besseres Zusammenleben einbringen können. Hier kommt meine Spezialität, die Barrierefreiheit, zum Einsatz. Lassen Sie mich meine Gedanken teilen...'
+excerpt: 'Der Wiener Bezirk, in dem ich wohne, organisiert eine Veranstaltung namens "Miteinander in Mariahilf", bei der die Bewohner verschiedene Ideen für ein besseres Zusammenleben einbringen können. Hier kommt meine Spezialität, die Barrierefreiheit, zum Einsatz. Lassen Sie mich meine Gedanken teilen ...'
 coverImage: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
 date: '2022-07-07T05:35:07.322Z'
 tags: 'Blog'
