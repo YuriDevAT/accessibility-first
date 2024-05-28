@@ -13,7 +13,7 @@ const Layout = ({ preview, children }: Props) => {
       <Meta />
       <SkipLink />
       <div className="min-h-screen">
-        <main>{children}</main>
+        <main className="mb-28">{children}</main>
       </div>
       <Footer />
     </>

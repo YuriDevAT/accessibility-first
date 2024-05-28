@@ -11,6 +11,7 @@ module.exports = {
       'post-original',
       'footer',
     ],
+    '/all-posts': ['all-posts'],
     '/about': ['about'],
     '/accessibility-statement': ['accessibility-statement'],
     '/accessibility': ['accessibility'],

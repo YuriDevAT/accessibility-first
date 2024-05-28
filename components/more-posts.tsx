@@ -8,14 +8,15 @@ type Props = {
 
 const MorePosts = ({ posts }: Props) => {
   const { t } = useTranslation('more-posts');
+  const MAX_POSTS = 8; 
 
   return (
     <section>
       <h2 className="mb-8 text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
         {t('h2')}
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32 mb-32">
-        {posts.map((post) => (
+      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-28 mb-32">
+        {posts.slice(0, MAX_POSTS).map((post) => (
           <PostPreview
             key={post.slug}
             title={post.title}
@@ -27,6 +28,7 @@ const MorePosts = ({ posts }: Props) => {
           />
         ))}
       </div>
+      <a className="block mb-3 text-2xl underline outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200 after:content-['→']" href="/all-posts">See all posts</a>
     </section>
   );
 };
