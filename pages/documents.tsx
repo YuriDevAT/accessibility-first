@@ -8,7 +8,7 @@ import { getAllPosts } from '../lib/api';
 import Post from '../interfaces/post';
 import { GetStaticProps } from 'next';
 
-const title = 'Documents';
+const title = 'Documents & Social Media';
 
 type Props = {
   allPosts: Post[];
@@ -63,6 +63,11 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     'excerpt',
     'category',
   ]);
+
+  allPosts.sort(
+    (post1, post2) =>
+      new Date(post2.date).getTime() - new Date(post1.date).getTime()
+  );
 
   return {
     props: { allPosts },
