@@ -15,6 +15,14 @@ export const events: Event[] = [
     location: 'UXCon Vienna',
   },
   {
+    title: 'How blind people navigate the world, on and offline',
+    icon: GiPublicSpeaker,
+    speaker: 'Julia, Laura',
+    date: 'Juli 17, 2024',
+    type: 'Workshop',
+    location: 'WeAreDevelopers World Congress 2024',
+  },
+  {
     title: 'Getting started with designing for Web Accessibility',
     icon: GiPublicSpeaker,
     speaker: 'Julia',
