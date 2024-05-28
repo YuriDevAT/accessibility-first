@@ -10,6 +10,14 @@ a {
   @apply dark:text-slate-200;
 }
 
+main a {
+  @apply font-semibold;
+}
+
+h2 a, h3 a  {
+  @apply font-normal;
+}
+
 blockquote {
   @apply dark:border-l-slate-400 !important;
 }
