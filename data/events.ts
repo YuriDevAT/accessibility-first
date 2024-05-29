@@ -18,8 +18,16 @@ export const events: Event[] = [
     title: 'How blind people navigate the world, on and offline',
     icon: GiPublicSpeaker,
     speaker: 'Julia, Laura',
-    date: 'Juli 17, 2024',
+    date: 'July 19, 2024',
     type: 'Workshop',
+    location: 'WeAreDevelopers World Congress 2024',
+  },
+  {
+    title: 'Stop being cool, be accessible',
+    icon: GiVideoConference,
+    speaker: 'Julia',
+    date: 'July 17, 2024',
+    type: 'Lighning Talk',
     location: 'WeAreDevelopers World Congress 2024',
   },
   {
