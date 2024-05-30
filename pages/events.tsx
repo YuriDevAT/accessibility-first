@@ -60,7 +60,7 @@ const Events = () => {
             ))}
           </ul>
           <h2 className="text-3xl mt-12 mb-4 leading-snug font-bold text-center md:text-left">
-            Past Events
+            {t('h2-2')}
           </h2>
           <ul className="dark:text-slate-800">
             {pastEvents.map((event, index) => (

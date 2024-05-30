@@ -26,7 +26,7 @@ export function CopyRight() {
         >
           Yan Kurochin
         </a>
-        .
+        {t('p5')}
       </p>
     </div>
   );
