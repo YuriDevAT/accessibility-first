@@ -1,6 +1,6 @@
 ---
-title: 'Web accessibility for better togetherness'
-excerpt: 'The Vienna district where I live organizes an event called "Miteinander in Mariahilf" (en.: Together in Mariahilf), where locals can contribute different ideas for a better living together. This is where my specialty web accessibility comes into action. Let me share my thoughts....'
+title: 'ウェブ・アクセシビリティでより良い一体感を'
+excerpt: '私が住んでいるウィーン地区では、「Miteinander in Mariahilf」（和: マリアヒルフで一緒に）というイベントを開催している。より良い暮らしのために、地元の人々がさまざまなアイデアを提供できる。ここで、私の専門であるウェブ・アクセシビリティが活躍する。私の考えを紹介しよう。。。'
 coverImage: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
 date: '2022-07-07T05:35:07.322Z'
 tags: 'Blog'
@@ -14,11 +14,11 @@ ogPost:
   url: 'https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof'
 ---
 
-The Vienna district where I live organizes an event called "Miteinander in Mariahilf" (en.: Together in Mariahilf), where locals can contribute different ideas for a better living together. The best idea is even rewarded with a prize.
+私が住んでいるウィーン地区では、「Miteinander in Mariahilf」（和: マリアヒルフで一緒に）というイベントを開催している。より良い暮らしのために、地元の人々がさまざまなアイデアを提供できる。最も優れたアイデアには賞品が贈られる。
 
-This is where my specialty web accessibility comes into action. Let me share my thoughts.
+ここで、私の専門であるウェブ・アクセシビリティが活躍する。私の考えを紹介しよう。
 
-## My district - Mariahilf
+## 私の地区 - マリアヒルフ
 
 I have lived in Mariahilf for 15 years and I love it here. Mariahilf has stood for DEI for as long as I can remember: Diversity, Equality and Inclusion. It is a cultural district, known for its many gay bars, women from this district are invited every year to participate for free in the Vienna Women's Run, and no other district celebrates Pride Month as hard as we do.
 

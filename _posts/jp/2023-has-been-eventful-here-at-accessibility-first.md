@@ -25,16 +25,16 @@ ogPost:
 私たちの夢は、ワードプレスのサイトでは収まりきらないほど大きくなった。そこでユリアは仕事に取りかかり、新しいウェブサイトを構築した！コンテンツの見せ方を完全にコントロールできるようになったことで、より多くの洞察や逸話を皆さんにお届けしたいと思う。
 もちろん、#IDPD24に間に合わせるため、紫色にもしました。
 
-## March for Inclusion
+## インクルージョンのための行進
 
-Of course we joined the March for Inclusion! Accessibility doesn't end with a perfect AAA score on the WCAG. Accessibility is a means to an end: Inclusion. All our efforts to make the web more accessible are ultimately just one component to ensure persons with disabilities can lead a self-determined life. And that requires societal changes as well! It's important to us to not stop our quest for accessibility in the online world, but to also show up for the inclusion end game!
+もちろん、私たちは「インクルージョンのための行進」に参加しました！アクセシビリティは、WCAGのAAA満点で終わりではありません。アクセシビリティは目的を達成するための手段です： インクルージョンです。ウェブをよりアクセシブルにするための私たちの努力は、結局のところ、障害者が自己決定した生活を送れるようにするための1つの要素にすぎません。そして、それには社会の変化も必要です！オンラインの世界におけるアクセシビリティの探求を止めず、インクルージョンの最終的なゲームにも参加することが重要なのです！
 
-## Julia became a GDE
+## ユリアがGDEになった
 
-Our web accessibility specialist was recognized as a Google Development Expert and will be focusing on Accessibility within the Google products next year.
+当社のウェブ・アクセシビリティのスペシャリストがGoogle Development Expertに認定され、来年はGoogle製品におけるアクセシビリティに注力する予定です。
 
-## Digital Accessibility Meetups kicked off in Vienna
+## Digital Accessibility Meetupがウィーンで開幕
 
-Born as a spin-off from the UX Vienna Meetup, the first Meetup with a focus on accessibility started on December 7th, what a date to remember! Half of Accessibility First witnessed it, with Laura participating in the panel discussion as the UX Research perspective.
+UX Vienna Meetupのスピンオフとして生まれたアクセシビリティにフォーカスした最初のMeetupは、12月7日に始まりました！Accessibility Firstの半数がこのミートアップに参加し、ローラはUXリサーチの立場からパネルディスカッションに参加しました。
 
-Here's to learning even more and making the future more accessible in 2024!
+2024年、より多くのことを学び、よりアクセシブルな未来を作るために！

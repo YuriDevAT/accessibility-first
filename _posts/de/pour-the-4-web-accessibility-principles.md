@@ -1,5 +1,5 @@
 ---
-title: 'POUR - The 4 Web Accessibility Principles'
+title: 'POUR - Die 4 Web Barrierefreiheitsprinzipien'
 excerpt: 'To qualify your website and web application as accessible under the Web Content Accessibility Guidelines (WCAG 2.0) established by the World Wide Web Consortium’s Web Accessibility Initiative (W3C WAI), the content must meet these four principles (which form the acronym POUR)...'
 coverImage: '/assets/blog/en/pour-the-4-web-accessibility-principles/cover.png'
 date: '2022-07-17T07:35:07.322Z'

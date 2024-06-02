@@ -1,6 +1,6 @@
 ---
-title: 'Myths and Misconceptions about Accessibility'
-excerpt: 'In this article, I will address common myths about and objections to accessibility by presenting evidence and examples that debunk them and support reasons for accessibility....'
+title: 'Mythen und Misverständnisse über Barrierefreiheit'
+excerpt: 'In diesem Artikel werde ich gängige Mythen von und Vorurteile gegenüber Barrierefreiheit addressieren, indem ich Beweise und Beispiele liefere, welche diese zu Nichte machen und Gründe für Barrierefreiheit unterstützt ...'
 coverImage: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
 date: '2022-07-10T05:35:07.322Z'
 tags: 'Blog'
@@ -14,54 +14,56 @@ ogPost:
   url: 'https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab'
 ---
 
-## 1. Accessibility benefits only a small minority
+## 1. Von Barrierefreiheit profitiert nur eine kleine Minderheit
 
-**Accessibility benefits a wide variety of people.**
+**Barrierefreiheit hilft einer weiten Varität von Menschen.**
 
-About 20% of all people have some kind of disability. However, this doesn't necessarily impact a person's ability to use the internet and spend their money on your product.
-Without accessibility, the lives of people with disabilities could be impacted in a dramatically negative way because they can't use websites.
+Ungefähr 20% der Menschheit hat eine Art von Behinderung. Diese beinflusst nicht unbedingt die Fähigkeit einer Person, das Internet zu benutzen und deren Geld für dein Produkt auszugeben.
 
-Fully accessible websites are easier for search engines to index and catalog, making the website easier for everyone to find.
+Ohne Barrierefreiheit könnte das Leben von Menschen mit Behinderungen drastisch negativ beinflusst werden, da sie keine Webseiten benutzen können.
 
-They're also better for people who are getting older (they may be losing their eyesight, their hearing, their mobility, their cognitive abilities) - and guess what, we're all getting there (hopefully). And besides the fact that we're all getting older, we can all get a disability at any time (e.g., from an accident).
+Barrierefreie Webseiten sind einfacher für Suchmaschinen aufzuspüren, was es für jeden einfacher macht, sie zu finden,
 
-> So let's code now for our future selves.
+Außerdem sind barrierefreie Webseiten auch besser für ältere Menschen (die vielleicht ihr Augenlicht verlieren, ihr Gehör, ihre Mobilität, oder kognitiven Fähigkeiten) - und rate Mal, wie alle werden (hoffentlich) älter. Und wir alle können jederzeit eine Behinderung bekommen, zum Beispiel durch einen Unfall.
 
-## 2. Accessibility is a short-term project
+> Also lasst uns für unser zukünftiges Ich programmieren.
 
-**Accessibility is an ongoing design requirement.**
+## 2. Barrierefreiheit ist ein Kurzzeit-Projekt
 
-Accessibility will never disappear (just like (web) security, for example). As long as there are people on this planet, there will always be a need for accessible design.
+** Barrierefreiheit ist eine andauernde Design Verpflichtung.**
 
-Accessibility must be part of the entire process from the beginning: Business, design and quality assurance requirements, training new employees, and more.
+Barrierefreiheit wird niemals verschwinden (genauso wie (web) Security, zum Beispiel). Solange es Menschen auf diesen Planeten gibt, wird es immer das Bedüfnis an barrierefreiem Deisgn geben.
 
-It would be best if the company culture were fully committed to accessibility, through visionary leadership that provides resources and full-time positions for accessibility, as well as job opportunities for people with disabilities.
-It would be enormously helpful to have people with different abilities and disabilities working together on a daily basis.
+Barrierefreiheit muss von Beginn an Teil des gesamten Entwicklungsprozesses sein: Business, Design und Qualitätssicherungsanfoderungen, Antrainieren von neuen Angestellten, und mehr.
 
-## 3. Accessibility is the last step
+Es wäre das Beste, wenn die Firmenkultur sich völlig dem Thema Barrierefreiheit verpflichtet, durch visionäres Leadership, das Ressourcen zur Verfügung stellt, Vollzeit-Anstellungen für Barrierefreiheit, sowie Jobmöglichkeiten für Menschen mit Behinderungen.
 
-> Taking accessibility into account already in the design process makes it a lot easier and results in a better design than retrofitting as a last step.
+Es wäre enorm hilfreich wenn Menschen mit den verschiedensten Fähigkeiten und Behinderungen täglich zusammen arbeiten würden.
 
-If you only introduce accessibility as a final step, it can be very difficult to implement, often leading to poor design or even not implementing it at all. It could also make the process longer and more expensive.
+## 3. Barrierefreiheit kommt zum Schluss
 
-## 4. Accessibility is hard and expensive
+> Wenn Barrierefreiheit bereits zu Beginn des Entwicklungsprocess inkludiert wird, macht es die Arbeit leichter und münded in besseres Design als Retrofitting zum Schluss eines Projekts.
 
-Developing accessibility from the beginning is reasonable compared to the cost of alternatives, such as implementing accessibility as a final step, negative publicity, or lawsuits.
+Wenn Barrierefreiehit es als letzter Schritt inkludiert wird, kann es sehr schwierig sein, es einzubauen, was oft zu schlechtem Deisgn führt, oder das es gar nicht mehr implementiert wird. Es macht den Prozess länger und teuer.
 
-## 5. Accessibility is ugly
+## 4. Barrierefreiheit ist schwierig und teuer
 
-> If the component is ugly, you should look for another designer.
+Barrierefreiheit von Beginn an miteinzubauen ist angemessen vergleichsweise zu den Kosten die Entstehen, wenn es erst zum Schluss eingebaut wird, oder Strafen bezahlt werden müssen.
 
-Most accessibility features are invisible anyway and usually only accessible to screen readers (e.g. descriptive text). Writing your code with semantic HTML not only makes the code more readable, but also ensures better search engine optimization.
+## 5. Barrierefreiheit ist hässlich
 
-And let's face it, in what world is that fully accessible button on the right ugly?!
+> Wenn das Design hässlich ist, solltest du nach einem anderen Designer suchen.
 
-![A pen in codepen showing two buttons, one with default visuals grey in grey and one styled in blue background and white text and rounded borders.](/assets/blog/myths-and-misconceptions-about-accessibility/image-1.png)
+Die meisten barrierefreihen Features sind ohnehin unsichtbar und normalerweise nur mittels Bildschirmlesegerät erreichbar (zum Beispiel "Deskriptiver Text"). Den Code in semantischem HTML zu schreiben macht ihn nicht nur mehr leserlich, sondern verhilft auch zu besseren Suchmaschinenoptimierung.
 
-[Go to codepen to get the code!](https://codepen.io/YuriDevAT/pen/eYMzpgw)
+Und seien wir mal ehrlich, in welcher Welt ist der barrierefreie Button rechts hässlich?!
 
-## 6. Talk about this topic at Front-End Foxes Day 2022
+![Ein Beispeil erstellt in codepen, das zwei Buttons zeigt, einen in seiner ursprünglichen Gestalt in grau, und einer gestyled mit blauem Hintergrund, weißen Text und gerundetem Rand.](/assets/blog/myths-and-misconceptions-about-accessibility/image-1.png)
 
-Check out a full length talk about Myths & Misconception at the Front-End Foxes Day 2022, where I get into more details about each myth.
+[Gehe auf Codepen um den Code zu erhalten!](https://codepen.io/YuriDevAT/pen/eYMzpgw)
 
-[Talk on YouTube about Myths & Misconceptions about Accessibility.](https://www.youtube.com/watch?v=9goOuRJMEHY)
+## 6. Präsentation über dieses Thema am Front-End Foxes Day 2022
+
+Schaue dir die Präsentation Mythen und Missverständnisse über Barrierefreiheit am Front-End Foxes Day 2022 in voller Länge, wo ich noch näher auf jeden dieser Punkte eingehe (auf Englisch.)
+
+[Talk auf YouTube über Mythen & Missverständnisse über Barrierefreiheit.](https://www.youtube.com/watch?v=9goOuRJMEHY)

@@ -28,14 +28,14 @@ Through implemented emulation, it is possible to create an effect that helps see
 
 Color contrast is the ratio of contrast between two or more components. To be accessible, there must be adequate contrast between the color of the foreground information and the color of the background.
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-4.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-4.png)
 _Source: [WebAIM Million Report](https://webaim.org/projects/million/). Last Update: March 28, 2024_
 
 As the [annual WebAIM study](https://webaim.org/projects/million/) shows, insufficient color contrast is the most common automatically identified accessibility error on the web. More than 80% of all tested homepages have insufficient color contrast.
 
 Contrast and color are crucial factors regarding accessibility. The content of a webpage must be perceivable for all users, regardless of visual impairment.
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-5.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-5.png)
 _Source: [WebAIM Million Report](https://webaim.org/projects/million/). Last Update: March 28, 2024_
 
 Here are the results in tabular form. Homepages with the most WCAG 2 errors, categorized by WCAG error type and the percentage of homepages affected by them: Insufficient color contrast 81%, missing alternative text for images 54.5%, missing form input labels 48.6%, empty links/no link text available 44.6%, empty buttons/no button text available 28.2%, missing document language/homepage language: 17.1%.
@@ -90,7 +90,7 @@ To simulate visual impairments:
 - Click on **More Tools**
 - Click on **Developer Tools**
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-1.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-1.png)
 
 ### Open Rendering Options
 
@@ -98,7 +98,7 @@ To simulate visual impairments:
 - Click on **More Tools**
 - Click on **Rendering**
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-2.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-2.png)
 
 Now select one of the following options in the drop-down list under **Emulate visual impairments**:
 
@@ -110,7 +110,7 @@ Now select one of the following options in the drop-down list under **Emulate vi
 - Tritanopia (No Blue)
 - Achromatopsia (No Color)
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-3.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-3.png)
 
 The webpage will now be simulated with the chosen visual impairment and will update with each new selection.
 
@@ -124,37 +124,37 @@ Let's take a look at how these bright colours of Pokémon affect people with cer
 
 ### Original image - Trichromacy
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/original.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/original.png)
 A colourful image of the first generation starter Pokémon that does not simulate colour vision deficiency.
 
 ### Blurred vision
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/blurred.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/blurred.png)
 The effects of simulating blurred vision on the original image.
 
 ### Reduced contrast
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/reduced.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/reduced.png)
 The effects of simulating reduced contrast on the original image.
 
 ### Protanopia (red blindness)
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/protan-no-red.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/protan-no-red.png)
 The effects of simulating protanopia on the original image.
 
 ### Deuteranopia (green blindness)
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/deuter-no-green.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/deuter-no-green.png)
 The effects of simulating deuteranopia on the original image.
 
 ### Tritanopia (blue blindness)
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/trita-no-blue.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/trita-no-blue.png)
 The effects of simulating tritanopia on the original image.
 
 ### Achromatopsia (colour blindness)
 
-![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/achrom-no-color.png)
+![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/achrom-no-color.png)
 The effects of simulating achromatopsia on the original image.
 
 ## Conclusion
