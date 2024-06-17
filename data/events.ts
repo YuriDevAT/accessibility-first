@@ -27,8 +27,16 @@ export const events: Event[] = [
     icon: GiVideoConference,
     speaker: 'Julia',
     date: 'July 17, 2024',
-    type: 'Lighning Talk',
+    type: 'Lightning Talk',
     location: 'WeAreDevelopers World Congress 2024',
+  },
+  {
+    title: 'Web Accessibility',
+    icon: GiVideoConference,
+    speaker: 'Laura',
+    date: 'Juni 14, 2024',
+    type: 'Workshop',
+    location: 'Upleveled 2024',
   },
   {
     title: 'Getting started with designing for Web Accessibility',
