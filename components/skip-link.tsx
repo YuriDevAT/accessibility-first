@@ -8,7 +8,7 @@ const SkipLink = () => {
       <li>
         <a
           href="#theme-btn"
-          className="sr-only focus:not-sr-only focus:bg-black"
+          className="sr-only focus:not-sr-only"
         >
           {t('a1')}
         </a>

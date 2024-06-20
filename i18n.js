@@ -10,6 +10,7 @@ module.exports = {
       '404',
       'post-original',
       'footer',
+      'skip-link'
     ],
     '/all-posts': ['all-posts'],
     '/about': ['about'],
