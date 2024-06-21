@@ -1,6 +1,6 @@
 ---
-title: 'Preventing Color Contrast Errors with Effective Simulation Testing'
-excerpt: 'Designing and developing for various visual impairments can be challenging, especially when one doesn’t know exactly how people with visual impairments perceive colors and content on the web. Google Chrome DevTools offers a simple solution by simulating these impairments, thus helping to ...'
+title: 'Farbkontrastfehler vorbeugen mit effektivem Simulation-Testing'
+excerpt: 'Haben Sie schon einmal versucht, Text auf einem Bildschirm zu lesen, aber fanden es aufgrund der Farbgebung schwierig, ihn einwandfrei lesen zu können? Oder hatten Sie Schwierigkeiten, Inhalte auf einem Bildschirm ...'
 coverImage: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 date: '2024-05-16T08:35:07.322Z'
 tags: 'Blog'
@@ -14,176 +14,175 @@ ogPost:
   url: ''
 ---
 
-Have you ever tried to read text on a screen but found it difficult due to color choices, making it hard to read? Or have you had trouble recognizing content on a screen in very bright or dimly lit environments?
+Haben Sie schon einmal versucht, Text auf einem Bildschirm zu lesen, aber fanden es aufgrund der Farbgebung schwierig, ihn einwandfrei lesen zu können? Oder hatten Sie Schwierigkeiten, Inhalte auf einem Bildschirm in einer sehr hellen oder schwach beleuchteten Umgebung zu erkennen?
 
-An estimated 300 million people have color blindness, and about 253 million people have visual impairments, confronting these situations daily. Often, these situations stem from poor design decisions and could be avoided from the outset.
+Es gibt schätzungsweise 300 Millionen Menschen mit Farbenblindheit und etwa 253 Millionen Menschen mit Sehschwäche, die täglich mit diesen Situationen konfrontiert sind. Häufig sind diese Situationen auf schlechte Designentscheidungen zurückzuführen und könnten von Anfang an vermieden werden.
 
-Designing for various visual impairments can be a challenge for designers and developers, especially when they don't fully understand how people with different visual impairments perceive web content.
+Die Gestaltung für verschiedene Sehschwächen kann für Designer und Entwickler eine Herausforderung sein. Vor allem, wenn diese nicht wirklich wissen, wie Menschen mit unterschiedlichen Sehschwächen die Inhalte im Web wahrnehmen.
 
-Google Chrome provides a simple way for designers, developers, and anyone looking to expand their knowledge of text and color perceptions to display their designs and existing websites in different color vision deficiencies.
+Google Chrome bietet eine einfache Möglichkeit, Designern, Entwicklern und allen, die ihr Wissen in Bezug auf die unterschiedlichen Wahrnehmungsweisen von Text und Farben erweitern möchten, ihre Entwürfe und bestehende Webseiten in den unterschiedlichen Farbsehschwächen darzustellen.
 
-Through implemented emulation, it is possible to create an effect that helps see through the eyes of others, better understanding how products are perceived and visually understood by users. Continuously checking these results of web pages during development will prevent unwanted behavior in the future, making products as accessible as possible for visually impaired users from the start.
+Durch eine implementierte Emulation ist es möglich, einen Effekt zu erzeugen, der hilft, durch die Augen anderer Menschen zu sehen, um besser zu verstehen, wie Produkte von den Nutzern wahrgenommen und visuell verstanden werden. Werden diese Ergebnisse der Webseiten während der Entwicklung kontinuierlich überprüft, wird unerwünschtes Verhalten in Zukunft verhindert und Produkte von Anfang an so zugänglich wie möglich für sehbehinderte Nutzer gemacht.
 
-## Color Contrast: What it is and what it means in the development of products
+## Farbkontrast: Was es ist und bei der Entwicklung von Produkten bedeutet
 
-Color contrast is the ratio of contrast between two or more components. To be accessible, there must be adequate contrast between the color of the foreground information and the color of the background.
+Der Farbkontrast ist das Verhältnis des Kontrasts zwischen zwei oder mehreren Komponenten. Um zugänglich zu sein, muss ein angemessener Kontrast zwischen der Farbe der Information im Vordergrund und der Farbe des Hintergrunds bestehen.
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-4.png)
-_Source: [WebAIM Million Report](https://webaim.org/projects/million/). Last Update: March 28, 2024_
+_Quelle: [WebAIM Million Report](https://webaim.org/projects/million/). Letztes Update: 28. März, 2024_
 
-As the [annual WebAIM study](https://webaim.org/projects/million/) shows, insufficient color contrast is the most common automatically identified accessibility error on the web. More than 80% of all tested homepages have insufficient color contrast.
+Wie die jährliche [Studie von WebAIM](https://webaim.org/projects/million/) zeigt, ist ein zu geringer Farbkontrast der häufigste automatisch identifizierte Accessibility Fehler im Web. Mehr als 80% aller getesteten Homepages haben einen zu geringen Farbkontrast.
 
-Contrast and color are crucial factors regarding accessibility. The content of a webpage must be perceivable for all users, regardless of visual impairment.
+Kontrast und Farbe sind entscheidende Faktoren in Bezug auf Barrierefreiheit. Inhalte einer Webseite müssen für alle User, ungeachtet ob Sehbehinderung oder nicht, wahrnehmbar sein.
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-5.png)
-_Source: [WebAIM Million Report](https://webaim.org/projects/million/). Last Update: March 28, 2024_
+_Quelle: [WebAIM Million Report](https://webaim.org/projects/million/). Letztes Update: 28. März, 2024_
 
-Here are the results in tabular form. Homepages with the most WCAG 2 errors, categorized by WCAG error type and the percentage of homepages affected by them: Insufficient color contrast 81%, missing alternative text for images 54.5%, missing form input labels 48.6%, empty links/no link text available 44.6%, empty buttons/no button text available 28.2%, missing document language/homepage language: 17.1%.
+Hier nochmal die Ergebnisse in Tabellenform. Homepages mit den meisten WCAG 2 Fehlern, gegliedert in WCAG-Fehlertyp und wieviel Prozent der Homepages davon betroffen sind. Geringer Farbkontrast 81%, fehlender Alternativtext von Bildern 54,5%, fehlende Form Input Labels 48,6%, leere Links / kein vorhandener Linktext 44,6%, leere Buttons / kein vorhandener Buttontext 28.2%, fehlende Dokumentsprache / Sprache der Homepage: 17,1%.
 
-To have a consistent understanding of good color contrast worldwide, the [WAI Working Group](https://www.w3.org/WAI/about/groups/) has developed a [color contrast formula](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio) that defines this value. For text on background, this value is 4.5:1, and for icons and graphics, it's 3:1 to their background. This can be measured using a color contrast checker, such as the [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/). If this value is adhered to, people with moderate visual impairments can recognize and read text and graphics without needing assistive technologies.
+Um ein gleichmäßiges Verständnis von gutem Farbkontrast weltweit zu haben, hat die [WAI Arbeitsgruppe](https://www.w3.org/WAI/about/groups/) eine [Farbkontrast Formel](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio) entwickelt, die diesen Wert definiert. Für Text auf Hintergrund liegt dieser Wert bei 4.5:1, für Icons und Grafiken bei 3:1 zu ihrem Hintergrund. Gemessen kann dieser mittels Farbkontrast Checker werden, zum Beispiel dem [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/). Wird dieser Wert eingehalten, sind Menschen mit mäßiger Sehschwäche in der Lage, Text und Grafiken zu erkennen und lesen, ohne assistive Technologien benutzen zu müssen.
 
-## Different Types of Color Vision Deficiencies
+## Die verschiedenen Farbsehschwächen
 
-According to the World Health Organization (WHO), nearly 300 billion people have some form of color vision deficiency. Often referred to generally as color blindness, there are different forms of color vision deficiencies. These are explained in more detail in the next section. In the rarest cases, people cannot perceive color at all. In most cases, people with color vision deficiencies are unable to perceive red, green, or blue fully.
+Laut WHO (World Health Organization, dt. Weltgesundheitsorganisation) haben fast 300 Milliarden Menschen eine Art der Farbsehschwäche. Oft wird diese allgemein als Farbenblindheit bezeichnet, obwohl es unterschiedliche Formen der Farbsehschwäche gibt. Diese werden im nächsten Abschnitt genauer erläutert. In den seltensten Fällen können Menschen keine Farbe wahrnehmen. In den meisten Fällen sind Menschen mit Farbsehschwäche nicht in der Lage, rot, grün oder blau vollständig wahrzunehmen.
 
-The causes vary. Some are genetically determined, while others result from a disease such as diabetes or multiple sclerosis. Aging can also be a contributing factor to color vision deficiencies.
+Die Ursachen dafür sind unterschiedlich. Manche sind genetisch bedingt, andere sind Resultat einer Krankheit, wie Diabetes oder Multiple Sklerose. Auch mit zunehmendem Alter kann Farbsehschwäche eine Begleiterscheinung sein.
 
-These visual impairments often make it difficult to distinguish colors from each other, exacerbating color contrast problems.
+Diese Sehschwächen machen es oft schwierig, Farben voneinander zu unterscheiden, was Farbkontrastprobleme verstärkt.
 
-### Trichromacy (Normal Vision)
+### Trichromacy (Normale Sicht)
 
-In normal color vision, all three types of cone cells are used, functioning properly. Another term for normal color vision is trichromacy. People with normal color vision are called trichromats.
+Beim normalen Farbsehen werden alle drei Arten von Zapfenzellen verwendet, die richtig funktionieren. Ein anderer Begriff für normales Farbsehen ist Trichromie. Menschen mit normalem Farbsehvermögen werden als Trichromaten bezeichnet.
 
-### Visual Acuity (Blurry Vision)
+### Sehschärfe (verschwommene Sicht)
 
-Visual acuity is measured according to an agreed-upon standard under the best conditions. The measurement is called visual acuity. The visual field is the area a person can see when their eyes are fixed in one position. This may appear blurry depending on acuity, making it unreadable due to small font sizes or little contrast.
+Die Sehschärfe wird anhand einer vereinbarten Norm unter den besten Bedingungen gemessen. Die Messung wird als Sehschärfe bezeichnet. Das Gesichtsfeld ist der Bereich, den eine Person sehen kann, wenn ihre Augen in einer Position fixiert sind. Dieses kann je nach Schärfe verschwommen erscheinen und so aufgrund von zu kleiner Schriftart oder wenig Kontrast nicht leserlich sein.
 
-### Contrast Sensitivity
+### Kontrastempfindlichkeit
 
-Contrast is the visual effect caused by the difference in brightness between adjacent foreground and background areas of an object. If one of the areas (foreground or background) is light and the other is dark, there is high contrast. With similar brightness values, such as beige on white or black on dark brown, the contrast is low. The higher the contrast ratio, the easier it is to visually discern the boundary between adjacent components.
+Der Kontrast ist der visuelle Effekt, der durch den Unterschied zwischen der Helligkeit benachbarter Vorder- und Hintergrundbereiche eines Objektes verursacht wird. Wenn einer der beiden Bereiche (Vorder- oder Hintergrund) hell und der andere dunkel ist, liegt ein hoher Kontrast vor. Bei ähnlichen Helligkeitswerten, wie z. B. Beige auf Weiß oder Schwarz auf Dunkelbraun, ist der Kontrast gering. Je höher das Kontrastverhältnis ist, desto einfacher ist es, die Grenze der angrenzenden Komponenten visuell zu erkennen.
 
-### Protanopia (Red-Blindness)
+### Protanopia (Rotblindheit)
 
-People with protanopia have reduced sensitivity to red light and tend to not differentiate black from various shades of red, or dark brown from dark green, dark orange, dark red, dark blue/violet, and black, among others.
+Menschen mit Protanopie haben eine verminderte Empfindlichkeit für rotes Licht und neigen dazu z.B. Schwarz mit vielen Schattierungen von Rot, oder Dunkelbraun mit Dunkelgrün, Dunkelorange, Dunkelrot, Dunkelblau/Violett und Schwarz, nicht unterscheiden zu können.
 
-### Deuteranopia (Green-Blindness)
+### Deuteranopia (Grünblindheit)
 
-People with deuteranopia have reduced sensitivity to green light. They typically confuse medium shades of red with medium shades of green, turquoise with gray and medium pink, or light green with yellow, pale pink with light gray/white.
+Menschen mit Deuteranopie haben eine verminderte Empfindlichkeit für grünes Licht. Sie verwechseln unter anderem meist mittlere Rottöne mit mittleren Grüntönen, Blaugrün mit Grau und Mittelrosa, oder helle Grüntöne mit Gelbtönen, Blassrosa mit Hellgrau/Weiß.
 
-### Tritanomaly (Blue-Blindness)
+### Tritanomaly (Blaublindheit)
 
-Tritanomaly is very rare, estimated to affect 1 in 30-50,000 people. People with reduced blue sensitivity have difficulty distinguishing between blue and yellow, purple and red, as well as blue and green. For these individuals, the world appears mostly as red, pink, black, white, gray, and turquoise.
+Tritanomalie ist sehr selten, geschätzt betrifft es 1 in 30-50.000 Personen. Menschen mit verminderter Blauempfindlichkeit haben Schwierigkeiten, die Unterschiede zwischen Blau und Gelb, Violett und Rot sowie Blau und Grün zu erkennen. Für diese Menschen erscheint die Welt im Allgemeinen als rot, rosa, schwarz, weiß, grau und türkis.
 
-### Achromatopsia (Color-Blindness)
+### Achromatopsia (Farbblindheit)
 
-Achromatopsia or monochromatism refers to complete color blindness. This occurs very, very rarely, in about 1 in 33,000 people. People with achromatopsia or monochromatism can hardly perceive red, green, or blue light. Their world consists mainly of various shades of gray from black to white, similar to an old black-and-white television.
+Bei Achromatopsie oder Monochromatismus spricht man von vollständiger Farbenblindheit. Diese kommt sehr, sehr selten vor, in etwa 1 in 33.000 Personen. Menschen mit Achromatopsie oder Monochromatismus können rotes, grünes oder blaues Licht fast nicht wahrnehmen. Ihre Welt besteht hauptsächlich aus verschiedenen Grautönen von Schwarz bis Weiß, ähnlich wie bei einem alten Schwarz-Weiß-Fernseher.
 
-## Simulation with Chrome DevTools
+## Simulation mit Chrome DevTools
 
-The best way to understand the different forms of color vision deficiencies is by comparing original images with simulated images of our website. Chrome DevTools offers designers and developers the ability to simulate the effects of these visual impairments on their own web applications, helping to **identify** and **fix** contrast issues, and above all, to **understand** them!
+Der beste Weg, um die verschiedenen Formen der Farbsehschwäche zu verstehen, ist der Vergleich von Ausgangsbildern und simulierten Bildern unserer Website. Chrome DevTools bietet Designern und Entwicklern die Möglichkeit, die Auswirkungen dieser Sehschwächen auf ihre eigenen Webanwendungen zu simulieren, um so Kontrastprobleme zu _finden_, zu _beheben_, und vor allem auch zu _verstehen_!
 
-To simulate visual impairments:
+Um die Sehschwächen zu simulieren,
 
-### Open DevTools
+### Öffne Entwicklertools
 
-- Click on the **three vertical dots** in the top right corner of the toolbar
-- Click on **More Tools**
-- Click on **Developer Tools**
+- Klicke auf die **drei vertikalen Punkte** oben rechts in der Toolbar
+- Klicke auf **Weitere Tools**
+- Klicke auf **Entwicklertools**
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-1.png)
 
-### Open Rendering Options
+### Öffne Rendering Optionen
 
-- Click on the **three vertical dots** in the top right corner of the Developer Toolbar
-- Click on **More Tools**
-- Click on **Rendering**
+- Klicke auf die **drei vertikalen Punkte** oben rechts in der Entwickler Toolbar
+- Klicke auf **Weitere Tools**
+- Klicke auf **Rendering**
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-2.png)
 
-Now select one of the following options in the drop-down list under **Emulate visual impairments**:
+Wähle nun eine der folgenden Optionen in der Drop-Down Liste unter **Sehschwächen emulieren** aus:
 
-- No Emulation
-- Blurred Vision
-- Reduced Contrast
-- Protanopia (No Red)
-- Deuteranopia (No Green)
-- Tritanopia (No Blue)
-- Achromatopsia (No Color)
+- No Emulation (dt. Keine Emulation)
+- Blurred Vision (dt. Verschwommenes Sehen)
+- Reduced Contrast (dt. Weniger Kontrast)
+- Protanopia (No Red) (dt. Protanopie (kein Rot))
+- Deuteranopia (No Green) (dt. Deuteranopie (kein Grün))
+- Tritanopia (No Blue) (dt. Tritanopie (kein Blau))
+- Achromatopsia (No Color) (dt. Achromatopsie (keine Farbe))
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/img-3.png)
 
-The webpage will now be simulated with the chosen visual impairment and will update with each new selection.
+Die Webseite wird nun mit der gewählten Sehschwäche simuliert und aktualisiert sich mit jeder neuen Auswahl.
 
-## Results
+## Ergebnisse
 
-In the 1990s, Nintendo released two Game Boy games that at first glance only differed in colour. We are talking about Pokémon Red Edition and Pokémon Blue Edition. The Pokémon games take their name from the colour of the Pokémon depicted on them. The red game features Charizard, the blue Blastoise, the green Venusaur (which was never released in Europe, by the way) and the yellow additional version Pikachu, which was released a year later.
+In den 90er Jahren erschienen zwei Game Boy Spiele der Firma Nintendo, die sich auf den ersten Blick nur durch ihre Farbe unterschieden. Die Rede ist von Pokémon Rote Edition und Pokémon Blaue Edition. Die Pokémon-Spiele haben ihren Namen von der Farbe der Pokémon, die darauf abgebildet sind. Das rote Spiel zeigt Glurak, das blaue Turtok, das grüne Bisaflor (das übrigens nie in Europa erschienen ist) und die ein Jahr später erschienene gelbe Zusatzversion Pikachu.
 
-This is also known as colour independence, as it is possible for anyone, regardless of whether they have colour vision deficiency or not, to distinguish the games from each other based on the Pokémon, even if the colours cannot be distinguished.
+Hier spricht man auch Farbunabhängigkeit, da es jedem Menschen, egal ob Farbsehschwäche oder nicht, möglich ist, die Spiele anhand der Pokémon voneinander unterscheiden zu können, auch wenn die Farben nicht unterschieden werden können.
 
-Let's take a look at how these bright colours of Pokémon affect people with certain forms of colour vision deficiency to better understand what we as designers and developers should consider before deciding on a colour and typography combination to avoid accessibility issues from the start.
+Schauen wir uns an, wie diese bunten Farben der Pokémon auf Menschen mit bestimmten Formen der Farbsehschwäche wirken, um besser zu verstehen, was wir als Designer und Entwickler prüfen sollten, bevor wir uns für eine Farb- und Typografie Kombination entscheiden, um Probleme mit der Zugänglichkeit von Anfang an zu vermeiden.
 
-### Original image - Trichromacy
+### Originales Bild – Trichromacy
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/original.png)
-A colourful image of the first generation starter Pokémon that does not simulate colour vision deficiency.
+Ein farbenfrohes Bild der Starter- Pokémon der ersten Generation, bei dem keine Farbsehschwäche simuliert wird.
 
-### Blurred vision
+### Unscharfe Sicht
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/blurred.png)
-The effects of simulating blurred vision on the original image.
+Die Auswirkungen der Simulation von unscharfer Sicht auf das originale Bild.
 
-### Reduced contrast
+### Verminderter Kontrast
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/reduced.png)
-The effects of simulating reduced contrast on the original image.
+Die Auswirkungen der Simulation von reduziertem Kontrast auf das originale Bild.
 
-### Protanopia (red blindness)
+### Protanopie (Rotblindheit)
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/protan-no-red.png)
-The effects of simulating protanopia on the original image.
+Die Auswirkungen der Simulation von Protanopie auf das originale Bild.
 
-### Deuteranopia (green blindness)
+### Deuteranopie (Grünblindheit)
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/deuter-no-green.png)
-The effects of simulating deuteranopia on the original image.
+Die Auswirkungen der Simulation von Deuteranopie auf das originale Bild.
 
-### Tritanopia (blue blindness)
+### Tritanopie (Blaublindheit)
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/trita-no-blue.png)
-The effects of simulating tritanopia on the original image.
+Die Auswirkungen der Simulation von Tritanopie auf das originale Bild.
 
-### Achromatopsia (colour blindness)
+### Achromatopsie (Farbenblindheit)
 
 ![](/assets/blog/preventing-color-contrast-errors-with-effective-simulation-testing/achrom-no-color.png)
-The effects of simulating achromatopsia on the original image.
+Die Auswirkungen der Simulation von Achromatopsie auf das originale Bild.
 
-## Conclusion
+## Fazit
 
-After presenting the original image in various forms of visual impairment using Chrome DevTools, the following can be concluded:
+Nachdem das originale Bild mit Hilfe der Chrome DevTools in verschiedenen Formen von Sehschwäche präsentiert wurde, lässt sich Folgendes festhalten:
 
-**Colour blindness simulations show clear differences:** by simulating colour vision deficiencies such as protanopia or achromatopsia, the challenges that affected individuals face when viewing coloured images become clear. Colours that are clearly distinguishable for people with normal vision can be difficult to distinguish for people with colour vision deficiency.
+**Farbblindheitssimulationen zeigen deutliche Unterschiede:** Durch die Simulation von Farbsehschwächen wie Protanopie oder Achromatopsie werden die Herausforderungen deutlich, mit denen betroffene Personen beim Betrachten von farbigen Bildern konfrontiert sind. Farben, die für Menschen mit normaler Sehkraft klar unterscheidbar sind, können für Personen mit Farbsehschwäche schwer zu unterscheiden sein.
 
-**Contrast is crucial:** The simulations show that sufficient contrast between the foreground and background is particularly important to ensure that information is easily recognisable for people with visual impairments.
+**Kontrast ist entscheidend:** In den Simulationen zeigt sich, dass ausreichender Kontrast zwischen Vordergrund und Hintergrund besonders wichtig ist, um sicherzustellen, dass Informationen für Personen mit Sehschwächen gut erkennbar sind.
 
-**Accessibility is important:** the presentation of images should not only be designed for normal visual acuity, but also for a wide range of visual impairments. By considering accessibility guidelines and regularly testing images for their effect on different visual impairments, designers and developers can ensure that their content is accessible to the widest possible audience.
+**Barrierefreiheit ist wichtig:** Die Präsentation von Bildern sollte nicht nur auf normale Sehschärfe ausgelegt sein, sondern auch auf eine breite Palette von Sehschwächen. Durch die Berücksichtigung von Barrierefreiheitsrichtlinien und die regelmäßige Überprüfung von Bildern auf deren Wirkung bei verschiedenen Sehschwächen können Designer und Entwickler sicherstellen, dass ihre Inhalte für ein möglichst großes Publikum zugänglich sind.
 
-Overall, the visual impairment simulations in Chrome DevTools highlight the importance of accessible design for digital content to ensure that information is equally accessible to all users.
+Insgesamt verdeutlichen die Sehschwäche-Simulationen in den Chrome DevTools die Bedeutung von barrierefreiem Design für digitale Inhalte, um sicherzustellen, dass Informationen für alle Nutzer gleichermaßen zugänglich sind.
 
-## Resources
+## Ressourcen
 
-More about colour blindness [https://www.colourblindawareness.org/colour-blindness](https://www.colourblindawareness.org/colour-blindness)
+Mehr über Farbenblindheit (auf Englisch) [https://www.colourblindawareness.org/colour-blindness](https://www.colourblindawareness.org/colour-blindness)
 
-Understanding the minimum criterion of contrast [https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html)
+Minimum Kriterium von Kontrast verstehen (auf Englisch) [https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html)
 
-Accessibility in contrast and colour [https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html](https://webaim.org/articles/contrast)
+Barrierefreiheit in Kontrast und Farbe (auf Englisch) [https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html](https://webaim.org/articles/contrast)
 
-World Health Organisation (WHO) Key facts about blindness and visual impairment [https://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment](https://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment)
+Weltgesundheitsorganisation (WHO) Schlüsselfaktoren über Blindheit und Seheinschränkungen (auf Englisch) [https://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment](https://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment)
 
 WebAIM Million Report 2024 [https://webaim.org/projects/million/](https://webaim.org/projects/million/)
 
-W3 Colour contrast value definition [https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio)
+W3 Farbkontrastwert Definition [https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio)
 
 ---
 
-This post was originally published on [Fronta11y](https://www.fronta11y.org/) for GAAD 2024, in German.
-German article [Farbkontrastfehler vorbeugen mit effektivem Simulation-Testing](https://www.fronta11y.org/farbkontrastfehler-vorbeugen-mit-effektivem-simulationstesting/)
+Dieser Post wurde ursprünglich veröffentlicht auf [Fronta11y](https://www.fronta11y.org/) für [GAAD (Global Accessibility Awareness Day)](https://accessibility.day/) 2024.

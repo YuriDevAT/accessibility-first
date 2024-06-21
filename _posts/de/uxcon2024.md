@@ -1,6 +1,6 @@
 ---
-title: 'See you at uxcon vienna'
-excerpt: 'At this years uxcon in Vienna, Laura and Julia are holding a workshop about how to create and test website to not only fulfill requirements but go far beyond the checklist ...'
+title: 'Wir sehen uns auf der uxcon vienna'
+excerpt: 'Auf der diesjährigen uxcon in Wien halten Laura und Julia einen Workshop darüber, wie man eine Webseite erstellt und testet, die nicht nur die Anforderungen erfüllt, sondern weit über die Checkliste hinausgeht ...'
 coverImage: '/assets/blog/en/uxcon2024/cover.png'
 date: '2024-04-29T10:35:07.322Z'
 tags: 'Blog'
@@ -14,20 +14,20 @@ ogPost:
   url: ''
 ---
 
-See you at uxcon Vienna 2024!
+Wir sehen uns auf der uxcon vienna 2024!
 
 ## Workshop: Accessibility is not a checklist
 
-Finally, the [program of this years uxcon vienna](https://program.uxcon.at/) is out. And we are part of it.
+Endlich, das [Programm der diesjährigen uxcon vienna](https://program.uxcon.at/) ist da. Und wir sind ein Teil davon.
 
-On the day 2 of the event, Friday, September 20th, we are going to hold a workshop about how to spot the most common accessibility bugs plaguing an assistive tech user’s journey and how to fix them.
+Am zweiten Tag der Veranstaltung, am Freitag, den 20. September, werden wir einen Workshop abhalten, in dem es darum geht, wie man die häufigsten Zugänglichkeitsfehler aufspürt, die einen Assistive Tech-Benutzer plagen, und wie man sie beheben kann.
 
-Code can look intimidating, but it's often just one small part that's dirty and if re-written clean, automatically fixes a lot of issues. For designers, it's important to have the agency to call their devs out on dirty code, but to do so, we first must know the difference and more importantly, the benefits of clean code.
+Code kann einschüchternd wirken, aber oft ist es nur ein kleiner Teil, der fehlerhaft ist, und wenn er sauber umgeschrieben wird, werden automatisch viele Probleme behoben. Für Designer ist es wichtig, die Möglichkeit zu haben, ihre Entwickler auf fehlerhaften Code aufmerksam zu machen, aber dazu müssen wir zunächst den Unterschied und vor allem die Vorteile von sauberem Code kennen.
 
-All participants are cordially invited to bring their website for us to test together!
+Alle Teilnehmer sind herzlich eingeladen, ihre Webseite mitzubringen, damit wir sie gemeinsam testen können!
 
 ---
 
-## Other events
+## Weitere Veranstaltungen
 
-Stay up to date with the latest [events, Laura and Julia are attending as speakers!](https://accessibilityfirst.at/events)
+Bleib auf dem Laufenden über die aktuellsten [Veranstaltungen, bei denen Laura und Julia als Referenten auftreten](https://accessibilityfirst.at/events).
