@@ -13,7 +13,7 @@ const Events = () => {
 
   const upcomingEvents: Event[] = events.filter(
     (event) => new Date(event.date) >= currentDate
-  );
+  ).sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
   const pastEvents: Event[] = events.filter(
     (event) => new Date(event.date) < currentDate
   );
