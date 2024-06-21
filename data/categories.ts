@@ -1,7 +1,7 @@
 import { Lists } from '../@types/lists';
 
 export const categories: Lists[] = [
-  { key: 'allArticles', path: '/' },
+  { key: 'allPosts', path: '/all-posts' },
   { key: 'accessibility', path: '/accessibility' },
   { key: 'uxResearch', path: '/ux-research' },
   { key: 'uxDesign', path: '/ux-design' },
