@@ -30,4 +30,4 @@ Alle Teilnehmer sind herzlich eingeladen, ihre Webseite mitzubringen, damit wir 
 
 ## Weitere Veranstaltungen
 
-Bleib auf dem Laufenden über die aktuellsten [Veranstaltungen, bei denen Laura und Julia als Referenten auftreten](https://accessibilityfirst.at/events).
+Bleib auf dem Laufenden über die aktuellsten [Veranstaltungen, bei denen Laura und Julia als Referenten auftreten](https://accessibilityfirst.at/de/events).

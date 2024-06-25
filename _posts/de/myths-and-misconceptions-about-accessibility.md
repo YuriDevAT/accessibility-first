@@ -58,7 +58,7 @@ Die meisten barrierefreihen Features sind ohnehin unsichtbar und normalerweise n
 
 Und seien wir mal ehrlich, in welcher Welt ist der barrierefreie Button auf dem Bild hier rechts hässlich?!
 
-![Ein Beispeil erstellt in codepen, das zwei Buttons zeigt, einen in seiner ursprünglichen Gestalt in grau, und einer gestyled mit blauem Hintergrund, weißen Text und gerundetem Rand.](/assets/blog/myths-and-misconceptions-about-accessibility/image-1.png)
+![Ein Beispeil erstellt in codepen, das zwei Buttons zeigt, einen in seiner ursprünglichen Gestalt in grau, und einer gestyled mit blauem Hintergrund, weißen Text und gerundetem Rand.](/assets/blog/en/myths-and-misconceptions-about-accessibility/image-1.png)
 
 [Gehe auf Codepen um den Code zu erhalten!](https://codepen.io/YuriDevAT/pen/eYMzpgw)
 
