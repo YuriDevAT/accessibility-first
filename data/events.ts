@@ -31,6 +31,14 @@ export const events: Event[] = [
     location: 'WeAreDevelopers World Congress 2024',
   },
   {
+    title: 'Testing for Web Accessibility',
+    icon: GiVideoConference,
+    speaker: 'Julia',
+    date: 'July 16, 2024',
+    type: 'Talk',
+    location: 'Japan Test Community',
+  },
+  {
     title: 'Web Accessibility',
     icon: GiVideoConference,
     speaker: 'Laura',
