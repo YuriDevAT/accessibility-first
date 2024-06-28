@@ -7,6 +7,14 @@ import {
 
 export const events: Event[] = [
   {
+    title: 'Accessibility in React Application',
+    icon: GiPublicSpeaker,
+    speaker: 'Julia',
+    date: 'Otkober 25, 2024',
+    type: 'Talk',
+    location: 'reactjsday Verona',
+  },
+  {
     title: 'Accessibility is not a checklist',
     icon: GiPublicSpeaker,
     speaker: 'Julia, Laura',
