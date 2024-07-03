@@ -23,6 +23,14 @@ export const events: Event[] = [
     location: 'UXCon Vienna',
   },
   {
+    title: 'Invisible Stigma and its influence on UX Research for Accessibility',
+    icon: GiVideoConference,
+    speaker: 'Laura',
+    date: 'September 12, 2024',
+    type: 'Talk',
+    location: '#id24',
+  },
+  {
     title: 'How blind people navigate the world, on and offline',
     icon: GiPublicSpeaker,
     speaker: 'Julia, Laura',
@@ -45,6 +53,14 @@ export const events: Event[] = [
     date: 'July 16, 2024',
     type: 'Talk',
     location: 'Japan Test Community',
+  },
+  {
+    title: 'Building for Everyone',
+    icon: GiDiscussion,
+    speaker: 'Julia, Laura',
+    date: 'July 06, 2024',
+    type: 'Panel Discussion',
+    location: 'GDG Mons Belgium',
   },
   {
     title: 'Web Accessibility',
