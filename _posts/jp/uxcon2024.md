@@ -30,4 +30,4 @@ All participants are cordially invited to bring their website for us to test tog
 
 ## Other events
 
-Stay up to date with the latest [events, Laura and Julia are attending as speakers!](https://accessibilityfirst.at/events)
+Stay up to date with the latest [events, Laura and Julia are attending as speakers!](https://accessibilityfirst.at/jp/events)

@@ -56,7 +56,7 @@ Most accessibility features are invisible anyway and usually only accessible to 
 
 And let's face it, in what world is that fully accessible button on the right ugly?!
 
-![A pen in codepen showing two buttons, one with default visuals grey in grey and one styled in blue background and white text and rounded borders.](/assets/blog/myths-and-misconceptions-about-accessibility/image-1.png)
+![A pen in codepen showing two buttons, one with default visuals grey in grey and one styled in blue background and white text and rounded borders.](/assets/blog/en/myths-and-misconceptions-about-accessibility/image-1.png)
 
 [Go to codepen to get the code!](https://codepen.io/YuriDevAT/pen/eYMzpgw)
 

@@ -20,7 +20,7 @@ Since there is no industry standard for haptic and audio feedback in assistive t
 
 Now the obvious challenge for me, a sighted person, is that I have no clue how one learns to navigate with a white cane. Furthermore, while navigational mobility officer sounded fancy, I had no idea what this role would be called in German, and if there even was a counterpart for this role outside the UK.
 
-Confused as to where to find one, but fully convinced to try by the brilliance of the idea our test user gave us, I started by asking my contacts at [Hilfsgemeinschaft](https://www.hilfsgemeinschaft.at/) for help. And oh my did they come through! Not only with the German translation but with a personal recommendation plus contact details to [Blindenverand](https://www.blindenverband-wnb.at/)! Jackpot! So after writing another email explaining all of the above, I already had a meeting scheduled.
+Confused as to where to find one, but fully convinced to try by the brilliance of the idea our test user gave us, I started by asking my contacts at [Hilfsgemeinschaft](https://www.hilfsgemeinschaft.at/) for help. And oh my did they come through! Not only with the German translation but with a personal recommendation plus contact details to [Blindenverband](https://www.blindenverband-wnb.at/)! Jackpot! So after writing another email explaining all of the above, I already had a meeting scheduled.
 
 ## What does an Orientational Mobility Officer (OMO) do?
 

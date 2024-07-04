@@ -14,7 +14,7 @@ ogPost:
   url: 'https://dev.to/yuridevat/benefits-of-accessible-design-4m2a'
 ---
 
-In my last article on [Myths and Misconceptions about Accessibility](https://www-accessibilityfirst.at/posts/myths-and-misconceptions-about-accessibility), I talked about how people believe that only a few people would benefit from accessibility.
+In my last article on [Myths and Misconceptions about Accessibility](https://www-accessibilityfirst.at/jp/posts/myths-and-misconceptions-about-accessibility), I talked about how people believe that only a few people would benefit from accessibility.
 
 The fact is that accessibility benefits a wide range of people, society and the economy. Let's go into detail by exploring good reasons for accessible design.
 

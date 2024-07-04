@@ -40,7 +40,7 @@ So **legal blindness** is a convention on visual acuity in combination with fiel
 
 > When I am explaining what I do to people outside the accessibility space, I like to give them this as a reference: With the best possible prescription glasses, you would be able to identify only the biggest letter on the top of the eyesight chart.
 
-![An example of a Snellen Chart commonly used for visual acuity testing. A red line highlights 20/20 vision. A green line highlights 20/30 vision.](/assets/blog/blind-visually-impaired-or-low-sighted/image-1.png)
+![An example of a Snellen Chart commonly used for visual acuity testing. A red line highlights 20/20 vision. A green line highlights 20/30 vision.](/assets/blog/en/blind-visually-impaired-or-low-sighted/image-1.png)
 _Snellen Chart By Jeff Dahl - Own work by uploader, Based on the public domain document: [1], CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=426220_
 
 Some people can identify contrast, contours, and colors - although color blindness is a whole other beast - some might have cloudy vision or blind spots, or the exact opposite: a very narrow field of vision. There are many different medical conditions that cause visual acuity loss. Some develop gradually, like retinitis pigmentosa, but some can happen out of the blue, like apoplexia papillae. If your Latin is rusty, don’t worry: one is a nerve thing and the other is caused by insufficient blood supply to the optic nerve.
