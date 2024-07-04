@@ -39,6 +39,7 @@ const About = () => {
             {t('h2-3')}
           </h2>
           <p className="text-lg leading-relaxed my-6">{t('p5')}</p>
+          <p className="text-lg leading-relaxed my-6">{t('p5-1')}</p>
           <h3 className="text-2xl mt-8 mb-4 leading-snug font-semibold">
             {t('h3-1')}
           </h3>
