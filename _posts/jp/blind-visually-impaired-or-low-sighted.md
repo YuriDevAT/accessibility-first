@@ -1,6 +1,6 @@
 ---
-title: 'Blind, visually impaired, or low sighted?'
-excerpt: 'There is an ongoing debate about what to call it. Visual Impairment or blindness? What is correct: A blind person or a person living with blindness or a person with low vision? But what is the right word? Well, I doubt there is just one...'
+title: '全盲、視覚障害、弱視の方？'
+excerpt: 'これを何と呼ぶかについては、現在も議論が続いています。視覚障害か失明か？何が正しいのか： 視覚障害者なのか、失明者なのか、弱視者なのか。しかし、何が正しい言葉なの でしょうか？まあ、1つしかないとは思わないが。。。'
 coverImage: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
 date: '2023-09-01T10:35:07.322Z'
 tags: 'Blog'
@@ -14,47 +14,47 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/blind-visually-impaired-or-low-sighted'
 ---
 
-There is an ongoing debate about what to call it. Visual Impairment or blindness? What is correct: A _blind person_ or a _person living with blindness_ or a _person with low vision_? But what is the right word? Well, I doubt there is just one.
+視覚障害や盲目という呼び方について議論が続いています。正しい表現は、「盲目の人」、「盲目と共に生きる人」、「視覚障害のある人」のどれでしょうか？正しい言葉は何でしょうか？おそらく、一つだけの正解はないでしょう。
 
-The first thing I learned in my very first interviews was that blindness is highly individual. A lot of sighted people have the preconception that blindness means you have a black curtain in front of your eyes and you can’t see anything. Even if we stick with just the terms for blindness for a bit now, it’s still a lot more complicated than just that!
+最初のインタビューで学んだ最初のことは、盲目という状態は非常に個別的だということです。多くの視覚のある人々は、盲目とは目の前に黒いカーテンがかかって何も見えない状態だという先入観を持っています。しかし、盲目に関する用語だけに限定しても、それは単純ではありません！
 
-## Legal Blindness is different from total blindness
+## 法的な盲目と全盲は異なる
 
-In Austria, **legal blindness** is defined by visual acuity in the following cases:
+オーストリアでは、**法的な盲目**は次の視力によって定義されています：
 
-- 0.02 (1/60) without visual field defects
-- 0.03 (2/60) with quadrantanopsia
-- 0.06 (4/60) with hemianopsia
-- 0.1 (6/60) with tunnel vision
+- 視野欠損なしで0.02 (1/60)
+- 四分盲で0.03 (2/60)
+- 片側盲で0.06 (4/60)
+- トンネル視野で0.1 (6/60)
 
-**severe visual impairment** in comparison:
+**重度の視覚障害**はこれと比較して：
 
-- 0.05 (3/60) without visual field defects
-- 0.1 (6/60) with quadrantanopsia
-- 0.3 (6/20) with hemianopsia
-- 1.0 (6/6) with tunnel vision.
+- 視野欠損なしで0.05 (3/60)
+- 四分盲で0.1 (6/60)
+- 片側盲で0.3 (6/20)
+- トンネル視野で1.0 (6/6)
 
-This is defined by [BPGG §4a, [in German]](https://www.ris.bka.gv.at/normdokument.wxe?ShowPrintPreview=True&abfrage=bundesnormen&anlage=&artikel=&fassungvom=2021-05-12&gesetzesnummer=10008859&paragraf=4a&uebergangsrecht=). The BPGG stands for _Bundes-Pflege-Geld-Gesetz_, which approximately translates to the **Federal Care Allowance Act**. It handles the distribution of disability benefits under the Austrian social system. Of course, the exact definition will vary depending on your country’s social system.
+これは[BPGG §4a（ドイツ語）](https://www.ris.bka.gv.at/normdokument.wxe?ShowPrintPreview=True&abfrage=bundesnormen&anlage=&artikel=&fassungvom=2021-05-12&gesetzesnummer=10008859&paragraf=4a&uebergangsrecht=)によって定義されています。BPGGは*連邦ケア手当法*を意味し、オーストリアの社会システムにおける障害者給付金の分配を扱います。もちろん、具体的な定義は国の社会システムによって異なります。
 
-So **legal blindness** is a convention on visual acuity in combination with field of vision, not a diagnosis itself.
+したがって、**法的な盲目**は視力と視野の組み合わせに関する規定であり、診断そのものではありません。
 
-> When I am explaining what I do to people outside the accessibility space, I like to give them this as a reference: With the best possible prescription glasses, you would be able to identify only the biggest letter on the top of the eyesight chart.
+> アクセシビリティの分野外の人々に自分の仕事を説明するとき、私は次のように説明するのが好きです：最高の矯正メガネを使っても、視力検査表の一番上の大きな文字しか識別できない状態です。
 
-![An example of a Snellen Chart commonly used for visual acuity testing. A red line highlights 20/20 vision. A green line highlights 20/30 vision.](/assets/blog/en/blind-visually-impaired-or-low-sighted/image-1.png)
-_Snellen Chart By Jeff Dahl - Own work by uploader, Based on the public domain document: [1], CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=426220_
+![視力検査によく使われるSnellen Chartの例。赤い線は20/20の視力を示す。緑の線は20/30の視力を示す。](/assets/blog/en/blind-visually-impaired-or-low-sighted/image-1.png)
+_Snellen Chart By Jeff Dahl - アップローダによる所有作品, パブリックドメインのドキュメントに基づきます： [1], cc by-sa 3.0, https://commons.wikimedia.org/w/index.php?curid=426220_
 
-Some people can identify contrast, contours, and colors - although color blindness is a whole other beast - some might have cloudy vision or blind spots, or the exact opposite: a very narrow field of vision. There are many different medical conditions that cause visual acuity loss. Some develop gradually, like retinitis pigmentosa, but some can happen out of the blue, like apoplexia papillae. If your Latin is rusty, don’t worry: one is a nerve thing and the other is caused by insufficient blood supply to the optic nerve.
+一部の人々はコントラスト、輪郭、色を識別することができます。色覚異常はまた別の問題ですが、曇った視界や盲点がある人もいれば、非常に狭い視野を持つ人もいます。視力低下を引き起こすさまざまな医療条件があります。例えば、網膜色素変性症のように徐々に進行するものもあれば、視神経の血流不足による突然の視力低下である視神経卒中のように突然発生するものもあります。
 
-## Who prefers what?
+## 誰が何を好むか？
 
-My approach to this is to simply ask. Blindness is a highly individual experience. Even with approximations with a percentage of vision, a diagnosis such as 2% can look different depending on the person you ask. I usually start my interview or usability testing process with the same set of baseline questions. These always include something along the lines of “Could you tell us how your vision works?”
+私のアプローチは単純に尋ねることです。盲目は非常に個別的な体験です。視覚の割合を近似しても、例えば視力が2％という診断は、聞く人によって異なる見え方をします。通常、インタビューやユーザビリティテストのプロセスを始めるときには、「視力はどのように機能していますか？」といった基本的な質問を含む一連の質問から始めます。
 
-Even if I am told in advance that my interview partner has a slight, medium, or strong visual impairment, I still ask that question to level the playing field. Again, blindness is highly individual, I cannot stress this enough! Asking this question can also show how comfortable a person is talking about it, which feeds into one of my underlying interests: societal stigma and self-perception. Once I get the answer to that question, I follow it up with “So how do you want to be referred to?”
+インタビューの相手が軽度、中程度、重度の視覚障害を持っていると事前に知らされていても、その質問をして均等な立場に立たせます。再度強調しますが、盲目は非常に個別的です。この質問をすることで、その人がそれについて話すのにどれだけ快適かも分かり、これは社会的なスティグマや自己認識に関する私の根本的な関心の一つに繋がります。この質問の答えを得た後、「どのように呼ばれたいですか？」と続けます。
 
-It’s as easy as that! And more often than not, the person will also give me the reasoning behind their decision. I love it when that happens because it gives me an insight into how disability is or is not a part of their identity.
+それだけ簡単なことです！そして、多くの場合、その人はその決定の背後にある理由も教えてくれます。それが起きると、私はとても嬉しくなります。なぜなら、それは障害がその人のアイデンティティの一部であるかどうかについての洞察を与えてくれるからです。
 
 ---
 
-At Hope Tech, we are currently using _visually impaired_ because it covers more than strictly blindness, plus it is easy to abbreviate _Visually Impaired Person_ as VIP for internal use. If we know a bit more about our test user, we will adjust accordingly, but VIP is the default for us.
+Hope Techでは現在、「視覚障害者」という表現を使用しています。これは盲目だけでなく広範な障害をカバーし、内部での使用には「視覚障害者」をVIP（Very Important Personの略）として略すことができます。テストユーザーについてもっと詳しく知っている場合には、それに応じて調整しますが、VIPはデフォルトです。
 
-Some people are perfectly fine with being called blind, while others don’t identify as such. I have come to regard it like pronouns. It’s first and foremost a matter of respect to use the correct words that correspond to the person’s identity, even in the protocol that’s meant for internal use only.
+一部の人々は盲目と呼ばれることに全く問題がありませんが、他の人々はそうではありません。私はこれを代名詞のように考えるようになりました。それはまず第一に、個人のアイデンティティに対応する正しい言葉を使うことが尊重の問題だと思います。内部使用のプロトコルにおいても同様です。

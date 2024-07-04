@@ -1,6 +1,6 @@
 ---
-title: 'Deaf blindness'
-excerpt: 'When you hear the word deaf-blind, you might think “How do you communicate then?” And if you have ever studied anything related to communication, I’m sure your old professor is haunting you right now with Paul Watzlawick’s “One cannot not communicate” with that uuh spooky echo uuuh...'
+title: '聾盲'
+excerpt: '聾盲と聞くと、"じゃあどうやってコミュニケーションをとるの？"と思うかもしれません。そして、コミュニケーションに関する勉強をしたことがある人なら、ポール・ワツラウィックの「人はコミュニケーションをとらないことはできない」を、あの不気味なエコーとともに、今頃昔の教授がつきまとっていることでしょう。'
 coverImage: '/assets/blog/en/deaf-blindness/cover.png'
 date: '2023-09-21T10:35:07.322Z'
 tags: 'Blog'
@@ -14,30 +14,30 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/deaf-blindness'
 ---
 
-When you hear the word deaf-blind, you might think “How do you communicate then?” And if you have ever studied anything related to communication, I’m sure your old professor is haunting you right now with Paul Watzlawick’s _“One cannot not communicate”_ with that uuh spooky echo uuuh.
+盲ろう者と聞くと、"じゃあどうやってコミュニケーションをとるの？"と思うかもしれません。そして、コミュニケーションに関する勉強をしたことがある人なら、ポール・ワツラウィックの「人はコミュニケーションをとらないことはできない」を、あの不気味なエコーとともに、今頃昔の教授がつきまとっていることでしょう。
 
-But it’s still puzzling, right? Blind people usually rely on their hearing and deaf people use sign language to communicate. So how are deaf-blind people making it work?
+しかし、やはり不思議ですよね？盲目の人は通常、聴覚に頼り、聴覚障害のある人は手話を使ってコミュニケーションを取ります。では、聴覚障害と視覚障害のある人はどのようにやり取りをしているのでしょうか？
 
-## How can deaf-blind people see and hear?
+## 聾盲を持つ人はどうやって見たり聞いたりしているのか？
 
-We have already established that blindness is a spectrum. Okay, let’s rather say vision is a spectrum, and legal blindness is further on the low vision side, but it still leaves a lot of leeway. Low vision can include things like tunnel vision, color blindness, night blindness (or _nyctalopia_ if you feel fancy!), and stair blindness, which is more of a consequence of issues in contrast or depth perception.
+盲目はスペクトラムであることはすでに述べましたね。視覚はスペクトラムであり、法的な盲目は視覚の低い側に位置していますが、それでも多くの幅があります。低視力には、トンネル視野、色覚異常、夜盲症（ fancy な表現を使うなら nyctalopia）、および階段の視覚障害（コントラストや奥行きの認識の問題が原因）などが含まれます。
 
-_Too long didn’t read: A lot of different things can make up blindness, and legal blindness isn’t total blindness._
+_要約：盲目を構成する要素は多岐にわたり、法的な盲目は全盲ではありません。_
 
-Now I don’t work with people who are deaf or hard of hearing in particular, so I can’t make a blanket statement about it. But after a certain amount of desk research and by using some Detective-Conan-level deduction skills, I would make an educated guess and say that it’s also kind of like a spectrum. Or should I say, a volume slider? Actually, more like an elaborate surround-sound system where you can configure every detail.
+私は特に聴覚障害のある人と一緒に仕事をしているわけではないので、一概に言うことはできません。しかし、ある程度の調査と少しの推理を使って推測するに、聴覚もスペクトラムのようなものだと思います。あるいは、ボリュームスライダーと言うべきでしょうか？実際には、詳細に設定できる複雑なサラウンドサウンドシステムのようなものです。
 
-> One of my Hope Tech interviewees who happened to be deaf-blind described their hearing loss “as if the high-pitch of a stereo had been turned off”
+> Hope Tech のインタビューで出会った聴覚障害と視覚障害のある人は、聴力の低下を「ステレオの高音域がオフになったかのよう」だと表現しました。
 
-I feel as if I’m starting to repeat myself in these posts, but disability is a spectrum. Not everyone is living in complete silence and complete darkness. Some use hearing aids and or glasses, as Blindish Latina does, some use a white cane and braille, and some use sign language interpreters. Some people might need less assistance and some might need more.
+これらの投稿で繰り返しているように感じますが、障害はスペクトラムです。全てが完全な静寂や完全な暗闇に生きているわけではありません。補聴器や眼鏡を使用する人もいれば、白杖や点字を使う人もいますし、手話通訳を利用する人もいます。支援が少し必要な人もいれば、多く必要とする人もいます。
 
-## Causes of deaf-blindness
+## 聾盲の原因
 
-If you go to Wikipedia (my previous professors are shaking in their tweed jackets right now), you will find a long list of potential causes. It’s also perfectly plausible that your eyesight and hearing independently of each other deteriorate over time.
+Wikipedia に行くと（以前の教授たちはツイードジャケットを震わせているでしょう）、多くの潜在的な原因のリストが見つかるでしょう。また、視力と聴力がそれぞれ独立して時間とともに低下することも十分に考えられます。
 
-But one to pick out is **Usher Syndrome**. If your mind immediately goes to the singer Usher Raymond, that’s okay. This article will wait here while you go jam out to [Yeah Yeah](https://www.youtube.com/watch?v=ut71pbXxao0). Back? Alright, let’s go!
+しかし、ここで注目したいのは**アッシャー症候群**です。歌手のアッシャー・レイモンドを思い浮かべても大丈夫です。この文章を読んでいる間に[Yeah Yeah](https://www.youtube.com/watch?v=ut71pbXxao0)を楽しんできてもいいですよ。戻りましたか？それでは続けましょう！
 
-The main symptoms of Usher Syndrome are deafness or hearing loss and retinitis pigmentosa. RP usually causes night blindness, tunnel vision and messes with your color perception. Again, what exactly this can look like is completely individual, and the same goes for how fast it progresses. The hearing loss is caused by the abnormal development of the sound receptor cells in your inner ear.
+アッシャー症候群の主な症状は、聴覚障害または聴力低下と網膜色素変性症です。RPは通常、夜盲症、トンネル視野、色覚認識の問題を引き起こします。再び言いますが、これがどのように見えるかは完全に個別的であり、進行速度も同様です。聴力低下は、内耳の音受容細胞の異常発達によって引き起こされます。
 
-> “Deafblindness is an invisible disability because there is no way we can know how a person perceives the world unless we ask.”
+> 「聾盲は目に見えない障害です。なぜなら、私たちがその人がどのように世界を認識しているかを知るためには、尋ねるしかないからです。」
 
-_Dr Leda Kamenopoulou, Associate Professor at UCL_
+_UCL の准教授Dr. Leda Kamenopoulou_

@@ -1,6 +1,6 @@
 ---
-title: 'Accessibility: The What, Why & How'
-excerpt: 'Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important. Let’s get an overall understanding on accessibility by introducing you to this topic ...'
+title: 'アクセシビリティ 何を、なぜ、どのように'
+excerpt: 'ウェブ・アクセシビリティは、幸いにも最近ますます注目されるようになってきました。しかし、ウェブ・アクセシビリティが実際にどのようなもので、なぜ重要なのかを知らない人はまだ多い。このトピックを紹介することで、アクセシビリティに関する全体的な理解を深めましょう。。。'
 coverImage: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
 date: '2022-10-09T05:35:07.322Z'
 tags: 'Blog'
@@ -14,75 +14,75 @@ ogPost:
   url: ''
 ---
 
-Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important.
+ウェブアクセシビリティは最近ますます注目を集めてきました。しかし、多くの人々はウェブアクセシビリティが何であり、なぜそれが重要なのかをまだ理解していません。
 
-Let’s get an overall understanding on accessibility by introducing you to this topic in the context of the **what**, **why** and **how**: what accessibility is, why it’s important and how we can achieve accessible design.
+このトピックについて何、なぜ、どのようにの観点からご紹介し、アクセシビリティについて全体的な理解を深めましょう。アクセシビリティとは**何**か、**なぜ**重要なのか、そして**どのように**アクセシブルなデザインを実現できるのかを見ていきます。
 
-## What is accessibility
+## アクセシビリティとは何か
 
-Regarding to [Wikipedia](https://en.wikipedia.org/wiki/Accessibility 'Wikipedia Definition Accessibility'),
+[ウィキペディア](https://en.wikipedia.org/wiki/Accessibility 'Wikipedia Definition Accessibility')によると、
 
-> Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and edited, more users have equal access to information and functionality.
+> ウェブアクセシビリティは、身体障害者、状況的障害者、帯域幅や速度に制約のある社会経済的制約のある人々が、ワールドワイドウェブのウェブサイトと相互作用したりアクセスしたりするのを妨げる障壁がないことを確保する包括的な実践です。サイトが正しく設計、開発、編集されると、より多くのユーザーが情報と機能に平等にアクセスできるようになります。
 
-There are all kinds of disabilities, some are recognizable, like people who are in wheelchairs, and others are hidden, like people who are deaf. There are also age-related disabilities like hearing loss or low vision, and temporary disabilities like having a broken arm or even holding a baby.
+障害には様々な種類があります。車椅子を利用している人々のように認識しやすいものもあれば、聴覚障害者のように見えないものもあります。また、難聴や低視力などの年齢に関連した障害や、腕の骨折や赤ちゃんを抱えていることによる一時的な障害もあります。
 
-You may have seen the hashtag **#a11y**, which is the short version of the word accessibility. The reason for this shortening is that there are 11 characters between the letter “a” and the letter “y”. In my opinion, this is a cool way to shorten a word and much easier to use as a hashtag.
+「#a11y」というハッシュタグを見たことがあるかもしれませんが、これはアクセシビリティという単語の短縮版です。これは、「a」という文字と「y」という文字の間に11文字があるためです。個人的には、この短縮方法はかっこよく、ハッシュタグとしても使いやすいと思います。
 
-## Why does it matter
+## なぜ重要なのか
 
-> The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
+> ウェブの力はその普遍性にあります。障害の有無にかかわらず、誰もがアクセスできることが重要な側面です。
 
-_Tim Berners-Lee, W3C Director and inventor of the World Wide Web_
+_Tim Berners-Lee, W3Cディレクターおよびワールドワイドウェブの発明者_
 
-So why should we make websites accessible? First and foremost, it’s simply the right thing to do to give everyone equal access to information. Also, you may be [required by law](https://www.w3.org/WAI/policies/ 'Web Accessibility Laws & Policies') to make your website accessible. Here in Austria, the public sector like universities are forced to make their website 100% accessible under [WCAG 2.1 AA (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/).
+なぜウェブサイトをアクセシブルにする必要があるのでしょうか？まず第一に、すべての人に平等に情報にアクセスできるようにすることは、単に正しいことだからです。また、ウェブサイトをアクセシブルにすることが[法律で要求される](https://www.w3.org/WAI/policies/ 'Web Accessibility Laws & Policies')場合もあります。ここオーストリアでは、大学のような公共部門は、WCAG 2.1 AA[ウェブコンテンツアクセシビリティガイドライン](https://www.w3.org/WAI/standards-guidelines/wcag/)に基づいてウェブサイトを100％アクセシブルにすることが義務付けられています。
 
-Between 10 and 20% of humanity has some kind of disability. Not all of them affect a person’s ability to use the internet, such as a person with paralysis in their legs. The most important disabilities in terms of web accessibility are disabilities of the eyes, ears, hands and brain.
+人類の10％から20％は何らかの障害を持っています。そのすべてがインターネットの利用能力に影響を与えるわけではありません。例えば、脚に麻痺がある人などです。ウェブアクセシビリティに関して最も重要な障害は、目、耳、手、および脳の障害です。
 
-People with disabilities use assistive technologies to interact with the Web. To ensure that everyone can use the web with these technologies, it is our job to build websites so that they are properly recognized by these devices. For example, screen readers will not work if your code is not written with accessibility in mind.
+障害を持つ人々は、ウェブと対話するために支援技術を使用します。これらの技術を使用してすべての人がウェブを利用できるようにするために、私たちの役割は、これらのデバイスによって適切に認識されるようにウェブサイトを構築することです。例えば、スクリーンリーダーは、コードがアクセシビリティを考慮して書かれていない場合、機能しません。
 
-The Internet has opened up a whole new world of possibilities, especially for people with disabilities, particularly in terms of vision. Information is now readily available on almost any topic imaginable.
+インターネットは、新しい可能性の世界を開きました。特に視覚に関しては、障害を持つ人々にとって非常に有益です。情報は今やほとんどすべてのトピックについて簡単に入手できます。
 
-People with visual impairments no longer have to rely on others to get the information they need, which means they can achieve a new level of independence that would have been unthinkable just a few years ago.
+視覚障害者は、必要な情報を得るために他人に頼る必要がなくなり、数年前には考えられなかった新たなレベルの自立を達成できるようになりました。
 
-Finally, when your sites are made more accessible to people with disabilities, they become more **accessible to everyone**. This means that structuring the site well (which, in my opinion, is what makes a good frontend developer in the first place) by using semantic HTML tags, better design, for example with higher color contrast, and better accessibility for people with disabilities will automatically lead to better accessibility for all.
+最後に、サイトが障害を持つ人々にとってよりアクセスしやすくなると、すべての人にとってよりアクセスしやすくなります。これは、セマンティックHTMLタグを使用し、高い色のコントラストを持つデザインを採用するなど、ウェブサイトの構造を整えることによって達成されます。これにより、障害を持つ人々にとってのアクセシビリティが向上すると同時に、全体的なユーザーエクスペリエンスも向上します。
 
-In addition, search engine optimization (SEO) also improves.
+さらに、検索エンジン最適化（SEO）も改善されます。
 
-> We nee to make every single thing accessible to every single person with a disability
+> 私たちは、すべての障害を持つ人々にすべてのものをアクセス可能にする必要があります。
 
-_Stevie Wonder, Grammy Awards Ceremony 2016. American singer-songwriter, musician, and record producer_
+_スティーヴィー・ワンダー、2016年グラミー賞授賞式、アメリカのシンガーソングライター、ミュージシャン、および音楽プロデューサー_
 
-## How to develop the accessible way
+## アクセシブルな方法で開発するには
 
-Here I would like to give a rough overview of how you can make your website accessible. In the coming weeks, I will write articles with more detailed information about each category.
+ここでは、ウェブサイトをアクセシブルにする方法の概要を説明します。今後数週間にわたって、各カテゴリに関する詳細な情報を含む記事を書いていく予定です。
 
-The [W3C](https://www.w3.org/WAI/), a worldwide web consortium, maintains a working group that deals with website accessibility and publishes standards for it. These standards are called [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/), which stands for Web Content Accessibility Guidelines. This is a great resource to get more information on how to handle accessibility in your projects.
+世界中のウェブコンソーシアムである[W3C](https://www.w3.org/WAI/)は、ウェブサイトのアクセシビリティに関する作業グループを維持し、そのための標準を公開しています。これらの標準は[WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)と呼ばれます。これは、プロジェクトでアクセシビリティを扱うための優れたリソースです。
 
-## How can we make the web or our websites more accessible?
+## どのようにウェブやウェブサイトをよりアクセシブルにできるか？
 
-Let’s go over a few points. If you follow them, your website won’t be 100% accessible right away, but it’s definitely a good starting point.
+いくつかのポイントを見ていきましょう。これらを守れば、すぐに100％アクセシブルなウェブサイトになるわけではありませんが、良いスタート地点となるでしょう。
 
-### Use semantic HTML whenever possible!
+### 可能な限りセマンティックHTMLを使用しましょう！
 
-When using `<header>`, `<main>`, `<footer>` you have already laid a good basic structure of your website that will allow screen reader users to find their way around your site.
+`<header>`、`<main>`、`<footer>`を使用することで、すでにウェブサイトの基本的な構造が整い、スクリーンリーダーユーザーがサイト内を見つけやすくなります。
 
-The [list of semantic HTML tags](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) is long. Try to include as many as possible and use `<div>` and `<span>` and only for styling purposes, since they are not semantic.
-To not break legacy code, [aria (Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) offer a good (temporary) solution. Then you don’t have to replace your already built in `<div>` tags with semantic tags that would break the styling and thus bring increased extra work.
+[セマンティックHTMLタグのリスト](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)は長いです。できるだけ多く含め、`<div>`や`<span>`はスタイルのためだけに使用しましょう。これらはセマンティックではないためです。
+既存のコードを壊さないために、[aria (Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)は良い（一時的な）解決策を提供します。これにより、スタイルを壊すことなく、すでに組み込まれている`<div>`タグをセマンティックタグに置き換える必要がなくなります。
 
-[Aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles), for example, simply take the role of the semantic tag as in the following example. Interactive elements such as links and buttons, as well as [multimedia elements](https://developer.mozilla.org/en-US/docs/Web/Media/Formats) such as images and videos, require a more detailed description (e.g. using alternative text) to be better understood by screen reader users.
+例えば、[aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)は、以下の例のようにセマンティックタグの役割を担います。リンクやボタンなどのインタラクティブな要素や、画像やビデオなどの[マルチメディア要素](https://developer.mozilla.org/en-US/docs/Web/Media/Formats)は、スクリーンリーダーユーザーによってよりよく理解されるために、より詳細な説明（例：代替テキストの使用）が必要です。
 
-Never use color alone to indicate specific information, such as a result on a chart, and use sufficient color contrast. Visually impaired people may have difficulty seeing the contrast between, for example, the background color and the text color.
+特定の情報を示すために色だけを使用せず、十分な色のコントラストを使用しましょう。視覚障害者は、例えば背景色とテキストの色のコントラストを見るのが難しい場合があります。
 
-## How to identify a11y problems to fix?
+## a11y問題を特定して修正する方法？
 
-There are automated tools like [axe](https://www.deque.com/axe/), which already finds about 30% of the problems. The most common screen reader you can use to check your website is [NVDA](https://www.nvaccess.org/download/) in combination with Microsoft and VoiceOver screen reader already installed on macOS.
+[axe](https://www.deque.com/axe/)のような自動化ツールがあり、すでに約30％の問題を発見できます。ウェブサイトをチェックするために使用できる最も一般的なスクリーンリーダーは、MicrosoftとmacOSに既にインストールされている[NVDA](https://www.nvaccess.org/download/)やVoiceOverです。
 
-Other tools worth mentioning are [Wave](https://wave.webaim.org/), [Taba11y](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga), and [Color contrast Checker](https://webaim.org/resources/contrastchecker/) which I will go into in more detail in other articles.
+他にも、[Wave](https://wave.webaim.org/)、[Taba11y](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga)、[Color contrast Checker](https://webaim.org/resources/contrastchecker/)などのツールがあります。これらについては、他の記事で詳しく説明します。
 
-If you **make web pages 100% accessible** for mouse, keyboard, screen reader, and braille users, you have most of the accessibility covered. Therefore, this should be the goal of all of us.
+ウェブページをマウス、キーボード、スクリーンリーダー、点字ディスプレイユーザーのために100％アクセシブルにするならば、アクセシビリティのほとんどがカバーされます。したがって、これが私たち全員の目標であるべきです。
 
-## Conclusion
+## 結論
 
-If we all get involved with developing accessible websites and applications and get to it early enough, we can design them to be accessible from the start. This will make it harder for companies to avoid accessibility because of myths and misconceptions like “accessibility means ugly design” or “is very expensive.”
+すべての人がアクセシブルなウェブサイトやアプリケーションを開発し、早い段階で取り組むことで、最初からアクセシブルにデザインすることができます。これにより、「アクセシビリティは醜いデザインを意味する」や「非常に高価である」といった神話や誤解のために企業がアクセシビリティを避けることが難しくなります。
 
-Show that you stand for inclusive design by contributing at least a little to make the world a better place for people with disabilities.
+アクセシブルなデザインを支持する姿勢を示し、少しでも貢献して、障害を持つ人々にとってより良い世界を作るために努力しましょう。
