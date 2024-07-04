@@ -1,6 +1,6 @@
 ---
-title: 'Define project'
-excerpt: 'On October 10, we took part in the presentation of the DEFINE project. Define stands for Digital Equipment For Inclusive Empowerment. The mission behind it is not only to bring low-cost assistive tech to the market but also to improve digital literacy in the process... '
+title: 'Defineプロジェクト'
+excerpt: '10月10日、DEFINEプロジェクトのプレゼンテーションに参加しました。DEFINEとは、「Digital Equipment For Inclusive Empowerment」の略。このプロジェクトのミッションは、低価格の支援技術を市場に提供するだけでなく、その過程でデジタル・リテラシーを向上させることである。。。'
 coverImage: '/assets/blog/en/define-project/cover.png'
 date: '2023-10-22T11:35:07.322Z'
 tags: 'Blog'
@@ -14,52 +14,52 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/define-project'
 ---
 
-Define stands for **D**igital **E**quipment **F**or **I**nclusive **E**mpowerment. The mission behind it is not only to bring low-cost assistive tech to the market but also to improve digital literacy in the process. Braille keyboards aren’t an inherently new idea. But Define takes a hands-on approach to the whole process, and that’s what makes it special in my opinion.
+Defineは、**D**igital **E**quipment **F**or **In**clusive **E**mpowermentの略です。その使命は、低コストの支援技術を市場に提供するだけでなく、デジタルリテラシーを向上させることです。点字キーボード自体は新しいアイデアではありません。しかし、Defineは全プロセスに実践的なアプローチを取り、それが特別だと思う理由です。
 
-![Julia is holding a black version of the Meta Braille keyboard.](/assets/blog/en/define-project/image-1.jpg)
-_Julia is holding a black version of the Meta Braille keyboard._
+![ユリアは黒いバージョンのMeta Brailleキーボードを持っています。](/assets/blog/en/define-project/image-1.jpg)
+_ユリアは黒いバージョンのMeta Brailleキーボードを持っています。_
 
-## User-Led Co-Creation
+## ユーザー主導の共創
 
-Over the span of one year, Define has developed a DIY kit to 3D-print a braille keyboard. The [print instructions](https://gitlab.com/metabraille/metabraille) are open source and are free to download from GitHub.
+1年間にわたり、Defineは点字キーボードを3DプリントするDIYキットを開発しました。[印刷指示](https://gitlab.com/metabraille/metabraille)はオープンソースで、GitHubから無料でダウンロードできます。
 
-Usually, assembling a keyboard requires soldering contact points. Soldering is not particularly easy or safe for people with low vision to do on their own: It requires a lot of precision and you can’t really check whether everything is connected properly by feeling because you’d run the risk of burning your fingertips off. Yikes!
+通常、キーボードの組み立てには接点のはんだ付けが必要です。はんだ付けは視力が低い人にとって容易でも安全でもありません：非常に正確な操作が必要で、指先を火傷するリスクがあるため、触って確認することもできません。
 
-So the Define Project workshopped a solution to this: Instead of contact points being soldered, they are connected by wrapping wires around them. This ensures steady contact and doesn’t rely on vision, which allows Makers with low to no vision to DIY it on their own.
+そこで、Defineプロジェクトはこの解決策を考案しました：接点をはんだ付けする代わりに、ワイヤーを巻き付けて接続します。これにより、安定した接触が確保され、視力に依存せず、視力が低いまたは全くないメイカーが自分でDIYできるようになります。
 
-Through these workshops, a total of 8 MetaBraille keyboards were born. Doesn’t sound like a lot? Well, keep in mind that 3D printing each half of the keyboard shell takes around 4 hours, if the printing process goes smoothly! Because sometimes 3D printers are pranksters and shimmy a bit to the side while printing. The result is a misaligned, unusable print. So if you want to make one yourself, just know it could take a while.
+これらのワークショップを通じて、合計8つのMetaBrailleキーボードが誕生しました。それは多くないと思いますか？キーボードシェルの各半分を3Dプリントするのに約4時間かかりますからね。時々、3Dプリンターはプリント中に少しずれて、ずれた印刷物が使えなくなることもあります。ですから、作りたいと思うなら、時間がかかるかもしれないことを覚えておいてください。
 
-![3 plans for the keyboard construction lie on the table. Each one is labeled with English and Braille. In the top right corner is a keyboard shell, battery pack and key-parts.](/assets/blog/en/define-project/image-2.jpg)
-_3 plans for the keyboard construction lie on the table. Each one is labeled with English and Braille. In the top right corner is a keyboard shell, battery pack and key-parts. Unfortunately, I lack the technical expertise to explain in detail what exactly we are looking at here. If you have a closer understanding of the matter, please do explain it to me!_
+![キーボード構造のための3つの計画がテーブルの上にあります。それぞれに英語と点字でラベルが付けられています。右上にはキーボードシェル、バッテリーパック、キー部品があります。](/assets/blog/en/define-project/image-2.jpg)
+_キーボード構造のための3つの計画がテーブルの上にあります。それぞれに英語と点字でラベルが付けられています。右上にはキーボードシェル、バッテリーパック、キー部品があります。技術的な詳細は説明できませんが、詳しい方は教えてください！_
 
-## How do Braille Keyboards work?
+## 点字キーボードはどのように機能するのか？
 
-The keyboard is called the MetaBraille. It got its name from the [MakerSpace MetaLab in Vienna](https://metalab.at/index.html), where it was born. The top 2 buttons on the keyboard are for navigating, or swiping if you pair it with a smartphone. The 8 buttons on the side facing away from you are for braille input. Of these 8, the 6 black ones are to type letters and the 2 white ones at the bottom are for space and delete. The 2 extra keys also allow for more variety in key combos. They can triple our available key combos for special characters!
+このキーボードはMetaBrailleと呼ばれます。その名前は、[ウィーンのMakerSpace MetaLab](https://metalab.at/index.html)で生まれたことから来ています。キーボードの上部の2つのボタンはナビゲーション用で、スマートフォンとペアリングするとスワイプに使用できます。向こう側にある8つのボタンは点字入力用です。この8つのうち、6つの黒いボタンは文字を入力するためのもので、下部の2つの白いボタンはスペースと削除用です。2つの追加キーにより、特殊文字のためのキーコンボのバリエーションが増えます。
 
-### How can you type in braille?
+### 点字での入力方法
 
-Braille is an alphabet where every letter fits on a 2 by 3 grid. You memorize the letters by their dot patterns. Reading braille with your fingers works by identifying the dot pattern as a distinct letter. So for typing, it’s the other way around: You type the dot pattern of a letter by pressing the keys in the corresponding pattern. Learning braille is like memorizing any other alphabet, the letters just take on new shapes!
+点字は2x3のグリッドにすべての文字が収まるアルファベットです。文字をドットパターンで覚えます。指で点字を読むのは、ドットパターンを特定の文字として認識することです。したがって、入力する場合はその逆です：対応するパターンでキーを押すことで文字のドットパターンを入力します。点字を学ぶのは他のアルファベットを覚えるのと同じで、文字が新しい形を取るだけです！
 
-![A green circuit board with an ESP32S3 processor on it. This processor is what translates the braille to latin alphabet before transmitting it to the device the keyboard is paired with.](/assets/blog/en/define-project/image-3.jpg)
-_A green circuit board with an ESP32S3 processor on it. This processor is what translates the braille to latin alphabet before transmitting it to the device the keyboard is paired with._
+![ESP32S3プロセッサが搭載された緑色の回路基板。このプロセッサは、点字をラテンアルファベットに変換し、キーボードがペアリングされているデバイスに送信します。](/assets/blog/en/define-project/image-3.jpg)
+_ESP32S3プロセッサが搭載された緑色の回路基板。このプロセッサは、点字をラテンアルファベットに変換し、キーボードがペアリングされているデバイスに送信します。_
 
-### How do they interact with a website?
+### ウェブサイトとの連携方法
 
-Virtually like any other keyboard! In the case of the Metabraille, to the device, it will look just like any other Bluetooth keyboard. The translation from braille to the Latin alphabet letters happens within the MetaBraille.
+他のキーボードとほぼ同じように機能します！MetaBrailleの場合、デバイスには他のBluetoothキーボードと同じように認識されます。点字からラテンアルファベットへの変換はMetaBraille内で行われます。
 
-But you know what that means? It’s time to recap the basics of keyboard navigation!
+ということで、キーボードナビゲーションの基本をおさらいしましょう！
 
-- **Tab Navigation:** The Tab key is used for navigating through interactive elements such as buttons, links, and form fields. The standard stuff. Pressing the Tab key typically moves the focus from one element to the next and Shift+Tab is used to move backwards.
-- **Arrow Keys:** You can typically use the arrow keys (up, down, left, right) to move through menus, lists, and other elements.
-- **Enter or Spacebar:** These keys are often used to activate or select the currently focused element, like a button or a link. They replace the mouse click or tap with your finger.
+- **Tabナビゲーション:** Tabキーはボタン、リンク、フォームフィールドなどのインタラクティブな要素を移動するために使用されます。標準的なものです。Tabキーを押すと、通常、一つの要素から次の要素にフォーカスが移動し、Shift+Tabは逆方向に移動します。
+- **矢印キー:** 矢印キー（上、下、左、右）を使用して、メニュー、リスト、その他の要素を移動できます。
+- **Enterキーまたはスペースバー:** これらのキーは、ボタンやリンクなど、現在フォーカスされている要素をアクティブにしたり選択したりするために使用されます。これは、マウスクリックや指でのタップの代わりになります。
 
-Braille keyboards are usually used together with screen reader software. So if you want your website or app to work well with braille keyboards, you also need to check things like alt-texts and HTML tags for sensible heading structures and landmarks, like defining the header, main, and footer as such. Screen readers and keyboard navigation go hand-in-hand (or software-in-hardware?), so learning about one teaches you about the other at the same time. The [Mozilla Developer Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Keyboard) are a great starting point in my opinion, best paired with learning by doing and by that, I mean manually testing out keyboard navigation through your user flow.
+点字キーボードは通常、スクリーンリーダーソフトウェアと一緒に使用されます。したがって、ウェブサイトやアプリが点字キーボードと連携するためには、altテキストやHTMLタグの見出し構造やランドマークの定義（ヘッダー、メイン、フッターなど）をチェックする必要があります。スクリーンリーダーとキーボードナビゲーションは密接に関連しているので、一方を学ぶことで他方についても学ぶことができます。[Mozilla Developer Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Keyboard)は素晴らしい出発点であり、実際にキーボードナビゲーションを手動でテストすることと組み合わせるのが最適です。
 
-![Laura is trying out the MetaBraille with some help from the braille tables on the desk. It takes a bit of time to get used to, but it’s surprisingly fast!](/assets/blog/en/define-project/image-4.png)
-_Laura is trying out the MetaBraille with some help from the braille tables on the desk. It takes a bit of time to get used to, but it’s surprisingly fast!_
+![ローラはデスク上の点字テーブルを参考にしてMetaBrailleを試しています。慣れるまで少し時間がかかりますが、驚くほど速く入力できます！](/assets/blog/en/define-project/image-4.png)
+_ローラはデスク上の点字テーブルを参考にしてMetaBrailleを試しています。慣れるまで少し時間がかかりますが、驚くほど速く入力できます！_
 
 ---
 
-In our increasingly digitalized world, it’s initiatives like the Define Project are bridging the digital divide. But no matter how brilliant, no innovation will solve access limitations on its own. It’s still up to all of us to ensure that technology truly serves everyone.
+ますますデジタル化が進む世界で、Defineプロジェクトのようなイニシアティブはデジタル格差を埋めています。しかし、どんなに素晴らしい革新であっても、アクセス制限を単独で解決することはできません。テクノロジーが本当に全ての人に役立つようにするのは、私たち全員の責任です。
 
-[Read more about the Define Project [in German]](https://defineblind.at/about/)
+[Defineプロジェクトについてもっと読む（ドイツ語）](https://defineblind.at/about/)

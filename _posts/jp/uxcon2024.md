@@ -1,6 +1,6 @@
 ---
-title: 'See you at uxcon vienna'
-excerpt: 'At this years uxcon in Vienna, Laura and Julia are holding a workshop about how to create and test website to not only fulfill requirements but go far beyond the checklist ...'
+title: 'uxconでお会いしましょう'
+excerpt: '今年ウィーンで開催されるuxconで、ローラとユリアは、要件を満たすだけでなく、チェックリストをはるかに超えるウェブサイトの作成とテスト方法についてのワークショップを開催します。。。'
 coverImage: '/assets/blog/en/uxcon2024/cover.png'
 date: '2024-04-29T10:35:07.322Z'
 tags: 'Blog'
@@ -14,20 +14,20 @@ ogPost:
   url: ''
 ---
 
-See you at uxcon Vienna 2024!
+ウィーンのuxcon 2024でお会いしましょう！
 
-## Workshop: Accessibility is not a checklist
+## ワークショップ：アクセシビリティはチェックリストではない
 
-Finally, the [program of this years uxcon vienna](https://program.uxcon.at/) is out. And we are part of it.
+[ついに今年のuxconウィーンのプログラム](https://www.uxcon.io/)が発表されました。そして、私たちもその一部です。
 
-On the day 2 of the event, Friday, September 20th, we are going to hold a workshop about how to spot the most common accessibility bugs plaguing an assistive tech user’s journey and how to fix them.
+イベントの2日目、9月20日（金）に、支援技術ユーザーの旅路を悩ます最も一般的なアクセシビリティのバグを見つけ、それらを修正する方法についてのワークショップを開催します。
 
-Code can look intimidating, but it's often just one small part that's dirty and if re-written clean, automatically fixes a lot of issues. For designers, it's important to have the agency to call their devs out on dirty code, but to do so, we first must know the difference and more importantly, the benefits of clean code.
+コードは一見すると難しそうに見えることがありますが、実際には小さな部分が汚れているだけで、それをクリーンに書き直すと多くの問題が自動的に解決します。デザイナーにとっては、汚れたコードを指摘する権限を持つことが重要ですが、そのためにはまずその違いを知り、さらに重要なことに、クリーンなコードの利点を理解する必要があります。
 
-All participants are cordially invited to bring their website for us to test together!
+すべての参加者は、自分のウェブサイトを持参し、一緒にテストすることを心から歓迎します！
 
 ---
 
-## Other events
+## その他のイベント
 
-Stay up to date with the latest [events, Laura and Julia are attending as speakers!](https://accessibilityfirst.at/jp/events)
+最新のイベント情報、[ローラとユリアがスピーカーとして参加するイベント](https://accessibilityfirst.at/jp/events)をチェックして、最新情報をお見逃しなく！

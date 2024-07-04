@@ -1,6 +1,6 @@
 ---
-title: 'Monthly a11y newsletter'
-excerpt: 'There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why Laura sends out (approximately) monthly newsletters about upcoming events in web accessibility...'
+title: '月刊a11yニュースレター'
+excerpt: 'オンライン・アクセシビリティ・バブルの外には、見つけるのが難しいリソースやイベントがたくさんあります。ゲートキーピングはアクセシビリティの対極にあるものです。だからこそローラは、ウェブ・アクセシビリティに関する今後のイベントについて、（およそ）毎月ニュースレターを送っているのです。。。'
 coverImage: '/assets/blog/en/newsletter/cover.png'
 date: '2024-01-22T11:35:07.322Z'
 tags: 'Blog'
@@ -14,24 +14,40 @@ ogPost:
   url: ''
 ---
 
-There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why Laura sends out (approximately) monthly newsletters about upcoming events in web accessibility.
+多くのリソースやイベントは、オンラインのアクセシビリティバブルの外では見つけにくいものです。ゲートキーピングはアクセシビリティの対極にあります。そのため、ローラはウェブアクセシビリティに関する今後のイベントについて、ほぼ毎月ニュースレターを送っています。
 
-[Subscribe to newsletter!](https://laurawissiak.substack.com/subscribe)
+[ニュースレターを購読！](https://laurawissiak.substack.com/subscribe)
 
-## Gatekeeping is the exact opposite of accessibility!
+## ゲートキーピングはアクセシビリティの対極です！
 
-There are a lot of resources and events about web accessibility, best practices, activism, and inclusion floating around in my online bubble. So I do what any person with a hyper fixation and internet access would do: I sign up for almost all of them. Whenever I thought it might be relevant for my friends’ jobs too, or maybe if it just fits right in with their interests, I would forward them the link à la “Hey this might be something for you!”
+私のオンラインバブルには、ウェブアクセシビリティ、ベストプラクティス、アクティビズム、インクルージョンに関する多くのリソースやイベントが溢れています。だから私はインターネットアクセスを持つ人がよくやるように、ほぼすべてにサインアップします。友達の仕事にも関係するかもしれないと思ったときや、彼らの興味に合うと思ったときには、「これ、君に合うかも！」という感じでリンクを転送していました。
 
-## This is what motivated me to start this newsletter.
+## これが私がニュースレターを始める動機になりました。
 
-So many resources about accessibility are free, online, and accessible. I mean both in terms of availability as well as being as barrier-free as the organizers can do. (Because of course they are! Why would you make an event on accessibility inaccessible?
+多くのアクセシビリティに関するリソースは、無料でオンラインでアクセス可能です。これは、利用可能性の面でも、主催者が可能な限りバリアフリーにしているという面でもです。（もちろんそうですよね！アクセシビリティに関するイベントを非アクセシブルにする理由がどこにあるでしょうか？）
 
-If you ever happen to find yourself in that position, you definitely didn’t understand the requirements correctly. Go stand in the corner and think about where your review and approval process messed up.) Instead of individually curating links for only my friends, I want to automation-manager-style optimize this and send out (approximately) monthly newsletters!
+もしそのような状況に陥った場合、あなたは確実に要件を正しく理解していません。反省して、レビュープロセスのどこで間違ったのかを考えましょう。）個別にリンクをキュレーションする代わりに、オートメーションマネージャーのように最適化して、ほぼ毎月のニュースレターを送ることにしました！
 
-My newsletters will include upcoming events in web accessibility. Of course, for that to make sense (since I cannot know where all subscribers are based), I try to stick to free, online events held in English. But if I come across something **really** cool, I’ll make an exception and favor my fellow German-speaking and/or Vienna-based besties.
+私のニュースレターには、ウェブアクセシビリティに関する今後のイベントが含まれます。もちろん、全ての購読者がどこに住んでいるのか分からないので、無料で、オンラインで、英語で開催されるイベントに絞るようにしています。でも、もし**本当に**すごいものを見つけたら、例外を作ってドイツ語圏やウィーン在住の友達に優先して知らせます。
 
-To make up for this bias, I will also include any timeless resources I come across. And trust me, there are a lot! Courses, certifications, and my personal favorite: influencers who blog about their disabilities and point out cool accessible things and unexpected inaccessible everyday experiences.
+この偏りを補うために、見つけた永続的なリソースも含めます。そして信じてください、本当にたくさんあります！コースや認証、そして個人的なお気に入りは、障害についてブログを書き、クールなアクセシブルなものや予想外の非アクセシブルな日常体験を指摘するインフルエンサーたちです。
 
-[Subscribe to newsletter!](https://laurawissiak.substack.com/subscribe)
+[多くのリソースやイベントは、オンラインのアクセシビリティバブルの外では見つけにくいものです。ゲートキーピングはアクセシビリティの対極にあります。そのため、ローラはウェブアクセシビリティに関する今後のイベントについて、ほぼ毎月ニュースレターを送っています。
 
-Missed a newsletter? We got you covered. [Read previous newsletter.](https://laurawissiak.substack.com/)
+ニュースレターを購読する！
+ゲートキーピングはアクセシビリティの対極です！
+
+私のオンラインバブルには、ウェブアクセシビリティ、ベストプラクティス、アクティビズム、インクルージョンに関する多くのリソースやイベントが溢れています。だから私はインターネットアクセスを持つ人がよくやるように、ほぼすべてにサインアップします。友達の仕事にも関係するかもしれないと思ったときや、彼らの興味に合うと思ったときには、「これ、君に合うかも！」という感じでリンクを転送していました。
+これが私がニュースレターを始める動機になりました。
+
+多くのアクセシビリティに関するリソースは、無料でオンラインでアクセス可能です。これは、利用可能性の面でも、主催者が可能な限りバリアフリーにしているという面でもです。（もちろんそうですよね！アクセシビリティに関するイベントを非アクセシブルにする理由がどこにあるでしょうか？）
+
+もしそのような状況に陥った場合、あなたは確実に要件を正しく理解していません。反省して、レビュープロセスのどこで間違ったのかを考えましょう。）個別にリンクをキュレーションする代わりに、オートメーションマネージャーのように最適化して、ほぼ毎月のニュースレターを送ることにしました！
+
+私のニュースレターには、ウェブアクセシビリティに関する今後のイベントが含まれます。もちろん、全ての購読者がどこに住んでいるのか分からないので、無料で、オンラインで、英語で開催されるイベントに絞るようにしています。でも、もし本当にすごいものを見つけたら、例外を作ってドイツ語圏やウィーン在住の友達に優先して知らせます。
+
+この偏りを補うために、見つけた永続的なリソースも含めます。そして信じてください、本当にたくさんあります！コースや認証、そして個人的なお気に入りは、障害についてブログを書き、クールなアクセシブルなものや予想外の非アクセシブルな日常体験を指摘するインフルエンサーたちです。
+
+[ニュースレターを購読](https://laurawissiak.substack.com/subscribe)
+
+ニュースレターを見逃しましたか？大丈夫です。[ 以前のニュースレター](https://laurawissiak.substack.com/)

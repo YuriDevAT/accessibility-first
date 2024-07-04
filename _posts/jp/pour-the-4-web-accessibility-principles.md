@@ -1,6 +1,6 @@
 ---
-title: 'POUR - The 4 Web Accessibility Principles'
-excerpt: 'To qualify your website and web application as accessible under the Web Content Accessibility Guidelines (WCAG 2.0) established by the World Wide Web Consortium’s Web Accessibility Initiative (W3C WAI), the content must meet these four principles (which form the acronym POUR)...'
+title: 'POUR - ウェブ・アクセシビリティの4原則'
+excerpt: 'ワールド・ワイド・ウェブ・コンソーシアムのウェブ・アクセシビリティ・イニシアティブ（W3C WAI）が制定したウェブ・コンテンツ・アクセシビリティ・ガイドライン（WCAG 2.0）に基づき、ウェブサイトやウェブ・アプリケーションがアクセシブルであると認定されるには、コンテンツが以下の4つの原則（頭文字をとってPOURと呼ばれる）を満たしている必要があります。。。'
 coverImage: '/assets/blog/en/pour-the-4-web-accessibility-principles/cover.png'
 date: '2022-07-17T07:35:07.322Z'
 tags: 'Blog'
@@ -14,78 +14,78 @@ ogPost:
   url: 'https://dev.to/yuridevat/pour-the-4-web-accessibility-principles-edp'
 ---
 
-To qualify your website and web application as accessible under the [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.w3.org/TR/WCAG20/) established by the [World Wide Web Consortium's Web Accessibility Initiative (W3C WAI)](https://www.w3.org/WAI/), the content must meet these four principles (which form the acronym POUR):
+ウェブサイトやウェブアプリケーションが、[World Wide Web Consortium's Web Accessibility Initiative (W3C WAI)](https://www.w3.org/WAI/)が確立した[Web Content Accessibility Guidelines (WCAG 2.0)](https://www.w3.org/TR/WCAG20/)に基づいてアクセシブルであると認定されるためには、コンテンツが以下の4つの原則（頭字語のPOURを形成する）を満たす必要があります：
 
-- **P**erceivable
-- **O**perable
-- **U**nderstandable
-- **R**obust
+- **P**erceivable（知覚可能）
+- **O**perable（操作可能）
+- **U**nderstandable（理解可能）
+- **R**obust（堅牢）
 
-## 1. Perceivability
+## 1. 知覚可能
 
-The output of your web content **must** be accessible through at least one of our biological senses, such as sight, hearing, or touch, to be called accessible.
+ウェブコンテンツの出力は、少なくとも1つの生物学的感覚（視覚、聴覚、触覚など）を通じてアクセスできる**必要があります**。
 
-### 1.1. How to perceive
+### 1.1. 知覚する方法
 
-Most people perceive information on the Internet by looking at it, which works well for those who can see well. Most web designers and developers are relatively young and able-bodied. So it's no coincidence that they design the web to work for people like themselves. Sometimes they don't even realize that other people may not be able to see the content, so the developers don't design the web pages in other ways to make the information perceptible to everyone.
+ほとんどの人はインターネット上の情報を視覚的に知覚しますが、これは視力が良好な人にとって有効です。多くのウェブデザイナーや開発者は比較的若く、健常者です。そのため、彼らは自分たちに似た人々のためにウェブをデザインすることが多いのです。時には、他の人がコンテンツを見られないことに気づかず、そのために全ての人に情報を知覚できるように設計していないこともあります。
 
-It is important to write the code so that screen readers can convert the written information into synthesized speech so that visually impaired and blind people can hear the web content. Hearing the web content is the next most common way to perceive information from the web.
+視覚障害者や盲目の人々がウェブコンテンツを聞くことができるように、スクリーンリーダーが書かれた情報を合成音声に変換できるようにコードを書くことが重要です。ウェブコンテンツを聞くことは、ウェブから情報を知覚する次に一般的な方法です。
 
-Making your code understandable to screen reader software users who rely on audible web content will most likely make it understandable to people who are deaf-blind and use a Braille device. The screen reader converts digital text to Braille for nearly identical functionality. You can think of refreshable braille just like traditional printed braille on hard paper, with raised dots arranged in an alphabet of characters and symbols.
+スクリーンリーダーソフトウェアユーザーにとって、聞こえるウェブコンテンツを理解しやすくするためのコードを書けば、視覚・聴覚障害者が使用する点字デバイスにも対応できる可能性が高くなります。スクリーンリーダーはデジタルテキストを点字に変換し、ほぼ同じ機能を提供します。更新可能な点字は、従来の紙に印刷された点字と同様に、文字や記号のアルファベットに配列された盛り上がった点で構成されています。
 
-### 1.2. Digital text is the universal format
+### 1.2. デジタルテキストはユニバーサルフォーマット
 
-You can call digital text THE universal web accessibility format for making web content perceptible. Therefore, as web designers and developers, it is our duty to write the code in such a way that it can be perceived by everyone. If someone can't see the images and colors on your website or hear your audio, the content may as well not exist.
+デジタルテキストは、ウェブコンテンツを知覚可能にするためのユニバーサルウェブアクセシビリティフォーマットと呼べます。したがって、ウェブデザイナーや開発者として、全ての人が知覚できるようにコードを書くことが我々の義務です。誰かがウェブサイトの画像や色を見たり、音声を聞いたりできない場合、コンテンツは存在しないのと同じです。
 
-It's critical to make every informative component perceptible via text, i.e., tag images with appropriate alternative text, make dynamic interactions accessible by using ARIA (Accessible Rich Internet Applications), which indicates when a tab expands or collapses, and more.
+テキストを通じて全ての情報コンポーネントを知覚可能にすることが重要です。つまり、適切な代替テキストを使って画像にタグを付け、動的なインタラクションをARIA（Accessible Rich Internet Applications）を使ってアクセシブルにし、タブが展開または折りたたまれることを示すなどの対策を講じる必要があります。
 
-Make sure users know what they'll find on your website by making content and features accessible by sight, sound, and touch.
+コンテンツと機能を視覚、聴覚、触覚でアクセス可能にすることで、ユーザーがウェブサイトで何を見つけるかを理解できるようにしましょう。
 
-## 2. Operable
+## 2. 操作可能
 
-The user **must** be able to navigate into, use, navigate through, and exit your web components regardless of what input device they use.
+ユーザーは、使用する入力デバイスに関わらず、ウェブコンポーネントにナビゲートし、使用し、ナビゲートし、終了できる**必要があります**。
 
-### 2.1 How to operate
+### 2.1 操作方法
 
-Not every user is able to use a mouse or touchpad. It is a developer's duty to write their code so that it works with other input devices, such as keyboard, touch screen, voice recognition software, etc.
+全てのユーザーがマウスやタッチパッドを使用できるわけではありません。開発者の義務は、他の入力デバイス（キーボード、タッチスクリーン、音声認識ソフトウェアなど）でも動作するようにコードを書くことです。
 
-If a feature does not work, some users will not be able to use the web component. Keyboard users need to be able to navigate a JavaScript drop-down menu and select the desired link within that menu without using a mouse. Mouse features such as hover events must also be able to be enabled with devices such as touchscreens or keyboards to give the user the same experience as the mouse user.
+機能が動作しない場合、一部のユーザーはウェブコンポーネントを使用できなくなります。キーボードユーザーは、マウスを使わずにJavaScriptのドロップダウンメニューをナビゲートし、そのメニュー内のリンクを選択できる必要があります。マウス機能（ホバーイベントなど）も、タッチスクリーンやキーボードなどのデバイスで有効にして、マウスユーザーと同じ体験を提供する必要があります。
 
-### 2.2 Keyboards are almost the universal input device
+### 2.2 キーボードはほぼユニバーサル入力デバイス
 
-If you make your code accessible not only to the mouse but also to the keyboard, you already make it more accessible to most other devices.
+コードをマウスだけでなくキーボードでもアクセス可能にすると、他の多くのデバイスでもアクセスしやすくなります。
 
-Make sure that instead of using specific device events like `onmouseover` or `ondblclick`, you use independent event handlers like `onfocus` or `onselect`. In some cases, you may even need both.
+`onmouseover`や`ondblclick`のような特定のデバイスイベントを使用するのではなく、`onfocus`や`onselect`のような独立したイベントハンドラを使用するようにしてください。場合によっては、両方が必要なこともあります。
 
-## 3. Understandable
+## 3. 理解可能
 
-The user **must** be able to understand all the content and interfaces on your website.
+ユーザーは、ウェブサイト上の全てのコンテンツやインターフェイスを理解できる**必要があります**。
 
-### 3.1 How to understand
+### 3.1 理解する方法
 
-It is important to specify a language in the markup (for example, `<html lang="en"`) so that the screen reader can read the text with the expected pronunciation to make the content understandable to the user. If you use expressions in another language on a page, make sure that this particular part is surrounded with its own language (e.g. `<span lang="de">Guten Tag!</span>`).
+マークアップで言語を指定すること（例： `<html lang="en">`）は重要です。これにより、スクリーンリーダーが予想される発音でテキストを読み上げ、ユーザーがコンテンツを理解しやすくなります。ページ内で他の言語の表現を使用する場合、その部分が独自の言語で囲まれていることを確認してください（例： `<span lang="de">Guten Tag!</span>`）。
 
-The user interface and interactivity must be understandable, which can be ensured by keeping the look and feel of your website consistent across multiple pages, such as the same links in the main navigation, the same behavior of form controls, and custom widgets throughout your website.
+ユーザーインターフェイスとインタラクションは理解可能である必要があります。これを確保するために、複数のページでウェブサイトの外観と操作感を一貫させることが重要です。たとえば、メインナビゲーションの同じリンク、フォームコントロールの同じ動作、カスタムウィジェットなどです。
 
-### 3.2 Best practices in making content more understandable
+### 3.2 コンテンツを理解しやすくするためのベストプラクティス
 
-Because some people struggle with reading difficulties, disabilities, or even cognitive impairment, avoid long or unfamiliar words and phrases, complex sentence constructions, or lines of text that are too close together.
+一部の人々は読み困難、障害、または認知障害に苦しんでいるため、長いまたは馴染みのない言葉やフレーズ、複雑な文の構造、または行間が狭すぎるテキストを避けてください。
 
-Make sure to use a font that is easy for everyone to read, such as common serif or sans-serif fonts, and that lines of text are not too close together. Avoid spacing between words by not using justified text in a paragraph.
+全ての人が読みやすいフォント（一般的なセリフやサンセリフフォントなど）を使用し、行間が狭すぎないようにしてください。段落内のテキストを揃えた文章の使用を避けてください。
 
-When you use a form, you should provide enough information for the user to successfully complete the form. If there are required fields or a specific password convention, let the user know what went wrong if the form cannot be submitted. This can be done by telling the user in which field the error occurred, what exactly the error was, or by sending focus immediately to the input field with the error to notify screen readers.
+フォームを使用する際は、ユーザーがフォームを正常に完了するための十分な情報を提供してください。必須フィールドや特定のパスワード規則がある場合、フォームを送信できないときにユーザーに何が間違っているのかを知らせてください。これは、エラーが発生したフィールド、具体的なエラー内容、またはエラーを通知するためにフォーカスを入力フィールドに即座に送ることで行うことができます。
 
-Since some people can't read at all, it would be good to provide alternative formats such as images, audio or video. This may seem like a lot of work (and it is), but the user who depends on it will surely thank you for it.
+一部の人が全く読めない場合もあるため、画像、音声、ビデオなどの代替形式を提供すると良いでしょう。これは多くの作業に思えるかもしれませんが、それに依存するユーザーはきっと感謝するでしょう。
 
-## 4. Robust
+## 4. 堅牢
 
-In order for your website or web application to be considered robust, the user **must** be able to interact with your website on any browser or computer system, as well as assistive technologies.
+ウェブサイトやウェブアプリケーションが堅牢と見なされるためには、ユーザーがどのブラウザやコンピュータシステム、補助技術を使用しても、ウェブサイトと対話できる**必要があります**。
 
-### 4.1 How to be robust
+### 4.1 堅牢である方法
 
-Different screen readers generally process content differently, and even more so depending on which browser is used.
-It is impossible to support all browsers and platforms. Therefore, it is necessary to draw a line and say which browsers are supported and which are not (reasons can be because the user base is small or the version of a particular browser does not have enough features).
+異なるスクリーンリーダーは、コンテンツを異なる方法で処理します。また、使用するブラウザによっても異なります。
+全てのブラウザとプラットフォームをサポートすることは不可能です。したがって、どのブラウザをサポートし、どのブラウザをサポートしないか（ユーザーベースが小さい、または特定のブラウザバージョンに十分な機能がないなどの理由で）を決める必要があります。
 
-### 4.2 Best practices to make the website robust
+### 4.2 ウェブサイトを堅牢にするためのベストプラクティス
 
-The best way to achieve robustness is to use semantic HTML and, if necessary, ARIA to specify the name, role, and value of interactive components to give screen reader users the information they want.
+堅牢性を達成する最良の方法は、セマンティックHTMLを使用し、必要に応じてARIAを使用して、インタラクティブコンポーネントの名前、役割、および値を指定し、スクリーンリーダーユーザーに必要な情報を提供することです。

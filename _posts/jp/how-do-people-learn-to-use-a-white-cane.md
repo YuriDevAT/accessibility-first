@@ -1,6 +1,6 @@
 ---
-title: 'How do people learn to use a white cane?'
-excerpt: 'At the first real user trial, we finally put our actual prototype on an actually blind person, instead of a blindfolded engineer. The participant gave us a great tip: to get in touch with an orientational mobility officer.Since there is no industry standard for haptic...'
+title: '白杖はどうやって使うようになるのですか？'
+excerpt: '最初の実ユーザートライアルでは、目隠しをしたエンジニアではなく、実際に目の不自由な人にプロトタイプを装着しました。この参加者は、私たちに素晴らしいヒントを与えてくれました。。。'
 coverImage: '/assets/blog/en/how-do-people-learn-to-use-a-white-cane/cover.png'
 date: '2023-10-16T05:35:07.322Z'
 tags: 'Blog'
@@ -14,61 +14,60 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/how-do-people-learn-to-use-a-white-cane'
 ---
 
-At the first real user trial, we finally put our actual prototype on an actually blind person, instead of a blindfolded engineer. The participant gave us a great tip: to get in touch with an orientational mobility officer.
+初めての本格的なユーザートライアルでは、実際に視覚障害を持つ人に試作機を装着してもらいました。それまでブラインドフォールドをしたエンジニアに試してもらっていましたが、今回は本物の視覚障害者に試してもらいました。参加者から素晴らしいアドバイスをもらいました：方向転換モビリティオフィサーに連絡を取ることです。
 
-Since there is no industry standard for haptic and audio feedback in assistive tech, it will most likely require some training for the user to adjust to the additional sensory input and use it to navigate comfortably. And since this assistive device is supposed to be used alongside the white cane, it would only make sense to structure this onboarding journey along with what every user already learned before when they picked up the white cane.
+支援技術における触覚および音声フィードバックの業界標準がないため、追加の感覚入力に適応し、それを快適に利用するために、ユーザーにはある程度のトレーニングが必要となるでしょう。また、この支援デバイスは白杖と一緒に使うことを想定しているため、ユーザーが白杖を使い始めたときに学んだ内容に沿って、この導入プロセスを構築するのが理にかなっています。
 
-Now the obvious challenge for me, a sighted person, is that I have no clue how one learns to navigate with a white cane. Furthermore, while navigational mobility officer sounded fancy, I had no idea what this role would be called in German, and if there even was a counterpart for this role outside the UK.
+ここで私にとっての明らかな課題は、私が視覚を持っているため、白杖を使ってのナビゲーションをどのように学ぶのか全く分からないことです。さらに、方向転換モビリティオフィサーという役職がどのようなものであるか、ドイツ語での呼び方や、UK以外でその役職が存在するのかさえ分かりませんでした。
 
-Confused as to where to find one, but fully convinced to try by the brilliance of the idea our test user gave us, I started by asking my contacts at [Hilfsgemeinschaft](https://www.hilfsgemeinschaft.at/) for help. And oh my did they come through! Not only with the German translation but with a personal recommendation plus contact details to [Blindenverband](https://www.blindenverband-wnb.at/)! Jackpot! So after writing another email explaining all of the above, I already had a meeting scheduled.
+どこでそのような人を見つけるか混乱していましたが、テストユーザーの素晴らしいアイデアに完全に納得し、[Hilfsgemeinschaft](https://www.hilfsgemeinschaft.at/)の連絡先に助けを求めることから始めました。すると、彼らは素晴らしいサポートを提供してくれました！ドイツ語の翻訳だけでなく、[Blindenverband](https://www.blindenverband-wnb.at/)への個人的な推薦と連絡先まで教えてくれました！ジャックポットです！これらすべてを説明するメールを書いた後、すぐにミーティングが設定されました。
 
-## What does an Orientational Mobility Officer (OMO) do?
+## オリエンテーション・モビリティ・オフィサー（OMO）の役割は？
 
-The work of an OMO actually starts before a white cane is introduced. Most clients seeking out OMOs were born-sighted and became blind over the course of their lives. So most people start their navigational training with some amount of vision.
+OMOの仕事は実際には白杖が導入される前から始まります。OMOを求めるクライアントの多くは、生まれつき視覚を持ち、人生の途中で視覚を失った人々です。したがって、ほとんどの人はある程度の視覚を持ってナビゲーショントレーニングを開始します。
 
-> Navigational training is as individual as blindness itself.
+> ナビゲーショントレーニングは、視覚障害と同じくらい個別です。
 
-Everyone starts with different levels of vision and different mobility needs. So the training is tailored to individual needs. This might include the route to the next supermarket, transit to the office, or just finding your way around your own house.
+各人は異なるレベルの視力と異なるモビリティニーズを持っているため、トレーニングは個々のニーズに合わせて調整されます。これには、次のスーパーマーケットへのルートやオフィスへの通勤、自宅周りの移動が含まれるかもしれません。
 
-Once you’ve set your goals, you split them into milestones. These start with basic techniques to use the white cane indoors, including stairs, for safety measures, before moving on to outside settings in calm residential areas and gradually introducing elements of traffic, such as parked cars.
+目標を設定すると、それをマイルストーンに分割します。最初は室内で白杖を使用する基本技術から始め、安全対策として階段を含め、その後、落ち着いた住宅街での屋外環境に移行し、徐々に駐車車両などの交通要素を導入します。
 
-## Mental models of traffic
+## 交通のメンタルモデル
 
-People who were born with rather high levels of vision usually are used to traffic. If you used to have a driver’s license at one point in life, you already know how an intersection and roundabout work. But if you have lived your life without seeing, you have to learn such a concept first before it’s safe to let you hit the streets on your own. This is done with tactile models of it.
+視力が高い状態で生まれた人々は通常、交通に慣れています。かつて運転免許を持っていたことがあるなら、交差点やロータリーの仕組みを既に知っているでしょう。しかし、視覚を持たずに生きてきた場合、独りで通りに出る前にそのような概念をまず学ぶ必要があります。これは触覚モデルを使用して行われます。
 
-Intersections, crossroads, and subway stops are a bit more tricky since they tend to differ so much from one to the next. In this case, it is still possible to go to the last stop during off-peak hours and feel around a bit. That would be a very tactile but not very much miniature-size model. Feeling up on the real thing!
+交差点、クロスロード、地下鉄の駅は、個々によって異なるため、少しトリッキーです。この場合、オフピーク時に最後の停留所に行って、周囲を触れて確認することが可能です。それは非常に触覚的ですが、ミニチュアサイズではありません。実際の場所を触って確認します！
 
-All this is done to cultivate a mental model of traffic settings, which will help orientation trainees understand along which starting car they can also start crossing the street. But public transportation is really the S-tier of orientation. So let’s go back to the basics of indoor navigation first.
+これらすべては、交通状況のメンタルモデルを養うために行われます。これにより、車が動き出すタイミングを理解し、道を渡ることができるようになります。しかし、公共交通機関は本当に最高レベルのナビゲーションです。まずは室内ナビゲーションの基本に戻りましょう。
 
-## Indoor orientation
+## 室内の方向感覚
 
-Our immediate concern is to orient ourselves in a building. Indoors, the biggest threat are stairs. Especially stairs leading down. This is also why tactile flooring is installed for stairs in public settings.
-indoor navigation tools. braille labels, tactile floor maps, click sonar, clearly marked stairs, tactile floor markings.
+私たちの直近の関心事は建物内での方向感覚です。室内では、最大の脅威は階段です。特に下りの階段です。これが公共の場に触覚床が設置されている理由でもあります。
 
-Depending on the length of your cane, you only have about 1.5 to 2.5 steps time to react. There is no standardization for cane length, but often the more confident you become with navigating, the faster you walk, the longer your cane gets.
+白杖の長さによって、反応する時間は約1.5～2.5歩です。白杖の長さに標準化はありませんが、通常、ナビゲーションに自信がつくと歩行速度が速くなり、杖も長くなります。
 
-Another technique is **click sonar**. This one is neat because it works both indoors and outdoors. You learn how sound ricochets off different objects, and through that, you can tell where walls and objects are located (insert Batman joke here).
+もう一つの技術は**クリックソナー**です。これは室内外両方で機能する優れた技術です。音がさまざまな物体に反射する方法を学び、それによって壁や物体の位置を特定できます（バットマンのジョークを挿入してください）。
 
-Click sonar is a great technique, but never recommended to use alone. Remember our biggest enemy indoors? Yes, stairs. Anything that relies on echolocation or ultrasound has a major flaw: It needs a surface to reflect back from. With openings, such as stairs going down, hallways or garage openings, there is nothing close enough to reflect from.
+クリックソナーは素晴らしい技術ですが、単独での使用はお勧めしません。室内での最大の敵を覚えていますか？そう、階段です。エコーロケーションや超音波に依存するものは、反射するための表面が必要です。下りの階段、廊下、ガレージの開口部などでは、反射するものが近くにありません。
 
-That’s why _it is always recommended to use it in combination with the white cane_. Another issue, that you might already have guessed, is that it gets trickier to hear properly in noisy environments. If you can read German, this article goes more [in-depth about click sonar [German]](https://www.blindenverband-wnb.at/blog/mit-klick-sonar-sicher-durch-den-alltag/) and also explains that a bit of white noise is already enough to disorient you.
+そのため、白杖と組み合わせて使用することが常に推奨されます。もう一つの問題は、騒がしい環境では音を正しく聞くのが難しくなることです。ドイツ語を読めるなら、[この記事はクリックソナーについて詳しく説明](https://www.blindenverband-wnb.at/blog/mit-klick-sonar-sicher-durch-den-alltag/)しており、わずかなホワイトノイズでも混乱する可能性があることを示しています。
 
-As you set your goals you can also choose what house you want to learn. Your home, your office …. During the lockdowns Blindenverband was even able to use the main building of the University of Vienna for training. With such a huge building you can really work on local and global navigation.
+目標を設定する際には、どの家を学びたいかも選べます。自宅やオフィスなどです。ロックダウン中には、Blindenverbandはウィーン大学の本館をトレーニングに使用することもできました。このような大きな建物では、ローカルおよびグローバルナビゲーションの両方を練習できます。
 
-## What is local and global navigation?
+## ローカルおよびグローバルナビゲーションとは？
 
-When talking about navigation we split it into two sections: local and global. Local is anything in your close proximity. Currently, we focus mostly on this with product development. For example, a trashcan blocking your way would be an issue in local navigation. When it comes to global navigation think about Google Maps and pathfinding apps. Completing a route from point A to point B is global navigation.
+ナビゲーションについて話すとき、それをローカルとグローバルの2つのセクションに分けます。ローカルとは、近くのあらゆるものです。現在、製品開発において主に焦点を当てているのはこれです。たとえば、道を塞ぐゴミ箱はローカルナビゲーションの問題です。グローバルナビゲーションでは、Googleマップやルート案内アプリを考えてください。ポイントAからポイントBへのルートを完了するのがグローバルナビゲーションです。
 
-When talking about navigation we split it into two sections: local and global. Local is anything in your close proximity. Currently, we focus mostly on this with product development. For example, a trashcan blocking your way would be an issue in local navigation. When it comes to global navigation think about Google Maps and pathfinding apps. Completing a route from point A to point B is global navigation.
+ナビゲーションについて話すとき、それをローカルとグローバルの2つのセクションに分けます。ローカルとは、近くのあらゆるものです。現在、製品開発において主に焦点を当てているのはこれです。たとえば、道を塞ぐゴミ箱はローカルナビゲーションの問題です。グローバルナビゲーションでは、Googleマップやルート案内アプリを考えてください。ポイントAからポイントBへのルートを完了するのがグローバルナビゲーションです。
 
-## Shorelining
+## ショアライニング
 
-Can’t forget about this essential: Shorelining is the practice of using an edge, wall, or natural edge to stay on a straight path. Shorelining is the reason why white cane users will often follow along the wall or edge of a paved grass patch. It’s also the reason why you should never ever come between a cane user and the wall!
+この重要なことを忘れてはいけません：ショアライニングとは、直線的な道を進むために、エッジ、壁、または自然のエッジを使用することです。ショアライニングは、白杖ユーザーが壁や舗装された草地の端に沿って歩く理由です。また、白杖ユーザーと壁の間に入ってはいけない理由でもあります！
 
-Even if the cane user walking towards you is not directly following along the wall, still make sure to bypass them on the street-facing side. They might know this route very well, but could still want to shoreline for reassurance at any time. And yes, they might not see you, as realize the mistake you made and anxiously try to spider-man along the wall to avoid their cane, but they can still hear and/or smell you. One participant told me that it’s always weird when you’re suddenly hit by a whiff of perfume or cologne, and realize someone just invaded your personal space.
+白杖ユーザーが向かって歩いている場合でも、彼らが壁に沿って進んでいない場合でも、必ず道の側面で彼らを避けてください。彼らはこのルートを非常によく知っているかもしれませんが、いつでも安心のためにショアライニングを行うことがあるかもしれません。そして、そう、彼らは見ていないかもしれませんが、犯したミスに気づき、白杖を避けるために壁に沿ってスパイダーマンのように動くかもしれませんが、それでも彼らは聞いたり匂ったりすることができます。ある参加者は、突然香水やコロンの匂いがするのはいつも奇妙で、誰かが自分のパーソナルスペースに侵入したことに気づくと話していました。
 
-## Shout out to [Blindenverband](https://www.blindenverband-wnb.at/)!
+## [Blindenverband](https://www.blindenverband-wnb.at/)に感謝！
 
-A big thank you to the wonderful people at Blindenverband! It was a densely information-packed 1.5 hours with lots of new input for me. You may have already noticed that from the length of this blog post!
+Blindenverbandの素晴らしい人々に大きな感謝を！情報がぎっしり詰まった1.5時間で、多くの新しい情報を得ることができました。このブログポストの長さからもそのことが分かるかもしれませんね！
 
-So if I got you all hyped up about orientational mobility now, you would love their blog as well! Unless you don’t understand German, in which case it might be unrequited love…
+もし方向転換モビリティについて興味が湧いたなら、彼らのブログも楽しめるでしょう！ただし、ドイツ語が分からない場合は、その興味が報われないかもしれませんが…。

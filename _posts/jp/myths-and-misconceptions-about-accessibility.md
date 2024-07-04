@@ -1,6 +1,6 @@
 ---
-title: 'Myths and Misconceptions about Accessibility'
-excerpt: 'In this article, I will address common myths about and objections to accessibility by presenting evidence and examples that debunk them and support reasons for accessibility....'
+title: 'アクセシビリティに関する神話と誤解'
+excerpt: 'この記事では、アクセシビリティに関する一般的な神話や反論を取り上げ、それらを否定し、アクセシビリティを支持する根拠や事例を紹介します。。。'
 coverImage: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
 date: '2022-07-10T05:35:07.322Z'
 tags: 'Blog'
@@ -14,54 +14,54 @@ ogPost:
   url: 'https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab'
 ---
 
-## 1. Accessibility benefits only a small minority
+## 1. アクセシビリティは少数の人にしか恩恵がない
 
-**Accessibility benefits a wide variety of people.**
+**アクセシビリティは幅広い人々に恩恵をもたらします。**
 
-About 20% of all people have some kind of disability. However, this doesn't necessarily impact a person's ability to use the internet and spend their money on your product.
-Without accessibility, the lives of people with disabilities could be impacted in a dramatically negative way because they can't use websites.
+全人口の約20％が何らかの障害を持っています。しかし、これは必ずしもインターネットを利用し、製品にお金を使う能力に影響するわけではありません。
+アクセシビリティがないと、障害を持つ人々の生活に劇的に悪影響を与える可能性があります。なぜなら、彼らはウェブサイトを利用できなくなるからです。
 
-Fully accessible websites are easier for search engines to index and catalog, making the website easier for everyone to find.
+完全にアクセシブルなウェブサイトは検索エンジンがインデックスを作成しやすくし、誰にとってもウェブサイトを見つけやすくなります。
 
-They're also better for people who are getting older (they may be losing their eyesight, their hearing, their mobility, their cognitive abilities) - and guess what, we're all getting there (hopefully). And besides the fact that we're all getting older, we can all get a disability at any time (e.g., from an accident).
+また、高齢化している人々にも役立ちます（視力、聴力、移動能力、認知能力が低下する可能性があります）。そして、私たちは皆、そこに向かっています（希望的に）。さらに言えば、誰もがいつでも障害を負う可能性があります（例：事故による）。
 
-> So let's code now for our future selves.
+> 将来の自分たちのために今からコードを書きましょう。
 
-## 2. Accessibility is a short-term project
+## 2. アクセシビリティは短期的なプロジェクトである
 
-**Accessibility is an ongoing design requirement.**
+**アクセシビリティは継続的なデザイン要件です。**
 
-Accessibility will never disappear (just like (web) security, for example). As long as there are people on this planet, there will always be a need for accessible design.
+アクセシビリティは決して消えません（例えば、ウェブセキュリティと同様に）。この地球に人々が存在する限り、アクセシブルなデザインの必要性は常に存在します。
 
-Accessibility must be part of the entire process from the beginning: Business, design and quality assurance requirements, training new employees, and more.
+アクセシビリティは最初から全てのプロセスの一部である必要があります：ビジネス、デザイン、品質保証の要件、新入社員のトレーニングなど。
 
-It would be best if the company culture were fully committed to accessibility, through visionary leadership that provides resources and full-time positions for accessibility, as well as job opportunities for people with disabilities.
-It would be enormously helpful to have people with different abilities and disabilities working together on a daily basis.
+会社の文化がアクセシビリティに完全にコミットし、リソースとフルタイムのポジションを提供し、障害を持つ人々のための就職機会を提供することが望ましいです。
+異なる能力と障害を持つ人々が日常的に一緒に働くことは非常に有益です。
 
-## 3. Accessibility is the last step
+## 3. アクセシビリティは最後のステップである
 
-> Taking accessibility into account already in the design process makes it a lot easier and results in a better design than retrofitting as a last step.
+> デザインプロセスの初期段階からアクセシビリティを考慮することで、実装がはるかに容易になり、最終段階で後付けするよりも良いデザインが得られます。
 
-If you only introduce accessibility as a final step, it can be very difficult to implement, often leading to poor design or even not implementing it at all. It could also make the process longer and more expensive.
+アクセシビリティを最後のステップとして導入する場合、実装が非常に難しくなることがあり、結果的にデザインが悪化したり、実装がまったく行われないことがあります。また、プロセスが長引き、コストが増加する可能性もあります。
 
-## 4. Accessibility is hard and expensive
+## 4. アクセシビリティは難しくて高価である
 
-Developing accessibility from the beginning is reasonable compared to the cost of alternatives, such as implementing accessibility as a final step, negative publicity, or lawsuits.
+初めからアクセシビリティを開発することは、最終段階でアクセシビリティを実装する場合や、ネガティブな宣伝や訴訟と比較して、合理的です。
 
-## 5. Accessibility is ugly
+## 5. アクセシビリティは見た目が悪い
 
-> If the component is ugly, you should look for another designer.
+> コンポーネントが見た目が悪い場合は、別のデザイナーを探すべきです。
 
-Most accessibility features are invisible anyway and usually only accessible to screen readers (e.g. descriptive text). Writing your code with semantic HTML not only makes the code more readable, but also ensures better search engine optimization.
+ほとんどのアクセシビリティ機能は目に見えず、通常はスクリーンリーダーのみがアクセスできます（例：説明文）。セマンティックHTMLでコードを書くことは、コードを読みやすくするだけでなく、検索エンジン最適化を確保します。
 
-And let's face it, in what world is that fully accessible button on the right ugly?!
+正直なところ、右側にある完全にアクセシブルなボタンが醜い世界ってどんな世界でしょうか？
 
-![A pen in codepen showing two buttons, one with default visuals grey in grey and one styled in blue background and white text and rounded borders.](/assets/blog/en/myths-and-misconceptions-about-accessibility/image-1.png)
+![codepenのペンで2つのボタンを表示。1つはデフォルトのビジュアルがグレーで、もう1つは青い背景に白いテキストと丸みを帯びたボーダーのスタイル。](/assets/blog/en/myths-and-misconceptions-about-accessibility/image-1.png)
 
-[Go to codepen to get the code!](https://codepen.io/YuriDevAT/pen/eYMzpgw)
+[コードを取得するにはcodepenへ](https://codepen.io/YuriDevAT/pen/eYMzpgw)
 
-## 6. Talk about this topic at Front-End Foxes Day 2022
+## 6. Front-End Foxes Day 2022でこのトピックについて話しましょう
 
-Check out a full length talk about Myths & Misconception at the Front-End Foxes Day 2022, where I get into more details about each myth.
+Front-End Foxes Day 2022での完全な講演をチェックしてください。そこでは、各神話について詳細に説明しています。
 
-[Talk on YouTube about Myths & Misconceptions about Accessibility.](https://www.youtube.com/watch?v=9goOuRJMEHY)
+[アクセシビリティの神話と誤解についてのYouTubeの講演。](https://www.youtube.com/watch?v=9goOuRJMEHY)

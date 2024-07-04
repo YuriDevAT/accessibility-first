@@ -18,7 +18,7 @@ See you at uxcon Vienna 2024!
 
 ## Workshop: Accessibility is not a checklist
 
-Finally, the [program of this years uxcon vienna](https://program.uxcon.at/) is out. And we are part of it.
+Finally, the [program of this years uxcon vienna](https://www.uxcon.io/) is out. And we are part of it.
 
 On the day 2 of the event, Friday, September 20th, we are going to hold a workshop about how to spot the most common accessibility bugs plaguing an assistive tech user’s journey and how to fix them.
 

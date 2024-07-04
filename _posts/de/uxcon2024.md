@@ -18,7 +18,7 @@ Wir sehen uns auf der uxcon vienna 2024!
 
 ## Workshop: Accessibility is not a checklist
 
-Endlich, das [Programm der diesjährigen uxcon vienna](https://program.uxcon.at/) ist da. Und wir sind ein Teil davon.
+Endlich, das [Programm der diesjährigen uxcon vienna](https://www.uxcon.io/) ist da. Und wir sind ein Teil davon.
 
 Am zweiten Tag der Veranstaltung, am Freitag, den 20. September, werden wir einen Workshop abhalten, in dem es darum geht, wie man die häufigsten Zugänglichkeitsfehler aufspürt, die einen Assistive Tech-Benutzer plagen, und wie man sie beheben kann.
 
