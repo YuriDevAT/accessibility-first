@@ -1,6 +1,6 @@
 ---
-title: 'Why blind people in Vienna hate trashcans'
-excerpt: 'When I first started doing research for Hope Tech’s Sixth Sense, we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars,...'
+title: 'ウィーンの盲人はなぜゴミ箱を嫌うのか'
+excerpt: 'ホープテックの『シックス・センス』の研究を始めたばかりの頃、私たちはすぐに「いったい何を脅威と定義すればいいのか、何が単なる障害物なのか」という課題にぶち当たりました。脅威の分類について、私の頭の中にはすぐに交通機関、動く車などが浮かびました。。。'
 coverImage: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.png'
 date: '2023-10-04T05:35:07.322Z'
 tags: 'Blog'
@@ -14,27 +14,27 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 ---
 
-When I first started doing research for [Hope Tech’s Sixth Sense](https://www.hopetech.vision/), we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars, or bicyclists of which there are many in Vienna. In my mind, a crash was something that requires two moving things going straight at each other.
+私が初めて[Hope Techの『シックス・センス』](https://www.hopetech.vision/)のリサーチを始めたとき、「脅威とは正確に何を定義すべきか、そして単なる障害物とは何を定義すべきか」という課題に直面しました。脅威の分類について考えると、私の頭にはすぐに交通、動いている車やウィーンには多い自転車が浮かびました。私の中では、クラッシュとは、お互いにまっすぐ向かってくる2つの動いている物が必要なものと考えていました。
 
-Although a blind person walking into a trashcan sounds just like the punchline of a problematic joke, it is a real daily problem!
-
----
-
-**A bit of background knowledge:**
-Vienna’s trashcans are managed by the wonderful MA 48, department for waste management and street cleaning. To make the bins easy to empty, they are suspended on street poles. Street cleaners can open the lid on the bottom and catch the contents with a net. Super easy, super fast, and as tidy as trash can be!
+盲目の人がゴミ箱にぶつかるというのは問題のあるジョークのオチのように聞こえますが、実際には毎日の問題なのです！
 
 ---
 
-Because the bins are invisible to the white cane, many users have learned to walk around with one hand up in front of their chest. Extending their hand about 20 cm away from the chest allows them to notice trash bins or other suspended objects. A neat trick to work around this!
+**少し背景知識：**
+ウィーンのゴミ箱は、素晴らしいMA 48（廃棄物管理と街路清掃の部署）によって管理されています。ゴミ箱を簡単に空にするために、それらは街灯柱に吊るされています。清掃員は底の蓋を開けて、内容物をネットでキャッチします。非常に簡単で、非常に速く、ゴミ箱としてはこれ以上ないほど整然としています！
 
-The first person who mentioned this to me was using this technique all throughout our walk. At first, I had assumed that he was simply the kind of person who gesticulates a lot while talking. But when we reached the topic of “common mishaps” he immediately talked about the problem with trashcans. It seems like this is something every white cane user has to learn the hard way by running into at least one.
+---
 
-Many people with low vision use a white cane to navigate the world. The concept is simple, yet unsurpassed: The cane bumps into obstacles before the holder does. Great! We love it! But the cane has one downside: It only works on the ground. While knee-high objects can still be detected somewhat accurately to avoid a crash, anything hip-height or above is basically invisible.
+ゴミ箱は白杖には見えないため、多くのユーザーは胸の前に片手を上げて歩くことを学びました。胸から約20cm離れたところに手を伸ばすことで、ゴミ箱や他の吊るされた物体に気づくことができます。これは、うまく対処するための素晴らしいトリックです！
 
-Do you see where I’m going with this? The white cane scanning on the ground and the trash bins suspended on poles in mid-air don’t make for the best combination. The cane will pick up on the pole, but not the entire width of the bin. So while roaming the streets of Vienna, any cane user runs a chance that the tiny street pole or traffic sign they just encountered is ready to bodycheck them with a trashcan.
+私にこれを最初に教えてくれた人は、私たちが一緒に歩いている間ずっとこの技術を使っていました。最初は、彼がただ話しながらよくジェスチャーをする人だと思っていました。しかし、「よくある失敗」についての話題になったとき、彼はすぐにゴミ箱の問題について話し始めました。これは、白杖を使う全ての人が少なくとも一度はぶつかることで学ばなければならないことのようです。
 
-In the context of Hope Tech, this will most likely be an everyday use case. One that no one on the team saw coming: Avoiding those sneaky trash cans. But long term, I’d like to see the city of Vienna take this into consideration as well. So if anybody who is remotely responsible for the trash cans is reading this, hit me up! I’d love to help you solve this accessibility issue.
+多くの視覚障害者は、白杖を使って世界をナビゲートします。その概念はシンプルですが、未だに最高です。杖は持ち主がぶつかる前に障害物にぶつかります。素晴らしい！これが大好きです！しかし、杖には一つの欠点があります。それは地面でしか機能しないことです。膝の高さの物体はまだある程度正確に検出できますが、腰の高さやそれ以上の物体は基本的に見えません。
 
-![A grey and orange trash bin mounted on a blue bus stop sign in Vienna. In the background, white hibiscus flowers are blooming in front of one of the historical facades in Vienna’s first district.](/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
+私が言おうとしていることがわかりますか？地面をスキャンする白杖と中空に吊るされたゴミ箱は最適な組み合わせではありません。杖はポールを拾いますが、ゴミ箱の全幅は拾いません。したがって、ウィーンの街を歩き回るとき、白杖を使う人は、出会った小さな街灯柱や交通標識がゴミ箱で体当たりしてくる可能性があるのです。
 
-This blog post was particularly inspired by user interviews with two residents of Vienna, who are legally blind. However, both of them experienced progressive sight loss over a longer period of time. In this post, I refer to them as blind because that is how they described themselves, but I am convinced that the trashcan issue extends to almost, if not all users of the white cane.
+Hope Techの文脈では、これはおそらく日常的な使用例となるでしょう。チームの誰も予想していなかったものです：その隠れたゴミ箱を避けること。しかし、長期的には、ウィーン市もこれを考慮してくれることを期待します。もし、ゴミ箱の管理に少しでも関わっている方がこれを読んでいたら、ぜひご連絡ください！このアクセシビリティの問題を解決するお手伝いをさせていただきたいです。
+
+![ウィーンの青いバス停の標識に取り付けられたグレーとオレンジのゴミ箱。背景には、ウィーン1区の歴史的なファサードの前に白いハイビスカスの花が咲いています。](/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
+
+このブログ投稿は、ウィーン在住の視覚障害者2人とのユーザーインタビューに特に触発されました。彼らは長期間にわたって進行する視力低下を経験しましたが、この投稿では彼らを盲目と呼んでいます。なぜなら、それが彼らの自己認識だったからです。しかし、私はこのゴミ箱の問題がほとんどすべての白杖ユーザーに及ぶものだと確信しています。

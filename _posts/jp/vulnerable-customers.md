@@ -1,6 +1,6 @@
 ---
-title: 'Vulnerable customers'
-excerpt: 'Did you know? 300,000 people in Austria have no or limited knowledge of German. For 56% being able to communicate in their first language is more important than the price point! 7.1% of 16 to 65-year-olds have quite low ...'
+title: '脆弱な顧客'
+excerpt: 'ご存知でしたか？オーストリアでは30万人がドイツ語をまったく知らないか、あまり知らないのです。56％にとって、第一言語でコミュニケーションが取れることは、価格帯よりも重要である！16歳から65歳の7.1%は、ドイツ語をほとんど話せません。。。'
 coverImage: '/assets/blog/en/vulnerable-customers/cover.png'
 date: '2023-07-31T10:35:07.322Z'
 tags: 'Blog'
@@ -14,38 +14,38 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/vulnerable-customers'
 ---
 
-## Did you know?
+## ご存知ですか？
 
-- **300,000 people in Austria** have no or limited knowledge of German.
-- For **56%** being able to communicate in their first language is more important than the price point!
-- **7.1% of 16 to 65-year-olds** have quite low reading competencies.
+- **オーストリアには30万人**のドイツ語の知識がないか、または限られています。
+- **56%**の人にとって、第一言語でコミュニケーションが取れることが価格よりも重要です！
+- **16歳から65歳までの人口の7.1%**がかなり低い読解力を持っています。
 
-Of course, the exact numbers will vary by country, but the underlying problems are the same.
+もちろん、正確な数値は国によって異なりますが、根本的な問題は同じです。
 
-So, how might we support people with limited language skills or restricted cognitive abilities throughout the customer journey?
+では、どうやって言語スキルが限られた人や認知能力が制限された人々を顧客の旅路全体でサポートすることができるでしょうか？
 
-## And what did we find?
+## そして、私たちは何を見つけましたか？
 
-As of 2021, almost half of Vienna's population does not speak German as their first language. This also includes so-called heritage speakers, who speak German fluently but speak their parents' language more frequently at home. These are often involuntary interpreters for their families.
+2021年時点で、ウィーンの人口のほぼ半数が第一言語としてドイツ語を話していません。これには、ドイツ語を流暢に話すが、家庭では親の言語をより頻繁に話す「ヘリテージスピーカー」も含まれます。彼らはしばしば家族のための無理やりな通訳役です。
 
-For at least 60,000 people with learning difficulties in Austria, the world is only as big as their caregivers make it. Social tariffs and similar offers are hardly used, simply because nobody knows they exist! Prepaid tariffs are popular for cost control, although they are more expensive in the long run.
+オーストリアには少なくとも60,000人の学習障害者がいますが、彼らにとって世界は彼らの介護者が作り出すものだけです。社会的な料金や類似のオファーは、存在することさえ知られていないためにほとんど使用されていません！コストの管理が人気ですが、長期的にはより高額です。
 
-24% of teenagers are classified as being at risk of reading difficulties.
+10代の24%が読解困難のリスクがあるとされています。
 
-There is currently only one provider in Austria offering its website in 9 languages – nobody else in the Austrian market does! Although the data clearly underscore the meaningfulness. The finance and tourism sectors are already showing how it should be done: all relevant information available in the most spoken languages and unfamiliar terms explained. A prime example is the George app from Erste Bank.
+オーストリアでは現在、9つの言語でウェブサイトを提供しているプロバイダーは1社しかいません - 他のオーストリア市場の誰もがそのサービスを提供していません！しかし、データは明らかにその有意義さを示しています。金融および観光セクターはすでにその実施方法を示しています：最も話される言語ですべての関連情報が利用可能であり、理解しにくい用語が説明されています。良い例がErste BankのGeorgeアプリです。
 
-Not only customers experience a language barrier. Even within internal mobility job opportunities, on average, 20% of onboarding time is lost due to unfamiliar abbreviations and technical terms. Technical jargon costs time.
+顧客だけでなく、言語の壁が存在します。内部の移動機会では、平均して20％のオンボーディング時間が不明確な省略語や専門用語によって失われています。技術用語は時間がかかります。
 
-Based on these insights, we have also developed some ideas for where to start:
+これらの洞察に基づき、私たちはいくつかの始めるためのアイデアを開発しました：
 
-Language accessibility for all media: Critical information should be offered - online and offline - in multiple languages and also easy language to reach approximately 300,000 more people.
+すべてのメディアでの言語アクセシビリティ：重要な情報は、オンラインおよびオフラインの両方で複数の言語および簡単な言語で提供されるべきです。これにより、30万人以上の人々に到達することができます。
 
-Self-service options specifically for people with learning difficulties and reading weaknesses: Because "less is more," self-service options should only contain essential data. Together with pictograms, this would make understanding easier and alleviate fears of people with cognitive impairments that they might do something wrong.
+学習障害と読解力に対する自己サービスオプション：「少ないほど良い」が理念であり、自己サービスオプションには本質的なデータのみを含めるべきです。ピクトグラムと共に使用することで、理解が容易になり、認知障害を持つ人々が何かを間違えることを恐れることが和らぎます。
 
-Making the language diversity among employees visible and usable: Employees in shops, and service lines are just as diverse as customers. This could be made visible, for example in shops through name tags, or through offering a language selection alongside callback services. Leveraging these already existing talents would lead to higher customer satisfaction and standardization of call duration and information quality. For 56% of customers, communication and advice are more important for the purchasing decision than the price itself.
+従業員の言語多様性を可視化し、利用化する：店舗やサービスラインの従業員は顧客と同様に多様です。これは、名札を通じて店舗で見えるようにしたり、コールバックサービスと並行して言語選択を提供することによって実現できます。これら既存の才能を活用することで、顧客満足度が向上し、コールの所要時間と情報の質が標準化されます。顧客の56%にとって、コミュニケーションとアドバイスは価格自体よりも重要です。
 
-Empowering those affected and their environment: Let's push information to where it is needed: To the facilities, to the caregivers - so that they can support people with learning disabilities. But also to the people themselves, to show them how to use the Internet safely!
+関係者とその環境を強化する：情報を必要な場所に届けるために：施設に、介護者に。彼らが安全にインターネットを使用する方法を示すために、そして人々自身にも。
 
-> Die Welt ist nur so groß, wie Betreuer sie machen.
+> Die Welt ist nur so groß, wie Betreuer sie machen. 「世界はケアする人が作る分だけ大きくなります。」
 
-_Patrizia, caregiver at Caritas_
+_Patrizia, Caritasでの介護者_
