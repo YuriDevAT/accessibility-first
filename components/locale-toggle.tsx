@@ -1,12 +1,12 @@
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 
-type LocaleCode = 'en' | 'de' | 'jp';
+type LocaleCode = 'en' | 'de' | 'ja';
 
 const languageNames: Record<LocaleCode, string> = {
   en: 'English',
   de: 'German',
-  jp: 'Japanese'
+  ja: 'Japanese'
 };
 
 const LocaleToggle = () => {

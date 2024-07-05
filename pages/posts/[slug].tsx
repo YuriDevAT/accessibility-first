@@ -88,7 +88,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const locales = ['en', 'de', 'jp'];
+  const locales = ['en', 'de', 'ja'];
   let paths: any[] = [];
 
   locales.forEach((locale) => {
