@@ -14,7 +14,7 @@ ogPost:
   url: 'https://dev.to/yuridevat/benefits-of-accessible-design-4m2a'
 ---
 
-前回の記事[「アクセシビリティに関する神話と誤解」](https://www-accessibilityfirst.at/jp/posts/myths-and-misconceptions-about-accessibility)では、アクセシビリティが恩恵をもたらすのは一部の人々だけだと信じている人々について話しました。
+前回の記事[「アクセシビリティに関する神話と誤解」](https://www-accessibilityfirst.at/ja/posts/myths-and-misconceptions-about-accessibility)では、アクセシビリティが恩恵をもたらすのは一部の人々だけだと信じている人々について話しました。
 
 実際には、アクセシビリティは多くの人々、社会、そして経済に利益をもたらします。ここでは、アクセシブルデザインの良い理由を詳しく見ていきましょう。
 

@@ -30,4 +30,4 @@ ogPost:
 
 ## その他のイベント
 
-最新のイベント情報、[ローラとユリアがスピーカーとして参加するイベント](https://accessibilityfirst.at/jp/events)をチェックして、最新情報をお見逃しなく！
+最新のイベント情報、[ローラとユリアがスピーカーとして参加するイベント](https://accessibilityfirst.at/ja/events)をチェックして、最新情報をお見逃しなく！
