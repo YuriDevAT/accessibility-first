@@ -59,8 +59,6 @@ As you set your goals you can also choose what house you want to learn. Your hom
 
 When talking about navigation we split it into two sections: local and global. Local is anything in your close proximity. Currently, we focus mostly on this with product development. For example, a trashcan blocking your way would be an issue in local navigation. When it comes to global navigation think about Google Maps and pathfinding apps. Completing a route from point A to point B is global navigation.
 
-When talking about navigation we split it into two sections: local and global. Local is anything in your close proximity. Currently, we focus mostly on this with product development. For example, a trashcan blocking your way would be an issue in local navigation. When it comes to global navigation think about Google Maps and pathfinding apps. Completing a route from point A to point B is global navigation.
-
 ## Shorelining
 
 Can’t forget about this essential: Shorelining is the practice of using an edge, wall, or natural edge to stay on a straight path. Shorelining is the reason why white cane users will often follow along the wall or edge of a paved grass patch. It’s also the reason why you should never ever come between a cane user and the wall!

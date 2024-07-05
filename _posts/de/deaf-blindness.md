@@ -1,6 +1,6 @@
 ---
-title: 'Deaf blindness'
-excerpt: 'When you hear the word deaf-blind, you might think “How do you communicate then?” And if you have ever studied anything related to communication, I’m sure your old professor is haunting you right now with Paul Watzlawick’s “One cannot not communicate” with that uuh spooky echo uuuh...'
+title: 'Taubblindheit'
+excerpt: 'Wenn du das Wort "taubblind" hörst, denkst du vielleicht: "Wie kann man dann kommunizieren?" Und wenn du jemals irgendetwas studiert hast, das mit Kommunikation zu tun hat, bin ich mir sicher, dass dein alter Professor dich gerade mit Paul Watzlawicks "Man kann nicht nicht kommunizieren" mit diesem unheimlichen Echo verfolgt ...'
 coverImage: '/assets/blog/en/deaf-blindness/cover.png'
 date: '2023-09-21T10:35:07.322Z'
 tags: 'Blog'
@@ -14,30 +14,30 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/deaf-blindness'
 ---
 
-When you hear the word deaf-blind, you might think “How do you communicate then?” And if you have ever studied anything related to communication, I’m sure your old professor is haunting you right now with Paul Watzlawick’s _“One cannot not communicate”_ with that uuh spooky echo uuuh.
+Wenn du das Wort taubblind hörst, denkst du vielleicht: „Wie kommunizierst du dann?“ Und wenn du jemals etwas über Kommunikation gelernt hast, verfolgt dich wahrscheinlich gerade dein alter Professor mit Paul Watzlawicks „Man kann nicht nicht kommunizieren“ mit diesem uuuh gruseligen Echo uuuh.
 
-But it’s still puzzling, right? Blind people usually rely on their hearing and deaf people use sign language to communicate. So how are deaf-blind people making it work?
+Aber es ist immer noch rätselhaft, oder? Blinde Menschen verlassen sich normalerweise auf ihr Gehör und taube Menschen nutzen Gebärdensprache zur Kommunikation. Wie schaffen es also taubblinde Menschen?
 
-## How can deaf-blind people see and hear?
+## Wie können taubblinde Menschen sehen und hören?
 
-We have already established that blindness is a spectrum. Okay, let’s rather say vision is a spectrum, and legal blindness is further on the low vision side, but it still leaves a lot of leeway. Low vision can include things like tunnel vision, color blindness, night blindness (or _nyctalopia_ if you feel fancy!), and stair blindness, which is more of a consequence of issues in contrast or depth perception.
+Wir haben bereits festgestellt, dass Blindheit ein Spektrum ist. Okay, sagen wir lieber, Sehen ist ein Spektrum, und rechtliche Blindheit liegt weiter auf der Seite des schlechten Sehens, aber es lässt immer noch viel Spielraum. Sehbehinderung kann Dinge wie Tunnelblick, Farbenblindheit, Nachtblindheit (oder _Nyktalopie_, wenn du so möchest!) und Stufenblindheit umfassen, was eher eine Folge von Problemen bei der Kontrast- oder Tiefenwahrnehmung ist.
 
-_Too long didn’t read: A lot of different things can make up blindness, and legal blindness isn’t total blindness._
+_Tl;dr: Viele verschiedene Dinge können Blindheit ausmachen, und rechtliche Blindheit ist nicht totale Blindheit._
 
-Now I don’t work with people who are deaf or hard of hearing in particular, so I can’t make a blanket statement about it. But after a certain amount of desk research and by using some Detective-Conan-level deduction skills, I would make an educated guess and say that it’s also kind of like a spectrum. Or should I say, a volume slider? Actually, more like an elaborate surround-sound system where you can configure every detail.
+Nun arbeite ich nicht speziell mit Menschen, die taub oder schwerhörig sind, also kann ich keine pauschale Aussage darüber treffen. Aber nach einer gewissen Menge Schreibtischforschung und mit einigen Detektiv-Conan-Deduktionsfähigkeiten würde ich eine fundierte Vermutung anstellen und sagen, dass es auch irgendwie wie ein Spektrum ist. Oder sollte ich sagen, ein Lautstärkeregler? Eigentlich eher wie ein ausgeklügeltes Surround-Sound-System, bei dem du jedes Detail konfigurieren kannst.
 
-> One of my Hope Tech interviewees who happened to be deaf-blind described their hearing loss “as if the high-pitch of a stereo had been turned off”
+> Einer meiner Interviewpartner bei Hope Tech, der zufällig taubblind war, beschrieb seinen Hörverlust „als ob die hohen Töne eines Stereosystems ausgeschaltet wären“.
 
-I feel as if I’m starting to repeat myself in these posts, but disability is a spectrum. Not everyone is living in complete silence and complete darkness. Some use hearing aids and or glasses, as Blindish Latina does, some use a white cane and braille, and some use sign language interpreters. Some people might need less assistance and some might need more.
+Ich habe das Gefühl, dass ich mich in diesen Beiträgen wiederhole, aber Behinderung ist ein Spektrum. Nicht jeder lebt in völliger Stille und völliger Dunkelheit. Einige nutzen Hörgeräte und/oder Brillen, wie _Blindish Latina_, einige nutzen einen Blindenstock und Braille, und einige nutzen Gebärdensprachdolmetscher. Manche Menschen benötigen weniger Unterstützung und manche mehr.
 
-## Causes of deaf-blindness
+## Ursachen für Taubblindheit
 
-If you go to Wikipedia (my previous professors are shaking in their tweed jackets right now), you will find a long list of potential causes. It’s also perfectly plausible that your eyesight and hearing independently of each other deteriorate over time.
+Wenn du Wikipedia besuchst (meine früheren Professoren schütteln jetzt in ihren Tweed-Jacken), findest du eine lange Liste potenzieller Ursachen. Es ist auch durchaus plausibel, dass dein Sehvermögen und dein Gehör unabhängig voneinander im Laufe der Zeit schlechter werden.
 
-But one to pick out is **Usher Syndrome**. If your mind immediately goes to the singer Usher Raymond, that’s okay. This article will wait here while you go jam out to [Yeah Yeah](https://www.youtube.com/watch?v=ut71pbXxao0). Back? Alright, let’s go!
+Aber ein Beispiel, das heraussticht, ist das **Usher-Syndrom**. Wenn dein Gedanke sofort zum Sänger Usher Raymond wandert, ist das okay. Dieser Artikel wartet hier, während du zu [Yeah Yeah](https://www.youtube.com/watch?v=ut71pbXxao0) jammst. Zurück? Gut, weiter geht’s!
 
-The main symptoms of Usher Syndrome are deafness or hearing loss and retinitis pigmentosa. RP usually causes night blindness, tunnel vision and messes with your color perception. Again, what exactly this can look like is completely individual, and the same goes for how fast it progresses. The hearing loss is caused by the abnormal development of the sound receptor cells in your inner ear.
+Die Hauptsymptome des Usher-Syndroms sind Taubheit oder Hörverlust und Retinitis pigmentosa. RP verursacht normalerweise Nachtblindheit, Tunnelblick und beeinträchtigt deine Farbwahrnehmung. Auch hier gilt: Wie genau das aussehen kann, ist völlig individuell, und das Gleiche gilt für die Geschwindigkeit des Fortschreitens. Der Hörverlust wird durch die abnorme Entwicklung der Schallrezeptorzellen im Innenohr verursacht.
 
-> “Deafblindness is an invisible disability because there is no way we can know how a person perceives the world unless we ask.”
+> Taubblindheit ist eine unsichtbare Behinderung, weil es keine Möglichkeit gibt zu wissen, wie eine Person die Welt wahrnimmt, es sei denn, wir fragen sie.
 
-_Dr Leda Kamenopoulou, Associate Professor at UCL_
+_Dr. Leda Kamenopoulou, Associate Professor an der UCL_

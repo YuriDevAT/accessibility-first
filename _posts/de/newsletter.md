@@ -1,6 +1,6 @@
 ---
-title: 'Monthly a11y newsletter'
-excerpt: 'There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why Laura sends out (approximately) monthly newsletters about upcoming events in web accessibility...'
+title: 'Monatlicher a11y-Newsletter'
+excerpt: 'Es gibt viele Ressourcen und Veranstaltungen, die außerhalb der Online-Accessibility Bubble schwer zu finden sind. Gatekeeping ist das Gegenteil von Barrierefreiheit. Deshalb verschicke ich (ungefähr) einmal im Monat einen Newsletter über anstehende Veranstaltungen zur Barrierefreiheit im Internet ...'
 coverImage: '/assets/blog/en/newsletter/cover.png'
 date: '2024-01-22T11:35:07.322Z'
 tags: 'Blog'
@@ -14,24 +14,24 @@ ogPost:
   url: ''
 ---
 
-There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why Laura sends out (approximately) monthly newsletters about upcoming events in web accessibility.
+Es gibt viele Ressourcen und Veranstaltungen, die außerhalb der Online-Accessibility-Bubble schwer zu finden sind. Gatekeeping ist das genaue Gegenteil von Barrierefreiheit, weshalb ich (ungefähr) monatlich Newsletter über bevorstehende Veranstaltungen zur Barrierefreiheit im Web verschicke.
 
-[Subscribe to newsletter!](https://laurawissiak.substack.com/subscribe)
+[Newsletter abonnieren!](https://laurawissiak.substack.com/subscribe)
 
-## Gatekeeping is the exact opposite of accessibility!
+## Gatekeeping ist das genaue Gegenteil von Barrierefreiheit!
 
-There are a lot of resources and events about web accessibility, best practices, activism, and inclusion floating around in my online bubble. So I do what any person with a hyper fixation and internet access would do: I sign up for almost all of them. Whenever I thought it might be relevant for my friends’ jobs too, or maybe if it just fits right in with their interests, I would forward them the link à la “Hey this might be something for you!”
+Es gibt viele Ressourcen und Veranstaltungen über Web-Accessibility, Best Practices, Aktivismus und Inklusion, die in meiner Online-Bubble herumschwirren. Also mache ich, was jede Person mit einer Hyperfixierung und Internetzugang tun würde: Ich melde mich bei fast allen an. Wann immer ich dachte, es könnte auch für die Jobs meiner Freunde relevant sein oder einfach gut zu ihren Interessen passen, habe ich ihnen den Link weitergeleitet à la „Hey, das könnte etwas für dich sein!“
 
-## This is what motivated me to start this newsletter.
+## Das hat mich motiviert, diesen Newsletter zu starten.
 
-So many resources about accessibility are free, online, and accessible. I mean both in terms of availability as well as being as barrier-free as the organizers can do. (Because of course they are! Why would you make an event on accessibility inaccessible?
+So viele Ressourcen zur Barrierefreiheit sind kostenlos, online und zugänglich. Ich meine sowohl in Bezug auf die Verfügbarkeit als auch darauf, dass sie so barrierefrei wie möglich sind. (Weil sie es natürlich sind! Warum sollte man eine Veranstaltung zur Barrierefreiheit unzugänglich machen?
 
-If you ever happen to find yourself in that position, you definitely didn’t understand the requirements correctly. Go stand in the corner and think about where your review and approval process messed up.) Instead of individually curating links for only my friends, I want to automation-manager-style optimize this and send out (approximately) monthly newsletters!
+Falls du dich jemals in dieser Position befindest, hast du die Anforderungen definitiv nicht richtig verstanden. Geh in die Ecke und denke darüber nach, wo dein Überprüfungs- und Genehmigungsprozess versagt hat.) Anstatt individuell Links nur für meine Freunde zu kuratieren, möchte ich das optimieren und (ungefähr) monatlich Newsletter verschicken!
 
-My newsletters will include upcoming events in web accessibility. Of course, for that to make sense (since I cannot know where all subscribers are based), I try to stick to free, online events held in English. But if I come across something **really** cool, I’ll make an exception and favor my fellow German-speaking and/or Vienna-based besties.
+Meine Newsletter werden bevorstehende Veranstaltungen zur Barrierefreiheit im Web enthalten. Natürlich versuche ich, mich auf kostenlose, online und auf Englisch gehaltene Veranstaltungen zu beschränken, da ich nicht weiß, wo alle Abonnenten ansässig sind. Aber wenn ich auf etwas wirklich Cooles stoße, werde ich eine Ausnahme machen und meine deutschsprachigen und/oder in Wien ansässigen Freunde bevorzugen.
 
-To make up for this bias, I will also include any timeless resources I come across. And trust me, there are a lot! Courses, certifications, and my personal favorite: influencers who blog about their disabilities and point out cool accessible things and unexpected inaccessible everyday experiences.
+Um dieses Bias auszugleichen, werde ich auch zeitlose Ressourcen einbeziehen, die ich finde. Und glaub mir, es gibt viele! Kurse, Zertifizierungen und mein persönlicher Favorit: Influencer, die über ihre Behinderungen bloggen und coole barrierefreie Dinge sowie unerwartet unzugängliche Alltagserfahrungen aufzeigen.
 
-[Subscribe to newsletter!](https://laurawissiak.substack.com/subscribe)
+[Newsletter abonnieren!](https://laurawissiak.substack.com/subscribe)
 
-Missed a newsletter? We got you covered. [Read previous newsletter.](https://laurawissiak.substack.com/)
+Einen Newsletter verpasst? Kein Problem. [Frühere Newsletter lesen.](https://laurawissiak.substack.com/)

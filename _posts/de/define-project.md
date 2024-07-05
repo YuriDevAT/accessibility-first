@@ -1,6 +1,6 @@
 ---
 title: 'Define project'
-excerpt: 'On October 10, we took part in the presentation of the DEFINE project. Define stands for Digital Equipment For Inclusive Empowerment. The mission behind it is not only to bring low-cost assistive tech to the market but also to improve digital literacy in the process... '
+excerpt: 'Am 10. Oktober haben wir an der Präsentation des DEFINE-Projekts teilgenommen. Define steht für Digital Equipment For Inclusive Empowerment. Dahinter verbirgt sich nicht nur das Ziel, kostengünstige technische Hilfsmittel auf den Markt zu bringen, sondern auch die digitale Kompetenz zu verbessern ... '
 coverImage: '/assets/blog/en/define-project/cover.png'
 date: '2023-10-22T11:35:07.322Z'
 tags: 'Blog'
@@ -14,52 +14,52 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/define-project'
 ---
 
-Define stands for **D**igital **E**quipment **F**or **I**nclusive **E**mpowerment. The mission behind it is not only to bring low-cost assistive tech to the market but also to improve digital literacy in the process. Braille keyboards aren’t an inherently new idea. But Define takes a hands-on approach to the whole process, and that’s what makes it special in my opinion.
+Define steht für **D**igital **E**quipment **F**or **In**clusive **E**mpowerment. Die Mission dahinter ist nicht nur, kostengünstige Hilfstechnologien auf den Markt zu bringen, sondern auch die digitale Kompetenz im Prozess zu verbessern. Braille-Tastaturen sind keine grundsätzlich neue Idee. Aber Define verfolgt einen praktischen Ansatz im gesamten Prozess, und das macht es meiner Meinung nach besonders.
 
-![Julia is holding a black version of the Meta Braille keyboard.](/assets/blog/define-project/image-1.jpg)
-_Julia is holding a black version of the Meta Braille keyboard._
+![Julia hält eine schwarze Version der Meta Braille-Tastatur.](/assets/blog/define-project/image-1.jpg)
+_Julia hält eine schwarze Version der Meta Braille-Tastatur._
 
-## User-Led Co-Creation
+## Benutzergeführte Co-Kreation
 
-Over the span of one year, Define has developed a DIY kit to 3D-print a braille keyboard. The [print instructions](https://gitlab.com/metabraille/metabraille) are open source and are free to download from GitHub.
+Im Laufe eines Jahres hat Define ein DIY-Kit entwickelt, um eine Braille-Tastatur zu 3D-drucken. Die [Druckanweisungen](https://gitlab.com/metabraille/metabraille) sind Open Source und können kostenlos von GitHub heruntergeladen werden.
 
-Usually, assembling a keyboard requires soldering contact points. Soldering is not particularly easy or safe for people with low vision to do on their own: It requires a lot of precision and you can’t really check whether everything is connected properly by feeling because you’d run the risk of burning your fingertips off. Yikes!
+Normalerweise erfordert der Zusammenbau einer Tastatur das Löten von Kontaktpunkten. Löten ist nicht besonders einfach oder sicher für Menschen mit Sehbehinderungen: Es erfordert viel Präzision und man kann nicht wirklich überprüfen, ob alles richtig verbunden ist, indem man fühlt, da man Gefahr läuft, sich die Fingerspitzen zu verbrennen. Autsch!
 
-So the Define Project workshopped a solution to this: Instead of contact points being soldered, they are connected by wrapping wires around them. This ensures steady contact and doesn’t rely on vision, which allows Makers with low to no vision to DIY it on their own.
+Deshalb hat das Define-Projekt eine Lösung dafür entwickelt: Anstatt die Kontaktpunkte zu löten, werden sie durch Umwickeln mit Drähten verbunden. Dies stellt einen stabilen Kontakt sicher und ist nicht auf das Sehen angewiesen, wodurch Maker mit geringer bis keiner Sehkraft es selbst machen können.
 
-Through these workshops, a total of 8 MetaBraille keyboards were born. Doesn’t sound like a lot? Well, keep in mind that 3D printing each half of the keyboard shell takes around 4 hours, if the printing process goes smoothly! Because sometimes 3D printers are pranksters and shimmy a bit to the side while printing. The result is a misaligned, unusable print. So if you want to make one yourself, just know it could take a while.
+Durch diese Workshops sind insgesamt 8 MetaBraille-Tastaturen entstanden. Klingt nicht nach viel? Nun, bedenke, dass der 3D-Druck jeder Hälfte des Tastaturgehäuses etwa 4 Stunden dauert, wenn der Druckprozess reibungslos verläuft! Denn manchmal machen 3D-Drucker Streiche und rutschen beim Drucken ein wenig zur Seite. Das Ergebnis ist ein falsch ausgerichteter, unbrauchbarer Druck. Wenn du also selbst eine machen möchtest, sei dir bewusst, dass es eine Weile dauern kann.
 
-![3 plans for the keyboard construction lie on the table. Each one is labeled with English and Braille. In the top right corner is a keyboard shell, battery pack and key-parts.](/assets/blog/define-project/image-2.jpg)
-_3 plans for the keyboard construction lie on the table. Each one is labeled with English and Braille. In the top right corner is a keyboard shell, battery pack and key-parts. Unfortunately, I lack the technical expertise to explain in detail what exactly we are looking at here. If you have a closer understanding of the matter, please do explain it to me!_
+![3 Pläne für den Tastaturaufbau liegen auf dem Tisch. Jeder ist mit Englisch und Braille beschriftet. Oben rechts befindet sich ein Tastaturgehäuse, ein Batteriepack und Tastenteile.](/assets/blog/define-project/image-2.jpg)
+_3 Pläne für den Tastaturaufbau liegen auf dem Tisch. Jeder ist mit Englisch und Braille beschriftet. Oben rechts befindet sich ein Tastaturgehäuse, ein Batteriepack und Tastenteile. Leider fehlt mir das technische Fachwissen, um genau zu erklären, was wir hier sehen. Wenn du dich besser damit auskennst, erklär es mir bitte!_
 
-## How do Braille Keyboards work?
+## Wie funktionieren Braille-Tastaturen?
 
-The keyboard is called the MetaBraille. It got its name from the [MakerSpace MetaLab in Vienna](https://metalab.at/index.html), where it was born. The top 2 buttons on the keyboard are for navigating, or swiping if you pair it with a smartphone. The 8 buttons on the side facing away from you are for braille input. Of these 8, the 6 black ones are to type letters and the 2 white ones at the bottom are for space and delete. The 2 extra keys also allow for more variety in key combos. They can triple our available key combos for special characters!
+Die Tastatur heißt MetaBraille. Sie erhielt ihren Namen vom [MakerSpace MetaLab in Wien](https://metalab.at/index.html), wo sie geboren wurde. Die obersten 2 Tasten auf der Tastatur dienen zur Navigation oder zum Wischen, wenn du sie mit einem Smartphone verbindest. Die 8 Tasten auf der dir abgewandten Seite sind für die Braille-Eingabe. Von diesen 8 sind die 6 schwarzen Tasten zum Schreiben von Buchstaben und die 2 weißen unten für Leerzeichen und Löschen. Die 2 zusätzlichen Tasten ermöglichen auch mehr Vielfalt bei Tastenkombinationen. Sie können unsere verfügbaren Tastenkombos für Sonderzeichen verdreifachen!
 
-### How can you type in braille?
+### Wie tippt man in Braille?
 
-Braille is an alphabet where every letter fits on a 2 by 3 grid. You memorize the letters by their dot patterns. Reading braille with your fingers works by identifying the dot pattern as a distinct letter. So for typing, it’s the other way around: You type the dot pattern of a letter by pressing the keys in the corresponding pattern. Learning braille is like memorizing any other alphabet, the letters just take on new shapes!
+Braille ist ein Alphabet, bei dem jeder Buchstabe auf ein 2 mal 3 Raster passt. Du merkst dir die Buchstaben anhand ihrer Punktmuster. Braille mit den Fingern zu lesen funktioniert, indem du das Punktmuster als bestimmten Buchstaben identifizierst. Beim Tippen ist es umgekehrt: Du tippst das Punktmuster eines Buchstabens, indem du die Tasten im entsprechenden Muster drückst. Braille zu lernen ist wie das Lernen eines anderen Alphabets, die Buchstaben nehmen einfach neue Formen an!
 
-![A green circuit board with an ESP32S3 processor on it. This processor is what translates the braille to latin alphabet before transmitting it to the device the keyboard is paired with.](/assets/blog/define-project/image-3.jpg)
-_A green circuit board with an ESP32S3 processor on it. This processor is what translates the braille to latin alphabet before transmitting it to the device the keyboard is paired with._
+![Eine grüne Platine mit einem ESP32S3-Prozessor darauf. Dieser Prozessor übersetzt das Braille-Alphabet in das lateinische Alphabet, bevor es an das Gerät übertragen wird, mit dem die Tastatur gekoppelt ist.](/assets/blog/define-project/image-3.jpg)
+_Eine grüne Platine mit einem ESP32S3-Prozessor darauf. Dieser Prozessor übersetzt das Braille-Alphabet in das lateinische Alphabet, bevor es an das Gerät übertragen wird, mit dem die Tastatur gekoppelt ist._
 
-### How do they interact with a website?
+### Wie interagieren sie mit einer Website?
 
-Virtually like any other keyboard! In the case of the Metabraille, to the device, it will look just like any other Bluetooth keyboard. The translation from braille to the Latin alphabet letters happens within the MetaBraille.
+Im Grunde wie jede andere Tastatur! Im Fall der MetaBraille wird sie dem Gerät wie jede andere Bluetooth-Tastatur erscheinen. Die Übersetzung von Braille in lateinische Buchstaben erfolgt innerhalb der MetaBraille.
 
-But you know what that means? It’s time to recap the basics of keyboard navigation!
+Aber weißt du, was das bedeutet? Es ist Zeit, die Grundlagen der Tastaturnavigation zu wiederholen!
 
-- **Tab Navigation:** The Tab key is used for navigating through interactive elements such as buttons, links, and form fields. The standard stuff. Pressing the Tab key typically moves the focus from one element to the next and Shift+Tab is used to move backwards.
-- **Arrow Keys:** You can typically use the arrow keys (up, down, left, right) to move through menus, lists, and other elements.
-- **Enter or Spacebar:** These keys are often used to activate or select the currently focused element, like a button or a link. They replace the mouse click or tap with your finger.
+- **Tab-Navigation:** Die Tabulatortaste wird verwendet, um durch interaktive Elemente wie Schaltflächen, Links und Formularfelder zu navigieren. Die Standardfunktionen eben. Das Drücken der Tabulatortaste bewegt den Fokus typischerweise von einem Element zum nächsten und Shift+Tab wird verwendet, um rückwärts zu gehen.
+- **Pfeiltasten:** Du kannst normalerweise die Pfeiltasten (hoch, runter, links, rechts) verwenden, um durch Menüs, Listen und andere Elemente zu navigieren.
+- **Eingabetaste oder Leertaste:** Diese Tasten werden oft verwendet, um das aktuell fokussierte Element zu aktivieren oder auszuwählen, wie eine Schaltfläche oder einen Link. Sie ersetzen den Mausklick oder das Tippen mit dem Finger.
 
-Braille keyboards are usually used together with screen reader software. So if you want your website or app to work well with braille keyboards, you also need to check things like alt-texts and HTML tags for sensible heading structures and landmarks, like defining the header, main, and footer as such. Screen readers and keyboard navigation go hand-in-hand (or software-in-hardware?), so learning about one teaches you about the other at the same time. The [Mozilla Developer Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Keyboard) are a great starting point in my opinion, best paired with learning by doing and by that, I mean manually testing out keyboard navigation through your user flow.
+Braille-Tastaturen werden normalerweise zusammen mit Screenreader-Software verwendet. Wenn du also möchtest, dass deine Website oder App gut mit Braille-Tastaturen funktioniert, musst du auch Dinge wie Alt-Texte und HTML-Tags für sinnvolle Überschriftenstrukturen und Markierungen überprüfen, wie z. B. das Definieren des Headers, Mains und Footers. Screenreader und Tastaturnavigation gehen Hand in Hand (oder Software-in-Hardware?), also lernst du beim einen auch etwas über das andere. Die [Mozilla Developer Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Keyboard) sind meiner Meinung nach ein großartiger Ausgangspunkt, am besten gepaart mit Learning by Doing, indem du die Tastaturnavigation durch deinen User-Flow manuell testest.
 
-![Laura is trying out the MetaBraille with some help from the braille tables on the desk. It takes a bit of time to get used to, but it’s surprisingly fast!](/assets/blog/define-project/image-4.png)
-_Laura is trying out the MetaBraille with some help from the braille tables on the desk. It takes a bit of time to get used to, but it’s surprisingly fast!_
+![Laura probiert die MetaBraille mit Hilfe der Braille-Tabellen auf dem Schreibtisch aus. Es dauert eine Weile, sich daran zu gewöhnen, aber es geht überraschend schnell!](/assets/blog/define-project/image-4.png)
+_Laura probiert die MetaBraille mit Hilfe der Braille-Tabellen auf dem Schreibtisch aus. Es dauert eine Weile, sich daran zu gewöhnen, aber es geht überraschend schnell!_
 
 ---
 
-In our increasingly digitalized world, it’s initiatives like the Define Project are bridging the digital divide. But no matter how brilliant, no innovation will solve access limitations on its own. It’s still up to all of us to ensure that technology truly serves everyone.
+In unserer zunehmend digitalisierten Welt sind es Initiativen wie das Define-Projekt, die die digitale Kluft überbrücken. Aber so brillant sie auch sein mögen, keine Innovation wird die Zugangsbeschränkungen allein lösen. Es liegt immer noch an uns allen, sicherzustellen, dass Technologie wirklich jedem dient.
 
-[Read more about the Define Project [in German]](https://defineblind.at/about/)
+[Mehr über das Define-Projekt lesen](https://defineblind.at/about/)

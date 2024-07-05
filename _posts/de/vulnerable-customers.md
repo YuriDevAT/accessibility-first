@@ -1,6 +1,6 @@
 ---
-title: 'Vulnerable customers'
-excerpt: 'Did you know? 300,000 people in Austria have no or limited knowledge of German. For 56% being able to communicate in their first language is more important than the price point! 7.1% of 16 to 65-year-olds have quite low ...'
+title: 'Gefährdete Kunden'
+excerpt: 'Wusstest du das? 300.000 Menschen in Österreich haben keine oder nur geringe Deutschkenntnisse. Für 56% ist es wichtiger, sich in ihrer Muttersprache verständigen zu können als der Preis! 7,1 % der 16- bis 65-Jährigen haben sehr geringe ...'
 coverImage: '/assets/blog/en/vulnerable-customers/cover.png'
 date: '2023-07-31T10:35:07.322Z'
 tags: 'Blog'
@@ -14,38 +14,38 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/vulnerable-customers'
 ---
 
-## Did you know?
+## Wusstest Du?
 
-- **300,000 people in Austria** have no or limited knowledge of German.
-- For **56%** being able to communicate in their first language is more important than the price point!
-- **7.1% of 16 to 65-year-olds** have quite low reading competencies.
+- **300.000 Menschen in Österreich** haben keine oder eingeschränkte Deutschkenntnisse.
+- Für **56%** ist es wichtiger, in ihrer Erstsprache kommunizieren zu können, als der Preis!
+- **7,1% der 16- bis 65-Jährigen** haben sehr geringe Lesekompetenzen.
 
-Of course, the exact numbers will vary by country, but the underlying problems are the same.
+Natürlich variieren die genauen Zahlen je nach Land, aber die zugrundeliegenden Probleme sind die gleichen.
 
-So, how might we support people with limited language skills or restricted cognitive abilities throughout the customer journey?
+Wie können wir also Menschen mit begrenzten Sprachkenntnissen oder eingeschränkten kognitiven Fähigkeiten durch die Customer Journey unterstützen?
 
-## And what did we find?
+## Was haben wir herausgefunden?
 
-As of 2021, almost half of Vienna's population does not speak German as their first language. This also includes so-called heritage speakers, who speak German fluently but speak their parents' language more frequently at home. These are often involuntary interpreters for their families.
+Seit 2021 spricht fast die Hälfte der Wiener Bevölkerung nicht Deutsch als Erstsprache. Dazu gehören auch sogenannte Heritage Speaker, die fließend Deutsch sprechen, aber zu Hause häufiger die Sprache ihrer Eltern sprechen. Diese sind oft unfreiwillige Dolmetscher für ihre Familien.
 
-For at least 60,000 people with learning difficulties in Austria, the world is only as big as their caregivers make it. Social tariffs and similar offers are hardly used, simply because nobody knows they exist! Prepaid tariffs are popular for cost control, although they are more expensive in the long run.
+Für mindestens 60.000 Menschen mit Lernschwierigkeiten in Österreich ist die Welt nur so groß, wie ihre Betreuer sie machen. Sozialtarife und ähnliche Angebote werden kaum genutzt, einfach weil niemand weiß, dass sie existieren! Prepaid-Tarife sind zur Kostenkontrolle beliebt, obwohl sie langfristig teurer sind.
 
-24% of teenagers are classified as being at risk of reading difficulties.
+24% der Teenager gelten als gefährdet, Leseschwierigkeiten zu haben.
 
-There is currently only one provider in Austria offering its website in 9 languages – nobody else in the Austrian market does! Although the data clearly underscore the meaningfulness. The finance and tourism sectors are already showing how it should be done: all relevant information available in the most spoken languages and unfamiliar terms explained. A prime example is the George app from Erste Bank.
+Derzeit gibt es nur einen Anbieter in Österreich, der seine Website in 9 Sprachen anbietet – sonst niemand im österreichischen Markt! Obwohl die Daten eindeutig die Bedeutung unterstreichen. Der Finanz- und Tourismussektor zeigt bereits, wie es gemacht werden sollte: Alle relevanten Informationen sind in den meistgesprochenen Sprachen verfügbar und unbekannte Begriffe werden erklärt. Ein Paradebeispiel ist die George-App von der Erste Bank.
 
-Not only customers experience a language barrier. Even within internal mobility job opportunities, on average, 20% of onboarding time is lost due to unfamiliar abbreviations and technical terms. Technical jargon costs time.
+Nicht nur Kunden erleben eine Sprachbarriere. Selbst innerhalb von internen Mobilitätsjobmöglichkeiten gehen durchschnittlich 20% der Einarbeitungszeit aufgrund von unbekannten Abkürzungen und Fachbegriffen verloren. Fachjargon kostet Zeit.
 
-Based on these insights, we have also developed some ideas for where to start:
+Basierend auf diesen Erkenntnissen haben wir auch einige Ideen entwickelt, wo man anfangen könnte:
 
-Language accessibility for all media: Critical information should be offered - online and offline - in multiple languages and also easy language to reach approximately 300,000 more people.
+Sprachliche Zugänglichkeit für alle Medien: Kritische Informationen sollten - online und offline - in mehreren Sprachen und auch in leichter Sprache angeboten werden, um ca. 300.000 mehr Menschen zu erreichen.
 
-Self-service options specifically for people with learning difficulties and reading weaknesses: Because "less is more," self-service options should only contain essential data. Together with pictograms, this would make understanding easier and alleviate fears of people with cognitive impairments that they might do something wrong.
+Selbstbedienungsoptionen speziell für Menschen mit Lernschwierigkeiten und Leseschwächen: Da „weniger mehr ist“, sollten Selbstbedienungsoptionen nur wesentliche Daten enthalten. Zusammen mit Piktogrammen würde dies das Verständnis erleichtern und die Ängste von Menschen mit kognitiven Beeinträchtigungen lindern, dass sie etwas falsch machen könnten.
 
-Making the language diversity among employees visible and usable: Employees in shops, and service lines are just as diverse as customers. This could be made visible, for example in shops through name tags, or through offering a language selection alongside callback services. Leveraging these already existing talents would lead to higher customer satisfaction and standardization of call duration and information quality. For 56% of customers, communication and advice are more important for the purchasing decision than the price itself.
+Die Sprachvielfalt unter den Mitarbeitern sichtbar und nutzbar machen: Mitarbeiter in Geschäften und Servicehotlines sind genauso vielfältig wie die Kunden. Dies könnte sichtbar gemacht werden, zum Beispiel in Geschäften durch Namensschilder oder durch das Angebot einer Sprachauswahl bei Rückrufdiensten. Die Nutzung dieser bereits vorhandenen Talente würde zu höherer Kundenzufriedenheit und Standardisierung der Gesprächsdauer und Informationsqualität führen. Für 56% der Kunden sind Kommunikation und Beratung wichtiger für die Kaufentscheidung als der Preis selbst.
 
-Empowering those affected and their environment: Let's push information to where it is needed: To the facilities, to the caregivers - so that they can support people with learning disabilities. But also to the people themselves, to show them how to use the Internet safely!
+Betroffene und ihr Umfeld stärken: Lassen wir uns Informationen dorthin bringen, wo sie benötigt werden: Zu den Einrichtungen, zu den Betreuern - damit sie Menschen mit Lernschwierigkeiten unterstützen können. Aber auch zu den Menschen selbst, um ihnen zu zeigen, wie sie das Internet sicher nutzen können!
 
 > Die Welt ist nur so groß, wie Betreuer sie machen.
 
-_Patrizia, caregiver at Caritas_
+_Patrizia, Betreuerin bei Caritas_

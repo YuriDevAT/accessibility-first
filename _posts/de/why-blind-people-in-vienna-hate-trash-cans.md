@@ -1,6 +1,6 @@
 ---
-title: 'Why blind people in Vienna hate trashcans'
-excerpt: 'When I first started doing research for Hope Tech’s Sixth Sense, we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars,...'
+title: 'Warum blinde Menschen in Wien Mülltonnen hassen'
+excerpt: 'Als ich anfing, für Hope Tech’s Sixth Sense zu recherchieren, standen wir schnell vor der Herausforderung: "Was genau sollten wir als Bedrohung definieren und was wäre nur ein Hindernis? Bei der Klassifizierung von Bedrohungen dachte ich sofort an den Verkehr, fahrende Autos, ...'
 coverImage: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.png'
 date: '2023-10-04T05:35:07.322Z'
 tags: 'Blog'
@@ -14,27 +14,27 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 ---
 
-When I first started doing research for [Hope Tech’s Sixth Sense](https://www.hopetech.vision/), we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars, or bicyclists of which there are many in Vienna. In my mind, a crash was something that requires two moving things going straight at each other.
+Als ich mit der Recherche für [Hope Tech’s Sixth Sense](https://www.hopetech.vision/)begann, stießen wir schnell auf die Herausforderung: „Was genau sollten wir als Bedrohung definieren und was nur als Hindernis?“ Für die Klassifizierung von Bedrohungen dachte ich sofort an Verkehr, bewegliche Autos oder Radfahrer, von denen es in Wien viele gibt. In meinem Kopf war ein Zusammenstoß etwas, das zwei sich bewegende Dinge erfordert, die direkt aufeinander zugehen.
 
-Although a blind person walking into a trashcan sounds just like the punchline of a problematic joke, it is a real daily problem!
-
----
-
-**A bit of background knowledge:**
-Vienna’s trashcans are managed by the wonderful MA 48, department for waste management and street cleaning. To make the bins easy to empty, they are suspended on street poles. Street cleaners can open the lid on the bottom and catch the contents with a net. Super easy, super fast, and as tidy as trash can be!
+Obwohl es wie die Pointe eines problematischen Witzes klingt, wenn eine blinde Person in eine Mülltonne läuft, ist das ein echtes tägliches Problem!
 
 ---
 
-Because the bins are invisible to the white cane, many users have learned to walk around with one hand up in front of their chest. Extending their hand about 20 cm away from the chest allows them to notice trash bins or other suspended objects. A neat trick to work around this!
+**Ein bisschen Hintergrundwissen:**
+Die Mülltonnen in Wien werden von der wunderbaren MA 48, Abteilung für Abfallwirtschaft und Straßenreinigung, verwaltet. Um die Tonnen leicht entleeren zu können, sind sie an Straßenpfosten aufgehängt. Straßenreiniger können den Boden der Tonne öffnen und den Inhalt mit einem Netz auffangen. Super einfach, super schnell und so ordentlich wie Müll nur sein kann!
 
-The first person who mentioned this to me was using this technique all throughout our walk. At first, I had assumed that he was simply the kind of person who gesticulates a lot while talking. But when we reached the topic of “common mishaps” he immediately talked about the problem with trashcans. It seems like this is something every white cane user has to learn the hard way by running into at least one.
+---
 
-Many people with low vision use a white cane to navigate the world. The concept is simple, yet unsurpassed: The cane bumps into obstacles before the holder does. Great! We love it! But the cane has one downside: It only works on the ground. While knee-high objects can still be detected somewhat accurately to avoid a crash, anything hip-height or above is basically invisible.
+Da die Tonnen für den Blindenstock unsichtbar sind, haben viele Nutzer gelernt, mit einer Hand vor der Brust herumzugehen. Wenn sie ihre Hand etwa 20 cm von der Brust entfernt ausstrecken, können sie Mülltonnen oder andere aufgehängte Objekte bemerken. Ein cleverer Trick, um dieses Problem zu umgehen!
 
-Do you see where I’m going with this? The white cane scanning on the ground and the trash bins suspended on poles in mid-air don’t make for the best combination. The cane will pick up on the pole, but not the entire width of the bin. So while roaming the streets of Vienna, any cane user runs a chance that the tiny street pole or traffic sign they just encountered is ready to bodycheck them with a trashcan.
+Die erste Person, die mir das erzählte, benutzte diese Technik während unseres gesamten Spaziergangs. Zuerst dachte ich, er sei einfach jemand, der viel gestikuliert, während er spricht. Aber als wir das Thema „häufige Missgeschicke“ erreichten, sprach er sofort über das Problem mit den Mülltonnen. Es scheint, dass jeder Blindenstocknutzer das auf die harte Tour lernen muss, indem er mindestens einmal dagegen läuft.
 
-In the context of Hope Tech, this will most likely be an everyday use case. One that no one on the team saw coming: Avoiding those sneaky trash cans. But long term, I’d like to see the city of Vienna take this into consideration as well. So if anybody who is remotely responsible for the trash cans is reading this, hit me up! I’d love to help you solve this accessibility issue.
+Viele Menschen mit Sehbehinderung nutzen einen Blindenstock, um sich in der Welt zurechtzufinden. Das Konzept ist einfach, aber unübertroffen: Der Stock stößt auf Hindernisse, bevor es der Nutzer tut. Großartig! Wir lieben es! Aber der Stock hat einen Nachteil: Er funktioniert nur auf dem Boden. Während kniehohe Objekte noch einigermaßen genau erkannt werden können, um einen Zusammenstoß zu vermeiden, ist alles, was Hüfthöhe oder darüber ist, praktisch unsichtbar.
 
-![A grey and orange trash bin mounted on a blue bus stop sign in Vienna. In the background, white hibiscus flowers are blooming in front of one of the historical facades in Vienna’s first district.](/assets/blog/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
+Verstehst du, worauf ich hinaus will? Der Blindenstock scannt den Boden, und die Mülltonnen, die in der Luft an Pfosten aufgehängt sind, passen nicht gut zusammen. Der Stock wird den Pfosten erfassen, aber nicht die gesamte Breite der Tonne. Also besteht für jeden Blindenstocknutzer auf den Straßen Wiens die Chance, dass der kleine Straßenpfosten oder das Verkehrsschild, das sie gerade getroffen haben, bereit ist, sie mit einer Mülltonne zu erwischen.
 
-This blog post was particularly inspired by user interviews with two residents of Vienna, who are legally blind. However, both of them experienced progressive sight loss over a longer period of time. In this post, I refer to them as blind because that is how they described themselves, but I am convinced that the trashcan issue extends to almost, if not all users of the white cane.
+Im Kontext von Hope Tech wird dies höchstwahrscheinlich ein alltäglicher Anwendungsfall sein. Einer, den niemand im Team kommen sah: Das Vermeiden dieser heimtückischen Mülltonnen. Langfristig möchte ich jedoch, dass die Stadt Wien dies ebenfalls berücksichtigt. Also, wenn jemand, der auch nur entfernt für die Mülltonnen verantwortlich ist, dies liest, melde dich bei mir! Ich würde dir gerne helfen, dieses Barrierefreiheitsproblem zu lösen.
+
+![Ein grauer und orangefarbener Mülleimer auf einem blauen Bushaltestellenschild in Wien. Im Hintergrund blühen weiße Hibiskusblüten vor einer der historischen Fassaden im ersten Wiener Gemeindebezirk.](/assets/blog/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
+
+Dieser Blogbeitrag wurde besonders von Nutzerinterviews mit zwei Einwohnern Wiens inspiriert, die gesetzlich blind sind. Beide erlebten jedoch einen fortschreitenden Sehverlust über einen längeren Zeitraum. In diesem Beitrag bezeichne ich sie als blind, weil sie sich selbst so beschrieben haben, aber ich bin überzeugt, dass das Mülltonnenproblem für fast alle Nutzer des Blindenstocks gilt.

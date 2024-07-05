@@ -1,6 +1,6 @@
 ---
-title: 'How do people learn to use a white cane?'
-excerpt: 'At the first real user trial, we finally put our actual prototype on an actually blind person, instead of a blindfolded engineer. The participant gave us a great tip: to get in touch with an orientational mobility officer.Since there is no industry standard for haptic...'
+title: 'Wie lernt jemand, einen Blindenstock zu benutzen?'
+excerpt: 'Beim ersten echten Benutzertest setzten wir unseren Prototyp schließlich einer tatsächlich blinden Person auf, anstatt einem Ingenieur mit verbundenen Augen. Der Teilnehmer gab uns einen tollen Tipp: Wir sollten uns mit einem Mobilitätsberater in Verbindung setzen, denn es gibt keinen Industriestandard für haptische ...'
 coverImage: '/assets/blog/en/how-do-people-learn-to-use-a-white-cane/cover.png'
 date: '2023-10-16T05:35:07.322Z'
 tags: 'Blog'
@@ -14,61 +14,58 @@ ogPost:
   url: 'https://www.laura-wissiak.com/blog/how-do-people-learn-to-use-a-white-cane'
 ---
 
-At the first real user trial, we finally put our actual prototype on an actually blind person, instead of a blindfolded engineer. The participant gave us a great tip: to get in touch with an orientational mobility officer.
+Beim ersten echten Benutzer-Test haben wir endlich unseren tatsächlichen Prototyp an eine tatsächlich blinde Person ausprobiert, anstatt an einen ingenieur mit Augenbinde. Der Teilnehmer gab uns einen großartigen Tipp: sich mit einem Orientierungsmobilitätsbeauftragten in Verbindung zu setzen.
 
-Since there is no industry standard for haptic and audio feedback in assistive tech, it will most likely require some training for the user to adjust to the additional sensory input and use it to navigate comfortably. And since this assistive device is supposed to be used alongside the white cane, it would only make sense to structure this onboarding journey along with what every user already learned before when they picked up the white cane.
+Da es keinen Industriestandard für haptisches und akustisches Feedback in der Hilfstechnologie gibt, wird es wahrscheinlich etwas Training erfordern, bis sich der Benutzer an die zusätzlichen Sinneseindrücke gewöhnt und sie zur bequemen Navigation nutzen kann. Und da dieses Hilfsgerät zusammen mit dem Blindenstock verwendet werden soll, wäre es nur logisch, diese Einführung entlang dessen zu strukturieren, was jeder Benutzer bereits gelernt hat, als er den Blindenstock aufnahm.
 
-Now the obvious challenge for me, a sighted person, is that I have no clue how one learns to navigate with a white cane. Furthermore, while navigational mobility officer sounded fancy, I had no idea what this role would be called in German, and if there even was a counterpart for this role outside the UK.
+Die offensichtliche Herausforderung für mich als sehende Person ist, dass ich keine Ahnung habe, wie man lernt, mit einem Blindenstock zu navigieren. Außerdem, während "Navigational Mobility Officer" fancy klang, hatte ich keine Ahnung, wie diese Rolle auf Deutsch heißen würde und ob es überhaupt eine Entsprechung für diese Rolle außerhalb des UK gibt.
 
-Confused as to where to find one, but fully convinced to try by the brilliance of the idea our test user gave us, I started by asking my contacts at [Hilfsgemeinschaft](https://www.hilfsgemeinschaft.at/) for help. And oh my did they come through! Not only with the German translation but with a personal recommendation plus contact details to [Blindenverband](https://www.blindenverband-wnb.at/)! Jackpot! So after writing another email explaining all of the above, I already had a meeting scheduled.
+Verwirrt, wo ich einen finden könnte, aber voll überzeugt von der Brillanz der Idee, die unser Testbenutzer uns gegeben hat, begann ich damit, meine Kontakte bei der [Hilfsgemeinschaft](https://www.hilfsgemeinschaft.at/) um Hilfe zu bitten. Und oh mein Gott, haben sie geliefert! Nicht nur mit der deutschen Übersetzung, sondern auch mit einer persönlichen Empfehlung und Kontaktdaten zum [Blindenverband](https://www.blindenverband-wnb.at/)! Volltreffer! Also nach dem Schreiben einer weiteren E-Mail, in der ich all das oben Genannte erklärte, hatte ich schon ein Treffen vereinbart.
 
-## What does an Orientational Mobility Officer (OMO) do?
+## Was macht ein Orientierungsmobilitätsbeauftragter (OMO)?
 
-The work of an OMO actually starts before a white cane is introduced. Most clients seeking out OMOs were born-sighted and became blind over the course of their lives. So most people start their navigational training with some amount of vision.
+Die Arbeit eines OMO beginnt tatsächlich, bevor ein Blindenstock eingeführt wird. Die meisten Klienten, die sich an OMOs wenden, wurden sehend geboren und wurden im Laufe ihres Lebens blind. Die meisten Menschen beginnen ihr Navigations-Training mit einem gewissen Maß an Sehkraft.
 
-> Navigational training is as individual as blindness itself.
+> Navigations-Training ist so individuell wie die Blindheit selbst.
 
-Everyone starts with different levels of vision and different mobility needs. So the training is tailored to individual needs. This might include the route to the next supermarket, transit to the office, or just finding your way around your own house.
+Jeder startet mit unterschiedlichen Sehkraft-Niveaus und unterschiedlichen Mobilitätsbedürfnissen. Das Training wird also an die individuellen Bedürfnisse angepasst. Dazu könnte die Route zum nächsten Supermarkt, der Weg ins Büro oder einfach das Zurechtfinden im eigenen Haus gehören.
 
-Once you’ve set your goals, you split them into milestones. These start with basic techniques to use the white cane indoors, including stairs, for safety measures, before moving on to outside settings in calm residential areas and gradually introducing elements of traffic, such as parked cars.
+Sobald du deine Ziele festgelegt hast, teilst du sie in Meilensteine auf. Diese beginnen mit grundlegenden Techniken zur Nutzung des Blindenstocks im Innenbereich, einschließlich Treppen, als Sicherheitsmaßnahme, bevor du zu Außeneinstellungen in ruhigen Wohngebieten übergehst und allmählich Elemente des Verkehrs einführst, wie z. B. parkende Autos.
 
-## Mental models of traffic
+## Mentale Modelle des Verkehrs
 
-People who were born with rather high levels of vision usually are used to traffic. If you used to have a driver’s license at one point in life, you already know how an intersection and roundabout work. But if you have lived your life without seeing, you have to learn such a concept first before it’s safe to let you hit the streets on your own. This is done with tactile models of it.
+Menschen, die mit relativ hoher Sehkraft geboren wurden, sind normalerweise an den Verkehr gewöhnt. Wenn du früher einen Führerschein hattest, weißt du bereits, wie eine Kreuzung und ein Kreisverkehr funktionieren. Aber wenn du dein Leben lang nichts gesehen hast, musst du ein solches Konzept erst lernen, bevor es sicher ist, dich allein auf die Straßen zu lassen. Dies geschieht mit taktilen Modellen davon.
 
-Intersections, crossroads, and subway stops are a bit more tricky since they tend to differ so much from one to the next. In this case, it is still possible to go to the last stop during off-peak hours and feel around a bit. That would be a very tactile but not very much miniature-size model. Feeling up on the real thing!
+Kreuzungen, Kreuzungen und U-Bahn-Stationen sind etwas kniffliger, da sie sich so sehr voneinander unterscheiden. In diesem Fall ist es immer noch möglich, die letzte Haltestelle zu ruhigen Zeiten aufzusuchen und ein wenig herumzutasten. Das wäre ein sehr taktiles, aber nicht sehr miniaturgroßes Modell. Sich an der echten Sache orientieren!
 
-All this is done to cultivate a mental model of traffic settings, which will help orientation trainees understand along which starting car they can also start crossing the street. But public transportation is really the S-tier of orientation. So let’s go back to the basics of indoor navigation first.
+All dies geschieht, um ein mentales Modell von Verkehrssituationen zu kultivieren, das den Orientierungsschülern hilft zu verstehen, wann sie mit dem Überqueren der Straße beginnen können. Aber der öffentliche Verkehr ist wirklich die S-Klasse der Orientierung. Also lass uns erst einmal zu den Grundlagen der Innenraum-Navigation zurückkehren.
 
-## Indoor orientation
+## Innenraum-Orientierung
 
-Our immediate concern is to orient ourselves in a building. Indoors, the biggest threat are stairs. Especially stairs leading down. This is also why tactile flooring is installed for stairs in public settings.
-indoor navigation tools. braille labels, tactile floor maps, click sonar, clearly marked stairs, tactile floor markings.
+Unsere unmittelbare Sorge ist, uns in einem Gebäude zu orientieren. Im Innenbereich sind die größte Gefahr Treppen. Besonders Treppen, die nach unten führen. Aus diesem Grund wird in öffentlichen Bereichen taktiler Bodenbelag für Treppen installiert.
 
-Depending on the length of your cane, you only have about 1.5 to 2.5 steps time to react. There is no standardization for cane length, but often the more confident you become with navigating, the faster you walk, the longer your cane gets.
+Je nach Länge deines Stocks hast du nur etwa 1,5 bis 2,5 Schritte Zeit zu reagieren. Es gibt keine Standardisierung für die Stocklänge, aber oft wird der Stock länger, je sicherer du beim Navigieren wirst, und je schneller du gehst.
 
-Another technique is **click sonar**. This one is neat because it works both indoors and outdoors. You learn how sound ricochets off different objects, and through that, you can tell where walls and objects are located (insert Batman joke here).
+Eine weitere Technik ist das **Klicksonar**. Diese ist praktisch, da sie sowohl drinnen als auch draußen funktioniert. Du lernst, wie Schall von verschiedenen Objekten abprallt, und durch das erkennst du, wo sich Wände und Objekte befinden (Batman-Witz hier einfügen).
 
-Click sonar is a great technique, but never recommended to use alone. Remember our biggest enemy indoors? Yes, stairs. Anything that relies on echolocation or ultrasound has a major flaw: It needs a surface to reflect back from. With openings, such as stairs going down, hallways or garage openings, there is nothing close enough to reflect from.
+Klicksonar ist eine großartige Technik, aber wird niemals empfohlen, sie allein zu verwenden. Erinnerst du dich an unseren größten Feind im Innenbereich? Ja, Treppen. Alles, was auf Echolokation oder Ultraschall angewiesen ist, hat einen großen Nachteil: Es braucht eine Oberfläche, von der es zurückprallen kann. Bei Öffnungen wie Treppen nach unten, Fluren oder Garageneinfahrten gibt es nichts in der Nähe, von dem es zurückprallen kann.
 
-That’s why _it is always recommended to use it in combination with the white cane_. Another issue, that you might already have guessed, is that it gets trickier to hear properly in noisy environments. If you can read German, this article goes more [in-depth about click sonar [German]](https://www.blindenverband-wnb.at/blog/mit-klick-sonar-sicher-durch-den-alltag/) and also explains that a bit of white noise is already enough to disorient you.
+Deshalb wird immer empfohlen, es in Kombination mit dem Blindenstock zu verwenden. Ein weiteres Problem, das du vielleicht schon erraten hast, ist, dass es in lauten Umgebungen schwieriger wird, richtig zu hören. Wenn du Deutsch lesen kannst, geht dieser Artikel tiefer auf das [Klicksonar](https://www.blindenverband-wnb.at/blog/mit-klick-sonar-sicher-durch-den-alltag/) ein und erklärt auch, dass ein wenig weißes Rauschen bereits ausreicht, um dich zu desorientieren.
 
-As you set your goals you can also choose what house you want to learn. Your home, your office …. During the lockdowns Blindenverband was even able to use the main building of the University of Vienna for training. With such a huge building you can really work on local and global navigation.
+Während du deine Ziele festlegst, kannst du auch wählen, welches Haus du lernen möchtest. Dein Zuhause, dein Büro... . Während der Lockdowns konnte der Blindenverband sogar das Hauptgebäude der Universität Wien für Trainings nutzen. In einem so großen Gebäude kannst du wirklich an lokaler und globaler Navigation arbeiten.
 
-## What is local and global navigation?
+## Was ist lokale und globale Navigation?
 
-When talking about navigation we split it into two sections: local and global. Local is anything in your close proximity. Currently, we focus mostly on this with product development. For example, a trashcan blocking your way would be an issue in local navigation. When it comes to global navigation think about Google Maps and pathfinding apps. Completing a route from point A to point B is global navigation.
-
-When talking about navigation we split it into two sections: local and global. Local is anything in your close proximity. Currently, we focus mostly on this with product development. For example, a trashcan blocking your way would be an issue in local navigation. When it comes to global navigation think about Google Maps and pathfinding apps. Completing a route from point A to point B is global navigation.
+Wenn wir über Navigation sprechen, teilen wir sie in zwei Bereiche: lokal und global. Lokal ist alles in deiner unmittelbaren Nähe. Derzeit konzentrieren wir uns bei der Produktentwicklung hauptsächlich darauf. Ein Müllcontainer, der dir im Weg steht, wäre zum Beispiel ein Problem in der lokalen Navigation. Wenn es um globale Navigation geht, denke an Google Maps und Routenplaner-Apps. Eine Route von Punkt A nach Punkt B zu absolvieren, ist globale Navigation.
 
 ## Shorelining
 
-Can’t forget about this essential: Shorelining is the practice of using an edge, wall, or natural edge to stay on a straight path. Shorelining is the reason why white cane users will often follow along the wall or edge of a paved grass patch. It’s also the reason why you should never ever come between a cane user and the wall!
+Dieses Wesentliche dürfen wir nicht vergessen: Shorelining ist die Praxis, eine Kante, Wand oder natürliche Begrenzung zu verwenden, um auf einem geraden Weg zu bleiben. Shorelining ist der Grund, warum Blindenstockbenutzer oft entlang der Wand oder der Kante eines gepflasterten Grasstücks gehen. Es ist auch der Grund, warum du niemals zwischen einen Blindenstockbenutzer und die Wand kommen solltest!
 
-Even if the cane user walking towards you is not directly following along the wall, still make sure to bypass them on the street-facing side. They might know this route very well, but could still want to shoreline for reassurance at any time. And yes, they might not see you, as realize the mistake you made and anxiously try to spider-man along the wall to avoid their cane, but they can still hear and/or smell you. One participant told me that it’s always weird when you’re suddenly hit by a whiff of perfume or cologne, and realize someone just invaded your personal space.
+Selbst wenn der Blindenstockbenutzer auf dich zukommt und nicht direkt der Wand folgt, solltest du trotzdem sicherstellen, dass du ihn auf der straßenseitigen Seite umgehst. Er kennt diese Route vielleicht sehr gut, könnte aber trotzdem jederzeit zur Beruhigung am Ufer entlanglaufen wollen. Und ja, sie könnten dich nicht sehen und den Fehler, den du gemacht hast, nicht bemerken und ängstlich versuchen, sich an der Wand entlang zu hangeln, um ihren Stock zu vermeiden, aber sie können dich immer noch hören und/oder riechen. Ein Teilnehmer erzählte mir, dass es immer seltsam ist, wenn du plötzlich eine Duftwolke von Parfüm oder Kölnisch Wasser erwischst und merkst, dass jemand gerade deinen persönlichen Raum betreten hat.
 
-## Shout out to [Blindenverband](https://www.blindenverband-wnb.at/)!
+## Ein großes Dankeschön an [Blindenverband](https://www.blindenverband-wnb.at/)!
 
-A big thank you to the wonderful people at Blindenverband! It was a densely information-packed 1.5 hours with lots of new input for me. You may have already noticed that from the length of this blog post!
+Ein großes Dankeschön an die wunderbaren Leute vom Blindenverband! Es waren 1,5 Stunden voller dichter Informationen mit vielen neuen Inputs für mich. Du hast vielleicht schon an der Länge dieses Blogposts gemerkt, dass es so war!
 
-So if I got you all hyped up about orientational mobility now, you would love their blog as well! Unless you don’t understand German, in which case it might be unrequited love…
+Wenn ich dich jetzt so richtig für Orientierungsmobilität begeistert habe, wirst du ihren Blog auch lieben! Es sei denn, du verstehst kein Deutsch, in diesem Fall könnte es eine unerwiderte Liebe sein… .
