@@ -1,34 +1,46 @@
-import type { Config } from 'tailwindcss'
-const defaultTheme = require('tailwindcss/defaultTheme')
+import type { Config } from 'tailwindcss';
+const defaultTheme = require('tailwindcss/defaultTheme');
 
 const config: Config = {
   content: [
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
+    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
     extend: {
       colors: {
-        'accent-1': '#FAFAFA',
-        'accent-2': '#EAEAEA',
-        'accent-7': '#333',
-        'blue-200': '#e6effe',
-        'blue-500': '#99a8ea',
-        'blue-800': '#084FD4',
-        'purple-200': '#f0e5fb',
-        'purple-500': '#bf96f0',
-        'purple-800': '#790BE0',
-        'green-200': '#1E6B65',
-        'green-500': '#86cccb',
-        'green-800': '#ebfaf8',
-        'red-200': '#fce8f1',
-        'red-500': '#ee8eb5',
-        'red-800': '#D11B67',
-        'yellow-200': '#fffbe6',
-        'yellow-500': '#fff700',
-        'yellow-800': '#615200',
-        success: '#0070f3',
+        blue: {
+          200: '#E6EFFE',
+          500: '#99A8EA',
+          800: '#084FD4',
+        },
+        pip: {
+          200: '#F0E5FB',
+          500: '#BF96F0',
+          800: '#790BE0',
+        },
+        gig: {
+          200: '#EBFAF8',
+          500: '#86CCCB',
+          800: '#1E6B65',
+        },
+        red: {
+          200: '#FCE8F1',
+          500: '#EE8EB5',
+          800: '#D11B67',
+        },
+        yey: {
+          200: '#FFFBE6',
+          500: '#FFF700',
+          800: '#615200',
+        },
+        accent: {
+          1: '#FAFAFA',
+          2: '#EAEAEA',
+          3: '#333',
+        },
+        success: '#0070F3',
         cyan: '#79FFE1',
       },
       spacing: {
@@ -37,9 +49,6 @@ const config: Config = {
       letterSpacing: {
         tighter: '-.04em',
       },
-      // lineHeight: {
-      //   tight: 1.2,
-      // },
       fontSize: {
         '5xl': '2.5rem',
         '6xl': '2.75rem',
@@ -54,22 +63,23 @@ const config: Config = {
         md: '0 8px 30px rgba(0, 0, 0, 0.12)',
       },
       screens: {
-        'xs': '475px',
+        xs: '475px',
         ...defaultTheme.screens,
       },
       content: {
-        'bug': 'url("/assets/icons/bug.svg")',
+        bug: 'url("/assets/icons/bug.svg")',
         'bug-dark': 'url("/assets/icons/bug-dark.svg")',
-        'dark': 'url("/assets/icons/moon.svg")',
+        dark: 'url("/assets/icons/moon.svg")',
         'dark-mode': 'url("/assets/icons/moon-dark.svg")',
-        'light': 'url("/assets/icons/sun.svg")',
+        light: 'url("/assets/icons/sun.svg")',
         'light-mode': 'url("/assets/icons/sun-dark.svg")',
-        'system': 'url("/assets/icons/system.svg")',
-        'exclamation': 'url("/assets/icons/exclamation.svg")',
-      }
+        system: 'url("/assets/icons/system.svg")',
+        exclamation: 'url("/assets/icons/exclamation.svg")',
+      },
     },
   },
   darkMode: 'class',
   plugins: [],
-}
-export default config
+};
+
+export default config;

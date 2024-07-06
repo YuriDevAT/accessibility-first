@@ -5,7 +5,7 @@ const Intro = () => {
         Accessibility First
       </h1>
     </section>
-  )
-}
+  );
+};
 
-export default Intro
+export default Intro;

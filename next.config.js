@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
+const nextTranslate = require('next-translate-plugin');
+
+const nextConfig = nextTranslate({
   images: {
     unoptimized: true,
   },
-}
+});
 
-module.exports = nextConfig
+module.exports = nextConfig;

@@ -1,9 +1,9 @@
-import PostPreview from './post-preview'
-import type Post from '../interfaces/post'
+import PostPreview from './post-preview';
+import type Post from '../interfaces/post';
 
 type Props = {
-  posts: Post[]
-}
+  posts: Post[];
+};
 
 const PostGrid = ({ posts }: Props) => {
   return (
@@ -22,7 +22,7 @@ const PostGrid = ({ posts }: Props) => {
         ))}
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default PostGrid
+export default PostGrid;

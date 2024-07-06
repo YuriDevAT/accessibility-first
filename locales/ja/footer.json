@@ -1,0 +1,31 @@
+{
+  "h3-1": "ブログ",
+  "h3-2": "組織",
+  "h3-3": "チーム",
+  "h3-4": "Settings",
+
+  "categories": {
+    "allPosts": "すべての記事",
+    "accessibility": "アクセシビリティ",
+    "uxResearch": "UXリサーチ",
+    "uxDesign": "UXデザイン",
+    "webDevelopment": "ウェブ制作",
+    "qaTesting": "QAテスト",
+    "documents": "書類とソーシャルメディア"
+  },
+
+  "organization": {
+    "news": "ニュース",
+    "about": "Accessibility First情報",
+    "team": "Team",
+    "events": "イベント",
+    "accessibilityStatement": "アクセシビリティ声明",
+    "sitemap": "Sitemap"
+  },
+
+  "socials": {
+    "instagram": "Instagram",
+    "linkedIn": "LinkedIn",
+    "youtube": "YouTube"
+  }
+}

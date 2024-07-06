@@ -1,25 +1,23 @@
-import Alert from './alert'
-import Footer from './footer'
-import Meta from './meta'
-import SkipLink from '../components/skip-link'
+import Footer from './footer';
+import Meta from './meta';
+import SkipLink from './skip-link';
 
 type Props = {
-  preview?: boolean
-  children: React.ReactNode
-}
+  preview?: boolean;
+  children: React.ReactNode;
+};
 
-const Layout = ({ preview, children }: Props) => {
+const Layout = ({ children }: Props) => {
   return (
     <>
       <Meta />
-      <SkipLink />  
+      <SkipLink />
       <div className="min-h-screen">
-        {/* <Alert preview={preview} /> */}
-        <main>{children}</main>
+        <main className="mb-28">{children}</main>
       </div>
       <Footer />
     </>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;

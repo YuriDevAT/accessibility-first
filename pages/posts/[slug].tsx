@@ -1,30 +1,32 @@
-import { useRouter } from 'next/router'
-import ErrorPage from 'next/error'
-import Container from '../../components/container'
-import PostBody from '../../components/post-body'
-import Header from '../../components/header'
-import PostHeader from '../../components/post-header'
-import Layout from '../../components/layout'
-import { getPostBySlug, getAllPosts } from '../../lib/api'
-import PostTitle from '../../components/post-title'
-import Head from 'next/head'
-import markdownToHtml from '../../lib/markdownToHtml'
-import type PostType from '../../interfaces/post'
-import PostOriginal from '../../components/post-original'
-import SectionSeparator from '../../components/section-separator'
+import { GetStaticProps, GetStaticPaths } from 'next';
+import Head from 'next/head';
+import { useRouter } from 'next/router';
+import Container from '../../components/container';
+import Header from '../../components/header';
+import PostHeader from '../../components/post-header';
+import Layout from '../../components/layout';
+import { getPostBySlug, getAllPosts } from '../../lib/api';
+import PostTitle from '../../components/post-title';
+import markdownToHtml from '../../lib/markdownToHtml';
+import PostType from '../../interfaces/post';
+import PostBody from '../../components/post-body';
+import PostOriginal from '../../components/post-original';
+import SectionSeparator from '../../components/section-separator';
+import Custom404 from '../404';
 
 type Props = {
-  post: PostType
-  morePosts: PostType[]
-  preview?: boolean
-}
+  post: PostType;
+  morePosts: PostType[];
+  preview?: boolean;
+};
 
-export default function Post({ post, morePosts, preview }: Props) {
-  const router = useRouter()
-  const title = `${post.title} | Accessibility First Blog Post`
+export default function Post({ post, preview }: Props) {
+  const router = useRouter();
+  const title = `${post.title} | Accessibility First Blog Post`;
   if (!router.isFallback && !post?.slug) {
-    return <ErrorPage statusCode={404} />
+    return <Custom404 />;
   }
+
   return (
     <Layout preview={preview}>
       <Container>
@@ -44,32 +46,23 @@ export default function Post({ post, morePosts, preview }: Props) {
                 date={post.date}
                 author={post.author}
               />
-                <PostBody content={post.content} category={post.category} />
-                {post.ogPost.url != '' ? (
-                  <div className="max-w-2xl mx-auto">
-                    <SectionSeparator />
-                    <PostOriginal ogPost={post.ogPost.url} />
-                  </div>
-                ) : (
-                  null
-                )
-                }
+              <PostBody content={post.content} category={post.category} />
+              {post.ogPost.url != '' ? (
+                <div className="max-w-2xl mx-auto">
+                  <SectionSeparator />
+                  <PostOriginal ogPost={post.ogPost.url} />
+                </div>
+              ) : null}
             </article>
           </>
         )}
       </Container>
     </Layout>
-  )
+  );
 }
 
-type Params = {
-  params: {
-    slug: string
-  }
-}
-
-export async function getStaticProps({ params }: Params) {
-  const post = getPostBySlug(params.slug, [
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
+  const post = getPostBySlug(locale!, params!.slug as string, [
     'title',
     'date',
     'slug',
@@ -80,8 +73,9 @@ export async function getStaticProps({ params }: Params) {
     'ogImage',
     'ogPost',
     'coverImage',
-  ])
-  const content = await markdownToHtml(post.content || '')
+  ]);
+
+  const content = await markdownToHtml(post.content || '');
 
   return {
     props: {
@@ -90,20 +84,31 @@ export async function getStaticProps({ params }: Params) {
         content,
       },
     },
-  }
-}
+  };
+};
 
-export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+type Path = {
+  params: {
+    slug: string;
+  };
+  locale: string;
+};
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const locales = ['en', 'de', 'ja'];
+  let paths: Path[] = [];
+
+  locales.forEach((locale) => {
+    const posts = getAllPosts(locale, ['slug']) as { slug: string }[];
+    const localePaths = posts.map((post) => ({
+      params: { slug: post.slug },
+      locale,
+    }));
+    paths = [...paths, ...localePaths];
+  });
 
   return {
-    paths: posts.map((post) => {
-      return {
-        params: {
-          slug: post.slug,
-        },
-      }
-    }),
+    paths,
     fallback: false,
-  }
-}
+  };
+};
