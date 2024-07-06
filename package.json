@@ -33,6 +33,7 @@
   "dependencies": {
     "@types/react-icons": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^7.15.0",
+    "@typescript-eslint/parser": "^7.15.0",
     "classnames": "^2.3.2",
     "date-fns": "^2.28.0",
     "force": "^0.0.3",
