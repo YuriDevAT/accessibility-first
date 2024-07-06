@@ -1,9 +1,14 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { GetStaticPropsContext } from 'next';
 
 const postsDirectory = path.join(process.cwd(), '_posts');
+
+type PostData = {
+  [key: string]: string | undefined;
+  slug?: string;
+  content?: string;
+};
 
 export function getPostSlugs(locale: string) {
   const localeDirectory = path.join(postsDirectory, locale);
@@ -14,13 +19,13 @@ export function getPostBySlug(
   locale: string,
   slug: string,
   fields: string[] = []
-) {
+): PostData {
   const realSlug = slug.replace(/\.md$/, '');
   const fullPath = path.join(postsDirectory, locale, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
 
-  const items: any = {};
+  const items: PostData = {};
 
   fields.forEach((field) => {
     if (field === 'slug') {
@@ -37,7 +42,7 @@ export function getPostBySlug(
   return items;
 }
 
-export function getAllPosts(locale: string, fields: string[] = []) {
+export function getAllPosts(locale: string, fields: string[] = []): PostData[] {
   const slugs = getPostSlugs(locale);
   const posts = slugs.map((slug) => getPostBySlug(locale, slug, fields));
   return posts;

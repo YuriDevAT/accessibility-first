@@ -6,7 +6,7 @@ h3,
 h4,
 h5,
 h6,
-article a {
+a {
   @apply dark:text-slate-200;
 }
 
@@ -14,7 +14,8 @@ main a {
   @apply font-semibold;
 }
 
-h2 a, h3 a  {
+h2 a,
+h3 a {
   @apply font-normal;
 }
 

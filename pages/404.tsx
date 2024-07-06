@@ -22,7 +22,10 @@ const Custom404 = () => {
           </h1>
           <p className="text-3xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center">
             {t('p1')}
-            <Link href="/" className="text-blue-800 dark:text-blue-500 underline">
+            <Link
+              href="/"
+              className="text-blue-800 dark:text-blue-500 underline"
+            >
               {t('p2')}
             </Link>
             {t('p3')}

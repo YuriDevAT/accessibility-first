@@ -5,13 +5,12 @@ const SkipLink = () => {
 
   return (
     <nav aria-labelledby="skiplinks">
-      <p id="skiplinks" className="sr-only">Skiplinks</p>
+      <p id="skiplinks" className="sr-only">
+        Skiplinks
+      </p>
       <ul className="focus-within:border-slate-950">
         <li>
-          <a
-            href="#theme-btn"
-            className="sr-only focus:not-sr-only"
-          >
+          <a href="#theme-btn" className="sr-only focus:not-sr-only">
             {t('a1')}
           </a>
         </li>

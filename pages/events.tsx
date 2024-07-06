@@ -11,9 +11,9 @@ const Events = () => {
   const { t } = useTranslation('events');
   const currentDate = new Date();
 
-  const upcomingEvents: Event[] = events.filter(
-    (event) => new Date(event.date) >= currentDate
-  ).sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+  const upcomingEvents: Event[] = events
+    .filter((event) => new Date(event.date) >= currentDate)
+    .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
   const pastEvents: Event[] = events.filter(
     (event) => new Date(event.date) < currentDate
   );
@@ -34,7 +34,7 @@ const Events = () => {
             {t('h2-1')}
           </h2>
           <ul className="text-lg leading-relaxed my-6 dark:text-slate-800">
-            {upcomingEvents.map((event, index) => (
+            {upcomingEvents.map((event) => (
               <li
                 key={event.date}
                 className={`${
@@ -63,7 +63,7 @@ const Events = () => {
             {t('h2-2')}
           </h2>
           <ul className="dark:text-slate-800">
-            {pastEvents.map((event, index) => (
+            {pastEvents.map((event) => (
               <li
                 key={event.date}
                 className={`${

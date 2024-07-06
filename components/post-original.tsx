@@ -1,4 +1,3 @@
-import { ReactNode } from 'react';
 import useTranslation from 'next-translate/useTranslation';
 
 type Props = {

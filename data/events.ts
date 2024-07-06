@@ -23,7 +23,8 @@ export const events: Event[] = [
     location: 'UXCon Vienna',
   },
   {
-    title: 'Invisible Stigma and its influence on UX Research for Accessibility',
+    title:
+      'Invisible Stigma and its influence on UX Research for Accessibility',
     icon: GiVideoConference,
     speaker: 'Laura',
     date: 'September 12, 2024',
@@ -79,7 +80,8 @@ export const events: Event[] = [
     location: 'GDG Kwansai Osaka',
   },
   {
-    title: 'How Can I Be a Part of the Solution to an Accessible World - An Engineering Approach',
+    title:
+      'How Can I Be a Part of the Solution to an Accessible World - An Engineering Approach',
     icon: GiPublicSpeaker,
     speaker: 'Laura',
     date: 'April 22, 2024',

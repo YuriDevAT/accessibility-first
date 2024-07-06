@@ -20,7 +20,7 @@ type Props = {
   preview?: boolean;
 };
 
-export default function Post({ post, morePosts, preview }: Props) {
+export default function Post({ post, preview }: Props) {
   const router = useRouter();
   const title = `${post.title} | Accessibility First Blog Post`;
   if (!router.isFallback && !post?.slug) {
@@ -87,12 +87,19 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   };
 };
 
+type Path = {
+  params: {
+    slug: string;
+  };
+  locale: string;
+};
+
 export const getStaticPaths: GetStaticPaths = async () => {
   const locales = ['en', 'de', 'ja'];
-  let paths: any[] = [];
+  let paths: Path[] = [];
 
   locales.forEach((locale) => {
-    const posts = getAllPosts(locale, ['slug']);
+    const posts = getAllPosts(locale, ['slug']) as { slug: string }[];
     const localePaths = posts.map((post) => ({
       params: { slug: post.slug },
       locale,

@@ -6,7 +6,7 @@ type LocaleCode = 'en' | 'de' | 'ja';
 const languageNames: Record<LocaleCode, string> = {
   en: 'English',
   de: 'German',
-  ja: 'Japanese'
+  ja: 'Japanese',
 };
 
 const LocaleToggle = () => {
@@ -21,7 +21,8 @@ const LocaleToggle = () => {
             locale={loc}
             className={currentLocale === loc ? 'underline' : ''}
           >
-            <span className="sr-only">{languageNames[loc as LocaleCode]}</span><span aria-hidden>{loc.toUpperCase()}</span>
+            <span className="sr-only">{languageNames[loc as LocaleCode]}</span>
+            <span aria-hidden>{loc.toUpperCase()}</span>
           </Link>
           {index < locales.length - 1 && ' | '}
         </li>

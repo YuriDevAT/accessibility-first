@@ -11,17 +11,23 @@ export function getPostSlugs(locale: string) {
     .map((file) => file.replace(/\.md$/, ''));
 }
 
+type PostData = {
+  slug?: string;
+  content?: string;
+  [key: string]: any;
+};
+
 export function getPostBySlug(
   locale: string,
   slug: string,
   fields: string[] = []
-) {
+): PostData {
   const realSlug = slug.replace(/\.md$/, '');
   const fullPath = join(postsDirectory, locale, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
 
-  const items: any = {};
+  const items: PostData = {};
 
   fields.forEach((field) => {
     if (field === 'slug') {

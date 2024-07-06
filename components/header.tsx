@@ -7,7 +7,7 @@ type Props = {
   category: string;
 };
 
-const Header = ({ tags, category}: Props) => {
+const Header = ({ tags, category }: Props) => {
   const categoryColorsClass: string = categoryColors[category] || '';
   const categoryUrl: string = categoryPaths[category] || `/${category}`;
 
