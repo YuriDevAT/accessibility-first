@@ -12,11 +12,11 @@ const Header = ({ tags, category }: Props) => {
   const categoryUrl: string = categoryPaths[category] || `/${category}`;
 
   return (
-    <>
+    <nav aria-label="Breadcrumb">
       <div className="text-2xl dark:text-slate-200 md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8 inline-block">
         <Link
           href="/"
-          className="hover:underline outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
+          className="hover:underline focus:outline outline-inherit outline-offset-1"
         >
           {tags}
         </Link>
@@ -27,13 +27,13 @@ const Header = ({ tags, category }: Props) => {
       >
         <Link
           href={categoryUrl}
-          className={`hover:underline outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200 ${categoryColorsClass}`}
+          className={`hover:underline focus:outline outline-inherit outline-offset-1 ${categoryColorsClass}`}
         >
           {category}
         </Link>
         .
       </div>
-    </>
+    </nav>
   );
 };
 

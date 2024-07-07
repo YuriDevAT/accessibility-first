@@ -10,7 +10,7 @@ export function BugReport() {
         id="reportBug-btn"
         href="https://github.com/YuriDevAT/accessibility-first#readme"
         target="_blank"
-        className="outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
+        className="focus:outline outline-inherit outline-offset-1"
       >
         {t('p1')}
         <span className="sr-only">{t('span')}</span>

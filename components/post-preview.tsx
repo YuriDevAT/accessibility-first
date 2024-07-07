@@ -30,7 +30,7 @@ const PostPreview = ({
         <Link
           as={`/posts/${slug}`}
           href="/posts/[slug]"
-          className="underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200 decoration-2"
+          className="underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none focus:outline outline-inherit outline-offset-1 decoration-2"
         >
           {title}
         </Link>

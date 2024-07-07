@@ -19,7 +19,7 @@ const LocaleToggle = () => {
           <Link
             href={asPath}
             locale={loc}
-            className={currentLocale === loc ? 'underline' : ''}
+            className={`${currentLocale === loc ? 'underline' : ''} focus:outline outline-inherit outline-offset-1`}
           >
             <span className="sr-only">{languageNames[loc as LocaleCode]}</span>
             <span aria-hidden>{loc.toUpperCase()}</span>

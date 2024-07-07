@@ -12,7 +12,7 @@ const PostOriginal = ({ ogPost }: Props) => {
     <p className="text-lg italic tracking-tighter leading-tight mb-12 text-right">
       {t('p1')}
       <a
-        className="underline dark:text-slate-200 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
+        className="underline dark:text-slate-200 focus:outline outline-inherit outline-offset-1"
         href={ogPost}
       >
         {isJulia ? 'dev.to/yuridevat' : 'laura-wissiak.com/blog'}

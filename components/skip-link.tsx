@@ -8,20 +8,20 @@ const SkipLink = () => {
       <p id="skiplinks" className="sr-only">
         Skiplinks
       </p>
-      <ul className="focus-within:border-slate-950">
+      <ul className="focus-within:border-slate-950 ml-2">
         <li>
-          <a href="#theme-btn" className="sr-only focus:not-sr-only">
+          <a href="#theme-btn" className="sr-only focus:not-sr-only focus:outline outline-inherit outline-offset-1">
             {t('a1')}
           </a>
         </li>
         <li>
-          <a href="#reportBug-btn" className="sr-only focus:not-sr-only">
+          <a href="#reportBug-btn" className="sr-only focus:not-sr-only focus:outline outline-inherit outline-offset-1">
             {t('a2')}
           </a>
         </li>
         <li>
           {' '}
-          <a href="#i18n-btn" className="sr-only focus:not-sr-only">
+          <a href="#i18n-btn" className="sr-only focus:not-sr-only focus:outline outline-inherit outline-offset-1">
             {t('a3')}
           </a>
         </li>

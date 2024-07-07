@@ -30,7 +30,7 @@ const MorePosts = ({ posts }: Props) => {
         ))}
       </div>
       <Link
-        className="block mb-3 p-2 w-fit text-2xl underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none decoration-4 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200 after:content-['→']"
+        className="block mb-3 p-2 w-fit text-2xl underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none decoration-4 focus:outline outline-inherit outline-offset-1 after:content-['→']"
         href="/all-posts"
       >
         {t('button')}

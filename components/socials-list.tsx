@@ -11,7 +11,7 @@ const SocialsList = () => {
         <li key={item.key}>
           <Link
             href={item.path}
-            className="block mb-3 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
+            className="block mb-3 focus:outline outline-inherit outline-offset-1"
           >
             {t(`socials.${item.key}`)}
           </Link>

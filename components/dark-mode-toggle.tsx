@@ -67,7 +67,7 @@ const DarkModeToggle = () => {
           aria-expanded="false"
           aria-controls="theme-menu"
           onClick={handleOpenSelect}
-          className="flex items-center before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode before:content-light dark:text-slate-200 outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200 "
+          className="flex items-center before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode before:content-light dark:text-slate-200 focus:outline outline-inherit outline-offset-1"
         >
           <span>
             <span className="sr-only">Change </span>
@@ -83,7 +83,7 @@ const DarkModeToggle = () => {
               <button
                 type="button"
                 onClick={handleLight}
-                className="flex items-center before:content-light before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-light-mode w-full outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
+                className="flex items-center before:content-light before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-light-mode w-full focus:outline outline-inherit outline-offset-1"
               >
                 <span>Light</span>
               </button>
@@ -92,7 +92,7 @@ const DarkModeToggle = () => {
               <button
                 type="button"
                 onClick={handleDark}
-                className="flex items-center before:content-dark before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode w-full outline-none focus:ring focus:ring-slate-950 dark:focus:ring-slate-200"
+                className="flex items-center before:content-dark before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode w-full focus:outline outline-inherit outline-offset-1"
               >
                 <span>Dark</span>
               </button>
