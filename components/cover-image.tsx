@@ -21,11 +21,7 @@ const CoverImage = ({ title, src, slug }: Props) => {
     />
   );
 
-  return (
-    <div className="sm:mx-0">
-      {image}
-    </div>
-  );
+  return <div className="sm:mx-0">{image}</div>;
 };
 
 export default CoverImage;
