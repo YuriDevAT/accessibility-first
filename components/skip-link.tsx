@@ -6,7 +6,7 @@ const SkipLink = () => {
   return (
     <nav aria-labelledby="skiplinks">
       <p id="skiplinks" className="sr-only">
-        Skiplinks
+        {t('heading')}
       </p>
       <ul className="focus-within:border-slate-950 ml-2">
         <li>

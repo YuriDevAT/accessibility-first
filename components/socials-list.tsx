@@ -6,7 +6,7 @@ const SocialsList = () => {
   const { t } = useTranslation('footer');
 
   return (
-    <ul className="underline">
+    <ul className="underline" aria-labelledby="socials">
       {socials.map((item) => (
         <li key={item.key}>
           <Link

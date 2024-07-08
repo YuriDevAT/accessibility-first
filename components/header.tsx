@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import useTranslation from 'next-translate/useTranslation';
 import categoryColors from '../lib/colors';
 import categoryPaths from '../lib/paths';
 
@@ -8,11 +9,12 @@ type Props = {
 };
 
 const Header = ({ tags, category }: Props) => {
+  const { t } = useTranslation('header');
   const categoryColorsClass: string = categoryColors[category] || '';
   const categoryUrl: string = categoryPaths[category] || `/${category}`;
 
   return (
-    <nav aria-label="Breadcrumb">
+    <nav aria-label={t('label')} id="breadcrumb">
       <div className="text-2xl dark:text-slate-200 md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8 inline-block">
         <Link
           href="/"

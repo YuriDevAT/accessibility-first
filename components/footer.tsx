@@ -29,20 +29,28 @@ const Footer = () => {
             <Logo />
           </Link>
           <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
-            <h3 className="font-semibold mb-3 uppercase">{t('h3-1')}</h3>
+            <h3 className="font-semibold mb-3 uppercase" id="blog">
+              {t('h3-1')}
+            </h3>
             <BlogList />
           </div>
           <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
-            <h3 className="font-semibold mb-3 uppercase">{t('h3-2')}</h3>
+            <h3 className="font-semibold mb-3 uppercase" id="organization">
+              {t('h3-2')}
+            </h3>
             <OrganizationList />
           </div>
           <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
-            <h3 className="font-semibold mb-3 uppercase">{t('h3-3')}</h3>
+            <h3 className="font-semibold mb-3 uppercase" id="socials">
+              {t('h3-3')}
+            </h3>
             <SocialsList />
           </div>
           <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
-            <h3 className="font-semibold mb-3 uppercase">{t('h3-4')}</h3>
-            <ul>
+            <h3 className="font-semibold mb-3 uppercase" id="settings">
+              {t('h3-4')}
+            </h3>
+            <ul aria-labelledby="settings">
               <li className="mb-3">
                 <DarkModeToggle />
               </li>

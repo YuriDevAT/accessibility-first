@@ -6,7 +6,7 @@ const OrganizationList = () => {
   const { t } = useTranslation('footer');
 
   return (
-    <ul className="underline">
+    <ul className="underline" aria-labelledby="organization">
       {organization.map((item) => (
         <li key={item.key}>
           <Link

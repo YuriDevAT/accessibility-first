@@ -11,6 +11,7 @@ module.exports = {
       'post-original',
       'footer',
       'skip-link',
+      'header',
     ],
     '/all-posts': ['all-posts'],
     '/about': ['about'],
