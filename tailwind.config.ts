@@ -1,5 +1,5 @@
 import type { Config } from 'tailwindcss';
-const defaultTheme = require('tailwindcss/defaultTheme');
+import defaultTheme from 'tailwindcss/defaultTheme';
 
 const config: Config = {
   content: [
@@ -15,12 +15,12 @@ const config: Config = {
           500: '#99A8EA',
           800: '#084FD4',
         },
-        pip: {
+        purple: {
           200: '#F0E5FB',
           500: '#BF96F0',
           800: '#790BE0',
         },
-        gig: {
+        green: {
           200: '#EBFAF8',
           500: '#86CCCB',
           800: '#1E6B65',
@@ -30,7 +30,7 @@ const config: Config = {
           500: '#EE8EB5',
           800: '#D11B67',
         },
-        yey: {
+        yellow: {
           200: '#FFFBE6',
           500: '#FFF700',
           800: '#615200',
