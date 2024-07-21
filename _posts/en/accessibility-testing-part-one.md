@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-testing-part-one/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/accessibility-check-1-3c38'
+readingTime: 4
 ---
 
 Today I'm starting my very first accessibility check. I'll be auditing websites to see how well they implement accessibility and pointing out the problems and items that need improvement.

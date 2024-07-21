@@ -16,6 +16,7 @@ type PostType = {
     url: string;
   };
   content: string;
+  readingTime: number;
 };
 
 export default PostType;

@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/how-do-people-learn-to-use-a-white-cane/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/how-do-people-learn-to-use-a-white-cane'
+readingTime: 6
 ---
 
 Beim ersten echten Benutzer-Test haben wir endlich unseren tatsächlichen Prototyp an eine tatsächlich blinde Person ausprobiert, anstatt an einen ingenieur mit Augenbinde. Der Teilnehmer gab uns einen großartigen Tipp: sich mit einem Orientierungsmobilitätsbeauftragten in Verbindung zu setzen.

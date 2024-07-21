@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/deaf-blindness/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/deaf-blindness'
+readingTime: 3
 ---
 
 When you hear the word deaf-blind, you might think “How do you communicate then?” And if you have ever studied anything related to communication, I’m sure your old professor is haunting you right now with Paul Watzlawick’s _“One cannot not communicate”_ with that uuh spooky echo uuuh.

@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof'
+readingTime: 1
 ---
 
 The Vienna district where I live organizes an event called "Miteinander in Mariahilf" (en.: Together in Mariahilf), where locals can contribute different ideas for a better living together. The best idea is even rewarded with a prize.

@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/2023-has-been-eventful-here-at-accessibility-first/cover.png'
 ogPost:
   url: ''
+readingTime: 2
 ---
 
 2023 has been eventful here at Accessibility First!

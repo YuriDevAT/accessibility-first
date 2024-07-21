@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/vulnerable-customers/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/vulnerable-customers'
+readingTime: 3
 ---
 
 ## ご存知ですか？

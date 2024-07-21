@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-testing-part-one/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/accessibility-check-1-3c38'
+readingTime: 4
 ---
 
 Heute beginne ich mit meinem allerersten Barrierefreiheits-Check. Ich werde Webeiten daraufhin überprüfen, wie gut diese Barrierefreiheit umsetzen, und auf Probleme und verbesserungswürdige Punkte hinweisen.

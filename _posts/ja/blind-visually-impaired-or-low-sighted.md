@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/blind-visually-impaired-or-low-sighted'
+readingTime: 4
 ---
 
 視覚障害や盲目という呼び方について議論が続いています。正しい表現は、「盲目の人」、「盲目と共に生きる人」、「視覚障害のある人」のどれでしょうか？正しい言葉は何でしょうか？おそらく、一つだけの正解はないでしょう。

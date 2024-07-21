@@ -45,6 +45,7 @@ export default function Post({ post, preview }: Props) {
                 coverImage={post.coverImage}
                 date={post.date}
                 author={post.author}
+                time={post.readingTime}
               />
               <PostBody content={post.content} category={post.category} />
               {post.ogPost.url != '' ? (
@@ -73,6 +74,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     'ogImage',
     'ogPost',
     'coverImage',
+    'readingTime',
   ]);
 
   const content = await markdownToHtml(post.content || '');

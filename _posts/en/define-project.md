@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/define-project/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/define-project'
+readingTime: 5
 ---
 
 Define stands for **D**igital **E**quipment **F**or **I**nclusive **E**mpowerment. The mission behind it is not only to bring low-cost assistive tech to the market but also to improve digital literacy in the process. Braille keyboards aren’t an inherently new idea. But Define takes a hands-on approach to the whole process, and that’s what makes it special in my opinion.

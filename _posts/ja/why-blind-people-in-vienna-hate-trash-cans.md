@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
+readingTime: 3
 ---
 
 私が初めて[Hope Techの『シックス・センス』](https://www.hopetech.vision/)のリサーチを始めたとき、「脅威とは正確に何を定義すべきか、そして単なる障害物とは何を定義すべきか」という課題に直面しました。脅威の分類について考えると、私の頭にはすぐに交通、動いている車やウィーンには多い自転車が浮かびました。私の中では、クラッシュとは、お互いにまっすぐ向かってくる2つの動いている物が必要なものと考えていました。

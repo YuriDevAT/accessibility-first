@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/newsletter/cover.png'
 ogPost:
   url: ''
+readingTime: 2
 ---
 
 There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why I send out (approximately) monthly newsletters about upcoming events in web accessibility.

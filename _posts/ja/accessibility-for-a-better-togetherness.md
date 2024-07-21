@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof'
+readingTime: 1
 ---
 
 私が住んでいるウィーン地区では、「Miteinander in Mariahilf」（和: マリアヒルフで一緒に）というイベントを開催しています。より良い暮らしのために、地元の人々がさまざまなアイデアを提供できます。最も優れたアイデアには賞品が贈られます。

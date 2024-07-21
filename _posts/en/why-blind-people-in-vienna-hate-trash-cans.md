@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
+readingTime: 3
 ---
 
 When I first started doing research for [Hope Tech’s Sixth Sense](https://www.hopetech.vision/), we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars, or bicyclists of which there are many in Vienna. In my mind, a crash was something that requires two moving things going straight at each other.

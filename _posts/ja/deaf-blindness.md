@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/deaf-blindness/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/deaf-blindness'
+readingTime: 3
 ---
 
 盲ろう者と聞くと、"じゃあどうやってコミュニケーションをとるの？"と思うかもしれません。そして、コミュニケーションに関する勉強をしたことがある人なら、ポール・ワツラウィックの「人はコミュニケーションをとらないことはできない」を、あの不気味なエコーとともに、今頃昔の教授がつきまとっていることでしょう。

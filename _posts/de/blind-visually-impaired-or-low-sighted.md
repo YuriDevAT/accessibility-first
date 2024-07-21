@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/blind-visually-impaired-or-low-sighted'
+readingTime: 4
 ---
 
 Es gibt eine laufende Debatte darüber, wie man es nennen sollte. Sehstörung oder Blindheit? Was ist korrekt: Eine **blinde Person** oder **eine Person, die blind ist** oder eine **Person mit Sehbehinderung**? Aber welches Wort ist das richtige? Nun, ich bezweifle, dass es nur ein einziges gibt.

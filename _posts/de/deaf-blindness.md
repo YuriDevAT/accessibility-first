@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/deaf-blindness/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/deaf-blindness'
+readingTime: 3
 ---
 
 Wenn du das Wort taubblind hörst, denkst du vielleicht: „Wie kommunizierst du dann?“ Und wenn du jemals etwas über Kommunikation gelernt hast, verfolgt dich wahrscheinlich gerade dein alter Professor mit Paul Watzlawicks „Man kann nicht nicht kommunizieren“ mit diesem uuuh gruseligen Echo uuuh.

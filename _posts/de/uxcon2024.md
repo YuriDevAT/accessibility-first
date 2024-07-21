@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/uxcon2024/cover.png'
 ogPost:
   url: ''
+readingTime: 1
 ---
 
 Wir sehen uns auf der uxcon vienna 2024!

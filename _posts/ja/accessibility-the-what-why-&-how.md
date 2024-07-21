@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
 ogPost:
   url: ''
+readingTime: 5
 ---
 
 ウェブアクセシビリティは最近ますます注目を集めてきました。しかし、多くの人々はウェブアクセシビリティが何であり、なぜそれが重要なのかをまだ理解していません。

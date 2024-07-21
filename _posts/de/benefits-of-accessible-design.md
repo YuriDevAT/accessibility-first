@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/benefits-of-accessible-design/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/benefits-of-accessible-design-4m2a'
+readingTime: 3
 ---
 
 In meinem letzten Artikel über [Mythen und Missverständnisse über Barrierefreiheit](https://www-accessibilityfirst.at/de/posts/myths-and-misconceptions-about-accessibility) habe ich darüber gesprochen, wie viele Menschen glauben, dass nur wenige Menschen von Barrierefreiheit profitieren.

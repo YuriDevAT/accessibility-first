@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 ogPost:
   url: ''
+readingTime: 8
 ---
 
 Have you ever tried to read text on a screen but found it difficult due to color choices, making it hard to read? Or have you had trouble recognizing content on a screen in very bright or dimly lit environments?

@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
 ogPost:
   url: ''
+readingTime: 5
 ---
 
 Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important.

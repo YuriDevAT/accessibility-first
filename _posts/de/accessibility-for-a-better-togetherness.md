@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof'
+readingTime: 1
 ---
 
 Der Wiener Bezirk, in dem ich wohne, organisiert eine Veranstaltung namens "Miteinander in Mariahilf", bei der die Bewohner verschiedene Ideen für ein besseres Zusammenleben einbringen können. Die beste Idee wird sogar mit einem Preis belohnt.

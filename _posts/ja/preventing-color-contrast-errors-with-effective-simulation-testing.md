@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 ogPost:
   url: ''
+readingTime: 8
 ---
 
 画面上のテキストを読もうとしたことがありますか？しかし、色の選択が原因で読みづらいと感じたことはありませんか？また、非常に明るい環境や薄暗い環境で画面上のコンテンツを認識するのに苦労したことはありませんか？

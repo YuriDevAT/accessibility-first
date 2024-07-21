@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/pour-the-4-web-accessibility-principles/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/pour-the-4-web-accessibility-principles-edp'
+readingTime: 5
 ---
 
 Um deine Webseite und Webanwendung als zugänglich im Sinne der [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.w3.org/TR/WCAG20/) zu qualifizieren, die von der [World Wide Web Consortium's Web Accessibility Initiative (W3C WAI)](https://www.w3.org/WAI/) aufgestellt wurden, muss der Inhalt diese vier Grundsätze (die das Akronym POUR bilden) erfüllen...

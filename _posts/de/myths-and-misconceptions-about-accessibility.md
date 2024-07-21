@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab'
+readingTime: 3
 ---
 
 ## 1. Von Barrierefreiheit profitiert nur eine kleine Minderheit

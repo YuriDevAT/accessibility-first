@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/define-project/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/define-project'
+readingTime: 5
 ---
 
 Define steht für **D**igital **E**quipment **F**or **In**clusive **E**mpowerment. Die Mission dahinter ist nicht nur, kostengünstige Hilfstechnologien auf den Markt zu bringen, sondern auch die digitale Kompetenz im Prozess zu verbessern. Braille-Tastaturen sind keine grundsätzlich neue Idee. Aber Define verfolgt einen praktischen Ansatz im gesamten Prozess, und das macht es meiner Meinung nach besonders.

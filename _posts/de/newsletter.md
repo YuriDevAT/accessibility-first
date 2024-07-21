@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/newsletter/cover.png'
 ogPost:
   url: ''
+readingTime: 2
 ---
 
 Es gibt viele Ressourcen und Veranstaltungen, die außerhalb der Online-Accessibility-Bubble schwer zu finden sind. Gatekeeping ist das genaue Gegenteil von Barrierefreiheit, weshalb ich (ungefähr) monatlich Newsletter über bevorstehende Veranstaltungen zur Barrierefreiheit im Web verschicke.

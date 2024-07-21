@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/benefits-of-accessible-design/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/benefits-of-accessible-design-4m2a'
+readingTime: 3
 ---
 
 前回の記事[「アクセシビリティに関する神話と誤解」](https://www-accessibilityfirst.at/ja/posts/myths-and-misconceptions-about-accessibility)では、アクセシビリティが恩恵をもたらすのは一部の人々だけだと信じている人々について話しました。

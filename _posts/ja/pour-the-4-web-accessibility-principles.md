@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/pour-the-4-web-accessibility-principles/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/pour-the-4-web-accessibility-principles-edp'
+readingTime: 5
 ---
 
 ウェブサイトやウェブアプリケーションが、[World Wide Web Consortium's Web Accessibility Initiative (W3C WAI)](https://www.w3.org/WAI/)が確立した[Web Content Accessibility Guidelines (WCAG 2.0)](https://www.w3.org/TR/WCAG20/)に基づいてアクセシブルであると認定されるためには、コンテンツが以下の4つの原則（頭字語のPOURを形成する）を満たす必要があります：

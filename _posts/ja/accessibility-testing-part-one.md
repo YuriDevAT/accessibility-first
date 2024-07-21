@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-testing-part-one/cover.png'
 ogPost:
   url: 'https://dev.to/en/yuridevat/accessibility-check-1-3c38'
+readingTime: 4
 ---
 
 今日から、初めてのアクセシビリティ・チェックを始めます。ウェブサイトがアクセシビリティをどの程度実装しているかを監査し、問題点や改善すべき点を指摘します。

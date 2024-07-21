@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
 ogPost:
   url: ''
+readingTime: 5
 ---
 
 Der Barrierefreiheit im Internet wird in letzter Zeit glücklicherweise immer mehr Aufmerksamkeit geschenkt. Aber viele Menschen wissen immer noch nicht, was Barrierefreiheit im Web eigentlich ist und warum sie so wichtig ist.

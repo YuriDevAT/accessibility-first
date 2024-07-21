@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/how-do-people-learn-to-use-a-white-cane/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/how-do-people-learn-to-use-a-white-cane'
+readingTime: 6
 ---
 
 初めての本格的なユーザートライアルでは、実際に視覚障害を持つ人に試作機を装着してもらいました。それまでブラインドフォールドをしたエンジニアに試してもらっていましたが、今回は本物の視覚障害者に試してもらいました。参加者から素晴らしいアドバイスをもらいました：方向転換モビリティオフィサーに連絡を取ることです。

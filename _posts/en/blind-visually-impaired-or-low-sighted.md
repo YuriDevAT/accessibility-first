@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/blind-visually-impaired-or-low-sighted'
+readingTime: 4
 ---
 
 There is an ongoing debate about what to call it. Visual Impairment or blindness? What is correct: A _blind person_ or a _person living with blindness_ or a _person with low vision_? But what is the right word? Well, I doubt there is just one.

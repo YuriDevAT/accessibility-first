@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
+readingTime: 3
 ---
 
 Als ich mit der Recherche für [Hope Tech’s Sixth Sense](https://www.hopetech.vision/)begann, stießen wir schnell auf die Herausforderung: „Was genau sollten wir als Bedrohung definieren und was nur als Hindernis?“ Für die Klassifizierung von Bedrohungen dachte ich sofort an Verkehr, bewegliche Autos oder Radfahrer, von denen es in Wien viele gibt. In meinem Kopf war ein Zusammenstoß etwas, das zwei sich bewegende Dinge erfordert, die direkt aufeinander zugehen.

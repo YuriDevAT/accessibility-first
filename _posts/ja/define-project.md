@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/define-project/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/define-project'
+readingTime: 5
 ---
 
 Defineは、**D**igital **E**quipment **F**or **In**clusive **E**mpowermentの略です。その使命は、低コストの支援技術を市場に提供するだけでなく、デジタルリテラシーを向上させることです。点字キーボード自体は新しいアイデアではありません。しかし、Defineは全プロセスに実践的なアプローチを取り、それが特別だと思う理由です。

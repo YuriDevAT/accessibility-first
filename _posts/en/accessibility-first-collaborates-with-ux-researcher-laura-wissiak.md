@@ -12,6 +12,7 @@ ogImage:
   url: '/assets/blog/en/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
 ogPost:
   url: ''
+readingTime: 1
 ---
 
 Some paths should not be walked alone.
