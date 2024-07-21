@@ -6,11 +6,9 @@ h3,
 h4,
 h5,
 h6,
-a :not(nav#breadcrumb > a) {
+a {
   @apply dark:text-slate-200;
 }
-
-
 
 main a {
   @apply font-semibold;
@@ -19,6 +17,10 @@ main a {
 h2 a,
 h3 a {
   @apply font-normal;
+}
+
+footer h3 {
+  @apply dark:text-slate-400;
 }
 
 blockquote {
