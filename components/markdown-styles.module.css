@@ -6,7 +6,7 @@
 .markdown ul,
 .markdown ol,
 .markdown blockquote {
-  @apply my-6 font-body;
+  @apply my-10 font-body font-light text-xl leading-normal;
 }
 
 .markdown h2 {

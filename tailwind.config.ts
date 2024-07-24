@@ -10,6 +10,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      boxShadow: {
+        sm: '0 5px 10px rgba(0, 0, 0, 0.12)',
+        md: '0 8px 30px rgba(0, 0, 0, 0.12)',
+      },
       colors: {
         blue: {
           200: '#E6EFFE',
@@ -44,29 +48,6 @@ const config: Config = {
         success: '#0070F3',
         cyan: '#79FFE1',
       },
-      spacing: {
-        28: '7rem',
-      },
-      letterSpacing: {
-        tighter: '-.04em',
-      },
-      fontSize: {
-        '5xl': '2.5rem',
-        '6xl': '2.75rem',
-        '7xl': '4.5rem',
-        '8xl': '6.25rem',
-      },
-      fontFamily: {
-        body: ['var(--font-alliance)'],
-      },
-      boxShadow: {
-        sm: '0 5px 10px rgba(0, 0, 0, 0.12)',
-        md: '0 8px 30px rgba(0, 0, 0, 0.12)',
-      },
-      screens: {
-        xs: '475px',
-        ...defaultTheme.screens,
-      },
       content: {
         bug: 'url("/assets/icons/bug.svg")',
         'bug-dark': 'url("/assets/icons/bug-dark.svg")',
@@ -76,6 +57,19 @@ const config: Config = {
         'light-mode': 'url("/assets/icons/sun-dark.svg")',
         system: 'url("/assets/icons/system.svg")',
         exclamation: 'url("/assets/icons/exclamation.svg")',
+      },
+      fontFamily: {
+        body: ['Nunito Sans', 'sans-serif'],
+      },
+      fontSize: {
+        '5xl': '2.5rem',
+        '6xl': '2.75rem',
+        '7xl': '4.5rem',
+        '8xl': '6.25rem',
+      },
+      screens: {
+        xs: '475px',
+        ...defaultTheme.screens,
       },
     },
   },
