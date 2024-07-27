@@ -3,7 +3,7 @@ import localFont from 'next/font/local';
 export const openSauce = localFont({
   src: [
     {
-      path: '../public/fonts/openSauceSans-Bold.ttf',
+      path: '../public/fonts/OpenSauceSans-Bold.ttf',
     },
   ],
   variable: '--font-openSauce',
@@ -12,7 +12,7 @@ export const openSauce = localFont({
 export const openSauceBlack = localFont({
   src: [
     {
-      path: '../public/fonts/openSauceSans-Black.ttf',
+      path: '../public/fonts/OpenSauceSans-Black.ttf',
     },
   ],
   variable: '--font-openSauceBlack',
@@ -21,7 +21,7 @@ export const openSauceBlack = localFont({
 export const openSauceSemi = localFont({
   src: [
     {
-      path: '../public/fonts/openSauceSans-SemiBold.ttf',
+      path: '../public/fonts/OpenSauceSans-SemiBold.ttf',
     },
   ],
   variable: '--font-openSauceSemi',
