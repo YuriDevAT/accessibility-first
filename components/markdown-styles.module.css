@@ -10,11 +10,11 @@
 }
 
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug font-bold;
+  @apply text-3xl mt-12 mb-4 leading-snug font-bold font-heading;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug font-semibold;
+  @apply text-2xl mt-8 mb-4 leading-snug font-semibold font-heading;
 }
 
 .markdown a {

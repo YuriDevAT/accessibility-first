@@ -16,14 +16,14 @@ export function CopyRight() {
           href="https://juliaundeutsch.com/"
           className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors focus:outline outline-inherit outline-offset-1"
         >
-          Julia Undeutsch <span className="sr-only">{t('julia')}</span>
+          Julia Undeutsch<span className="sr-only">{t('julia')}</span>
         </a>
         {t('p4')}
         <a
           href="https://www.linkedin.com/in/sailorjohnny/"
           className="underline hover:text-blue-800 dark:text-slate-200 dark:hover:text-blue-500 duration-200 transition-colors focus:outline outline-inherit outline-offset-1"
         >
-          Yan Kurochin <span className="sr-only">{t('yan')}</span>
+          Yan Kurochin<span className="sr-only">{t('yan')}</span>
         </a>
         {t('p5')}
       </p>

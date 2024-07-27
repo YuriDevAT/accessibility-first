@@ -15,7 +15,7 @@ const MyDocument = ({ locale }: MyDocumentProps) => {
   return (
     <Html lang={locale}>
       <Head />
-      <body className="bg-stone-50 text-stone-950 dark:bg-slate-800 dark:text-slate-400">
+      <body className="bg-stone-50 text-stone-950 dark:bg-slate-800 dark:text-slate-400 font-body">
         <Main />
         <NextScript />
       </body>

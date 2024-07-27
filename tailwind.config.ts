@@ -59,6 +59,9 @@ const config: Config = {
         exclamation: 'url("/assets/icons/exclamation.svg")',
       },
       fontFamily: {
+        title: ['var(--font-openSauceBlack)', 'sans-serif'],
+        heading: ['var(--font-openSauce)', 'sans-serif'],
+        headingSemi: ['var(--font-openSauceSemi)', 'sans-serif'],
         body: ['Nunito Sans', 'sans-serif'],
       },
       fontSize: {
