@@ -41,7 +41,7 @@ Based on these insights, we have also developed some ideas for where to start:
 
 Language accessibility for all media: Critical information should be offered - online and offline - in multiple languages and also easy language to reach approximately 300,000 more people.
 
-Self-service options specifically for people with learning difficulties and reading weaknesses: Because "less is more," self-service options should only contain essential data. Together with pictograms, this would make understanding easier and alleviate fears of people with cognitive impairments that they might do something wrong.
+Self-service options specifically for people with learning difficulties and reading weaknesses: Because “less is more” self-service options should only contain essential data. Together with pictograms, this would make understanding easier and alleviate fears of people with cognitive impairments that they might do something wrong.
 
 Making the language diversity among employees visible and usable: Employees in shops, and service lines are just as diverse as customers. This could be made visible, for example in shops through name tags, or through offering a language selection alongside callback services. Leveraging these already existing talents would lead to higher customer satisfaction and standardization of call duration and information quality. For 56% of customers, communication and advice are more important for the purchasing decision than the price itself.
 

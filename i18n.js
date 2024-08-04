@@ -3,6 +3,7 @@ module.exports = {
   defaultLocale: 'en',
   pages: {
     '*': [
+      'slug',
       'common',
       'copyright',
       'bug-report',

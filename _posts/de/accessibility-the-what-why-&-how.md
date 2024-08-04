@@ -27,7 +27,7 @@ Laut [Wikipedia](https://en.wikipedia.org/wiki/Accessibility 'Wikipedia Definiti
 
 Es gibt alle Arten von Behinderungen, einige sind erkennbar, wie Menschen, die im Rollstuhl sitzen, und andere sind versteckt, wie Menschen, die gehörlos sind. Es gibt auch altersbedingte Behinderungen wie Schwerhörigkeit oder Sehschwäche und vorübergehende Behinderungen wie einen gebrochenen Arm oder sogar das Halten eines Babys.
 
-Vielleicht hast du schon einmal den Hashtag **#a11y** gesehen, der die Kurzversion des englischen Wortes Accessibility (dt. Barrierefreiheit) ist. Der Grund für diese Verkürzung ist, dass zwischen dem Buchstaben "a" und dem Buchstaben "y" 11 Zeichen stehen. Meiner Meinung nach ist dies eine coole Art, ein Wort zu kürzen und viel einfacher als Hashtag zu verwenden.
+Vielleicht hast du schon einmal den Hashtag **#a11y** gesehen, der die Kurzversion des englischen Wortes Accessibility (dt. Barrierefreiheit) ist. Der Grund für diese Verkürzung ist, dass zwischen dem Buchstaben „a“ und dem Buchstaben „y“ 11 Zeichen stehen. Meiner Meinung nach ist dies eine coole Art, ein Wort zu kürzen und viel einfacher als Hashtag zu verwenden.
 
 ## Warum ist es wichtig
 
@@ -84,6 +84,6 @@ Wenn du Webseiten zugänglich für Maus-, Tastatur-, Screenreader- und Braille-B
 
 ## Fazit
 
-Wenn wir uns alle an der Entwicklung barrierefreier Webseiten und Webanwendungen beteiligen und früh genug damit beginnen, können wir sie von Anfang an barrierefrei gestalten. Dadurch wird es für Unternehmen schwieriger, Barrierefreiheit aufgrund von Mythen und Missverständnissen wie "Barrierefreiheit bedeutet hässliches Design" oder "ist sehr teuer" zu vermeiden.
+Wenn wir uns alle an der Entwicklung barrierefreier Webseiten und Webanwendungen beteiligen und früh genug damit beginnen, können wir sie von Anfang an barrierefrei gestalten. Dadurch wird es für Unternehmen schwieriger, Barrierefreiheit aufgrund von Mythen und Missverständnissen wie „Barrierefreiheit bedeutet hässliches Design“ oder „ist sehr teuer“ zu vermeiden.
 
 Zeige, dass du für inklusives Design stehst, indem du zumindest einen kleinen Beitrag dazu leistest, die Welt für Menschen mit Behinderungen zu verbessern.

@@ -1,6 +1,7 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import useTranslation from 'next-translate/useTranslation';
 import Container from '../../components/container';
 import Header from '../../components/header';
 import PostHeader from '../../components/post-header';
@@ -21,6 +22,7 @@ type Props = {
 };
 
 export default function Post({ post, preview }: Props) {
+  const { t } = useTranslation('slug');
   const router = useRouter();
   const title = `${post.title} | Accessibility First Blog Post`;
   if (!router.isFallback && !post?.slug) {
@@ -32,7 +34,7 @@ export default function Post({ post, preview }: Props) {
       <Container>
         <Header tags={post.tags} category={post.category} />
         {router.isFallback ? (
-          <PostTitle>Loading…</PostTitle>
+          <PostTitle> {t('p')}</PostTitle>
         ) : (
           <>
             <article className="mb-32">

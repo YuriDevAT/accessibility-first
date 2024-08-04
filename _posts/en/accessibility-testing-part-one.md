@@ -34,7 +34,7 @@ _\*Automatic means that vulnerabilities are found using accessibility developmen
 
 ## Elements Must Have Sufficient Color Contrast
 
-Most of the serious problems were related to the color contrast. To easily find the errors on the website, you can highlight them by activating the "Highlight" button.
+Most of the serious problems were related to the color contrast. To easily find the errors on the website, you can highlight them by activating the “Highlight” button.
 
 ![](/assets/blog/en/accessibility-testing-one/image-2.png)
 
