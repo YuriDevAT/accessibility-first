@@ -1,6 +1,6 @@
 ---
 title: 'Warum blinde Menschen in Wien Mülltonnen hassen'
-excerpt: 'Als ich anfing, für Hope Tech’s Sixth Sense zu recherchieren, standen wir schnell vor der Herausforderung: "Was genau sollten wir als Bedrohung definieren und was wäre nur ein Hindernis? Bei der Klassifizierung von Bedrohungen dachte ich sofort an den Verkehr, fahrende Autos, ...'
+excerpt: 'Als ich anfing, für Hope Tech’s Sixth Sense zu recherchieren, standen wir schnell vor der Herausforderung: „Was genau sollten wir als Bedrohung definieren und was wäre nur ein Hindernis? Bei der Klassifizierung von Bedrohungen dachte ich sofort an den Verkehr, fahrende Autos, ...'
 coverImage: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.png'
 date: '2023-10-04T05:35:07.322Z'
 tags: 'Blog'

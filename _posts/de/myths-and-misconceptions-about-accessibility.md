@@ -55,7 +55,7 @@ Barrierefreiheit von Beginn an miteinzubauen ist angemessen vergleichsweise zu d
 
 > Wenn das Design hässlich ist, solltest du nach einem anderen Designer suchen.
 
-Die meisten barrierefreihen Features sind ohnehin unsichtbar und normalerweise nur mittels Bildschirmlesegerät erreichbar (zum Beispiel "Deskriptiver Text"). Den Code in semantischem HTML zu schreiben macht ihn nicht nur mehr leserlich, sondern verhilft auch zu besseren Suchmaschinenoptimierung.
+Die meisten barrierefreihen Features sind ohnehin unsichtbar und normalerweise nur mittels Bildschirmlesegerät erreichbar (zum Beispiel „Deskriptiver Text“). Den Code in semantischem HTML zu schreiben macht ihn nicht nur mehr leserlich, sondern verhilft auch zu besseren Suchmaschinenoptimierung.
 
 Und seien wir mal ehrlich, in welcher Welt ist der barrierefreie Button auf dem Bild hier rechts hässlich?!
 
