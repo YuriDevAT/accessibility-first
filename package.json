@@ -1,9 +1,9 @@
 {
   "name": "accessibility-first",
-  "version": "1.2",
+  "version": "1.3",
   "private": true,
   "homepage": "https://accessibilityfirst.at",
-  "description": "Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you eradicate invisible barriers.",
+  "description": "Accessibility First is a collection of insights, learnings, and experiences from industry professionals to spread awareness and help you eradicate invisible barriers.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YuriDevAT/accessibility-first.git"
@@ -24,7 +24,7 @@
   ],
   "author": "Julia Undeutsch",
   "bugs": {
-    "url": "https://github.com/YuriDevAT/website-bug-tracker"
+    "url": "https://github.com/YuriDevAT/accessibility-first#readme"
   },
   "scripts": {
     "dev": "next dev",
