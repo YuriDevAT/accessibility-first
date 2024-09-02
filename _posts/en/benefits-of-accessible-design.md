@@ -23,7 +23,7 @@ The fact is that accessibility benefits a wide range of people, society and the 
 
 > Accessible design doesn't just make life easier for people with disabilities, in many cases it makes things possible.
 
-Accessibility is not just a "nice to have" as some would say, it is necessary. With accessible design, for example in transportation or architecture, people with disabilities can go to work, visit friends and family, go to entertainment venues and restaurants, use buildings and public spaces, and more.
+Accessibility is not just a “nice to have” as some would say, it is necessary. With accessible design, for example in transportation or architecture, people with disabilities can go to work, visit friends and family, go to entertainment venues and restaurants, use buildings and public spaces, and more.
 
 ## Benefits for companies and organizations
 

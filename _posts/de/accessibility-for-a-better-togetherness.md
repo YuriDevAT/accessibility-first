@@ -1,6 +1,6 @@
 ---
 title: 'Webzugänglichkeit für ein besseres Miteinander'
-excerpt: 'Der Wiener Bezirk, in dem ich wohne, organisiert eine Veranstaltung namens "Miteinander in Mariahilf", bei der die Bewohner verschiedene Ideen für ein besseres Zusammenleben einbringen können. Hier kommt meine Spezialität, Web Barrierefreiheit, zum Einsatz. Lassen Sie mich meine Gedanken teilen ...'
+excerpt: 'Der Wiener Bezirk, in dem ich wohne, organisiert eine Veranstaltung namens „Miteinander in Mariahilf“, bei der die Bewohner verschiedene Ideen für ein besseres Zusammenleben einbringen können. Hier kommt meine Spezialität, Web Barrierefreiheit, zum Einsatz. Lassen Sie mich meine Gedanken teilen ...'
 coverImage: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
 date: '2022-07-07T05:35:07.322Z'
 tags: 'Blog'
@@ -15,7 +15,7 @@ ogPost:
 readingTime: 1
 ---
 
-Der Wiener Bezirk, in dem ich wohne, organisiert eine Veranstaltung namens "Miteinander in Mariahilf", bei der die Bewohner verschiedene Ideen für ein besseres Zusammenleben einbringen können. Die beste Idee wird sogar mit einem Preis belohnt.
+Der Wiener Bezirk, in dem ich wohne, organisiert eine Veranstaltung namens „Miteinander in Mariahilf“, bei der die Bewohner verschiedene Ideen für ein besseres Zusammenleben einbringen können. Die beste Idee wird sogar mit einem Preis belohnt.
 
 Hier kommt meine Spezialität, Barrierefreiheit im Internet, zum Einsatz. Lassen Sie mich meine Gedanken teilen.
 
@@ -37,4 +37,4 @@ Was haltet ihr alle von dieser Idee? Würde dies zu einer guten Nachbarschaft un
 
 ## Update: 20. Oktober 2022
 
-Leider wurde meine Idee abgelehnt, bevor die Abstimmung überhaupt begonnen hatte. Ich vermute, wegen eines anderen Missverständnisses: "Barrierefreiheit hilft nur den Unternehmen, nicht den Menschen im Viertel".
+Leider wurde meine Idee abgelehnt, bevor die Abstimmung überhaupt begonnen hatte. Ich vermute, wegen eines anderen Missverständnisses: „Barrierefreiheit hilft nur den Unternehmen, nicht den Menschen im Viertel“.
