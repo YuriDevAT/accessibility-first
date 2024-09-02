@@ -6,6 +6,7 @@ import Document, {
   DocumentContext,
   DocumentInitialProps,
 } from 'next/document';
+import Meta from '../components/meta';
 
 interface MyDocumentProps extends DocumentInitialProps {
   locale: string;
@@ -14,8 +15,10 @@ interface MyDocumentProps extends DocumentInitialProps {
 const MyDocument = ({ locale }: MyDocumentProps) => {
   return (
     <Html lang={locale}>
-      <Head />
-      <body className="bg-stone-50 text-stone-950 dark:bg-slate-800 dark:text-slate-400">
+      <Head>
+        <Meta />
+      </Head>
+      <body className="bg-stone-50 text-stone-950 dark:bg-slate-800 dark:text-slate-400 font-body">
         <Main />
         <NextScript />
       </body>
