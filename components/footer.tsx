@@ -15,7 +15,7 @@ const Footer = () => {
   const { t } = useTranslation('footer');
 
   return (
-    <footer className="bg-stone-200 border-stone-200 dark:bg-slate-950 text-sm mt-6">
+    <footer className="bg-stone-200 border-stone-200 dark:bg-slate-950 text-sm mt-6 font-body">
       <Container>
         <div className="flex flex-wrap justify-between py-16 mb-5">
           <h2 className="sr-only">Footer</h2>
@@ -23,7 +23,7 @@ const Footer = () => {
             href="/"
             className="w-full lg:w-4/12 mb-8 flex lg:block focus:outline outline-inherit outline-offset-1"
           >
-            <span className="text-4xl dark:text-slate-200 lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline">
+            <span className="text-4xl dark:text-slate-200 lg:text-[2.5rem] font-bold tracking-tighter leading-tight lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2 hover:underline font-title">
               Accessibility First
             </span>
             <Logo />

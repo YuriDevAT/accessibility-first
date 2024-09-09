@@ -23,7 +23,7 @@ Fakt aber ist, dass nicht nur ein kleiner Teil der Menschen, sondern die gesamte
 
 > Barrierefreies Design macht nicht einfach nur das Leben für Menschen mit Behinderungen einfacher. In vielen Fällen macht es Dinge erst möglich!
 
-Barrierefreiheit ist nicht nur ein "nice to have", wie manch einer sagen würde, es ist notwendig. Mit barrierefreiem Design, zum Beispiel in Transport oder Gebäuden, können Menschen mit Behinderungen Arbeiten, Freunde und Familie besuchen, zu Veranstaltungen oder in Restaurants gehen, öffentliche Plätze besuchen und vieles mehr.
+Barrierefreiheit ist nicht nur ein „nice to have“, wie manch einer sagen würde, es ist notwendig. Mit barrierefreiem Design, zum Beispiel in Transport oder Gebäuden, können Menschen mit Behinderungen Arbeiten, Freunde und Familie besuchen, zu Veranstaltungen oder in Restaurants gehen, öffentliche Plätze besuchen und vieles mehr.
 
 ## Vorteile für Firmen und Organisationen
 

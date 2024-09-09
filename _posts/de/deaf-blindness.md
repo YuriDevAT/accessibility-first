@@ -1,6 +1,6 @@
 ---
 title: 'Taubblindheit'
-excerpt: 'Wenn du das Wort "taubblind" hörst, denkst du vielleicht: "Wie kann man dann kommunizieren?" Und wenn du jemals irgendetwas studiert hast, das mit Kommunikation zu tun hat, bin ich mir sicher, dass dein alter Professor dich gerade mit Paul Watzlawicks "Man kann nicht nicht kommunizieren" mit diesem unheimlichen Echo verfolgt ...'
+excerpt: 'Wenn du das Wort „taubblind“ hörst, denkst du vielleicht: „Wie kann man dann kommunizieren?“ Und wenn du jemals irgendetwas studiert hast, das mit Kommunikation zu tun hat, bin ich mir sicher, dass dein alter Professor dich gerade mit Paul Watzlawicks „Man kann nicht nicht kommunizieren“ mit diesem unheimlichen Echo verfolgt ...'
 coverImage: '/assets/blog/en/deaf-blindness/cover.png'
 date: '2023-09-21T10:35:07.322Z'
 tags: 'Blog'
