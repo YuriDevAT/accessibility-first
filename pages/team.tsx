@@ -36,6 +36,7 @@ const Team = () => {
                   {t('p1')}
                 </p>
                 <p className="text-lg leading-relaxed my-6">{t('p2')}</p>
+                <p className="text-lg leading-relaxed my-6">{t('p2-1')}</p>
                 <p className="text-lg leading-relaxed my-6">
                   {t('p3')}
                   <a
