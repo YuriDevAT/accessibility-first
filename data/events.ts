@@ -15,6 +15,14 @@ export const events: Event[] = [
     location: 'reactjsday Verona',
   },
   {
+    title: 'Accessibility Features in Chrome DevTools and beyond',
+    icon: GiPublicSpeaker,
+    speaker: 'Julia',
+    date: 'October 12, 2024',
+    type: 'Talk',
+    location: 'DevFest Vienna',
+  },
+  {
     title: 'Accessibility is not a checklist',
     icon: GiPublicSpeaker,
     speaker: 'Julia, Laura',

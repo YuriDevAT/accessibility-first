@@ -34,7 +34,7 @@ _\*Automatisch bedeutet, dass Fehler mit Hilfe von Entwicklungswerkzeugen für d
 
 ## Elements Must Have Sufficient Color Contrast
 
-"Elemente müssen einen ausreichenden Farbkontrast aufweisen". Die meisten schwerwiegenden Probleme standen im Zusammenhang mit dem Farbkontrast. Um die Fehler auf der Webseite leicht zu finden, kannst du sie durch Aktivieren der Schaltfläche "Hervorheben" hervorheben.
+“Elemente müssen einen ausreichenden Farbkontrast aufweisen“. Die meisten schwerwiegenden Probleme standen im Zusammenhang mit dem Farbkontrast. Um die Fehler auf der Webseite leicht zu finden, kannst du sie durch Aktivieren der Schaltfläche „Hervorheben“ hervorheben.
 
 ![](/assets/blog/en/accessibility-testing-one/image-2.png)
 
@@ -46,7 +46,7 @@ Menschen mit Sehschwäche können aufgrund des schwachen Farbkontrasts Schwierig
 
 ### Primary color
 
-Dieser Button hat keinen ausreichenden Farbkontrast (blauer HEX-Farbwert von "#2FAFF5" auf weißem HEX-Farbwert "#FFFFFF"). Der WebAIM Color Contrast Checker zeigt, dass das Kontrastverhältnis nur **2.45:1** beträgt, was ziemlich niedrig ist. Um WCAG2.1 AA zu erfüllen, muss das Kontrastverhältnis mindestens **4.5:1** betragen. Um dieses Verhältnis zu erreichen, müsste das Blau auf eine Helligkeit von 32 % reduziert werden.
+Dieser Button hat keinen ausreichenden Farbkontrast (blauer HEX-Farbwert von `#2FAFF5` auf weißem HEX-Farbwert `#FFFFFF`). Der WebAIM Color Contrast Checker zeigt, dass das Kontrastverhältnis nur **2.45:1** beträgt, was ziemlich niedrig ist. Um WCAG2.1 AA zu erfüllen, muss das Kontrastverhältnis mindestens **4.5:1** betragen. Um dieses Verhältnis zu erreichen, müsste das Blau auf eine Helligkeit von 32 % reduziert werden.
 
 ![](/assets/blog/en/accessibility-testing-one/image-3.png)
 
@@ -64,7 +64,7 @@ Das Grau (`#737373`) selbst würde mit einem Kontrastverhältnis von **8,59:1** 
 
 Wenn du die Primärfarbe oder die Textfarbe in eine dunklere Farbe änderst und die Deckkraft aufhebst, ist dieses Problem gelöst.
 
-## Element muss ein "lang" Attribut haben
+## Element muss ein `lang` Attribut haben
 
 Es ist wichtig, dass eine Standardsprache eingestellt ist. Andernfalls verwenden Bildschirmlesegeräte die vom Betriebssystem gewählte Sprache, was ziemlich schrecklich und unverständlich klingen kann, wenn du beispielsweise ein deutsches Wort auf Französisch aussprichst, was der Benutzer des Bildschirmlesegeräts vielleicht nicht erwartet.
 
