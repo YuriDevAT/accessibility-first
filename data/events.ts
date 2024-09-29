@@ -4,8 +4,42 @@ import {
   GiPublicSpeaker,
   GiVideoConference,
 } from 'react-icons/gi';
+import { MdOutlinePodcasts } from 'react-icons/md';
 
 export const events: Event[] = [
+  {
+    title: 'Testing for Web Accessibility',
+    icon: GiPublicSpeaker,
+    speaker: 'Julia',
+    date: 'March 04, 2025',
+    type: 'Talk',
+    location: 'TestBusters',
+  },
+  {
+    title:
+      'Unsichtbare Stigmatisierung und ihr Einfluss auf die UX-Forschung für Barrierefreiheit',
+    icon: GiVideoConference,
+    speaker: 'Laura',
+    date: 'January 20, 2025',
+    type: 'Talk',
+    location: 'Technica11y',
+  },
+  {
+    title: 'Quincy Interviews: Julia Undeutsch',
+    icon: MdOutlinePodcasts,
+    speaker: 'Julia',
+    date: 'November 17, 2024',
+    type: 'Podcast',
+    location: 'FreeCodeCamp',
+  },
+  {
+    title: 'Laura Wissiak über Accessibility',
+    icon: MdOutlinePodcasts,
+    speaker: 'Laura',
+    date: 'November 15, 2024',
+    type: 'Podcast',
+    location: 'UX Heroes',
+  },
   {
     title: 'Accessibility in React Application',
     icon: GiPublicSpeaker,
