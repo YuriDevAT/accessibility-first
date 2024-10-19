@@ -17,7 +17,7 @@ export const events: Event[] = [
   },
   {
     title:
-      'Unsichtbare Stigmatisierung und ihr Einfluss auf die UX-Forschung für Barrierefreiheit',
+      'Unsichtbare Stigmen und ihr Einfluss auf die UX-Forschung für Barrierefreiheit',
     icon: GiVideoConference,
     speaker: 'Laura',
     date: 'January 20, 2025',
