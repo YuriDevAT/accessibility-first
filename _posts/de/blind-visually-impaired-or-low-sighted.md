@@ -41,7 +41,8 @@ Also ist **rechtliche Blindheit** eine Konvention zur Sehschärfe in Kombination
 
 > Wenn ich Leuten außerhalb des Barrierefreiheitsbereichs erkläre, was ich mache, gebe ich ihnen gerne folgendes als Referenz: Mit der bestmöglichen Brillenverschreibung könntest du nur den größten Buchstaben oben auf der Sehtafel erkennen.
 
-![Ein Beispiel für eine Snellen-Tafel, die üblicherweise für Sehschärfentests verwendet wird. Eine rote Linie markiert eine Sehschärfe von 20/20. Eine grüne Linie markiert die Sehschärfe 20/30.](/assets/blog/blind-visually-impaired-or-low-sighted/image-1.png)
+![Ein Beispiel für eine Snellen-Tafel, die üblicherweise für Sehschärfentests verwendet wird. Eine rote Linie markiert eine Sehschärfe von 20/20. Eine grüne Linie markiert die Sehschärfe 20/30.](/assets/blog/en/blind-visually-impaired-or-low-sighted/image-1.png)
+
 _Snellen Chart von Jeff Dahl - Eigenes Werk des Hochladers, Basierend auf dem öffentlichen Domain-Dokument: [1], CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=426220_
 
 Einige Menschen können Kontraste, Konturen und Farben erkennen - obwohl Farbenblindheit ein ganz anderes Thema ist - einige könnten eine trübe Sicht oder blinde Flecken haben, oder das genaue Gegenteil: ein sehr schmales Gesichtsfeld. Es gibt viele verschiedene medizinische Bedingungen, die zu Sehschärfeverlust führen. Einige entwickeln sich allmählich, wie **Retinitis pigmentosa**, aber einige können aus heiterem Himmel auftreten, wie \*PApoplexia papillae\*\*. Wenn dein Latein ein wenig eingerostet ist, keine Sorge: eines ist eine Nervensache und das andere wird durch unzureichende Blutversorgung des Sehnervs verursacht.
