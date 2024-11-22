@@ -15,7 +15,7 @@ const Alert = () => {
           <Container>
             <div className="text-center text-lg before:inline-block before:w-6 before:h-6 before:mr-2 before:exclamation">
               <p className="inline-block">
-                3 December is the International Day of Persons with
+                3 December is the International Day of Persons with Disabilities
                 #PositivelyPurple
               </p>
               <button
