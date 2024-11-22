@@ -16,7 +16,7 @@ const About = () => {
       <Container>
         <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left max-w-5xl">
           {t('welcome1')}
-          <span className="text-blue-800 dark:text-blue-500">
+          <span className="text-purple-500 dark:text-purple-200">
             {t('welcome2')}
           </span>
           {t('welcome3')}

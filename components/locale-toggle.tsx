@@ -15,7 +15,7 @@ const LocaleToggle = () => {
   return (
     <ul>
       {locales?.map((loc, index) => (
-        <li key={loc} className="inline-block mr-1">
+        <li key={loc} className="inline-block mr-1 text-purple-200">
           <Link
             href={asPath}
             locale={loc}

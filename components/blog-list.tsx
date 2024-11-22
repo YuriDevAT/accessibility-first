@@ -6,7 +6,7 @@ const BlogList = () => {
   const { t } = useTranslation('footer');
 
   return (
-    <ul className="underline" aria-labelledby="blog">
+    <ul className="" aria-labelledby="blog">
       {categories.map((category) => (
         <li key={category.key}>
           <Link

@@ -67,7 +67,7 @@ const DarkModeToggle = () => {
           aria-expanded="false"
           aria-controls="theme-menu"
           onClick={handleOpenSelect}
-          className="flex items-center before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode before:content-light dark:text-slate-200 focus:outline outline-inherit outline-offset-1"
+          className="flex items-center before:inline-block before:w-6 before:h-6 before:mr-2 dark:before:content-dark-mode before:content-light-mode focus:outline outline-inherit outline-offset-1 text-purple-200"
         >
           <span>
             <span className="sr-only">Change </span>

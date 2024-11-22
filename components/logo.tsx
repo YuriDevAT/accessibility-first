@@ -11,7 +11,7 @@ const Logo = () => {
         className="hidden dark:hidden xs:block w-12 h-12 ml-2 lg:w-32 lg:h-32 lg:ml-0"
       />
       <Image
-        src="/assets/logo-dark.png"
+        src="/assets/logo-light.png"
         alt=""
         width="125"
         height="125"

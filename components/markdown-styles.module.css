@@ -21,12 +21,13 @@
   @apply underline;
 }
 
-.markdown a:focus {
-  @apply outline-slate-950;
+.markdown a:focus,
+.markdown a:focus-visible {
+  @apply outline-purple-500 outline-2 outline;
 }
 
 .markdown blockquote {
-  @apply border-l-4 pl-6 border-l-stone-950;
+  @apply border-l-4 pl-6 border-l-purple-500;
 }
 
 .markdown code {

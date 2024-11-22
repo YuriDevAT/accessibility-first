@@ -11,15 +11,16 @@ const Alert = () => {
   return (
     <>
       {isVisible && (
-        <div className="p-4 bg-yellow-100/80 text-yellow-700">
+        <div className="p-4 bg-purple-100/80 text-purple-500">
           <Container>
-            <div className="text-center text-sm before:inline-block before:w-6 before:h-6 before:mr-2 before:exclamation">
-              Currently working on{' '}
-              <span className="font-medium">version 1.0</span> for a better user
-              experience.{' '}
+            <div className="text-center text-lg before:inline-block before:w-6 before:h-6 before:mr-2 before:exclamation">
+              <p className="inline-block">
+                3 December is the International Day of Persons with
+                #PositivelyPurple
+              </p>
               <button
                 type="button"
-                className="font-bold underline"
+                className="font-bold underline inline-block ml-2"
                 onClick={onDismiss}
               >
                 Dismiss

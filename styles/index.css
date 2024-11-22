@@ -4,18 +4,18 @@
 
 h1,
 h2 {
-  @apply dark:text-slate-200 font-title;
+  @apply text-purple-500 dark:text-purple-200 font-title;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  @apply dark:text-slate-200 font-headingSemi;
+  @apply text-purple-500 dark:text-purple-200 font-headingSemi;
 }
 
 a {
-  @apply dark:text-slate-200;
+  @apply text-purple-500 dark:text-purple-200;
 }
 
 main a {
@@ -28,15 +28,24 @@ h3 a {
 }
 
 footer h3 {
-  @apply dark:text-slate-400;
+  @apply text-purple-200;
+}
+
+footer a {
+  @apply text-purple-200 no-underline;
 }
 
 blockquote {
-  @apply dark:border-l-slate-400 !important;
+  @apply dark:border-l-purple-200 !important;
+}
+
+.markdown-styles_markdown__HwUWZ a:focus,
+.markdown-styles_markdown__HwUWZ a:focus-visible {
+  @apply dark:outline dark:outline-2 dark:outline-purple-200 !important;
 }
 
 code {
-  @apply dark:bg-slate-200 dark:text-slate-800;
+  @apply dark:bg-purple-200 dark:text-purple-500;
 }
 
 @tailwind components;
