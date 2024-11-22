@@ -1,3 +1,4 @@
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import Alert from './alert';
 import Footer from './footer';
 import Meta from './meta';
@@ -11,6 +12,7 @@ type Props = {
 const Layout = ({ children }: Props) => {
   return (
     <>
+      <SpeedInsights />
       <Meta />
       <SkipLink />
       <Alert />
