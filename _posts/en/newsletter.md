@@ -17,7 +17,7 @@ readingTime: 2
 
 There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why I send out (approximately) monthly newsletters about upcoming events in web accessibility.
 
-[Subscribe to newsletter!](https://laurawissiak.substack.com/subscribe)
+[Subscribe to newsletter!](https://a11ynews.substack.com/subscribe)
 
 ## Gatekeeping is the exact opposite of accessibility!
 
@@ -33,6 +33,6 @@ My newsletters will include upcoming events in web accessibility. Of course, for
 
 To make up for this bias, I will also include any timeless resources I come across. And trust me, there are a lot! Courses, certifications, and my personal favorite: influencers who blog about their disabilities and point out cool accessible things and unexpected inaccessible everyday experiences.
 
-[Subscribe to newsletter!](https://laurawissiak.substack.com/subscribe)
+[Subscribe to newsletter!](https://a11ynews.substack.com/subscribe)
 
-Missed a newsletter? I got you covered. [Read previous newsletter.](https://laurawissiak.substack.com/)
+Missed a newsletter? I got you covered. [Read previous newsletter.](https://a11ynews.substack.com/)
