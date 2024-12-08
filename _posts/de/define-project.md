@@ -17,7 +17,7 @@ readingTime: 5
 
 Define steht für **D**igital **E**quipment **F**or **In**clusive **E**mpowerment. Die Mission dahinter ist nicht nur, kostengünstige Hilfstechnologien auf den Markt zu bringen, sondern auch die digitale Kompetenz im Prozess zu verbessern. Braille-Tastaturen sind keine grundsätzlich neue Idee. Aber Define verfolgt einen praktischen Ansatz im gesamten Prozess, und das macht es meiner Meinung nach besonders.
 
-![Julia hält eine schwarze Version der Meta Braille-Tastatur.](/assets/blog/define-project/image-1.jpg)
+![Julia hält eine schwarze Version der Meta Braille-Tastatur.](/assets/blog/en/define-project/image-1.jpg)
 _Julia hält eine schwarze Version der Meta Braille-Tastatur._
 
 ## Benutzergeführte Co-Kreation
@@ -30,7 +30,7 @@ Deshalb hat das Define-Projekt eine Lösung dafür entwickelt: Anstatt die Konta
 
 Durch diese Workshops sind insgesamt 8 MetaBraille-Tastaturen entstanden. Klingt nicht nach viel? Nun, bedenke, dass der 3D-Druck jeder Hälfte des Tastaturgehäuses etwa 4 Stunden dauert, wenn der Druckprozess reibungslos verläuft! Denn manchmal machen 3D-Drucker Streiche und rutschen beim Drucken ein wenig zur Seite. Das Ergebnis ist ein falsch ausgerichteter, unbrauchbarer Druck. Wenn du also selbst eine machen möchtest, sei dir bewusst, dass es eine Weile dauern kann.
 
-![3 Pläne für den Tastaturaufbau liegen auf dem Tisch. Jeder ist mit Englisch und Braille beschriftet. Oben rechts befindet sich ein Tastaturgehäuse, ein Batteriepack und Tastenteile.](/assets/blog/define-project/image-2.jpg)
+![3 Pläne für den Tastaturaufbau liegen auf dem Tisch. Jeder ist mit Englisch und Braille beschriftet. Oben rechts befindet sich ein Tastaturgehäuse, ein Batteriepack und Tastenteile.](/assets/blog/en/define-project/image-2.jpg)
 _3 Pläne für den Tastaturaufbau liegen auf dem Tisch. Jeder ist mit Englisch und Braille beschriftet. Oben rechts befindet sich ein Tastaturgehäuse, ein Batteriepack und Tastenteile. Leider fehlt mir das technische Fachwissen, um genau zu erklären, was wir hier sehen. Wenn du dich besser damit auskennst, erklär es mir bitte!_
 
 ## Wie funktionieren Braille-Tastaturen?
@@ -41,7 +41,7 @@ Die Tastatur heißt MetaBraille. Sie erhielt ihren Namen vom [MakerSpace MetaLab
 
 Braille ist ein Alphabet, bei dem jeder Buchstabe auf ein 2 mal 3 Raster passt. Du merkst dir die Buchstaben anhand ihrer Punktmuster. Braille mit den Fingern zu lesen funktioniert, indem du das Punktmuster als bestimmten Buchstaben identifizierst. Beim Tippen ist es umgekehrt: Du tippst das Punktmuster eines Buchstabens, indem du die Tasten im entsprechenden Muster drückst. Braille zu lernen ist wie das Lernen eines anderen Alphabets, die Buchstaben nehmen einfach neue Formen an!
 
-![Eine grüne Platine mit einem ESP32S3-Prozessor darauf. Dieser Prozessor übersetzt das Braille-Alphabet in das lateinische Alphabet, bevor es an das Gerät übertragen wird, mit dem die Tastatur gekoppelt ist.](/assets/blog/define-project/image-3.jpg)
+![Eine grüne Platine mit einem ESP32S3-Prozessor darauf. Dieser Prozessor übersetzt das Braille-Alphabet in das lateinische Alphabet, bevor es an das Gerät übertragen wird, mit dem die Tastatur gekoppelt ist.](/assets/blog/en/define-project/image-3.jpg)
 _Eine grüne Platine mit einem ESP32S3-Prozessor darauf. Dieser Prozessor übersetzt das Braille-Alphabet in das lateinische Alphabet, bevor es an das Gerät übertragen wird, mit dem die Tastatur gekoppelt ist._
 
 ### Wie interagieren sie mit einer Website?
@@ -56,7 +56,7 @@ Aber weißt du, was das bedeutet? Es ist Zeit, die Grundlagen der Tastaturnaviga
 
 Braille-Tastaturen werden normalerweise zusammen mit Screenreader-Software verwendet. Wenn du also möchtest, dass deine Website oder App gut mit Braille-Tastaturen funktioniert, musst du auch Dinge wie Alt-Texte und HTML-Tags für sinnvolle Überschriftenstrukturen und Markierungen überprüfen, wie z. B. das Definieren des Headers, Mains und Footers. Screenreader und Tastaturnavigation gehen Hand in Hand (oder Software-in-Hardware?), also lernst du beim einen auch etwas über das andere. Die [Mozilla Developer Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Keyboard) sind meiner Meinung nach ein großartiger Ausgangspunkt, am besten gepaart mit Learning by Doing, indem du die Tastaturnavigation durch deinen User-Flow manuell testest.
 
-![Laura probiert die MetaBraille mit Hilfe der Braille-Tabellen auf dem Schreibtisch aus. Es dauert eine Weile, sich daran zu gewöhnen, aber es geht überraschend schnell!](/assets/blog/define-project/image-4.png)
+![Laura probiert die MetaBraille mit Hilfe der Braille-Tabellen auf dem Schreibtisch aus. Es dauert eine Weile, sich daran zu gewöhnen, aber es geht überraschend schnell!](/assets/blog/en/define-project/image-4.png)
 _Laura probiert die MetaBraille mit Hilfe der Braille-Tabellen auf dem Schreibtisch aus. Es dauert eine Weile, sich daran zu gewöhnen, aber es geht überraschend schnell!_
 
 ---

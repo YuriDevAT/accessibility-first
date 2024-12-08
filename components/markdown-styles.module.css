@@ -44,3 +44,7 @@
 .markdown ul {
   @apply list-disc list-inside ml-4;
 }
+
+.markdown img {
+  @apply font-mono text-sm;
+}

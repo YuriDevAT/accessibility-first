@@ -17,7 +17,7 @@ readingTime: 2
 
 Es gibt viele Ressourcen und Veranstaltungen, die außerhalb der Online-Accessibility-Bubble schwer zu finden sind. Gatekeeping ist das genaue Gegenteil von Barrierefreiheit, weshalb ich (ungefähr) monatlich Newsletter über bevorstehende Veranstaltungen zur Barrierefreiheit im Web verschicke.
 
-[Newsletter abonnieren!](https://laurawissiak.substack.com/subscribe)
+[Newsletter abonnieren!](https://a11ynews.substack.com/subscribe)
 
 ## Gatekeeping ist das genaue Gegenteil von Barrierefreiheit!
 
@@ -33,6 +33,6 @@ Meine Newsletter werden bevorstehende Veranstaltungen zur Barrierefreiheit im We
 
 Um dieses Bias auszugleichen, werde ich auch zeitlose Ressourcen einbeziehen, die ich finde. Und glaub mir, es gibt viele! Kurse, Zertifizierungen und mein persönlicher Favorit: Influencer, die über ihre Behinderungen bloggen und coole barrierefreie Dinge sowie unerwartet unzugängliche Alltagserfahrungen aufzeigen.
 
-[Newsletter abonnieren!](https://laurawissiak.substack.com/subscribe)
+[Newsletter abonnieren!](https://a11ynews.substack.com/subscribe)
 
-Einen Newsletter verpasst? Kein Problem. [Frühere Newsletter lesen.](https://laurawissiak.substack.com/)
+Einen Newsletter verpasst? Kein Problem. [Frühere Newsletter lesen.](https://a11ynews.substack.com//)

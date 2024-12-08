@@ -28,9 +28,17 @@ export const events: Event[] = [
     title: 'Quincy Interviews: Julia Undeutsch',
     icon: MdOutlinePodcasts,
     speaker: 'Julia',
-    date: 'November 17, 2024',
+    date: 'January 16, 2025',
     type: 'Podcast',
     location: 'FreeCodeCamp',
+  },
+  {
+    title: 'Accessibility in React Application',
+    icon: GiVideoConference,
+    speaker: 'Julia',
+    date: 'November 20, 2024',
+    type: 'Talk',
+    location: 'WeAreDevelopers Live',
   },
   {
     title: 'Laura Wissiak über Accessibility',
