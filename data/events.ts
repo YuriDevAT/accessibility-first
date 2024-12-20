@@ -11,9 +11,17 @@ export const events: Event[] = [
     title: 'Testing for Web Accessibility',
     icon: GiPublicSpeaker,
     speaker: 'Julia',
-    date: 'March 04, 2025',
+    date: 'January 22, 2025',
     type: 'Talk',
     location: 'TestBusters',
+  },
+  {
+    title: 'What is Accessibility?',
+    icon: GiPublicSpeaker,
+    speaker: 'Julia',
+    date: 'January 22, 2025',
+    type: 'Interview',
+    location: 'Atos IT Solutions',
   },
   {
     title:
