@@ -21,7 +21,7 @@ export const events: Event[] = [
     speaker: 'Julia',
     date: 'January 22, 2025',
     type: 'Interview',
-    location: 'Atos IT Solutions',
+    location: 'Atos Technologies Austria',
   },
   {
     title:
