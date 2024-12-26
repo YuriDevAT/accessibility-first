@@ -1,0 +1,11 @@
+{
+  "label": "Kategorie",
+  "categories": {
+    "accessibility": "Barrierefreiheit",
+    "uxResearch": "UX-Forschung",
+    "uxDesign": "UX-Design",
+    "webDevelopment": "Webentwicklung",
+    "qaTesting": "QA-Tests",
+    "documents": "Dokumente & Soziale Medien"
+  }
+}

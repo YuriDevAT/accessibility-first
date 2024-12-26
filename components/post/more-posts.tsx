@@ -1,6 +1,6 @@
 import useTranslation from 'next-translate/useTranslation';
 import PostPreview from './post-preview';
-import type Post from '../interfaces/post';
+import type Post from '../../interfaces/post';
 import Link from 'next/link';
 
 type Props = {
