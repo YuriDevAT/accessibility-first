@@ -1,0 +1,9 @@
+{
+  "label": "Main",
+  "links": {
+    "news": "News",
+    "about": "Über uns",
+    "team": "Team",
+    "events": "Events"
+  }
+}
