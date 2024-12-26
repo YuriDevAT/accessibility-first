@@ -4,7 +4,7 @@ import SecondNav from './second-nav';
 import MainNav from './main-nav';
 import MobileNav from './mobile-nav';
 import MobileMenuButton from './mobile-button';
-import LocaleToggle from '../locale-toggle';
+import LocaleToggle from './locale-toggle';
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -18,8 +18,8 @@ const Header = () => {
       <div className="container mx-auto px-5">
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center">
-            <div className="text-2xl mr-6 font-bold tracking-tighter leading-tight">
-              <Link href="/" aria-label="Homepage" className="focus:outline outline-inherit outline-offset-1">
+            <div className="text-xl mr-6 font-medium tracking-tighter leading-tight">
+              <Link href="/" aria-label="Homepage" className="focus:outline outline-inherit outline-offset-1 font-title">
                 Accessibility First
               </Link>
             </div>

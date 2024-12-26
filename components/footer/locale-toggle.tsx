@@ -5,26 +5,25 @@ type LocaleCode = 'en' | 'de' | 'ja';
 
 const languageNames: Record<LocaleCode, string> = {
   en: 'English',
-  de: 'German',
-  ja: 'Japanese',
+  de: 'Deutsch',
+  ja: '日本語',
 };
 
 const LocaleToggle = () => {
   const { locales, asPath, locale: currentLocale } = useRouter();
 
   return (
-    <ul>
-      {locales?.map((loc, index) => (
-        <li key={loc} className="inline-block mr-1">
+    <ul aria-labelledby="languages">
+      {locales?.map((loc) => (
+        <li key={loc} className="block mb-3 focus:outline outline-inherit outline-offset-1">
           <Link
             href={asPath}
             locale={loc}
+            scroll={false}
             className={`${currentLocale === loc ? 'underline' : ''} focus:outline outline-inherit outline-offset-1`}
           >
-            <span className="sr-only">{languageNames[loc as LocaleCode]}</span>
-            <span aria-hidden>{loc.toUpperCase()}</span>
+            <span lang={loc}>{languageNames[loc as LocaleCode]}</span>
           </Link>
-          {index < locales.length - 1 && ' | '}
         </li>
       ))}
     </ul>

@@ -1,12 +1,10 @@
 import useTranslation from 'next-translate/useTranslation';
 import Link from 'next/link';
-import Container from './container';
+import Container from '../container';
 import { CopyRight } from './copyright';
-import { BugReport } from './bug-report';
-
 import BlogList from './blog-list';
 import SocialsList from './socials-list';
-import Logo from './logo';
+import Logo from '../logo';
 import OrganizationList from './organization-list';
 import LocaleToggle from './locale-toggle';
 
@@ -46,17 +44,10 @@ const Footer = () => {
             <SocialsList />
           </div>
           <div className="pr-4 lg:pl-6 lg:pr-0 mb-10 sm:mb-2 w-1/2 sm:w-1/4 lg:w-1/6">
-            <h3 className="font-semibold mb-3 uppercase" id="settings">
+            <h3 className="font-semibold mb-3 uppercase" id="languages">
               {t('h3-4')}
             </h3>
-            <ul aria-labelledby="settings">
-              <li>
-                <BugReport />
-              </li>
-              <li>
-                <LocaleToggle />
-              </li>
-            </ul>
+            <LocaleToggle />
           </div>
         </div>
         <CopyRight />
