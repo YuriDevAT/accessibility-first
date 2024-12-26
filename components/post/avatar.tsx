@@ -11,7 +11,7 @@ const Avatar = ({ name, picture }: Props) => {
       <Image
         src={picture}
         className="w-12 h-12 rounded-full mr-4 object-cover"
-        alt={name}
+        alt=""
         width="150"
         height="150"
       />

@@ -24,7 +24,7 @@ const Team = () => {
               <Image
                 className="h-64 w-64 rounded-full block object-cover"
                 src="/assets/authors/julia.jpg"
-                alt="Julia Undeutsch"
+                alt="Julia at ReactJS conference Berlin 2023, wearing glasses, dark brown middle long hair, smiling into the audience. She is wearing a black sweater with the accessibility first logo."
                 width="49"
                 height="49"
               />
@@ -60,7 +60,7 @@ const Team = () => {
               <Image
                 className="h-64 w-64 rounded-full"
                 src="/assets/authors/laura.jpg"
-                alt=""
+                alt="Laura has shoulder long brown curly hair tied to the back, wearing round golden glasses and is smiling directly into the camera."
                 width="49"
                 height="49"
               />
