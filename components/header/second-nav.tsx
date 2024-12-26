@@ -6,11 +6,11 @@ const SecondNav = () => {
   const { t } = useTranslation('second-navigation');
 
   return (
-    <nav className="hidden md:block">
+    <nav className="hidden md:block" aria-labelledby="second-nav">
       <h2 className="sr-only" id="second-nav">
         {t(`label`)}
       </h2>
-      <ul className="flex justify-between text-center" aria-labelledby="second-nav">
+      <ul className="flex justify-between text-center">
         {navCategories.map((item) => (
           <li key={item.key}>
             <Link

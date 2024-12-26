@@ -6,11 +6,11 @@ const MainNav = () => {
   const { t } = useTranslation('main-navigation');
 
   return (
-    <nav className="hidden md:flex">
+    <nav className="hidden md:flex" aria-labelledby="nav">
       <h2 className="sr-only" id="nav">
         {t(`label`)}
       </h2>
-      <ul className="flex space-x-4 items-center" aria-labelledby="nav">
+      <ul className="flex space-x-4 items-center">
         {nav.map((item) => (
           <li key={item.key}>
             <Link
