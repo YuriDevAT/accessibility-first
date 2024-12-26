@@ -2,6 +2,7 @@ import type { Config } from 'tailwindcss';
 import defaultTheme from 'tailwindcss/defaultTheme';
 
 const config: Config = {
+  darkMode: 'media',
   content: [
     './app/**/*.{js,ts,jsx,tsx,mdx}',
     './pages/**/*.{js,ts,jsx,tsx,mdx}',
@@ -51,11 +52,6 @@ const config: Config = {
       content: {
         bug: 'url("/assets/icons/bug.svg")',
         'bug-dark': 'url("/assets/icons/bug-dark.svg")',
-        dark: 'url("/assets/icons/moon.svg")',
-        'dark-mode': 'url("/assets/icons/moon-dark.svg")',
-        light: 'url("/assets/icons/sun.svg")',
-        'light-mode': 'url("/assets/icons/sun-dark.svg")',
-        system: 'url("/assets/icons/system.svg")',
         exclamation: 'url("/assets/icons/exclamation.svg")',
       },
       fontFamily: {
@@ -76,7 +72,6 @@ const config: Config = {
       },
     },
   },
-  darkMode: 'class',
   plugins: [],
 };
 

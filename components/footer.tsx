@@ -1,7 +1,6 @@
 import useTranslation from 'next-translate/useTranslation';
 import Link from 'next/link';
 import Container from './container';
-import DarkModeToggle from './dark-mode-toggle';
 import { CopyRight } from './copyright';
 import { BugReport } from './bug-report';
 
@@ -51,9 +50,6 @@ const Footer = () => {
               {t('h3-4')}
             </h3>
             <ul aria-labelledby="settings">
-              <li className="mb-3">
-                <DarkModeToggle />
-              </li>
               <li>
                 <BugReport />
               </li>
