@@ -35,7 +35,7 @@ const LocaleToggle = () => {
         aria-haspopup="menu"
         aria-expanded={isOpen}
         aria-controls="menu"
-        aria-label={`Select Language. ${languageNames[currentLocale as LocaleCode]} selected.`}
+        aria-label={`Select Language. ${currentLocale === 'ja' ? 'nihongo' : languageNames[currentLocale as LocaleCode]} selected.`}
       >
         {languageNames[currentLocale as LocaleCode]}
       </button>

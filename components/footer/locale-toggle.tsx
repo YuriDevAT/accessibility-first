@@ -15,7 +15,7 @@ const LocaleToggle = () => {
   const [announcement, setAnnouncement] = useState('');
 
   const handleLanguageSwitch = (loc: LocaleCode) => {
-    setAnnouncement(`Language switched to ${languageNames[loc]}`);
+    setAnnouncement(`Language switched to ${loc === 'ja' ? 'nihongo' : languageNames[loc as LocaleCode]}`);
   };
 
   return (
