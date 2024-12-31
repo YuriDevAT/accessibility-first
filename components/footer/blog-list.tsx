@@ -1,19 +1,19 @@
 import Link from 'next/link';
 import useTranslation from 'next-translate/useTranslation';
-import { socials } from '../data/socials';
+import { categories } from '../../data/categories';
 
-const SocialsList = () => {
+const BlogList = () => {
   const { t } = useTranslation('footer');
 
   return (
-    <ul className="underline" aria-labelledby="socials">
-      {socials.map((item) => (
-        <li key={item.key}>
+    <ul aria-labelledby="blog">
+      {categories.map((category) => (
+        <li key={category.key}>
           <Link
-            href={item.path}
+            href={category.path}
             className="block mb-3 focus:outline outline-inherit outline-offset-1"
           >
-            {t(`socials.${item.key}`)}
+            {t(`categories.${category.key}`)}
           </Link>
         </li>
       ))}
@@ -21,4 +21,4 @@ const SocialsList = () => {
   );
 };
 
-export default SocialsList;
+export default BlogList;

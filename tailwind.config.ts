@@ -53,6 +53,8 @@ const config: Config = {
         bug: 'url("/assets/icons/bug.svg")',
         'bug-dark': 'url("/assets/icons/bug-dark.svg")',
         exclamation: 'url("/assets/icons/exclamation.svg")',
+        language: 'url("/assets/icons/language.svg")',
+        'language-dark': 'url("/assets/icons/language-dark.svg")',
       },
       fontFamily: {
         title: ['var(--font-openSauceBlack)', 'sans-serif'],
