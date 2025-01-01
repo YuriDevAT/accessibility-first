@@ -2,7 +2,6 @@ import Script from 'next/script';
 import Container from '../components/container';
 import MorePosts from '../components/post/more-posts';
 import HeroPost from '../components/post/hero-post';
-import Intro from '../components/intro';
 import Layout from '../components/layout';
 import { getAllPosts } from '../lib/api';
 import Head from 'next/head';
@@ -38,7 +37,6 @@ export default function Index({ allPosts }: Props) {
           <title>Accessibility First</title>
         </Head>
         <Container>
-          <Intro />
           {heroPost && (
             <HeroPost
               title={heroPost.title}

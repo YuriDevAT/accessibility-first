@@ -9,7 +9,7 @@ const ReadingTime = ({ time }: Props) => {
   const { t } = useTranslation('reading-time');
 
   return (
-    <p>
+    <p className="inline-block">
       {time}{t('p1')}{t('p2')}
     </p>
   );
