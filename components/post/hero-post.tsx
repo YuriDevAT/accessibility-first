@@ -4,6 +4,7 @@ import CoverImage from './cover-image';
 import Link from 'next/link';
 import type Author from '../../interfaces/author';
 import ReadingTime from './reading-time';
+import Category from './category';
 
 type PostProps = {
   title: string;
@@ -34,11 +35,12 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
   } = heroPost;
 
   return (
-    <section className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 gap-y-20 md:gap-y-28 mb-32">
+    <section className="grid grid-cols-1 lg:grid-cols-2 lg:gap-x-16 gap-y-20 lg:gap-y-28 mb-32">
       <div>
         <div className="mb-8">
           <CoverImage title={title} src={coverImage} slug={slug} />
         </div>
+        <Category category={category} />
         <h2 className="mb-4 text-4xl lg:text-5xl leading-tight">
           <Link
             as={`/posts/${slug}`}
@@ -48,21 +50,22 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
             {title}
           </Link>
         </h2>
-        <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+        <p className="text-lg leading-relaxed mb-4">{excerpt} <ReadingTime time={readingTime} /></p>
         <div className="flex items-center">
           <Avatar name={author.name} picture={author.picture} />  
           <p className="ml-4 text-lg font-mono font-light dark:text-slate-200">
-            <DateFormatter dateString={date} />
+            · <DateFormatter dateString={date} />
           </p>
         </div>
       </div>
       <div className="flex flex-col gap-8">
         {otherPosts.map((post) => (
-          <div key={post.slug} className="grid grid-cols-1 md:grid-cols-[auto,1fr] md:gap-x-4 gap-y-2 border-slate-500 border-b last:border-b-0">
+          <div key={post.slug} className="grid grid-cols-1 md:grid-cols-[auto,1fr] md:gap-x-4 gap-y-2 border-slate-500 border-b last:border-b-0 pb-2">
             <div className="mb-5 h-44 w-44 bg-red-200">
               <CoverImage slug={post.slug} title={post.title} src={post.coverImage} />
             </div>
             <div className="mb-6">
+              <Category category={post.category} />
               <h2 className="text-xl mb-3 leading-snug">
                 <Link
                   as={`/posts/${post.slug}`}
@@ -72,11 +75,13 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
                   {post.title}
                 </Link>
               </h2>
-              <div className="text-sm font-mono mb-2 text-gray-500 dark:text-slate-400">
-                <DateFormatter dateString={post.date} /> · <ReadingTime time={readingTime} />
+              <p className="text-lg leading-relaxed mb-4">{post.excerpt} <ReadingTime time={readingTime} /></p>
+              <div className="flex items-center flex-wrap">
+                <Avatar name={author.name} picture={author.picture} />  
+                <p className="ml-4 text-lg font-mono font-light dark:text-slate-200">
+                · <DateFormatter dateString={date} />
+              </p>
               </div>
-              <p className="text-lg leading-relaxed mb-4">{post.excerpt}</p>
-              <Avatar name={author.name} picture={author.picture} />  
             </div>
           </div>
         ))}

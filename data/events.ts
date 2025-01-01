@@ -10,7 +10,7 @@ export const events: Event[] = [
   {
     title: 'Testing for Web Accessibility',
     icon: GiPublicSpeaker,
-    speaker: 'Julia',
+    speaker: 'Laura',
     date: 'January 22, 2025',
     type: 'Talk',
     location: 'TestBusters',

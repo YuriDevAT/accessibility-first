@@ -18,6 +18,7 @@ const PostGrid = ({ posts }: Props) => {
             author={post.author}
             slug={post.slug}
             excerpt={post.excerpt}
+            readingTime={post.readingTime}
           />
         ))}
       </div>
