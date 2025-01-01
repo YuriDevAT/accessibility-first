@@ -1,6 +1,6 @@
 ---
 title: 'Myths and Misconceptions about Accessibility'
-excerpt: 'In this article, I will address common myths about and objections to accessibility by presenting evidence and examples that debunk them and support reasons for accessibility....'
+excerpt: 'In this article, I will address common myths about and objections to accessibility by presenting evidence and examples that debunk them and support reasons for accessibility ...'
 coverImage: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
 date: '2022-07-10T05:35:07.322Z'
 tags: 'Blog'

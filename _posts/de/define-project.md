@@ -1,6 +1,6 @@
 ---
 title: 'Define project'
-excerpt: 'Am 10. Oktober haben wir an der Präsentation des DEFINE-Projekts teilgenommen. Define steht für Digital Equipment For Inclusive Empowerment. Dahinter verbirgt sich nicht nur das Ziel, kostengünstige technische Hilfsmittel auf den Markt zu bringen, sondern auch die digitale Kompetenz zu verbessern ... '
+excerpt: 'Am 10. Oktober haben wir an der Präsentation des DEFINE-Projekts teilgenommen. Define steht für Digital Equipment For Inclusive Empowerment. Dahinter verbirgt sich nicht nur das Ziel, kostengünstige technische Hilfsmittel auf den Markt zu bringen, sondern auch die digitale Kompetenz zu verbessern ...'
 coverImage: '/assets/blog/en/define-project/cover.png'
 date: '2023-10-22T11:35:07.322Z'
 tags: 'Blog'

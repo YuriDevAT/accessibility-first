@@ -1,6 +1,6 @@
 ---
 title: 'Monthly a11y newsletter'
-excerpt: 'There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why I send out (approximately) monthly newsletters about upcoming events in web accessibility...'
+excerpt: 'There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why I send out (approximately) monthly newsletters about upcoming events in web accessibility ...'
 coverImage: '/assets/blog/en/newsletter/cover.png'
 date: '2024-01-22T11:35:07.322Z'
 tags: 'Blog'

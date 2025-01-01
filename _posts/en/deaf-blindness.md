@@ -1,6 +1,6 @@
 ---
 title: 'Deaf blindness'
-excerpt: 'When you hear the word deaf-blind, you might think “How do you communicate then?” And if you have ever studied anything related to communication, I’m sure your old professor is haunting you right now with Paul Watzlawick’s “One cannot not communicate” with that uuh spooky echo uuuh...'
+excerpt: 'When you hear the word deaf-blind, you might think “How do you communicate then?” And if you have ever studied anything related to communication, I’m sure your old professor is haunting you right now with Paul Watzlawick’s “One cannot not communicate” with that uuh spooky echo uuuh ...'
 coverImage: '/assets/blog/en/deaf-blindness/cover.png'
 date: '2023-09-21T10:35:07.322Z'
 tags: 'Blog'

@@ -1,6 +1,6 @@
 ---
 title: 'Define project'
-excerpt: 'On October 10, we took part in the presentation of the DEFINE project. Define stands for Digital Equipment For Inclusive Empowerment. The mission behind it is not only to bring low-cost assistive tech to the market but also to improve digital literacy in the process... '
+excerpt: 'On October 10, we took part in the presentation of the DEFINE project. Define stands for Digital Equipment For Inclusive Empowerment. The mission behind it is not only to bring low-cost assistive tech to the market but also to improve digital literacy in the process ...'
 coverImage: '/assets/blog/en/define-project/cover.png'
 date: '2023-10-22T11:35:07.322Z'
 tags: 'Blog'

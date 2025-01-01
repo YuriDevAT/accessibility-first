@@ -1,6 +1,6 @@
 ---
 title: 'しかし、社内のソフトウェアについてはどうでしょうか？'
-excerpt: 'European Accessibility Act（EAA）に対するパニックが高まる中、私は、社内ツールやSaaS製品に携わっているため、EAAは自分たちには適用されないと ...'
+excerpt: 'European Accessibility Act（EAA）に対するパニックが高まる中、私は、社内ツールやSaaS製品に携わっているため、EAAは自分たちには適用されないと。。。'
 coverImage: '/assets/blog/en/but-what-about-internal-software/cover.png'
 date: '2024-06-21T10:35:07.322Z'
 tags: 'Blog'

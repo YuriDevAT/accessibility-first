@@ -1,6 +1,6 @@
 ---
 title: 'Accessibility Testing Part 1'
-excerpt: 'Today I’m starting my very first accessibility check. I’ll be auditing websites to see how well they implement accessibility and pointing out the problems and items that need improvement...'
+excerpt: 'Today I’m starting my very first accessibility check. I’ll be auditing websites to see how well they implement accessibility and pointing out the problems and items that need improvement ...'
 coverImage: '/assets/blog/en/accessibility-testing-part-one/cover.png'
 date: '2022-07-30T05:35:07.322Z'
 tags: 'Blog'

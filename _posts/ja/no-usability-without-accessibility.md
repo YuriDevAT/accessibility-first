@@ -1,6 +1,6 @@
 ---
 title: 'アクセシビリティなくしてユーザビリティなし - ユーザビリティとアクセシビリティの共通点と相違点'
-excerpt: 'Usability and accessibility are closely related aspects of web development. Some mistakenly think that these two terms are interchangeable, even though they are different, their goals, approaches, and guidelines can overlap significantly, and one (accessibility) can exist without the other (usability)...'
+excerpt: 'ユーザビリティとアクセシビリティは、Web開発において密接に関連しています。この2つの用語は異なるにもかかわらず、その目標、アプローチ、およびガイドラインは大きく重複することがあり、片方（アクセシビリティ）。。。'
 coverImage: '/assets/blog/en/no-usability-without-accessibility/cover.png'
 date: '2024-11-14T09:35:07.322Z'
 tags: 'Blog'
