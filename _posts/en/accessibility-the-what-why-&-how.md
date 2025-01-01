@@ -1,7 +1,7 @@
 ---
 title: 'Accessibility: The What, Why & How'
 excerpt: 'Web accessibility has fortunately been getting more and more attention lately. But many people still don’t know what web accessibility actually is and why it’s so important. Let’s get an overall understanding on accessibility by introducing you to this topic ...'
-coverImage: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
+coverImage: '/assets/cover/accessibility-the-what-why-&-how/cover.png'
 date: '2022-10-09T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
+  url: '/assets/cover/accessibility-the-what-why-&-how/cover.png'
 ogPost:
   url: ''
 readingTime: 5

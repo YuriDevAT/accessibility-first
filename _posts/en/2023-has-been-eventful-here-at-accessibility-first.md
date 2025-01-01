@@ -1,7 +1,7 @@
 ---
 title: '2023 has been eventful here at Accessibility First'
 excerpt: '2023 has been eventful here at Accessibility First! Laura has joined the party, a brand new website, march for inclusion, and much more ...'
-coverImage: '/assets/blog/en/2023-has-been-eventful-here-at-accessibility-first/cover.png'
+coverImage: '/assets/cover/2023-has-been-eventful-here-at-accessibility-first/cover.png'
 date: '2024-01-03T10:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/2023-has-been-eventful-here-at-accessibility-first/cover.png'
+  url: '/assets/cover/2023-has-been-eventful-here-at-accessibility-first/cover.png'
 ogPost:
   url: ''
 readingTime: 2

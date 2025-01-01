@@ -1,7 +1,7 @@
 ---
 title: 'Why fulfilling the WCAG is not enough'
 excerpt: 'Everybody and their work mom is talking about the European Accessibility Act, and many are longing for clear instructions on what the heck to do. Not to rain on your work laptop, but even if you follow the Web Content Accessibility Guidelines ...'
-coverImage: '/assets/blog/en/why-fulfilling-the-wcag-is-not-enough/cover.png'
+coverImage: '/assets/cover/why-fulfilling-the-wcag-is-not-enough/cover.png'
 date: '2024-01-16T10:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/why-fulfilling-the-wcag-is-not-enough/cover.jpg'
+  url: '/assets/cover/why-fulfilling-the-wcag-is-not-enough/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-fulfilling-the-wcag-is-not-enough'
 readingTime: 3

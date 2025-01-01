@@ -38,7 +38,7 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
     <section className="grid grid-cols-1 lg:grid-cols-2 lg:gap-x-16 gap-y-20 lg:gap-y-28 mb-32">
       <div>
         <div className="mb-8">
-          <CoverImage title={title} src={coverImage} slug={slug} />
+          <CoverImage src={coverImage} slug={slug} />
         </div>
         <Category category={category} />
         <h2 className="mb-4 text-4xl lg:text-5xl leading-tight">
@@ -62,7 +62,7 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
         {otherPosts.map((post) => (
           <div key={post.slug} className="grid grid-cols-1 md:grid-cols-[auto,1fr] md:gap-x-4 gap-y-2 border-slate-500 border-b last:border-b-0 pb-2">
             <div className="mb-5 h-44 w-44 bg-red-200">
-              <CoverImage slug={post.slug} title={post.title} src={post.coverImage} />
+              <CoverImage slug={post.slug} src={post.coverImage} />
             </div>
             <div className="mb-6">
               <Category category={post.category} />
@@ -80,7 +80,7 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
                 <Avatar name={author.name} picture={author.picture} />  
                 <p className="ml-4 text-lg font-mono font-light dark:text-slate-200">
                 · <DateFormatter dateString={date} />
-              </p>
+                </p>
               </div>
             </div>
           </div>
