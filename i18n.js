@@ -19,6 +19,7 @@ module.exports = {
       'reading-time',
       'category',
       'video',
+      'newsletter',
     ],
     '/all-posts': ['all-posts'],
     '/about': ['about', 'team'],
