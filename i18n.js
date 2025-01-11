@@ -18,7 +18,7 @@ module.exports = {
       'mobile-nav',
       'reading-time',
       'category',
-      'video'
+      'video',
     ],
     '/all-posts': ['all-posts'],
     '/about': ['about', 'team'],

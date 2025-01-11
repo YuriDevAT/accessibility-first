@@ -15,7 +15,9 @@ const Layout = ({ children }: Props) => {
       <SkipLink />
       <Header />
       <div className="min-h-screen">
-        <main id="main" className="mb-28">{children}</main>
+        <main id="main" className="mb-28">
+          {children}
+        </main>
       </div>
       <Footer />
     </>

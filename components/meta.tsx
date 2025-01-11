@@ -40,13 +40,13 @@ const Meta = () => {
       <meta property="og:title" content="Accessibility First" />
       <meta
         property="og:description"
-        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you erradicate invisible barriers."
+        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you eradicate invisible barriers."
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you erradicate invisible barriers."
+        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you eradicate invisible barriers."
       />
       <meta name="twitter:card" content="summary_large_image" />
       <meta property="twitter:domain" content="accessibilityfirst.at" />
@@ -54,7 +54,7 @@ const Meta = () => {
       <meta name="twitter:title" content="Accessibility First" />
       <meta
         name="twitter:description"
-        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you erradicate invisible barriers."
+        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you eradicate invisible barriers."
       />
       <meta name="twitter:image" content={HOME_OG_IMAGE_URL} />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
