@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import useTranslation from 'next-translate/useTranslation';
-import categoryColors from '../lib/colors';
-import categoryPaths from '../lib/paths';
+import categoryColors from '../../lib/colors';
+import categoryPaths from '../../lib/paths';
 
 type Props = {
   tags: string;

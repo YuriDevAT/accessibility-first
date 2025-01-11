@@ -1,0 +1,11 @@
+{
+  "label": "カテゴリー",
+  "categories": {
+    "accessibility": "アクセシビリティ",
+    "uxResearch": "UXリサーチ",
+    "uxDesign": "UXデザイン",
+    "webDevelopment": "ウェブ制作",
+    "qaTesting": "QAテスト",
+    "documents": "書類とソーシャルメディア"
+  }
+}

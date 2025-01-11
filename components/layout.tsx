@@ -1,4 +1,5 @@
 import Footer from './footer';
+import Header from './header/header';
 import Meta from './meta';
 import SkipLink from './skip-link';
 
@@ -12,6 +13,7 @@ const Layout = ({ children }: Props) => {
     <>
       <Meta />
       <SkipLink />
+      <Header />
       <div className="min-h-screen">
         <main className="mb-28">{children}</main>
       </div>

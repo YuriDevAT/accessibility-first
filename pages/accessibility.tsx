@@ -2,7 +2,7 @@ import useTranslation from 'next-translate/useTranslation';
 import Layout from '../components/layout';
 import Container from '../components/container';
 import Head from 'next/head';
-import PostGrid from '../components/post-grid';
+import PostGrid from '../components/post/post-grid';
 import { getAllPosts } from '../lib/api';
 import Post from '../interfaces/post';
 import { GetStaticProps } from 'next';
