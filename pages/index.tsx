@@ -15,11 +15,11 @@ type Props = {
 };
 
 export default function Index({ allPosts }: Props) {
-  const blogPosts = allPosts.filter(post => post.tags.includes('Blog'));
-  const videoPosts = allPosts.filter(post => post.tags.includes('Video'));
+  const blogPosts = allPosts.filter((post) => post.tags.includes('Blog'));
+  const videoPosts = allPosts.filter((post) => post.tags.includes('Video'));
 
   const heroPost = blogPosts[0];
-  const otherPosts = blogPosts.slice(1, 4); 
+  const otherPosts = blogPosts.slice(1, 4);
   const morePosts = blogPosts.slice(4);
 
   const heroVideo = videoPosts[0];
@@ -47,19 +47,11 @@ export default function Index({ allPosts }: Props) {
         </Head>
         <Container>
           <h1 className="sr-only">Welcome to Accessibility First</h1>
-          {heroPost && (
-              <HeroPost
-                heroPost={heroPost}
-                otherPosts={otherPosts}
-              />
-            )}
+          {heroPost && <HeroPost heroPost={heroPost} otherPosts={otherPosts} />}
           {morePosts.length > 0 && <MorePosts posts={morePosts} />}
           {heroVideo && (
-              <HeroVideos
-                heroVideo={heroVideo}
-                otherVideos={otherVideos}
-              />
-            )}
+            <HeroVideos heroVideo={heroVideo} otherVideos={otherVideos} />
+          )}
           <Newsletter />
         </Container>
       </Layout>
@@ -78,7 +70,7 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     'coverImage',
     'excerpt',
     'category',
-    'readingTime'
+    'readingTime',
   ]);
 
   allPosts.sort(

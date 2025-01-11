@@ -19,7 +19,11 @@ const Header = () => {
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center">
             <div className="text-xl mr-6 font-medium tracking-tighter leading-tight">
-              <Link href="/" aria-label="Homepage" className="focus:outline outline-inherit outline-offset-1 font-title">
+              <Link
+                href="/"
+                aria-label="Homepage"
+                className="focus:outline outline-inherit outline-offset-1 font-title"
+              >
                 Accessibility First
               </Link>
             </div>
@@ -27,8 +31,8 @@ const Header = () => {
           </div>
           <div>
             <MobileMenuButton
-                isOpen={isMobileMenuOpen}
-                toggleMenu={toggleMobileMenu}
+              isOpen={isMobileMenuOpen}
+              toggleMenu={toggleMobileMenu}
             />
             <div className="hidden md:block text-base">
               <LocaleToggle />

@@ -28,7 +28,7 @@ const LocaleToggle = () => {
     <div className="relative">
       <button
         type="button"
-        id="menubutton" 
+        id="menubutton"
         ref={buttonRef}
         onClick={toggleDropdown}
         className="px-3 py-2 text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded focus:outline before:content-language dark:before:content-language-dark before:w-3 before:h-full before:mr-4 before:flex flex items-center"
@@ -41,7 +41,12 @@ const LocaleToggle = () => {
       </button>
 
       {isOpen && (
-        <ul id="menu" role="menu" aria-labelledby="menubutton" className="absolute mt-2 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded shadow-lg w-full text-center">
+        <ul
+          id="menu"
+          role="menu"
+          aria-labelledby="menubutton"
+          className="absolute mt-2 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded shadow-lg w-full text-center"
+        >
           {locales?.map((loc, index) => (
             <li role="presentation" key={loc} className="block mb-3">
               <Link
@@ -50,7 +55,9 @@ const LocaleToggle = () => {
                 scroll={false}
                 role="menuitem"
                 onClick={closeDropdown}
-                aria-label={loc === 'ja' ? 'nihongo' : languageNames[loc as LocaleCode]}
+                aria-label={
+                  loc === 'ja' ? 'nihongo' : languageNames[loc as LocaleCode]
+                }
                 className={`block px-4 py-2 text-sm focus:outline outline-inherit outline-inset-2 ${
                   currentLocale === loc
                     ? 'font-bold underline'

@@ -5,8 +5,8 @@ import { navCategories } from '../../data/nav-categories';
 import { nav } from '../../data/nav';
 
 const MobileNav = () => {
-    const { t: tMain } = useTranslation('main-navigation');
-    const { t: tSecond } = useTranslation('second-navigation');
+  const { t: tMain } = useTranslation('main-navigation');
+  const { t: tSecond } = useTranslation('second-navigation');
 
   return (
     <nav aria-label="mobile">

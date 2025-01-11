@@ -19,12 +19,7 @@ type HeroPostProps = {
 };
 
 const HeroVideos = ({ heroVideo, otherVideos }: HeroPostProps) => {
-  const {
-    title,
-    coverImage,
-    excerpt,
-    ogPost,
-  } = heroVideo;
+  const { title, coverImage, excerpt, ogPost } = heroVideo;
   const { t } = useTranslation('video');
 
   return (
@@ -61,7 +56,10 @@ const HeroVideos = ({ heroVideo, otherVideos }: HeroPostProps) => {
 
         <div className="flex flex-col gap-8">
           {otherVideos.map((video) => (
-            <div key={video.title} className=" border-slate-500 border-b last:border-b-0 pb-2">
+            <div
+              key={video.title}
+              className=" border-slate-500 border-b last:border-b-0 pb-2"
+            >
               <div className="mb-5 bg-red-200">
                 <CoverImage src={video.coverImage} />
               </div>

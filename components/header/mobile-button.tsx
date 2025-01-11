@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 interface MobileMenuButtonProps {
   isOpen: boolean;
@@ -10,7 +10,11 @@ const MobileMenuButton: React.FC<MobileMenuButtonProps> = ({
   toggleMenu,
 }) => {
   return (
-    <button type="button" className="md:hidden text-slate-700 dark:text-slate-200" onClick={toggleMenu}>
+    <button
+      type="button"
+      className="md:hidden text-slate-700 dark:text-slate-200"
+      onClick={toggleMenu}
+    >
       {isOpen ? <div>Close Menu</div> : <div>Open Menu</div>}
     </button>
   );
