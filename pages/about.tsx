@@ -74,7 +74,7 @@ const About = () => {
                 <p className="text-xl leading-relaxed my-6">{tAbout('p6')}</p>
                 <p className="text-xl leading-relaxed my-6">{tAbout('p7')}</p>
               </div>
-              <blockquote className="text-3xl font-bold leading-snug my-6 bg-blue-200 px-6 py-4 italic border-l-8 border-blue-800">
+              <blockquote className="text-3xl font-bold dark:text-blue-800 leading-snug my-6 bg-blue-200 px-6 py-4 italic border-l-8 border-blue-800">
                 {tAbout('p1')}
               </blockquote>
             </div>
@@ -83,7 +83,7 @@ const About = () => {
             </h2>
             <p className="text-xl leading-relaxed mt-6">{tAbout('p4')}</p>
             <p className="text-xl leading-relaxed">{tAbout('p4-1')}</p>
-            <blockquote className="text-xl leading-relaxed max-w-4xl mx-auto mt-12 bg-blue-200 px-6 py-4 italic border-l-4 border-blue-800">
+            <blockquote className="text-xl leading-relaxed dark:text-blue-800 max-w-4xl mx-auto mt-12 bg-blue-200 px-6 py-4 italic border-l-4 border-blue-800">
               {tAbout('p3')}
               <b className="uppercase">{tAbout('b1')}</b>
             </blockquote>
