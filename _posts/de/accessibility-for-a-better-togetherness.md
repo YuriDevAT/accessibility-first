@@ -1,7 +1,7 @@
 ---
 title: 'Webzugänglichkeit für ein besseres Miteinander'
 excerpt: 'Der Wiener Bezirk, in dem ich wohne, organisiert eine Veranstaltung namens „Miteinander in Mariahilf“, bei der die Bewohner verschiedene Ideen für ein besseres Zusammenleben einbringen können. Hier kommt meine Spezialität, Web Barrierefreiheit, zum Einsatz. Lassen Sie mich meine Gedanken teilen ...'
-coverImage: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
+coverImage: '/assets/cover/accessibility-for-a-better-togetherness/cover.png'
 date: '2022-07-07T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
+  url: '/assets/cover/accessibility-for-a-better-togetherness/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof'
 readingTime: 1

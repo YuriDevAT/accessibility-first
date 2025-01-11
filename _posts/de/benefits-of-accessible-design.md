@@ -1,7 +1,7 @@
 ---
 title: 'Vorteile von barrierefreiem Design'
 excerpt: 'In meinem letzten Artikel über Mythen und Missverständissen über Barrierefreiheit habe ich darüber gesprochen, wie Menschen glauben, dass nur wenige Menschen von Barrierefreiheit profitieren. Fakt ist aber, dass nicht nur eine beachtliche Menge an Menschen von Barrierefreiheit profitiert, sondern die gesamte Gesellschaft, Wirtschaft ...'
-coverImage: '/assets/blog/en/benefits-of-accessible-design/cover.png'
+coverImage: '/assets/cover/benefits-of-accessible-design/cover.png'
 date: '2022-07-14T07:35:07.322Z'
 tags: 'Blog'
 category: 'UX Design'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/benefits-of-accessible-design/cover.png'
+  url: '/assets/cover/benefits-of-accessible-design/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/benefits-of-accessible-design-4m2a'
 readingTime: 3

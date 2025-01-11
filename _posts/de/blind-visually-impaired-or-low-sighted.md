@@ -1,7 +1,7 @@
 ---
 title: 'Blind, sehbehindert oder sehschwach?'
 excerpt: 'Es gibt eine ständige Debatte darüber, wie man es nennen soll. Sehbehinderung oder Blindheit? Was ist richtig? Eine blinde Person oder eine Person, die mit Blindheit lebt oder eine Person mit geringer Sehkraft? Aber welches ist das richtige Wort? Nun, ich bezweifle, dass es nur ein Wort gibt ...'
-coverImage: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
+coverImage: '/assets/cover/blind-visually-impaired-or-low-sighted/cover.png'
 date: '2023-09-01T10:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
+  url: '/assets/cover/blind-visually-impaired-or-low-sighted/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/blind-visually-impaired-or-low-sighted'
 readingTime: 4
@@ -41,7 +41,7 @@ Also ist **rechtliche Blindheit** eine Konvention zur Sehschärfe in Kombination
 
 > Wenn ich Leuten außerhalb des Barrierefreiheitsbereichs erkläre, was ich mache, gebe ich ihnen gerne folgendes als Referenz: Mit der bestmöglichen Brillenverschreibung könntest du nur den größten Buchstaben oben auf der Sehtafel erkennen.
 
-![Ein Beispiel für eine Snellen-Tafel, die üblicherweise für Sehschärfentests verwendet wird. Eine rote Linie markiert eine Sehschärfe von 20/20. Eine grüne Linie markiert die Sehschärfe 20/30.](/assets/blog/en/blind-visually-impaired-or-low-sighted/image-1.png)
+![Ein Beispiel für eine Snellen-Tafel, die üblicherweise für Sehschärfentests verwendet wird. Eine rote Linie markiert eine Sehschärfe von 20/20. Eine grüne Linie markiert die Sehschärfe 20/30.](/assets/cover/blind-visually-impaired-or-low-sighted/image-1.png)
 
 _Snellen Chart von Jeff Dahl - Eigenes Werk des Hochladers, Basierend auf dem öffentlichen Domain-Dokument: [1], CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=426220_
 

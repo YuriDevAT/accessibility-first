@@ -1,7 +1,7 @@
 ---
 title: 'POUR - ウェブ・アクセシビリティの4原則'
 excerpt: 'ワールド・ワイド・ウェブ・コンソーシアムのウェブ・アクセシビリティ・イニシアティブ（W3C WAI）が制定したウェブ・コンテンツ・アクセシビリティ・ガイドライン（WCAG 2.0）に基づき、ウェブサイトやウェブ・アプリケーションがアクセシブルであると認定されるには、コンテンツが以下の4つの原則（頭文字をとってPOURと呼ばれる）を満たしている必要があります。。。'
-coverImage: '/assets/blog/en/pour-the-4-web-accessibility-principles/cover.png'
+coverImage: '/assets/cover/pour-the-4-web-accessibility-principles/cover.png'
 date: '2022-07-17T07:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/pour-the-4-web-accessibility-principles/cover.png'
+  url: '/assets/cover/pour-the-4-web-accessibility-principles/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/pour-the-4-web-accessibility-principles-edp'
 readingTime: 5

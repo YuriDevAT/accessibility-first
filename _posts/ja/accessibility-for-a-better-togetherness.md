@@ -1,7 +1,7 @@
 ---
 title: 'ウェブ・アクセシビリティでより良い一体感を'
 excerpt: '私が住んでいるウィーン地区では、「Miteinander in Mariahilf」（和: マリアヒルフで一緒に）というイベントを開催している。より良い暮らしのために、地元の人々がさまざまなアイデアを提供できます。ここで、私の専門であるウェブ・アクセシビリティが活躍します。私の考えを紹介しよう。。。'
-coverImage: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
+coverImage: '/assets/cover/accessibility-for-a-better-togetherness/cover.png'
 date: '2022-07-07T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
+  url: '/assets/cover/accessibility-for-a-better-togetherness/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof'
 readingTime: 1

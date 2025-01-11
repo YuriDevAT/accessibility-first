@@ -1,7 +1,7 @@
 ---
 title: 'Wir sehen uns auf der uxcon vienna'
 excerpt: 'Auf der diesjährigen uxcon in Wien halten Laura und Julia einen Workshop darüber, wie man eine Webseite erstellt und testet, die nicht nur die Anforderungen erfüllt, sondern weit über die Checkliste hinausgeht ...'
-coverImage: '/assets/blog/en/uxcon2024/cover.png'
+coverImage: '/assets/cover/uxcon2024/cover.png'
 date: '2024-04-29T10:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/uxcon2024/cover.png'
+  url: '/assets/cover/uxcon2024/cover.png'
 ogPost:
   url: ''
 readingTime: 1

@@ -1,7 +1,7 @@
 ---
 title: '月刊a11yニュースレター'
 excerpt: 'オンライン・アクセシビリティ・バブルの外には、見つけるのが難しいリソースやイベントがたくさんあります。ゲートキーピングはアクセシビリティの対極にあるものです。だからこそウェブ・アクセシビリティに関する今後のイベントについて、（およそ）毎月ニュースレターを送っているのです。。。'
-coverImage: '/assets/blog/en/newsletter/cover.png'
+coverImage: '/assets/cover/newsletter/cover.png'
 date: '2024-01-22T11:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/newsletter/cover.png'
+  url: '/assets/cover/newsletter/cover.png'
 ogPost:
   url: ''
 readingTime: 2

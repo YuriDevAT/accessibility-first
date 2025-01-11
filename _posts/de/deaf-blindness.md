@@ -1,7 +1,7 @@
 ---
 title: 'Taubblindheit'
 excerpt: 'Wenn du das Wort „taubblind“ hörst, denkst du vielleicht: „Wie kann man dann kommunizieren?“ Und wenn du jemals irgendetwas studiert hast, das mit Kommunikation zu tun hat, bin ich mir sicher, dass dein alter Professor dich gerade mit Paul Watzlawicks „Man kann nicht nicht kommunizieren“ mit diesem unheimlichen Echo verfolgt ...'
-coverImage: '/assets/blog/en/deaf-blindness/cover.png'
+coverImage: '/assets/cover/deaf-blindness/cover.png'
 date: '2023-09-21T10:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/deaf-blindness/cover.jpg'
+  url: '/assets/cover/deaf-blindness/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/deaf-blindness'
 readingTime: 3

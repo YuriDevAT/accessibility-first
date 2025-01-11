@@ -1,7 +1,7 @@
 ---
 title: '2023年、Accessibility Firstでは様々な出来事がありました'
 excerpt: '2023年、Accessibility Firstでは様々な出来事がありました! ローラがパーティーに参加、真新しいウェブサイト、インクルージョンのための行進、その他もろもろ。。。'
-coverImage: '/assets/blog/en/2023-has-been-eventful-here-at-accessibility-first/cover.png'
+coverImage: '/assets/cover/2023-has-been-eventful-here-at-accessibility-first/cover.png'
 date: '2024-01-03T10:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/2023-has-been-eventful-here-at-accessibility-first/cover.png'
+  url: '/assets/cover/2023-has-been-eventful-here-at-accessibility-first/cover.png'
 ogPost:
   url: ''
 readingTime: 2

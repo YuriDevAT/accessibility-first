@@ -1,7 +1,7 @@
 ---
 title: 'Keine Benutzerfreundlichkeit ohne Zugänglichkeit - Gemeinsamkeiten und Unterschiede'
 excerpt: 'Benutzerfreundlichkeit und Barrierefreiheit sind eng miteinander verbundene Aspekte der Webentwicklung. Manche denken fälschlicherweise, dass diese beiden Begriffe austauschbar sind, obwohl sie unterschiedlich sind. Ihre Ziele, Ansätze und Richtlinien können sich erheblich überschneiden, ...'
-coverImage: '/assets/blog/en/no-usability-without-accessibility/cover.png'
+coverImage: '/assets/cover/no-usability-without-accessibility/cover.png'
 date: '2024-11-14T09:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/no-usability-without-accessibility/cover.png'
+  url: '/assets/cover/no-usability-without-accessibility/cover.png'
 ogPost:
   url: ''
 readingTime: 6
@@ -62,7 +62,7 @@ Barrierefreiheit erhöht also die Chancen, dass mehr Menschen eine Webseite unab
 
 Obwohl sich die Barrierefreiheit in erster Linie an Menschen mit Behinderungen und Beeinträchtigungen, wie z. B. Sehschwäche, richtet, verbessern viele Anforderungen an die Barrierefreiheit die Benutzerfreundlichkeit für alle Nutzer. Eine tastaturfreundliche Webseite kommt beispielsweise sowohl Nutzern mit motorischen Einschränkungen als auch Nutzern zugute, die eine Tastatur der Maus vorziehen.
 
-![Ein Teil der Benutzerfreundlichkeit, der sich mit der Zugänglichkeit überschneidet, führt zu universellem Design.](/assets/blog/en/no-usability-without-accessibility/image-1.png)
+![Ein Teil der Benutzerfreundlichkeit, der sich mit der Zugänglichkeit überschneidet, führt zu universellem Design.](/assets/cover/no-usability-without-accessibility/image-1.png)
 
 Eine wichtige Verbindung zwischen Barrierefreiheit und Nutzbarkeit besteht darin, dass Menschen mit Behinderungen, die unterstützende Technologien verwenden, ohne Barrierefreiheit keine Möglichkeit haben, sich ein Bild von der Nutzbarkeit der Software zu machen.
 

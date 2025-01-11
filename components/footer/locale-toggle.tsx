@@ -6,8 +6,8 @@ type LocaleCode = 'en' | 'de' | 'ja';
 
 const languageNames: Record<LocaleCode, string> = {
   en: 'English',
-  de: 'Deutsch',
-  ja: '日本語',
+  de: 'German',
+  ja: 'Japanese',
 };
 
 const LocaleToggle = () => {

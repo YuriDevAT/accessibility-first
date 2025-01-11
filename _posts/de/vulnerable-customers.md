@@ -1,7 +1,7 @@
 ---
 title: 'Gefährdete Kunden'
 excerpt: 'Wusstest du das? 300.000 Menschen in Österreich haben keine oder nur geringe Deutschkenntnisse. Für 56% ist es wichtiger, sich in ihrer Muttersprache verständigen zu können als der Preis! 7,1 % der 16- bis 65-Jährigen haben sehr geringe ...'
-coverImage: '/assets/blog/en/vulnerable-customers/cover.png'
+coverImage: '/assets/cover/vulnerable-customers/cover.png'
 date: '2023-07-31T10:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/vulnerable-customers/cover.jpg'
+  url: '/assets/cover/vulnerable-customers/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/vulnerable-customers'
 readingTime: 3

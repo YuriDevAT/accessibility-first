@@ -1,7 +1,7 @@
 ---
 title: 'ウィーンの盲人はなぜゴミ箱を嫌うのか'
 excerpt: 'ホープテックの『シックス・センス』の研究を始めたばかりの頃、私たちはすぐに「いったい何を脅威と定義すればいいのか、何が単なる障害物なのか」という課題にぶち当たりました。脅威の分類について、私の頭の中にはすぐに交通機関、動く車などが浮かびました。。。'
-coverImage: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.png'
+coverImage: '/assets/cover/why-blind-people-in-vienna-hate-trash-cans/cover.png'
 date: '2023-10-04T05:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
+  url: '/assets/cover/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 readingTime: 3
@@ -36,6 +36,6 @@ readingTime: 3
 
 Hope Techの文脈では、これはおそらく日常的な使用例となるでしょう。チームの誰も予想していなかったものです：その隠れたゴミ箱を避けること。しかし、長期的には、ウィーン市もこれを考慮してくれることを期待します。もし、ゴミ箱の管理に少しでも関わっている方がこれを読んでいたら、ぜひご連絡ください！このアクセシビリティの問題を解決するお手伝いをさせていただきたいです。
 
-![ウィーンの青いバス停の標識に取り付けられたグレーとオレンジのゴミ箱。背景には、ウィーン1区の歴史的なファサードの前に白いハイビスカスの花が咲いています。](/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
+![ウィーンの青いバス停の標識に取り付けられたグレーとオレンジのゴミ箱。背景には、ウィーン1区の歴史的なファサードの前に白いハイビスカスの花が咲いています。](/assets/cover/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
 
 このブログ投稿は、ウィーン在住の視覚障害者2人とのユーザーインタビューに特に触発されました。彼らは長期間にわたって進行する視力低下を経験しましたが、この投稿では彼らを盲目と呼んでいます。なぜなら、それが彼らの自己認識だったからです。しかし、私はこのゴミ箱の問題がほとんどすべての白杖ユーザーに及ぶものだと確信しています。

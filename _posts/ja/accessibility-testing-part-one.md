@@ -1,7 +1,7 @@
 ---
 title: 'アクセシビリティ・テスト パート1'
 excerpt: '今日から、初めてのアクセシビリティ・チェックを始めます。ウェブサイトがアクセシビリティをどの程度実装しているかを監査し、問題点や改善すべき点を指摘していく。。。'
-coverImage: '/assets/blog/en/accessibility-testing-part-one/cover.png'
+coverImage: '/assets/cover/accessibility-testing-part-one/cover.png'
 date: '2022-07-30T05:35:07.322Z'
 tags: 'Blog'
 category: 'QA Testing'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-testing-part-one/cover.png'
+  url: '/assets/cover/accessibility-testing-part-one/cover.png'
 ogPost:
   url: 'https://dev.to/en/yuridevat/accessibility-check-1-3c38'
 readingTime: 4
@@ -28,7 +28,7 @@ readingTime: 4
 拡張機能を実行した後、40個の自動\*問題が見つかりました。
 これらはCritical、Serious、Moderate、Minorに分けられる。CriticalとSeriousの問題は、修正すべき最も重要なものです。詳しく見て、ウェブサイトを改善するために何ができるか見てみましょう。
 
-![](/assets/blog/en/accessibility-testing-one/image-1.png)
+![](/assets/cover/accessibility-testing-part-one/image-1.png)
 
 _\*自動とは、アクセシビリティ開発ツールを使って脆弱性が発見されることを意味します。しかし、リストアップされた脆弱性がすべて修正されたとしても、ウェブサイトが完全にアクセシブルになったとは限りません。キーボードだけを使ったり、スクリーンリーダーを使ってウェブサイトを見たりして、本当にすべての問題を指摘し、修正するには、手動テストがまだ必要です。_
 
@@ -36,7 +36,7 @@ _\*自動とは、アクセシビリティ開発ツールを使って脆弱性�
 
 深刻な問題のほとんどは、色のコントラストに関するものでした。ウェブサイト上のエラーを簡単に見つけるには、「Highlight」ボタンを有効にすることでハイライトすることができます。
 
-![](/assets/blog/en/accessibility-testing-one/image-2.png)
+![](/assets/cover/accessibility-testing-part-one/image-2.png)
 
 ### 問題の説明（axe Devtoolsによる）
 
@@ -48,7 +48,7 @@ _\*自動とは、アクセシビリティ開発ツールを使って脆弱性�
 
 このボタンは十分なカラーコントラストを持っていません（白のHEXカラー値`#FFFFFF`に青のHEXカラー値`#2FAFF5`）。WebAIM Color Contrast Checkerを見ると、コントラスト比は**2.45:1**しかなく、かなり低いことがわかります。WCAG2.1 AAを満たすには、コントラスト比は少なくとも**4.5:1**である必要があります。この比率を達成するためには、青の輝度を32%まで下げる必要があります。
 
-![](/assets/blog/en/accessibility-testing-one/image-3.png)
+![](/assets/cover/accessibility-testing-part-one/image-3.png)
 
 この色の組み合わせは、他の3つの問題の原因でもある。
 
@@ -56,7 +56,7 @@ _\*自動とは、アクセシビリティ開発ツールを使って脆弱性�
 
 他の2つの問題は、小見出しに使われているグレーが原因である。
 
-![](/assets/blog/en/accessibility-testing-one/image-4.png)
+![](/assets/cover/accessibility-testing-part-one/image-4.png)
 
 グレー(`#737373`)そのものは、白(`#FFFFFFF`)背景に**8.59:1**のコントラスト比で十分だが、`rgba(115, 115, 115, 0.74)`の不透明度が設定されているため、コントラストが弱くなり、**2.95:1**となっています。
 

@@ -1,7 +1,7 @@
 ---
 title: '白杖はどうやって使うようになるのですか？'
 excerpt: '最初の実ユーザートライアルでは、目隠しをしたエンジニアではなく、実際に目の不自由な人にプロトタイプを装着しました。この参加者は、私たちに素晴らしいヒントを与えてくれました。。。'
-coverImage: '/assets/blog/en/how-do-people-learn-to-use-a-white-cane/cover.png'
+coverImage: '/assets/cover/how-do-people-learn-to-use-a-white-cane/cover.png'
 date: '2023-10-16T05:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/how-do-people-learn-to-use-a-white-cane/cover.png'
+  url: '/assets/cover/how-do-people-learn-to-use-a-white-cane/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/how-do-people-learn-to-use-a-white-cane'
 readingTime: 6

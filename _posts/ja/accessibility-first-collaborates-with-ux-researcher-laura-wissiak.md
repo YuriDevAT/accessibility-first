@@ -1,7 +1,7 @@
 ---
 title: 'Accessibility FirstがUX研究者ローラ・ウィシアックと協力'
 excerpt: '一人で歩いてはいけない道もあります。Accessibility Firstが、これまで一人で活動していたチームに新しい顔を迎えたことをお知らせできることを嬉しく思います。2022年の夏にAccessibility Firstを立ち上げたとき、私の目標は、アクセサビリティ、デザイン、。。。'
-coverImage: '/assets/blog/en/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
+coverImage: '/assets/cover/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
 date: '2023-09-06T05:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
+  url: '/assets/cover/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
 ogPost:
   url: ''
 readingTime: 1

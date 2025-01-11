@@ -4,7 +4,7 @@ export const socials: Lists[] = [
   { key: 'instagram', path: 'https://www.instagram.com/accessibilityfirst/' },
   {
     key: 'linkedIn',
-    path: 'https://www.linkedin.com/company/accessibilityfirst/',
+    path: 'https://www.linkedin.com/in/juliaundeutsch/',
   },
   {
     key: 'youtube',

@@ -1,7 +1,7 @@
 ---
 title: 'アクセシビリティなくしてユーザビリティなし - ユーザビリティとアクセシビリティの共通点と相違点'
-excerpt: 'Usability and accessibility are closely related aspects of web development. Some mistakenly think that these two terms are interchangeable, even though they are different, their goals, approaches, and guidelines can overlap significantly, and one (accessibility) can exist without the other (usability)...'
-coverImage: '/assets/blog/en/no-usability-without-accessibility/cover.png'
+excerpt: 'ユーザビリティとアクセシビリティは、Web開発において密接に関連しています。この2つの用語は異なるにもかかわらず、その目標、アプローチ、およびガイドラインは大きく重複することがあり、片方（アクセシビリティ）。。。'
+coverImage: '/assets/cover/no-usability-without-accessibility/cover.png'
 date: '2024-11-14T09:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/no-usability-without-accessibility/cover.png'
+  url: '/assets/cover/no-usability-without-accessibility/cover.png'
 ogPost:
   url: ''
 readingTime: 6
@@ -61,7 +61,7 @@ WebサイトのユーザビリティとWebサイトのアクセシビリティ�
 
 アクセシビリティは、主に障害や弱視などの障害を持つ人々を対象としていますが、多くのアクセシビリティ要件は、すべてのユーザーにとっての使いやすさを向上させます。たとえば、キーボードフレンドリーなWebサイトは、運動障害のあるユーザーにも、マウスよりもキーボードを好むユーザーにもメリットがあります。
 
-![アクセシビリティと重なるユーザビリティの一部が、ユニヴァーサルデザインに帰結する。](/assets/blog/en/no-usability-without-accessibility/image-1.png)
+![アクセシビリティと重なるユーザビリティの一部が、ユニヴァーサルデザインに帰結する。](/assets/cover/no-usability-without-accessibility/image-1.png)
 
 アクセシビリティとユーザビリティの間の重要な関係は、アクセシビリティがなければ、支援技術を使用する障害者は、ソフトウェアの使いやすさについて判断する方法がないということです。
 

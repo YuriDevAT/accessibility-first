@@ -1,7 +1,7 @@
 ---
 title: '全盲、視覚障害、弱視の方？'
 excerpt: 'これを何と呼ぶかについては、現在も議論が続いています。視覚障害か失明か？何が正しいのか： 視覚障害者なのか、失明者なのか、弱視者なのか。しかし、何が正しい言葉なの でしょうか？まあ、1つしかないとは思わないが。。。'
-coverImage: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
+coverImage: '/assets/cover/blind-visually-impaired-or-low-sighted/cover.png'
 date: '2023-09-01T10:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/blind-visually-impaired-or-low-sighted/cover.png'
+  url: '/assets/cover/blind-visually-impaired-or-low-sighted/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/blind-visually-impaired-or-low-sighted'
 readingTime: 4
@@ -41,7 +41,7 @@ readingTime: 4
 
 > アクセシビリティの分野外の人々に自分の仕事を説明するとき、私は次のように説明するのが好きです：最高の矯正メガネを使っても、視力検査表の一番上の大きな文字しか識別できない状態です。
 
-![視力検査によく使われるSnellen Chartの例。赤い線は20/20の視力を示す。緑の線は20/30の視力を示す。](/assets/blog/en/blind-visually-impaired-or-low-sighted/image-1.png)
+![視力検査によく使われるSnellen Chartの例。赤い線は20/20の視力を示す。緑の線は20/30の視力を示す。](/assets/cover/blind-visually-impaired-or-low-sighted/image-1.png)
 _Snellen Chart By Jeff Dahl - アップローダによる所有作品, パブリックドメインのドキュメントに基づきます： [1], cc by-sa 3.0, https://commons.wikimedia.org/w/index.php?curid=426220_
 
 一部の人々はコントラスト、輪郭、色を識別することができます。色覚異常はまた別の問題ですが、曇った視界や盲点がある人もいれば、非常に狭い視野を持つ人もいます。視力低下を引き起こすさまざまな医療条件があります。例えば、網膜色素変性症のように徐々に進行するものもあれば、視神経の血流不足による突然の視力低下である視神経卒中のように突然発生するものもあります。

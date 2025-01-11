@@ -4,7 +4,7 @@ import Container from '../container';
 import { CopyRight } from './copyright';
 import BlogList from './blog-list';
 import SocialsList from './socials-list';
-import Logo from '../logo';
+import Logo from './logo';
 import OrganizationList from './organization-list';
 import LocaleToggle from './locale-toggle';
 

@@ -1,7 +1,7 @@
 ---
 title: 'Defineプロジェクト'
 excerpt: '10月10日、DEFINEプロジェクトのプレゼンテーションに参加しました。DEFINEとは、「Digital Equipment For Inclusive Empowerment」の略。このプロジェクトのミッションは、低価格の支援技術を市場に提供するだけでなく、その過程でデジタル・リテラシーを向上させることである。。。'
-coverImage: '/assets/blog/en/define-project/cover.png'
+coverImage: '/assets/cover/define-project/cover.png'
 date: '2023-10-22T11:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/define-project/cover.jpg'
+  url: '/assets/cover/define-project/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/define-project'
 readingTime: 5
@@ -17,7 +17,7 @@ readingTime: 5
 
 Defineは、**D**igital **E**quipment **F**or **In**clusive **E**mpowermentの略です。その使命は、低コストの支援技術を市場に提供するだけでなく、デジタルリテラシーを向上させることです。点字キーボード自体は新しいアイデアではありません。しかし、Defineは全プロセスに実践的なアプローチを取り、それが特別だと思う理由です。
 
-![ユリアは黒いバージョンのMeta Brailleキーボードを持っています。](/assets/blog/en/define-project/image-1.jpg)
+![ユリアは黒いバージョンのMeta Brailleキーボードを持っています。](/assets/cover/define-project/image-1.jpg)
 _ユリアは黒いバージョンのMeta Brailleキーボードを持っています。_
 
 ## ユーザー主導の共創
@@ -30,7 +30,7 @@ _ユリアは黒いバージョンのMeta Brailleキーボードを持ってい�
 
 これらのワークショップを通じて、合計8つのMetaBrailleキーボードが誕生しました。それは多くないと思いますか？キーボードシェルの各半分を3Dプリントするのに約4時間かかりますからね。時々、3Dプリンターはプリント中に少しずれて、ずれた印刷物が使えなくなることもあります。ですから、作りたいと思うなら、時間がかかるかもしれないことを覚えておいてください。
 
-![キーボード構造のための3つの計画がテーブルの上にあります。それぞれに英語と点字でラベルが付けられています。右上にはキーボードシェル、バッテリーパック、キー部品があります。](/assets/blog/en/define-project/image-2.jpg)
+![キーボード構造のための3つの計画がテーブルの上にあります。それぞれに英語と点字でラベルが付けられています。右上にはキーボードシェル、バッテリーパック、キー部品があります。](/assets/cover/define-project/image-2.jpg)
 _キーボード構造のための3つの計画がテーブルの上にあります。それぞれに英語と点字でラベルが付けられています。右上にはキーボードシェル、バッテリーパック、キー部品があります。技術的な詳細は説明できませんが、詳しい方は教えてください！_
 
 ## 点字キーボードはどのように機能するのか？
@@ -41,7 +41,7 @@ _キーボード構造のための3つの計画がテーブルの上にありま
 
 点字は2x3のグリッドにすべての文字が収まるアルファベットです。文字をドットパターンで覚えます。指で点字を読むのは、ドットパターンを特定の文字として認識することです。したがって、入力する場合はその逆です：対応するパターンでキーを押すことで文字のドットパターンを入力します。点字を学ぶのは他のアルファベットを覚えるのと同じで、文字が新しい形を取るだけです！
 
-![ESP32S3プロセッサが搭載された緑色の回路基板。このプロセッサは、点字をラテンアルファベットに変換し、キーボードがペアリングされているデバイスに送信します。](/assets/blog/en/define-project/image-3.jpg)
+![ESP32S3プロセッサが搭載された緑色の回路基板。このプロセッサは、点字をラテンアルファベットに変換し、キーボードがペアリングされているデバイスに送信します。](/assets/cover/define-project/image-3.jpg)
 _ESP32S3プロセッサが搭載された緑色の回路基板。このプロセッサは、点字をラテンアルファベットに変換し、キーボードがペアリングされているデバイスに送信します。_
 
 ### ウェブサイトとの連携方法
@@ -56,7 +56,7 @@ _ESP32S3プロセッサが搭載された緑色の回路基板。このプロセ
 
 点字キーボードは通常、スクリーンリーダーソフトウェアと一緒に使用されます。したがって、ウェブサイトやアプリが点字キーボードと連携するためには、altテキストやHTMLタグの見出し構造やランドマークの定義（ヘッダー、メイン、フッターなど）をチェックする必要があります。スクリーンリーダーとキーボードナビゲーションは密接に関連しているので、一方を学ぶことで他方についても学ぶことができます。[Mozilla Developer Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Keyboard)は素晴らしい出発点であり、実際にキーボードナビゲーションを手動でテストすることと組み合わせるのが最適です。
 
-![ローラはデスク上の点字テーブルを参考にしてMetaBrailleを試しています。慣れるまで少し時間がかかりますが、驚くほど速く入力できます！](/assets/blog/en/define-project/image-4.png)
+![ローラはデスク上の点字テーブルを参考にしてMetaBrailleを試しています。慣れるまで少し時間がかかりますが、驚くほど速く入力できます！](/assets/cover/define-project/image-4.png)
 _ローラはデスク上の点字テーブルを参考にしてMetaBrailleを試しています。慣れるまで少し時間がかかりますが、驚くほど速く入力できます！_
 
 ---

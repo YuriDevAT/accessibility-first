@@ -1,7 +1,7 @@
 ---
 title: 'Accessibility First arbeitet mit UX-Forscherin Laura Wissiak zusammen'
 excerpt: 'Manche Wege sollte man nicht allein beschreiten. Ich freue mich, ankündigen zu können, dass Accessibility First ein neues Gesicht in seinem bisher einköpfigen Team begrüßt. Als ich Accessibility First im Sommer 2022 gründete, war es mein Ziel, Inhalte über Barrierefreiheit und Design zu erstellen, ...'
-coverImage: '/assets/blog/en/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
+coverImage: '/assets/cover/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
 date: '2023-09-06T05:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
+  url: '/assets/cover/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
 ogPost:
   url: ''
 readingTime: 1

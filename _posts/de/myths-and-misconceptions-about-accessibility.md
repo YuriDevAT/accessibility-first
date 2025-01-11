@@ -1,7 +1,7 @@
 ---
 title: 'Mythen und Missverständnisse über Barrierefreiheit'
 excerpt: 'In diesem Artikel werde ich gängige Mythen von und Irrglauben gegenüber Barrierefreiheit addressieren, indem ich  Beispiele aufzeige, welche diese zu Nichte machen und Gründe für Barrierefreiheit unterstützt ...'
-coverImage: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
+coverImage: '/assets/cover/myths-and-misconceptions-about-accessibility/cover.png'
 date: '2022-07-10T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
+  url: '/assets/cover/myths-and-misconceptions-about-accessibility/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab'
 readingTime: 3
@@ -59,7 +59,7 @@ Die meisten barrierefreihen Features sind ohnehin unsichtbar und normalerweise n
 
 Und seien wir mal ehrlich, in welcher Welt ist der barrierefreie Button auf dem Bild hier rechts hässlich?!
 
-![Ein Beispeil erstellt in codepen, das zwei Buttons zeigt, einen in seiner ursprünglichen Gestalt in grau, und einer gestyled mit blauem Hintergrund, weißen Text und gerundetem Rand.](/assets/blog/en/myths-and-misconceptions-about-accessibility/image-1.png)
+![Ein Beispeil erstellt in codepen, das zwei Buttons zeigt, einen in seiner ursprünglichen Gestalt in grau, und einer gestyled mit blauem Hintergrund, weißen Text und gerundetem Rand.](/assets/cover/myths-and-misconceptions-about-accessibility/image-1.png)
 
 [Gehe auf Codepen um den Code zu erhalten!](https://codepen.io/YuriDevAT/pen/eYMzpgw)
 

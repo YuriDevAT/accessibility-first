@@ -1,7 +1,7 @@
 ---
 title: 'See you at uxcon vienna'
 excerpt: 'At this years uxcon in Vienna, Laura and Julia are holding a workshop about how to create and test website to not only fulfill requirements but go far beyond the checklist ...'
-coverImage: '/assets/blog/en/uxcon2024/cover.png'
+coverImage: '/assets/cover/uxcon2024/cover.png'
 date: '2024-04-29T10:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/uxcon2024/cover.png'
+  url: '/assets/cover/uxcon2024/cover.png'
 ogPost:
   url: ''
 readingTime: 1

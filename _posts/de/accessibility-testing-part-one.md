@@ -1,7 +1,7 @@
 ---
 title: 'Accessibility Testing Part 1'
 excerpt: 'Heute beginne ich mit meinem allerersten Accessibility-Check. Ich werde Webseiten daraufhin überprüfen, wie gut sie Barrierefreiheit umsetzen, und auf Probleme und verbesserungswürdige Punkte hinweisen ...'
-coverImage: '/assets/blog/en/accessibility-testing-part-one/cover.png'
+coverImage: '/assets/cover/accessibility-testing-part-one/cover.png'
 date: '2022-07-30T05:35:07.322Z'
 tags: 'Blog'
 category: 'QA Testing'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-testing-part-one/cover.png'
+  url: '/assets/cover/accessibility-testing-part-one/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/accessibility-check-1-3c38'
 readingTime: 4
@@ -28,7 +28,7 @@ Ich teste die Webseite mit der kostenlosen axe DevTool-Erweiterung, einer der be
 Nachdem ich die Erweiterung ausgeführt habe, werden 40 automatische\* Fehler gefunden.
 Diese sind in critical, serious, moderate und minor unterteilt. Die critical und serious Probleme sind die wichtigsten, die behoben werden müssen. Schauen wir uns diese genauer an und überlegen, was getan werden kann, um die Webseite zu verbessern.
 
-![](/assets/blog/accessibility-testing-one/image-1.png)
+![](/assets/cover/accessibility-testing-part-one/image-1.png)
 
 _\*Automatisch bedeutet, dass Fehler mit Hilfe von Entwicklungswerkzeugen für die Barrierefreiheit gefunden werden. Doch selbst wenn alle aufgelisteten Fehler behoben sind, bedeutet das nicht unbedingt, dass die Webseite nun vollständig zugänglich ist. Es sind immer noch manuelle Tests erforderlich, bei denen z.B. nur die Tastatur verwendet oder die Webseite mit einem Bildschirmlesegerät (Screen Reader) bedient wird, um wirklich alle Probleme aufzuzeigen und diese beheben zu können._
 
@@ -36,7 +36,7 @@ _\*Automatisch bedeutet, dass Fehler mit Hilfe von Entwicklungswerkzeugen für d
 
 “Elemente müssen einen ausreichenden Farbkontrast aufweisen“. Die meisten schwerwiegenden Probleme standen im Zusammenhang mit dem Farbkontrast. Um die Fehler auf der Webseite leicht zu finden, kannst du sie durch Aktivieren der Schaltfläche „Hervorheben“ hervorheben.
 
-![](/assets/blog/en/accessibility-testing-one/image-2.png)
+![](/assets/cover/accessibility-testing-part-one/image-2.png)
 
 ### Problembeschreibung (von axe Devtools, übersetzt von Julia)
 
@@ -48,7 +48,7 @@ Menschen mit Sehschwäche können aufgrund des schwachen Farbkontrasts Schwierig
 
 Dieser Button hat keinen ausreichenden Farbkontrast (blauer HEX-Farbwert von `#2FAFF5` auf weißem HEX-Farbwert `#FFFFFF`). Der WebAIM Color Contrast Checker zeigt, dass das Kontrastverhältnis nur **2.45:1** beträgt, was ziemlich niedrig ist. Um WCAG2.1 AA zu erfüllen, muss das Kontrastverhältnis mindestens **4.5:1** betragen. Um dieses Verhältnis zu erreichen, müsste das Blau auf eine Helligkeit von 32 % reduziert werden.
 
-![](/assets/blog/en/accessibility-testing-one/image-3.png)
+![](/assets/cover/accessibility-testing-part-one/image-3.png)
 
 Diese Farbkombination verursacht auch drei der anderen Probleme.
 
@@ -56,7 +56,7 @@ Diese Farbkombination verursacht auch drei der anderen Probleme.
 
 Die beiden anderen Probleme werden durch einen Grauton in der Zwischenüberschrift verursacht.
 
-![](/assets/blog/en/accessibility-testing-one/image-4.png)
+![](/assets/cover/accessibility-testing-part-one/image-4.png)
 
 Das Grau (`#737373`) selbst würde mit einem Kontrastverhältnis von **8,59:1** auf einem weißen (`#FFFFFF`) Hintergrund ausreichen, aber es wurde eine Deckkraft von `rgba(115, 115, 115, 0,74)` eingestellt, die den Kontrast auf **2,95:1** abschwächt.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Accessibility: Das Was, Warum, und Wie'
 excerpt: 'Der Barrierefreiheit im Internet wird in letzter Zeit glücklicherweise immer mehr Aufmerksamkeit geschenkt. Aber viele Menschen wissen immer noch nicht, was Barrierefreiheit im Internet eigentlich ist und warum sie so wichtig ist. Verschaffen wir uns einen Überblick über Barrierefreiheit, indem ich euch in dieses Thema einführe ...'
-coverImage: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
+coverImage: '/assets/cover/accessibility-the-what-why-&-how/cover.png'
 date: '2022-10-09T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
+  url: '/assets/cover/accessibility-the-what-why-&-how/cover.png'
 ogPost:
   url: ''
 readingTime: 5

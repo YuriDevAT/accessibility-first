@@ -1,7 +1,7 @@
 ---
 title: '聾盲'
-excerpt: '聾盲と聞くと、「じゃあどうやってコミュニケーションをとるの？」と思うかもしれません。そして、コミュニケーションに関する勉強をしたことがある人なら、ポール・ワツラウィックの「人はコミュニケーションをとらないことはできない」を、あの不気味なエコーとともに、今頃昔の教授がつきまとっていることでしょう。'
-coverImage: '/assets/blog/en/deaf-blindness/cover.png'
+excerpt: '聾盲と聞くと、「じゃあどうやってコミュニケーションをとるの？」と思うかもしれません。そして、コミュニケーションに関する勉強をしたことがある人なら、ポール・ワツラウィックの「人はコミュニケーションをとらないことはできない」を、あの不気味なエコーとともに、今頃昔の教授がつきまとっていることでしょう。。。'
+coverImage: '/assets/cover/deaf-blindness/cover.png'
 date: '2023-09-21T10:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/deaf-blindness/cover.jpg'
+  url: '/assets/cover/deaf-blindness/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/deaf-blindness'
 readingTime: 3

@@ -1,7 +1,7 @@
 ---
 title: '脆弱な顧客'
 excerpt: 'ご存知でしたか？オーストリアでは30万人がドイツ語をまったく知らないか、あまり知らないのです。56％にとって、第一言語でコミュニケーションが取れることは、価格帯よりも重要である！16歳から65歳の7.1%は、ドイツ語をほとんど話せません。。。'
-coverImage: '/assets/blog/en/vulnerable-customers/cover.png'
+coverImage: '/assets/cover/vulnerable-customers/cover.png'
 date: '2023-07-31T10:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/vulnerable-customers/cover.jpg'
+  url: '/assets/cover/vulnerable-customers/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/vulnerable-customers'
 readingTime: 3

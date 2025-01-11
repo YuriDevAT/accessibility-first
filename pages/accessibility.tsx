@@ -47,6 +47,7 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     'coverImage',
     'excerpt',
     'category',
+    'readingTime',
   ]);
 
   allPosts.sort(

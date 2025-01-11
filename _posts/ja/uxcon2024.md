@@ -1,7 +1,7 @@
 ---
 title: 'uxconでお会いしましょう'
 excerpt: '今年ウィーンで開催されるuxconで、ローラとユリアは、要件を満たすだけでなく、チェックリストをはるかに超えるウェブサイトの作成とテスト方法についてのワークショップを開催します。。。'
-coverImage: '/assets/blog/en/uxcon2024/cover.png'
+coverImage: '/assets/cover/uxcon2024/cover.png'
 date: '2024-04-29T10:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/uxcon2024/cover.png'
+  url: '/assets/cover/uxcon2024/cover.png'
 ogPost:
   url: ''
 readingTime: 1

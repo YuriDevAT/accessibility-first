@@ -1,7 +1,7 @@
 ---
 title: 'Warum es nicht ausreicht, die WCAG zu erfüllen'
 excerpt: 'Alle Welt redet über den European Accessibility Act, und viele sehnen sich nach klaren Anweisungen, was zu tun ist. Ich will dir nicht zu nahe treten, aber ...'
-coverImage: '/assets/blog/en/why-fulfilling-the-wcag-is-not-enough/cover.png'
+coverImage: '/assets/cover/why-fulfilling-the-wcag-is-not-enough/cover.png'
 date: '2024-01-16T10:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/why-fulfilling-the-wcag-is-not-enough/cover.jpg'
+  url: '/assets/cover/why-fulfilling-the-wcag-is-not-enough/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-fulfilling-the-wcag-is-not-enough'
 readingTime: 3

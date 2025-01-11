@@ -1,7 +1,7 @@
 ---
 title: 'POUR - Die 4 Web Barrierefreiheitsprinzipien'
 excerpt: 'Um deine Webseite und Webanwendung als zugänglich im Sinne der Zugänglichkeitsrichtlinien für Webinhalte (WCAG 2.0) zu qualifizieren, die von der Web Accessibility Initiative (W3C WAI) des World Wide Web Consortiums aufgestellt wurden, muss der Inhalt diese vier Grundsätze (die das Akronym POUR bilden) erfüllen ...'
-coverImage: '/assets/blog/en/pour-the-4-web-accessibility-principles/cover.png'
+coverImage: '/assets/cover/pour-the-4-web-accessibility-principles/cover.png'
 date: '2022-07-17T07:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/pour-the-4-web-accessibility-principles/cover.png'
+  url: '/assets/cover/pour-the-4-web-accessibility-principles/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/pour-the-4-web-accessibility-principles-edp'
 readingTime: 5

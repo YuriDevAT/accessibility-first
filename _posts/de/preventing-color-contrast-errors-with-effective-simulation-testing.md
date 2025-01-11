@@ -1,7 +1,7 @@
 ---
 title: 'Farbkontrastfehler vorbeugen mit effektivem Simulation-Testing'
 excerpt: 'Haben Sie schon einmal versucht, Text auf einem Bildschirm zu lesen, aber fanden es aufgrund der Farbgebung schwierig, ihn einwandfrei lesen zu können? Oder hatten Sie Schwierigkeiten, Inhalte auf einem Bildschirm ...'
-coverImage: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
+coverImage: '/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 date: '2024-05-16T08:35:07.322Z'
 tags: 'Blog'
 category: 'QA Testing'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
+  url: '/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 ogPost:
   url: ''
 readingTime: 8
@@ -29,14 +29,14 @@ Durch eine implementierte Emulation ist es möglich, einen Effekt zu erzeugen, d
 
 Der Farbkontrast ist das Verhältnis des Kontrasts zwischen zwei oder mehreren Komponenten. Um zugänglich zu sein, muss ein angemessener Kontrast zwischen der Farbe der Information im Vordergrund und der Farbe des Hintergrunds bestehen.
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-4.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-4.png)
 _Quelle: [WebAIM Million Report](https://webaim.org/projects/million/). Letztes Update: 28. März, 2024_
 
 Wie die jährliche [Studie von WebAIM](https://webaim.org/projects/million/) zeigt, ist ein zu geringer Farbkontrast der häufigste automatisch identifizierte Accessibility Fehler im Web. Mehr als 80% aller getesteten Homepages haben einen zu geringen Farbkontrast.
 
 Kontrast und Farbe sind entscheidende Faktoren in Bezug auf Barrierefreiheit. Inhalte einer Webseite müssen für alle User, ungeachtet ob Sehbehinderung oder nicht, wahrnehmbar sein.
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-5.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-5.png)
 _Quelle: [WebAIM Million Report](https://webaim.org/projects/million/). Letztes Update: 28. März, 2024_
 
 Hier nochmal die Ergebnisse in Tabellenform. Homepages mit den meisten WCAG 2 Fehlern, gegliedert in WCAG-Fehlertyp und wieviel Prozent der Homepages davon betroffen sind. Geringer Farbkontrast 81%, fehlender Alternativtext von Bildern 54,5%, fehlende Form Input Labels 48,6%, leere Links / kein vorhandener Linktext 44,6%, leere Buttons / kein vorhandener Buttontext 28.2%, fehlende Dokumentsprache / Sprache der Homepage: 17,1%.
@@ -91,7 +91,7 @@ Um die Sehschwächen zu simulieren,
 - Klicke auf **Weitere Tools**
 - Klicke auf **Entwicklertools**
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-1.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-1.png)
 
 ### Öffne Rendering Optionen
 
@@ -99,7 +99,7 @@ Um die Sehschwächen zu simulieren,
 - Klicke auf **Weitere Tools**
 - Klicke auf **Rendering**
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-2.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-2.png)
 
 Wähle nun eine der folgenden Optionen in der Drop-Down Liste unter **Sehschwächen emulieren** aus:
 
@@ -111,7 +111,7 @@ Wähle nun eine der folgenden Optionen in der Drop-Down Liste unter **Sehschwäc
 - Tritanopia (No Blue) (dt. Tritanopie (kein Blau))
 - Achromatopsia (No Color) (dt. Achromatopsie (keine Farbe))
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-3.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-3.png)
 
 Die Webseite wird nun mit der gewählten Sehschwäche simuliert und aktualisiert sich mit jeder neuen Auswahl.
 
@@ -125,37 +125,37 @@ Schauen wir uns an, wie diese bunten Farben der Pokémon auf Menschen mit bestim
 
 ### Originales Bild – Trichromacy
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/original.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/original.png)
 Ein farbenfrohes Bild der Starter- Pokémon der ersten Generation, bei dem keine Farbsehschwäche simuliert wird.
 
 ### Unscharfe Sicht
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/blurred.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/blurred.png)
 Die Auswirkungen der Simulation von unscharfer Sicht auf das originale Bild.
 
 ### Verminderter Kontrast
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/reduced.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/reduced.png)
 Die Auswirkungen der Simulation von reduziertem Kontrast auf das originale Bild.
 
 ### Protanopie (Rotblindheit)
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/protan-no-red.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/protan-no-red.png)
 Die Auswirkungen der Simulation von Protanopie auf das originale Bild.
 
 ### Deuteranopie (Grünblindheit)
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/deuter-no-green.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/deuter-no-green.png)
 Die Auswirkungen der Simulation von Deuteranopie auf das originale Bild.
 
 ### Tritanopie (Blaublindheit)
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/trita-no-blue.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/trita-no-blue.png)
 Die Auswirkungen der Simulation von Tritanopie auf das originale Bild.
 
 ### Achromatopsie (Farbenblindheit)
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/achrom-no-color.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/achrom-no-color.png)
 Die Auswirkungen der Simulation von Achromatopsie auf das originale Bild.
 
 ## Fazit

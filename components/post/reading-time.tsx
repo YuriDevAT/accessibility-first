@@ -9,9 +9,9 @@ const ReadingTime = ({ time }: Props) => {
   const { t } = useTranslation('reading-time');
 
   return (
-    <p>
+    <span className="inline-block text-sm font-mono mb-2 text-gray-500 dark:text-slate-400">
       {time}{t('p1')}{t('p2')}
-    </p>
+    </span>
   );
 };
 

@@ -2,6 +2,7 @@ import useTranslation from 'next-translate/useTranslation';
 import PostPreview from './post-preview';
 import type Post from '../../interfaces/post';
 import Link from 'next/link';
+import HeadingSeparator from '../heading-separator';
 
 type Props = {
   posts: Post[];
@@ -9,14 +10,23 @@ type Props = {
 
 const MorePosts = ({ posts }: Props) => {
   const { t } = useTranslation('more-posts');
-  const MAX_POSTS = 8;
+  const MAX_POSTS = 6;
 
   return (
     <section>
-      <h2 className="mb-8 text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
-        {t('h2')}
-      </h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-28 mb-32">
+      <div className="flex justify-between items-center mb-8 ">
+        <h2 className="text-2xl font-semibold tracking-tight leading-tight">
+          {t('h2')}
+        </h2>
+        <Link
+          className="text-2xl mb-3 p-2 w-fit underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none decoration-4 focus:outline outline-inherit outline-offset-1 after:content-['→']"
+          href="/all-posts"
+        >
+          {t('button')}
+        </Link>
+      </div>
+      <HeadingSeparator />
+      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 gap-y-12">
         {posts.slice(0, MAX_POSTS).map((post) => (
           <PostPreview
             key={post.slug}
@@ -26,15 +36,11 @@ const MorePosts = ({ posts }: Props) => {
             author={post.author}
             slug={post.slug}
             excerpt={post.excerpt}
+            readingTime={post.readingTime}
+            category={post.category}
           />
         ))}
       </div>
-      <Link
-        className="block mb-3 p-2 w-fit text-2xl underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none decoration-4 focus:outline outline-inherit outline-offset-1 after:content-['→']"
-        href="/all-posts"
-      >
-        {t('button')}
-      </Link>
     </section>
   );
 };

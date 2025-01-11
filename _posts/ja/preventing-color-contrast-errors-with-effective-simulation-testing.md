@@ -1,7 +1,7 @@
 ---
 title: '効果的なシミュレーション・テストでカラー・コントラスト・エラーを防ぐ'
 excerpt: '特に、視覚障害者がウェブ上の色やコンテンツをどのように認識しているかを正確に把握していない場合はなおさらです。Google Chrome DevToolsは、このような視覚障害をシミュレートすることで、アクセシブルな色やフォントの組み合わせを選択するためのシンプルなソリューションを提供します。。。'
-coverImage: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
+coverImage: '/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 date: '2024-05-16T08:35:07.322Z'
 tags: 'Blog'
 category: 'QA Testing'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
+  url: '/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 ogPost:
   url: ''
 readingTime: 8
@@ -29,14 +29,14 @@ Google Chromeは、デザイナー、開発者、そしてテキストや色の�
 
 色のコントラストは、2つ以上のコンポーネント間のコントラストの比率です。アクセシブルであるためには、前景情報の色と背景の色の間に十分なコントラストが必要です。
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-4.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-4.png)
 _S出典：[WebAIM Million Report](https://webaim.org/projects/million/). 最終更新日：2024年3月28日_
 
 [WebAIMの年次調査](https://webaim.org/projects/million/)が示すように、不十分な色のコントラストはウェブ上で最も一般的に自動的に特定されるアクセシビリティエラーです。テストされたホームページの80％以上が不十分な色のコントラストを持っています。
 
 コントラストと色は、アクセシビリティに関する重要な要素です。ウェブページのコンテンツは、視覚障害の有無に関係なく、全てのユーザーに知覚可能でなければなりません。
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-5.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-5.png)
 _出典：[WebAIM Million Report](https://webaim.org/projects/million/). 最終更新日：2024年3月28日_
 
 以下は、表形式の結果です。WCAG 2エラーの最も多いホームページ、エラーの種類別および影響を受けるホームページの割合：不十分な色のコントラスト 81％、画像の代替テキストの欠如 54.5％、フォーム入力ラベルの欠如 48.6％、リンクが空/リンクテキストなし 44.6％、ボタンが空/ボタンテキストなし 28.2％、ドキュメント言語/ホームページ言語の欠如 17.1％。
@@ -91,7 +91,7 @@ _出典：[WebAIM Million Report](https://webaim.org/projects/million/). 最終�
 - **More Tools**をクリック
 - **Developer Tools**をクリック
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-1.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-1.png)
 
 ### レンダリングオプションを開く
 
@@ -99,7 +99,7 @@ _出典：[WebAIM Million Report](https://webaim.org/projects/million/). 最終�
 - **More Tools**をクリック
 - **Rendering**をクリック
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-2.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-2.png)
 
 次に、**視覚障害をエミュレート**のドロップダウンリストで次のオプションのいずれかを選択します：
 
@@ -111,7 +111,7 @@ _出典：[WebAIM Million Report](https://webaim.org/projects/million/). 最終�
 - Tritanopia (No Blue) (トリタノピア（青なし）)
 - Achromatopsia (No Color) (アクロマトプシア（色なし）)
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/img-3.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/img-3.png)
 
 ウェブページは、選択した視覚障害でシミュレートされ、新しい選択ごとに更新されます。
 
@@ -125,37 +125,37 @@ _出典：[WebAIM Million Report](https://webaim.org/projects/million/). 最終�
 
 ### 元の画像 - 三色視
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/original.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/original.png)
 色覚異常をシミュレートしていない、第一世代のスターターポケモンのカラフルな画像。
 
 ### ぼやけた視力
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/blurred.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/blurred.png)
 元の画像に対してぼやけた視力をシミュレートした効果。
 
 ### コントラストの低下
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/reduced.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/reduced.png)
 元の画像に対してコントラストの低下をシミュレートした効果。
 
 ### プロタノピア（赤なし）
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/protan-no-red.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/protan-no-red.png)
 元の画像に対してプロタノピアをシミュレートした効果。
 
 ### デュータノピア（緑なし）
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/deuter-no-green.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/deuter-no-green.png)
 元の画像に対してデュータノピアをシミュレートした効果。
 
 ### トリタノピア（青なし）
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/trita-no-blue.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/trita-no-blue.png)
 元の画像に対してトリタノピアをシミュレートした効果。
 
 ### アクロマトプシア（色なし）
 
-![](/assets/blog/en/preventing-color-contrast-errors-with-effective-simulation-testing/achrom-no-color.png)
+![](/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/achrom-no-color.png)
 元の画像に対してアクロマトプシアをシミュレートした効果。
 
 ## 結論

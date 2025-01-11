@@ -1,7 +1,7 @@
 ---
 title: 'Web accessibility for better togetherness'
-excerpt: 'The Vienna district where I live organizes an event called “Miteinander in Mariahilf” (en.: Together in Mariahilf), where locals can contribute different ideas for a better living together. This is where my specialty web accessibility comes into action. Let me share my thoughts....'
-coverImage: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
+excerpt: 'The Vienna district where I live organizes an event called “Miteinander in Mariahilf” (en.: Together in Mariahilf), where locals can contribute different ideas for a better living together. This is where my specialty web accessibility comes into action. Let me share my thoughts ...'
+coverImage: '/assets/cover/accessibility-for-a-better-togetherness/cover.png'
 date: '2022-07-07T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-for-a-better-togetherness/cover.png'
+  url: '/assets/cover/accessibility-for-a-better-togetherness/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/web-accessibility-for-better-togetherness-4kof'
 readingTime: 1

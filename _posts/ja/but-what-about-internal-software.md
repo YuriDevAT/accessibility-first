@@ -1,7 +1,7 @@
 ---
 title: 'しかし、社内のソフトウェアについてはどうでしょうか？'
-excerpt: 'European Accessibility Act（EAA）に対するパニックが高まる中、私は、社内ツールやSaaS製品に携わっているため、EAAは自分たちには適用されないと ...'
-coverImage: '/assets/blog/en/but-what-about-internal-software/cover.png'
+excerpt: 'European Accessibility Act（EAA）に対するパニックが高まる中、私は、社内ツールやSaaS製品に携わっているため、EAAは自分たちには適用されないと。。。'
+coverImage: '/assets/cover/but-what-about-internal-software/cover.png'
 date: '2024-06-21T10:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/but-what-about-internal-software/cover.jpg'
+  url: '/assets/cover/but-what-about-internal-software/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/but-what-about-internal-software'
 readingTime: 3

@@ -1,7 +1,7 @@
 ---
 title: 'Monatlicher a11y-Newsletter'
 excerpt: 'Es gibt viele Ressourcen und Veranstaltungen, die außerhalb der Online-Accessibility Bubble schwer zu finden sind. Gatekeeping ist das Gegenteil von Barrierefreiheit. Deshalb verschicke ich (ungefähr) einmal im Monat einen Newsletter über anstehende Veranstaltungen zur Barrierefreiheit im Internet ...'
-coverImage: '/assets/blog/en/newsletter/cover.png'
+coverImage: '/assets/cover/newsletter/cover.png'
 date: '2024-01-22T11:35:07.322Z'
 tags: 'Blog'
 category: 'News'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/newsletter/cover.png'
+  url: '/assets/cover/newsletter/cover.png'
 ogPost:
   url: ''
 readingTime: 2

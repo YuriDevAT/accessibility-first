@@ -1,7 +1,7 @@
 ---
 title: 'Doch was ist mit interner Software?'
 excerpt: 'Während die Panik vor dem European Accessibility Act (EAA) zunimmt, treffe ich immer wieder auf Menschen, die sich sicher sind, dass dies nicht auf sie zutrifft, weil sie an internen Tools ...'
-coverImage: '/assets/blog/en/but-what-about-internal-software/cover.png'
+coverImage: '/assets/cover/but-what-about-internal-software/cover.png'
 date: '2024-06-21T10:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/but-what-about-internal-software/cover.jpg'
+  url: '/assets/cover/but-what-about-internal-software/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/but-what-about-internal-software'
 readingTime: 3

@@ -17,6 +17,8 @@ module.exports = {
       'second-navigation',
       'mobile-nav',
       'reading-time',
+      'category',
+      'video'
     ],
     '/all-posts': ['all-posts'],
     '/about': ['about', 'team'],

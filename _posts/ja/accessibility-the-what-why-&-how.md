@@ -1,7 +1,7 @@
 ---
 title: 'アクセシビリティ何を、なぜ、どのように'
 excerpt: 'ウェブ・アクセシビリティは、幸いにも最近ますます注目されるようになってきました。しかし、ウェブ・アクセシビリティが実際にどのようなもので、なぜ重要なのかを知らない人はまだ多い。このトピックを紹介することで、アクセシビリティに関する全体的な理解を深めましょう。。。'
-coverImage: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
+coverImage: '/assets/cover/accessibility-the-what-why-&-how/cover.png'
 date: '2022-10-09T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/accessibility-the-what-why-&-how/cover.png'
+  url: '/assets/cover/accessibility-the-what-why-&-how/cover.png'
 ogPost:
   url: ''
 readingTime: 5

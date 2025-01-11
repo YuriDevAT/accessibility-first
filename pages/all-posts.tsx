@@ -51,7 +51,7 @@ const AllPosts = ({ allPosts }: Props) => {
 export default AllPosts;
 
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
-  const allPosts = getAllPosts(locale!, [
+  let allPosts = getAllPosts(locale!, [
     'title',
     'date',
     'slug',
@@ -59,7 +59,11 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     'coverImage',
     'excerpt',
     'category',
+    'readingTime',
+    'tags',
   ]);
+
+  allPosts = allPosts.filter((post) => !post.tags?.includes('Video'));
 
   allPosts.sort(
     (post1, post2) =>

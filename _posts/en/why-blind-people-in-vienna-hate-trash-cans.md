@@ -1,7 +1,7 @@
 ---
 title: 'Why blind people in Vienna hate trashcans'
-excerpt: 'When I first started doing research for Hope Tech’s Sixth Sense, we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars,...'
-coverImage: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.png'
+excerpt: 'When I first started doing research for Hope Tech’s Sixth Sense, we quickly encountered the challenge of “What exactly should we define as a threat and what would just be an obstacle? For the classification of threats, my mind went immediately to traffic, moving cars, ...'
+coverImage: '/assets/cover/why-blind-people-in-vienna-hate-trash-cans/cover.png'
 date: '2023-10-04T05:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
+  url: '/assets/cover/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 readingTime: 3
@@ -36,6 +36,6 @@ Do you see where I’m going with this? The white cane scanning on the ground an
 
 In the context of Hope Tech, this will most likely be an everyday use case. One that no one on the team saw coming: Avoiding those sneaky trash cans. But long term, I’d like to see the city of Vienna take this into consideration as well. So if anybody who is remotely responsible for the trash cans is reading this, hit me up! I’d love to help you solve this accessibility issue.
 
-![A grey and orange trash bin mounted on a blue bus stop sign in Vienna. In the background, white hibiscus flowers are blooming in front of one of the historical facades in Vienna’s first district.](/assets/blog/en/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
+![A grey and orange trash bin mounted on a blue bus stop sign in Vienna. In the background, white hibiscus flowers are blooming in front of one of the historical facades in Vienna’s first district.](/assets/cover/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
 
 This blog post was particularly inspired by user interviews with two residents of Vienna, who are legally blind. However, both of them experienced progressive sight loss over a longer period of time. In this post, I refer to them as blind because that is how they described themselves, but I am convinced that the trashcan issue extends to almost, if not all users of the white cane.

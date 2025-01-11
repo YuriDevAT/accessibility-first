@@ -63,7 +63,7 @@ const AccessibilityStatement = () => {
             <li>
               {t('li8')}
               <a
-                href="https://www.linkedin.com/company/accessibilityfirst/"
+                href="https://www.linkedin.com/in/juliaundeutsch/"
                 className="underline"
               >
                 {t('a3')}

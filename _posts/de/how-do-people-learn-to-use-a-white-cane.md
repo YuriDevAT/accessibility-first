@@ -1,7 +1,7 @@
 ---
 title: 'Wie lernt jemand, einen Blindenstock zu benutzen?'
 excerpt: 'Beim ersten echten Benutzertest setzten wir unseren Prototyp schließlich einer tatsächlich blinden Person auf, anstatt einem Ingenieur mit verbundenen Augen. Der Teilnehmer gab uns einen tollen Tipp: Wir sollten uns mit einem Mobilitätsberater in Verbindung setzen, denn es gibt keinen Industriestandard für haptische ...'
-coverImage: '/assets/blog/en/how-do-people-learn-to-use-a-white-cane/cover.png'
+coverImage: '/assets/cover/how-do-people-learn-to-use-a-white-cane/cover.png'
 date: '2023-10-16T05:35:07.322Z'
 tags: 'Blog'
 category: 'UX Research'
@@ -9,7 +9,7 @@ author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.jpg'
 ogImage:
-  url: '/assets/blog/en/how-do-people-learn-to-use-a-white-cane/cover.png'
+  url: '/assets/cover/how-do-people-learn-to-use-a-white-cane/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/how-do-people-learn-to-use-a-white-cane'
 readingTime: 6

@@ -1,7 +1,7 @@
 ---
 title: 'アクセシビリティに関する神話と誤解'
 excerpt: 'この記事では、アクセシビリティに関する一般的な神話や反論を取り上げ、それらを否定し、アクセシビリティを支持する根拠や事例を紹介します。。。'
-coverImage: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
+coverImage: '/assets/cover/myths-and-misconceptions-about-accessibility/cover.png'
 date: '2022-07-10T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
+  url: '/assets/cover/myths-and-misconceptions-about-accessibility/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab'
 readingTime: 3
@@ -57,7 +57,7 @@ readingTime: 3
 
 正直なところ、右側にある完全にアクセシブルなボタンが醜い世界ってどんな世界でしょうか？
 
-![codepenのペンで2つのボタンを表示。1つはデフォルトのビジュアルがグレーで、もう1つは青い背景に白いテキストと丸みを帯びたボーダーのスタイル。](/assets/blog/en/myths-and-misconceptions-about-accessibility/image-1.png)
+![codepenのペンで2つのボタンを表示。1つはデフォルトのビジュアルがグレーで、もう1つは青い背景に白いテキストと丸みを帯びたボーダーのスタイル。](/assets/cover/myths-and-misconceptions-about-accessibility/image-1.png)
 
 [コードを取得するにはcodepenへ](https://codepen.io/YuriDevAT/pen/eYMzpgw)
 

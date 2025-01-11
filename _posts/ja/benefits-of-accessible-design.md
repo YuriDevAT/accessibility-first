@@ -1,7 +1,7 @@
 ---
 title: 'アクセシブル・デザインの利点'
 excerpt: '前回の記事「アクセシビリティに関する神話と誤解」では、アクセシビリティの恩恵を受けるのは一部の人だけだと人々が考えていることについてお話ししました。実際のところ、アクセシビリティは幅広い人々、社会、経済に恩恵をもたらします。。。'
-coverImage: '/assets/blog/en/benefits-of-accessible-design/cover.png'
+coverImage: '/assets/cover/benefits-of-accessible-design/cover.png'
 date: '2022-07-14T07:35:07.322Z'
 tags: 'Blog'
 category: 'UX Design'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/benefits-of-accessible-design/cover.png'
+  url: '/assets/cover/benefits-of-accessible-design/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/benefits-of-accessible-design-4m2a'
 readingTime: 3

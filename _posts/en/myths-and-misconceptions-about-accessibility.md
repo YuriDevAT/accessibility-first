@@ -1,7 +1,7 @@
 ---
 title: 'Myths and Misconceptions about Accessibility'
-excerpt: 'In this article, I will address common myths about and objections to accessibility by presenting evidence and examples that debunk them and support reasons for accessibility....'
-coverImage: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
+excerpt: 'In this article, I will address common myths about and objections to accessibility by presenting evidence and examples that debunk them and support reasons for accessibility ...'
+coverImage: '/assets/cover/myths-and-misconceptions-about-accessibility/cover.png'
 date: '2022-07-10T05:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/myths-and-misconceptions-about-accessibility/cover.png'
+  url: '/assets/cover/myths-and-misconceptions-about-accessibility/cover.png'
 ogPost:
   url: 'https://dev.to/yuridevat/myths-and-misconceptions-about-accessibility-48ab'
 readingTime: 3
@@ -57,7 +57,7 @@ Most accessibility features are invisible anyway and usually only accessible to 
 
 And let's face it, in what world is that fully accessible button on the right ugly?!
 
-![A pen in codepen showing two buttons, one with default visuals grey in grey and one styled in blue background and white text and rounded borders.](/assets/blog/en/myths-and-misconceptions-about-accessibility/image-1.png)
+![A pen in codepen showing two buttons, one with default visuals grey in grey and one styled in blue background and white text and rounded borders.](/assets/cover/myths-and-misconceptions-about-accessibility/image-1.png)
 
 [Go to codepen to get the code!](https://codepen.io/YuriDevAT/pen/eYMzpgw)
 

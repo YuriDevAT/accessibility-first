@@ -1,7 +1,7 @@
 ---
 title: 'No Usability Without Accessibility – Commonalities and Differences Of Usability and Accessibility'
-excerpt: 'Usability and accessibility are closely related aspects of web development. Some mistakenly think that these two terms are interchangeable, even though they are different, their goals, approaches, and guidelines can overlap significantly, and one (accessibility) can exist without the other (usability)...'
-coverImage: '/assets/blog/en/no-usability-without-accessibility/cover.png'
+excerpt: 'Usability and accessibility are closely related aspects of web development. Some mistakenly think that these two terms are interchangeable, even though they are different, their goals, approaches, and guidelines can overlap significantly, and one (accessibility) can exist without the other (usability) ...'
+coverImage: '/assets/cover/no-usability-without-accessibility/cover.png'
 date: '2024-11-14T09:35:07.322Z'
 tags: 'Blog'
 category: 'Accessibility'
@@ -9,7 +9,7 @@ author:
   name: 'Julia Undeutsch'
   picture: '/assets/authors/julia.jpg'
 ogImage:
-  url: '/assets/blog/en/no-usability-without-accessibility/cover.png'
+  url: '/assets/cover/no-usability-without-accessibility/cover.png'
 ogPost:
   url: ''
 readingTime: 6
@@ -60,7 +60,7 @@ Thus, accessibility increases the chances that more people will be able to use a
 
 Although accessibility is primarily aimed at people with disabilities and impairments, such as low vision, many accessibility requirements improve usability for all users. A keyboard-friendly website, for example, benefits both users with motor disabilities and users who prefer a keyboard to a mouse.
 
-![A part of Usability overlapping with Accessibility results to universal design.](/assets/blog/en/no-usability-without-accessibility/image-1.png)
+![A part of Usability overlapping with Accessibility results to universal design.](/assets/cover/no-usability-without-accessibility/image-1.png)
 
 An important connection between accessibility and usability is that without accessibility, people with disabilities who use assistive technology have no way to make up their minds about the usability of the software.
 
