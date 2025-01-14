@@ -6,7 +6,7 @@ import Document, {
   DocumentContext,
   DocumentInitialProps,
 } from 'next/document';
-import { Analytics } from '@vercel/analytics/react';
+import { Analytics } from '@vercel/analytics/next';
 import Meta from '../components/meta';
 
 interface MyDocumentProps extends DocumentInitialProps {
