@@ -25,9 +25,9 @@ const Accessibility = ({ allPosts }: Props) => {
         <title>{title}</title>
       </Head>
       <Container>
-        <h1 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
+        <h2 className="mt-16 text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
           {t('title')}
-        </h1>
+        </h2>
         <section className="mt-16 mb-32">
           <PostGrid posts={posts} />
         </section>
