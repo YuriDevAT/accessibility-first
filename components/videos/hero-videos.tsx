@@ -29,7 +29,7 @@ const HeroVideos = ({ heroVideo, otherVideos }: HeroPostProps) => {
           {t('h2')}
         </h2>
         <Link
-          className="text-2xl mb-3 p-2 w-fit underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none decoration-4 focus:outline outline-inherit outline-offset-1 after:content-['→']"
+          className="text-2xl mb-3 py-2 text-right w-fit underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none decoration-4 focus:outline outline-inherit outline-offset-1 after:content-['→']"
           href="https://www.youtube.com/@yuridevat/playlists"
         >
           {t('button')}
@@ -60,7 +60,7 @@ const HeroVideos = ({ heroVideo, otherVideos }: HeroPostProps) => {
               key={video.title}
               className=" border-slate-500 border-b last:border-b-0 pb-2"
             >
-              <div className="mb-5 bg-red-200">
+              <div className="mb-5">
                 <CoverImage src={video.coverImage} />
               </div>
               <div className="mb-6">

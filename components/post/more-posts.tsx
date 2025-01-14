@@ -19,7 +19,7 @@ const MorePosts = ({ posts }: Props) => {
           {t('h2')}
         </h2>
         <Link
-          className="text-2xl mb-3 p-2 w-fit underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none decoration-4 focus:outline outline-inherit outline-offset-1 after:content-['→']"
+          className="text-2xl mb-3 py-2 text-right w-fit underline transition-all duration-300 ease-in-out hover:decoration-8 motion-reduce:hover:transition-none decoration-4 focus:outline outline-inherit outline-offset-1 after:content-['→']"
           href="/all-posts"
         >
           {t('button')}

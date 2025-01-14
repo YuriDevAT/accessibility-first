@@ -55,7 +55,7 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
         </p>
         <div className="flex items-center">
           <Avatar name={author.name} picture={author.picture} />
-          <p className="ml-4 text-lg font-mono font-light dark:text-slate-200">
+          <p className="ml-2 text-base font-mono font-light dark:text-slate-200">
             · <DateFormatter dateString={date} />
           </p>
         </div>
@@ -66,7 +66,7 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
             key={post.slug}
             className="grid grid-cols-1 md:grid-cols-[auto,1fr] md:gap-x-4 gap-y-2 border-slate-500 border-b last:border-b-0 pb-2"
           >
-            <div className="mb-5 h-44 w-44 bg-red-200">
+            <div className="mb-5 lg:h-44 lg:w-44 w-auto h-52">
               <CoverImage slug={post.slug} src={post.coverImage} />
             </div>
             <div className="mb-6">
@@ -85,7 +85,7 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
               </p>
               <div className="flex items-center flex-wrap">
                 <Avatar name={author.name} picture={author.picture} />
-                <p className="ml-4 text-lg font-mono font-light dark:text-slate-200">
+                <p className="ml-2 text-base font-mono font-light dark:text-slate-200">
                   · <DateFormatter dateString={date} />
                 </p>
               </div>

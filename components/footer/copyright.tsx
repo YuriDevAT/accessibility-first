@@ -5,7 +5,7 @@ export function CopyRight() {
 
   return (
     <div className="border-t border-t-1px border-stone-300 dark:border-slate-800 py-6 flex flex-wrap-reverse sm:justify-center lg:justify-between sm:items-center">
-      <p>
+      <p className="mr-1">
         © 2022-{new Date().getFullYear()} {t('p1')}
       </p>
       <p>
