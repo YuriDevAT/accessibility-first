@@ -6,6 +6,7 @@ import Document, {
   DocumentContext,
   DocumentInitialProps,
 } from 'next/document';
+import { Analytics } from '@vercel/analytics/react';
 import Meta from '../components/meta';
 
 interface MyDocumentProps extends DocumentInitialProps {
@@ -21,6 +22,7 @@ const MyDocument = ({ locale }: MyDocumentProps) => {
       <body className="bg-stone-50 text-stone-950 dark:bg-slate-800 dark:text-slate-400 font-body">
         <Main />
         <NextScript />
+        <Analytics />
       </body>
     </Html>
   );

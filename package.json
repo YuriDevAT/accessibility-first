@@ -1,6 +1,6 @@
 {
   "name": "accessibility-first",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "private": true,
   "homepage": "https://accessibilityfirst.at",
   "description": "Accessibility First by Julia Undeutsch is a collection of insights, learnings, and experiences from industry professionals to spread awareness and help you eradicate invisible barriers.",
@@ -37,6 +37,7 @@
     "@types/react-icons": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^7.15.0",
     "@typescript-eslint/parser": "^7.15.0",
+    "@vercel/analytics": "^1.4.1",
     "classnames": "^2.3.2",
     "date-fns": "^2.28.0",
     "force": "^0.0.3",
