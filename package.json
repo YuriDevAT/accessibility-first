@@ -38,6 +38,7 @@
     "@typescript-eslint/eslint-plugin": "^7.15.0",
     "@typescript-eslint/parser": "^7.15.0",
     "@vercel/analytics": "^1.4.1",
+    "@vercel/speed-insights": "^1.1.0",
     "classnames": "^2.3.2",
     "date-fns": "^2.28.0",
     "force": "^0.0.3",
