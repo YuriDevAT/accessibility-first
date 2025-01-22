@@ -11,11 +11,11 @@ const MainNav = () => {
         {t(`label`)}
       </h2>
       <ul className="flex space-x-4 items-center">
-        {nav.map((item) => (
+        {nav.map((item, index) => (
           <li key={item.key}>
             <Link
               href={item.path}
-              className="block focus:outline outline-inherit outline-offset-1 px-6"
+              className={`block focus:outline outline-inherit outline-offset-1 px-6 ${index === nav.length - 1 ? 'border-2 border-pink-500 p-1 rounded bg-pink-50 text-slate-950' : ''}`}
             >
               {t(`links.${item.key}`)}
             </Link>

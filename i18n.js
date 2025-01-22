@@ -20,6 +20,7 @@ module.exports = {
       'category',
       'video',
       'newsletter',
+      'webinar',
     ],
     '/all-posts': ['all-posts'],
     '/about': ['about', 'team'],
