@@ -52,7 +52,7 @@ const WebinarSeries = () => {
                   }`}
                   href={webinar.event}
                 >
-                  Register to the event
+                  Register to {webinar.title}
                 </a>
                 <a
                   className={`mb-4 text-lg block ${
@@ -62,7 +62,7 @@ const WebinarSeries = () => {
                   }`}
                   href={webinar.slides}
                 >
-                  Get the slides
+                  Slides: {webinar.title}
                 </a>
                 <a
                   className={`mb-4 text-lg block ${
@@ -70,7 +70,7 @@ const WebinarSeries = () => {
                   }`}
                   href={webinar.video}
                 >
-                  Watch the recording
+                  Recording {webinar.title}
                 </a>
               </li>
             ))}
