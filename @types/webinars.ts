@@ -3,6 +3,6 @@ export type Webinar = {
   date: string;
   time: string;
   event?: `https://${string}`;
-  video?: `https://www.youtube.com/${string}`;
+  video?: `https://youtu.be/${string}`;
   slides?: `https://docs.google.com/presentation/${string}`;
 };

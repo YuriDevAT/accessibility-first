@@ -7,7 +7,7 @@ export const webinars: Webinar[] = [
     time: '5:00 PM CET',
     event:
       'https://gdg.community.dev/events/details/google-gdg-vienna-presents-getting-started-with-designing-for-web-accessibility-2025-01-23/',
-    video: undefined,
+    video: 'https://youtu.be/3Ev3TzfIiWc?si=tas8Hc3ed_1zn9-k',
     slides:
       'https://docs.google.com/presentation/d/1_C_VXnk9QIFhIirLy8blyzudBXpz1xHZV2TsCStRkXM/edit?usp=drive_link',
   },
