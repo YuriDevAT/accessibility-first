@@ -8,6 +8,22 @@ import { MdOutlinePodcasts } from 'react-icons/md';
 
 export const events: Event[] = [
   {
+    title: 'Testing Tools for Accessibility Enhancement',
+    icon: GiVideoConference,
+    speaker: 'Julia',
+    date: 'February 27, 2025',
+    type: 'Talk',
+    location: 'GDG Vienna',
+  },
+  {
+    title: 'Getting started with designing for Web Accessibility',
+    icon: GiVideoConference,
+    speaker: 'Julia',
+    date: 'January 23, 2025',
+    type: 'Talk',
+    location: 'GDG Vienna',
+  },
+  {
     title: 'Testing for Web Accessibility',
     icon: GiPublicSpeaker,
     speaker: 'Laura',
