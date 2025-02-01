@@ -187,3 +187,5 @@ W3 色のコントラスト値の定義(英語で) [https://www.w3.org/TR/WCAG21
 ---
 
 この記事は、2024年の[GAAD (Global Accessibility Awareness Day)](https://accessibility.day/)のために、[Fronta11y](https://www.fronta11y.org/)で元々ドイツ語で公開されました。
+
+[Fronta11yでのオリジナル記事。](https://www.fronta11y.org/farbkontrastfehler-vorbeugen-mit-effektivem-simulationstesting/)

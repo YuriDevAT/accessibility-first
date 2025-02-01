@@ -11,7 +11,7 @@ author:
 ogImage:
   url: '/assets/cover/html-css-creating-content-japanese/cover.png'
 ogPost:
-  url: 'https://www.htmhell.dev/adventcalendar/2024/12/'
+  url: ''
 readingTime: 3
 ---
 
@@ -179,3 +179,9 @@ See [full example on CodePen](https://codepen.io/YuriDevAT/pen/poMawje).
 - [ruby on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby)
 - [rp on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rp)
 - [rt on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rt)
+
+---
+
+This post was originally published on [HTMHELL](https://www.htmhell.dev/adventcalendar/) as part of the [HTMHELL Advent Calendar 2024](https://www.htmhell.dev/adventcalendar/).
+
+[Original Article on HTMHELL.](https://www.htmhell.dev/adventcalendar/2024/12/)

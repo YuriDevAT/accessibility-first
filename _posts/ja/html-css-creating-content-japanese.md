@@ -11,7 +11,7 @@ author:
 ogImage:
   url: '/assets/cover/html-css-creating-content-japanese/cover.png'
 ogPost:
-  url: 'https://www.htmhell.dev/adventcalendar/2024/12/'
+  url: ''
 readingTime: 3
 ---
 
@@ -177,3 +177,9 @@ ruby rt {
 - [MDNによるruby](https://developer.mozilla.org/ja/docs/Web/HTML/Element/ruby)
 - [MDNによるrp](https://developer.mozilla.org/ja/docs/Web/HTML/Element/rp)
 - [MDNによるrt](https://developer.mozilla.org/ja/docs/Web/HTML/Element/rt)
+
+---
+
+この記事は、[HTMHELL Advent Calendar 2024](https://www.htmhell.dev/adventcalendar/)の一部として、[HTMHELL](https://www.htmhell.dev/adventcalendar/)に掲載されたものです。
+
+[HTMHELLでのオリジナル記事。](https://www.htmhell.dev/adventcalendar/2024/12/)

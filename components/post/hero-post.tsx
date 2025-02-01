@@ -86,7 +86,7 @@ const HeroPost = ({ heroPost, otherPosts }: HeroPostProps) => {
               <div className="flex items-center flex-wrap">
                 <Avatar name={post.author.name} picture={post.author.picture} />
                 <p className="ml-2 text-base font-mono font-light dark:text-slate-200">
-                  · <DateFormatter dateString={date} />
+                  · <DateFormatter dateString={post.date} />
                 </p>
               </div>
             </div>

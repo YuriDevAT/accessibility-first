@@ -11,7 +11,7 @@ author:
 ogImage:
   url: '/assets/cover/html-css-creating-content-japanese/cover.png'
 ogPost:
-  url: 'https://www.htmhell.dev/adventcalendar/2024/12/'
+  url: ''
 readingTime: 3
 ---
 
@@ -179,3 +179,9 @@ _Viel Spaß beim Experimentieren!_
 - [ruby auf MDN](https://developer.mozilla.org/de/docs/Web/HTML/Element/ruby)
 - [rp auf MDN](https://developer.mozilla.org/de/docs/Web/HTML/Element/rp)
 - [rt auf MDN](https://developer.mozilla.org/de/docs/Web/HTML/Element/rt)
+
+---
+
+Dieser Post wurde ursprünglich auf [HTMHELL](https://www.htmhell.dev/adventcalendar/) als Teil des [HTMHELL Advent Calendar 2024](https://www.htmhell.dev/adventcalendar/) veröffentlicht.
+
+[Originaler Artikel auf HTMHELL.](https://www.htmhell.dev/adventcalendar/2024/12/)

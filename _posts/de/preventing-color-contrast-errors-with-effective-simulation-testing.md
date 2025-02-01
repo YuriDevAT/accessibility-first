@@ -187,3 +187,5 @@ W3 Farbkontrastwert Definition [https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio
 ---
 
 Dieser Post wurde ursprünglich veröffentlicht auf [Fronta11y](https://www.fronta11y.org/) für [GAAD (Global Accessibility Awareness Day)](https://accessibility.day/) 2024.
+
+[Originaler Artikel auf Fronta11y.](https://www.fronta11y.org/farbkontrastfehler-vorbeugen-mit-effektivem-simulationstesting/)

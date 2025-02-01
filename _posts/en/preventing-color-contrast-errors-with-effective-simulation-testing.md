@@ -187,4 +187,5 @@ W3 Colour contrast value definition [https://www.w3.org/TR/WCAG21/#dfn-contrast-
 ---
 
 This post was originally published on [Fronta11y](https://www.fronta11y.org/) for [GAAD (Global Accessibility Awareness Day)](https://accessibility.day/) 2024, in German.
-German article [Farbkontrastfehler vorbeugen mit effektivem Simulation-Testing](https://www.fronta11y.org/farbkontrastfehler-vorbeugen-mit-effektivem-simulationstesting/)
+
+[Original article on Fronta11y.](https://www.fronta11y.org/farbkontrastfehler-vorbeugen-mit-effektivem-simulationstesting/)
