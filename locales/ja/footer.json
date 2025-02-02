@@ -1,7 +1,7 @@
 {
   "h3-1": "ブログ",
   "h3-2": "組織",
-  "h3-3": "チーム",
+  "h3-3": "ＳＮＳ",
   "h3-4": "言語",
 
   "categories": {
@@ -26,6 +26,7 @@
   "socials": {
     "instagram": "Instagram",
     "linkedIn": "LinkedIn",
-    "youtube": "YouTube"
+    "youtube": "YouTube",
+    "behance": "Behance"
   }
 }

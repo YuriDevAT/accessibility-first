@@ -10,4 +10,8 @@ export const socials: Lists[] = [
     key: 'youtube',
     path: 'https://www.youtube.com/channel/UCTIGfoGC_sGTj1TIVwJ73iQ',
   },
+  {
+    key: 'behance',
+    path: 'https://www.behance.net/juliaundeutsch',
+  },
 ];
