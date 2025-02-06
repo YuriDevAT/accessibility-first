@@ -29,7 +29,7 @@ const WebinarSeries = () => {
             GDG Vienna Community Page
           </a>
           <a
-            href="https://docs.google.com/presentation/d/1_C_VXnk9QIFhIirLy8blyzudBXpz1xHZV2TsCStRkXM/edit?usp=sharing"
+            href="https://drive.google.com/drive/folders/1Flh9z92zGsUfsyJPSLOzFbOYucvOVRT5?usp=sharing"
             className="block text-lg underline text-slate-950 dark:text-white"
           >
             Google Drive Resources Folder

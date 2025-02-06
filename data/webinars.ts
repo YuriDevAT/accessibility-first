@@ -12,7 +12,7 @@ export const webinars: Webinar[] = [
       'https://docs.google.com/presentation/d/1_C_VXnk9QIFhIirLy8blyzudBXpz1xHZV2TsCStRkXM/edit?usp=drive_link',
   },
   {
-    title: 'Testing Tools for Accessibility Enhancement',
+    title: 'Testing Tools for Accessibility Enhancement Part I',
     date: 'February 27, 2025',
     time: '5:00 PM CET',
     event:
@@ -21,18 +21,20 @@ export const webinars: Webinar[] = [
     slides: undefined,
   },
   {
-    title: 'TbD',
+    title: 'Testing Tools for Accessibility Enhancement Part II',
     date: 'March 27, 2025',
     time: '5:00 PM CET',
-    event: undefined,
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-testing-tools-for-accessibility-enhancement-part-ii-2025-03-27/',
     video: undefined,
     slides: undefined,
   },
   {
-    title: 'TbD',
+    title: 'Manual Testing for Accessibility Enhancement',
     date: 'April 24, 2025',
     time: '5:00 PM CET',
-    event: undefined,
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-manual-testing-for-accessibility-enhancement-2025-04-24/',
     video: undefined,
     slides: undefined,
   },
