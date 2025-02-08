@@ -15,7 +15,7 @@ const MainNav = () => {
           <li key={item.key}>
             <Link
               href={item.path}
-              className={`block focus:outline outline-inherit outline-offset-1 px-6 ${index === nav.length - 1 ? 'border-2 border-pink-500 p-1 rounded bg-pink-50 text-slate-950' : ''}`}
+              className={`block focus:outline outline-inherit outline-offset-1 px-6 ${index === nav.length - 1 ? 'border-2 border-pink-500 outline-pink-500 -outline-offset-8 p-1 rounded bg-pink-50 text-slate-950' : ''}`}
             >
               {t(`links.${item.key}`)}
             </Link>

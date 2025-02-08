@@ -1,0 +1,44 @@
+name: GitHub Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js (with version 21.5.0)
+        uses: actions/setup-node@v2
+        with:
+          node-version: '21.5.0'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Get the latest commit messages for release notes
+        id: changelog
+        run: |
+          # Get the changes since the last tag (or since the main branch was last released)
+          changelog=$(git log --oneline $(git describe --tags --abbrev=0)..HEAD)
+          echo "changelog=$changelog" >> $GITHUB_ENV
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            .next/**  # Adjust the path to your Next.js build output folder
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_NOTES: ${{ env.changelog }}
+
+      - name: Upload Release Assets
+        uses: actions/upload-artifact@v2
+        with:
+          name: release-assets
+          path: .next/**
