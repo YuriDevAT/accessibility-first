@@ -26,15 +26,14 @@ jobs:
       - name: Get the latest commit messages for release notes
         id: changelog
         run: |
-          # Get the changes since the last tag (or since the main branch was last released)
           changelog=$(git log --oneline $(git describe --tags --abbrev=0)..HEAD)
-          echo "changelog=$changelog" >> $GITHUB_ENV
+          echo "changelog=$changelog" >> $GITHUB_ENV  # Store changelog in GitHub Actions environment
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            .next/**  # Adjust the path to your Next.js build output folder
+            .next/**
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RELEASE_NOTES: ${{ env.changelog }}
