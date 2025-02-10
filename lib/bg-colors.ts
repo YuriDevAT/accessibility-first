@@ -7,7 +7,6 @@ const categoryBGColors: CategoryColors = {
   'UX Design': 'bg-purple-800 dark:bg-purple-500',
   'Web Development': 'bg-green-800 dark:bg-green-500',
   'QA Testing': 'bg-red-800 dark:bg-red-500',
-  Documents: '',
 };
 
 export default categoryBGColors;
