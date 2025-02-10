@@ -7,7 +7,6 @@ const categoryColors: CategoryColors = {
   'UX Design': 'text-purple-800 dark:text-purple-500',
   'Web Development': 'text-green-800 dark:text-green-500',
   'QA Testing': 'text-red-800 dark:text-red-500',
-  Documents: '',
 };
 
 export default categoryColors;
