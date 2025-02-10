@@ -26,7 +26,7 @@ module.exports = {
     '/about': ['about', 'team'],
     '/accessibility-statement': ['accessibility-statement'],
     '/accessibility': ['accessibility'],
-    '/documents': ['documents'],
+    '/q-and-a': ['q-and-a'],
     '/events': ['events'],
     '/news': ['news'],
     '/qa-testing': ['qa-testing'],

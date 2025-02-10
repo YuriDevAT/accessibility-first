@@ -6,5 +6,5 @@ export const navCategories: Lists[] = [
   { key: 'uxDesign', path: '/ux-design' },
   { key: 'webDevelopment', path: '/web-development' },
   { key: 'qaTesting', path: '/qa-testing' },
-  { key: 'documents', path: '/documents' },
+  { key: 'q-and-a', path: '/q-and-a' },
 ];

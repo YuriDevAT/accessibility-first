@@ -7,7 +7,7 @@ const categoryPaths: CategoryPaths = {
   'UX Design': '/ux-design',
   'Web Development': '/web-development',
   'QA Testing': '/qa-testing',
-  Documents: '/documents',
+  'q-and-a': '/q-and-a',
 };
 
 export default categoryPaths;
