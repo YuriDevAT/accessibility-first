@@ -22,10 +22,10 @@ export const webinars: Webinar[] = [
   },
   {
     title: 'Testing Tools for Accessibility Enhancement Part II',
-    date: 'March 27, 2025',
+    date: 'March 26, 2025',
     time: '5:00 PM CET',
     event:
-      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-testing-tools-for-accessibility-enhancement-part-ii-2025-03-27/',
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-testing-tools-for-accessibility-enhancement-part-ii-2025-03-26/',
     video: undefined,
     slides: undefined,
   },
