@@ -39,50 +39,58 @@ export const webinars: Webinar[] = [
     slides: undefined,
   },
   {
-    title: 'TbD',
+    title: 'European Accessibility Act & Integrated Accessibility Testing',
     date: 'May 22, 2025',
     time: '5:00 PM CET',
-    event: undefined,
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-european-accessibility-act-amp-integrated-accessibility-testing-2025-05-22/',
     video: undefined,
     slides: undefined,
   },
   {
-    title: 'TbD',
+    title:
+      'Level Up Your Accessibility Game: A11y Audit, WCAG, and the Pokédex of A11y',
     date: 'June 26, 2025',
     time: '5:00 PM CET',
-    event: undefined,
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-level-up-your-accessibility-game-a11y-audit-wcag-and-the-pokedex-of-a11y-2025-06-26/',
     video: undefined,
     slides: undefined,
   },
   {
-    title: 'TbD',
+    title:
+      'Own Your Role, Share Your Knowledge, and Streamline Team Communication',
     date: 'July 24, 2025',
     time: '5:00 PM CET',
-    event: undefined,
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-own-your-role-share-your-knowledge-and-streamline-team-communication-2025-07-24/',
     video: undefined,
     slides: undefined,
   },
   {
-    title: 'TbD',
+    title: 'Accessibility Pain Points and How to Fix Them',
     date: 'August 28, 2025',
     time: '5:00 PM CET',
-    event: undefined,
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-accessibility-pain-points-and-how-to-fix-them-2025-08-28/',
     video: undefined,
     slides: undefined,
   },
   {
-    title: 'TbD',
+    title: 'Ask Us Anything about Accessibility',
     date: 'September 25, 2025',
     time: '5:00 PM CET',
-    event: undefined,
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-ask-us-anything-about-accessibility-2025-09-25/',
     video: undefined,
     slides: undefined,
   },
   {
-    title: 'TbD',
+    title: 'Assignment Review and Accessibility Audit Findings',
     date: 'October 23, 2025',
     time: '5:00 PM CET',
-    event: undefined,
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-assignment-review-and-accessibility-audit-findings-2025-10-23/',
     video: undefined,
     slides: undefined,
   },

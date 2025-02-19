@@ -8,6 +8,48 @@ import { MdOutlinePodcasts } from 'react-icons/md';
 
 export const events: Event[] = [
   {
+    title: 'Assignment Review and Accessibility Audit Findings',
+    icon: GiVideoConference,
+    speaker: 'Julia',
+    date: 'October 23, 2025',
+    type: 'Talk',
+    location: 'GDG Vienna',
+  },
+  {
+    title: 'Ask Us Anything about Accessibility',
+    icon: GiVideoConference,
+    speaker: 'Julia, Laura',
+    date: 'September 25, 2025',
+    type: 'Talk',
+    location: 'GDG Vienna',
+  },
+  {
+    title: 'Accessibility Pain Points and How to Fix Them',
+    icon: GiVideoConference,
+    speaker: 'Julia',
+    date: 'August 28, 2025',
+    type: 'Talk',
+    location: 'GDG Vienna',
+  },
+  {
+    title:
+      'Own Your Role, Share Your Knowledge, and Streamline Team Communication',
+    icon: GiVideoConference,
+    speaker: 'Julia',
+    date: 'July 24, 2025',
+    type: 'Talk',
+    location: 'GDG Vienna',
+  },
+  {
+    title:
+      'Level Up Your Accessibility Game: A11y Audit, WCAG, and the Pokédex of A11y',
+    icon: GiVideoConference,
+    speaker: 'Julia, Laura',
+    date: 'June 26, 2025',
+    type: 'Talk',
+    location: 'GDG Vienna',
+  },
+  {
     title: 'Manual Testing for Accessibility Enhancement',
     icon: GiVideoConference,
     speaker: 'Julia',
@@ -19,7 +61,7 @@ export const events: Event[] = [
     title: 'Testing Tools for Accessibility Enhancement Part II',
     icon: GiVideoConference,
     speaker: 'Julia',
-    date: 'March 27, 2025',
+    date: 'March 26, 2025',
     type: 'Talk',
     location: 'GDG Vienna',
   },
