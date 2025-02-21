@@ -41,18 +41,18 @@ export const events: Event[] = [
     location: 'GDG Vienna',
   },
   {
-    title:
-      'Level Up Your Accessibility Game: A11y Audit, WCAG, and the Pokédex of A11y',
+    title: 'Manual Testing for Accessibility Enhancement',
     icon: GiVideoConference,
-    speaker: 'Julia, Laura',
+    speaker: 'Julia',
     date: 'June 26, 2025',
     type: 'Talk',
     location: 'GDG Vienna',
   },
   {
-    title: 'Manual Testing for Accessibility Enhancement',
+    title:
+      'Level Up Your Accessibility Game: A11y Audit, WCAG, and the Pokédex of A11y',
     icon: GiVideoConference,
-    speaker: 'Julia',
+    speaker: 'Julia, Laura',
     date: 'April 24, 2025',
     type: 'Talk',
     location: 'GDG Vienna',

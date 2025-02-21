@@ -30,11 +30,21 @@ export const webinars: Webinar[] = [
     slides: undefined,
   },
   {
-    title: 'Manual Testing for Accessibility Enhancement',
+    title:
+      'Level Up Your Accessibility Game: A11y Audit, WCAG, and the Pokédex of A11y',
     date: 'April 24, 2025',
     time: '5:00 PM CET',
     event:
-      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-manual-testing-for-accessibility-enhancement-2025-04-24/',
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-level-up-your-accessibility-game-a11y-audit-wcag-and-the-pokedex-of-a11y-2025-04-24/',
+    video: undefined,
+    slides: undefined,
+  },
+  {
+    title: 'Manual Testing for Accessibility Enhancement',
+    date: 'June 26, 2025',
+    time: '5:00 PM CET',
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-manual-testing-for-accessibility-enhancement-2025-06-26/',
     video: undefined,
     slides: undefined,
   },
@@ -44,16 +54,6 @@ export const webinars: Webinar[] = [
     time: '5:00 PM CET',
     event:
       'https://gdg.community.dev/events/details/google-gdg-vienna-presents-european-accessibility-act-amp-integrated-accessibility-testing-2025-05-22/',
-    video: undefined,
-    slides: undefined,
-  },
-  {
-    title:
-      'Level Up Your Accessibility Game: A11y Audit, WCAG, and the Pokédex of A11y',
-    date: 'June 26, 2025',
-    time: '5:00 PM CET',
-    event:
-      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-level-up-your-accessibility-game-a11y-audit-wcag-and-the-pokedex-of-a11y-2025-06-26/',
     video: undefined,
     slides: undefined,
   },
