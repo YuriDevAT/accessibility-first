@@ -9,7 +9,7 @@ export const webinars: Webinar[] = [
       'https://gdg.community.dev/events/details/google-gdg-vienna-presents-getting-started-with-designing-for-web-accessibility-2025-01-23/',
     video: 'https://youtu.be/3Ev3TzfIiWc?si=tas8Hc3ed_1zn9-k',
     slides:
-      'https://docs.google.com/presentation/d/1_C_VXnk9QIFhIirLy8blyzudBXpz1xHZV2TsCStRkXM/edit?usp=drive_link',
+      'https://docs.google.com/presentation/d/1_C_VXnk9QIFhIirLy8blyzudBXpz1xHZV2TsCStRkXM/',
   },
   {
     title: 'Testing Tools for Accessibility Enhancement Part I',
@@ -17,8 +17,9 @@ export const webinars: Webinar[] = [
     time: '5:00 PM CET',
     event:
       'https://gdg.community.dev/events/details/google-gdg-vienna-presents-testing-tools-for-accessibility-enhancement-2025-02-27/',
-    video: undefined,
-    slides: undefined,
+    video: 'https://youtu.be/abgr_s_0b8c?si=7O3SNh0HQEQtO2O5',
+    slides:
+      'https://docs.google.com/presentation/d/1xTyohtOnW1bVKwjroyX_6VUcino1x0zaRy77eQWHDUk/',
   },
   {
     title: 'Testing Tools for Accessibility Enhancement Part II',
