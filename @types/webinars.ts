@@ -5,4 +5,5 @@ export type Webinar = {
   event?: `https://${string}`;
   video?: `https://youtu.be/${string}`;
   slides?: `https://docs.google.com/presentation/${string}`;
+  transcript?: `https://drive.google.com/file/${string}`;
 };

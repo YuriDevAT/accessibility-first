@@ -20,6 +20,8 @@ export const webinars: Webinar[] = [
     video: 'https://youtu.be/abgr_s_0b8c?si=7O3SNh0HQEQtO2O5',
     slides:
       'https://docs.google.com/presentation/d/1xTyohtOnW1bVKwjroyX_6VUcino1x0zaRy77eQWHDUk/',
+    transcript:
+      'https://drive.google.com/file/d/1nrHInmEkK_hvr6uC1DyPswIHoJHP8hMX/',
   },
   {
     title: 'Testing Tools for Accessibility Enhancement Part II',

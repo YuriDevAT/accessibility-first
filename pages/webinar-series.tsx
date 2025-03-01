@@ -70,8 +70,20 @@ const WebinarSeries = () => {
                   }`}
                   href={webinar.video}
                 >
-                  Recording {webinar.title}
+                  Recording of {webinar.title}
                 </a>
+                {webinar.transcript && (
+                  <a
+                    className={`mb-4 text-lg block ${
+                      webinar.transcript
+                        ? 'underline text-blue-800'
+                        : 'text-slate-950'
+                    }`}
+                    href={webinar.transcript}
+                  >
+                    Transcript of {webinar.title}
+                  </a>
+                )}
               </li>
             ))}
           </ul>
