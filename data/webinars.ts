@@ -30,7 +30,8 @@ export const webinars: Webinar[] = [
     event:
       'https://gdg.community.dev/events/details/google-gdg-vienna-presents-testing-tools-for-accessibility-enhancement-part-ii-2025-03-26/',
     video: undefined,
-    slides: undefined,
+    slides:
+      'https://docs.google.com/presentation/d/1wlFn7dbypj2JwilpWjFkdRU450-uTC0wIMEvzHUsBpE/',
   },
   {
     title:
