@@ -43,20 +43,20 @@ export const webinars: Webinar[] = [
     slides: undefined,
   },
   {
-    title: 'Manual Testing for Accessibility Enhancement',
-    date: 'June 26, 2025',
-    time: '5:00 PM CET',
-    event:
-      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-manual-testing-for-accessibility-enhancement-2025-06-26/',
-    video: undefined,
-    slides: undefined,
-  },
-  {
     title: 'European Accessibility Act & Integrated Accessibility Testing',
     date: 'May 22, 2025',
     time: '5:00 PM CET',
     event:
       'https://gdg.community.dev/events/details/google-gdg-vienna-presents-european-accessibility-act-amp-integrated-accessibility-testing-2025-05-22/',
+    video: undefined,
+    slides: undefined,
+  },
+  {
+    title: 'Manual Testing for Accessibility Enhancement',
+    date: 'June 26, 2025',
+    time: '5:00 PM CET',
+    event:
+      'https://gdg.community.dev/events/details/google-gdg-vienna-presents-manual-testing-for-accessibility-enhancement-2025-06-26/',
     video: undefined,
     slides: undefined,
   },
@@ -71,7 +71,7 @@ export const webinars: Webinar[] = [
     slides: undefined,
   },
   {
-    title: 'Accessibility Pain Points and How to Fix Them',
+    title: 'Accessibility Pitfalls and How to Fix Them',
     date: 'August 28, 2025',
     time: '5:00 PM CET',
     event:
@@ -81,7 +81,7 @@ export const webinars: Webinar[] = [
   },
   {
     title: 'Ask Us Anything about Accessibility',
-    date: 'September 25, 2025',
+    date: 'September 18, 2025',
     time: '5:00 PM CET',
     event:
       'https://gdg.community.dev/events/details/google-gdg-vienna-presents-ask-us-anything-about-accessibility-2025-09-25/',
