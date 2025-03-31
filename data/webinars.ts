@@ -29,9 +29,11 @@ export const webinars: Webinar[] = [
     time: '5:00 PM CET',
     event:
       'https://gdg.community.dev/events/details/google-gdg-vienna-presents-testing-tools-for-accessibility-enhancement-part-ii-2025-03-26/',
-    video: undefined,
+    video: 'https://youtu.be/3-vLhvvEtYg',
     slides:
       'https://docs.google.com/presentation/d/1wlFn7dbypj2JwilpWjFkdRU450-uTC0wIMEvzHUsBpE/',
+    transcript:
+      'https://drive.google.com/file/d/11KzRVJTboZUsHkK5YoQOYo7LX0LI3Xre/',
   },
   {
     title:
