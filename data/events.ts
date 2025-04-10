@@ -58,6 +58,14 @@ export const events: Event[] = [
     location: 'GDG Vienna',
   },
   {
+    title: 'International Women’s Day (IWD) 2025: Redefine Possible | Virtual',
+    icon: GiVideoConference,
+    speaker: 'Julia, Laura',
+    date: 'April 09, 2025',
+    type: 'Talk',
+    location: 'GDG Vienna',
+  },
+  {
     title: 'Testing Tools for Accessibility Enhancement Part II',
     icon: GiVideoConference,
     speaker: 'Julia',
