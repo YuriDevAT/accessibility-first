@@ -7,7 +7,7 @@ tags: 'Blog'
 category: 'QA Testing'
 author:
   name: 'Julia Undeutsch'
-  picture: '/assets/authors/julia.jpg'
+  picture: '/assets/authors/julia.png'
 ogImage:
   url: '/assets/cover/accessibility-testing-part-one/cover.png'
 ogPost:

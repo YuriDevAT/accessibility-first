@@ -7,7 +7,7 @@ tags: 'Blog'
 category: 'News'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
   url: '/assets/cover/2023-has-been-eventful-here-at-accessibility-first/cover.png'
 ogPost:

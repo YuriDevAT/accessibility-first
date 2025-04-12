@@ -7,7 +7,7 @@ tags: 'Blog'
 category: 'News'
 author:
   name: 'Julia Undeutsch'
-  picture: '/assets/authors/julia.jpg'
+  picture: '/assets/authors/julia.png'
 ogImage:
   url: '/assets/cover/accessibility-first-collaborates-with-ux-researcher-laura-wissiak/cover.png'
 ogPost:

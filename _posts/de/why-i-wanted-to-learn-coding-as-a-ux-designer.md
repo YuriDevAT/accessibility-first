@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'UX Design'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/why-i-wanted-to-learn-coding-as-a-ux-designer/cover.jpg'
+  url: '/assets/cover/why-i-wanted-to-learn-coding-as-a-ux-designer/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-i-wanted-to-learn-coding-as-a-ux-designer'
 readingTime: 3

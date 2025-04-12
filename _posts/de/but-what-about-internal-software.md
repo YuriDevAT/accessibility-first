@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'Accessibility'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/but-what-about-internal-software/cover.jpg'
+  url: '/assets/cover/but-what-about-internal-software/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/but-what-about-internal-software'
 readingTime: 3

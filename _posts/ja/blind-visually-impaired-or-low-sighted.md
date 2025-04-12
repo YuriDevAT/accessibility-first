@@ -7,7 +7,7 @@ tags: 'Blog'
 category: 'UX Research'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
   url: '/assets/cover/blind-visually-impaired-or-low-sighted/cover.png'
 ogPost:

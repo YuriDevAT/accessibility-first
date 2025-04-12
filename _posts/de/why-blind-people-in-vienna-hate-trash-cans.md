@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'UX Research'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
+  url: '/assets/cover/why-blind-people-in-vienna-hate-trash-cans/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 readingTime: 3
@@ -36,6 +36,6 @@ Verstehst du, worauf ich hinaus will? Der Blindenstock scannt den Boden, und die
 
 Im Kontext von Hope Tech wird dies höchstwahrscheinlich ein alltäglicher Anwendungsfall sein. Einer, den niemand im Team kommen sah: Das Vermeiden dieser heimtückischen Mülltonnen. Langfristig möchte ich jedoch, dass die Stadt Wien dies ebenfalls berücksichtigt. Also, wenn jemand, der auch nur entfernt für die Mülltonnen verantwortlich ist, dies liest, melde dich bei mir! Ich würde dir gerne helfen, dieses Barrierefreiheitsproblem zu lösen.
 
-![Ein grauer und orangefarbener Mülleimer auf einem blauen Bushaltestellenschild in Wien. Im Hintergrund blühen weiße Hibiskusblüten vor einer der historischen Fassaden im ersten Wiener Gemeindebezirk.](/assets/cover/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
+![Ein grauer und orangefarbener Mülleimer auf einem blauen Bushaltestellenschild in Wien. Im Hintergrund blühen weiße Hibiskusblüten vor einer der historischen Fassaden im ersten Wiener Gemeindebezirk.](/assets/cover/why-blind-people-in-vienna-hate-trash-cans/image-1.png)
 
 Dieser Blogbeitrag wurde besonders von Nutzerinterviews mit zwei Einwohnern Wiens inspiriert, die gesetzlich blind sind. Beide erlebten jedoch einen fortschreitenden Sehverlust über einen längeren Zeitraum. In diesem Beitrag bezeichne ich sie als blind, weil sie sich selbst so beschrieben haben, aber ich bin überzeugt, dass das Mülltonnenproblem für fast alle Nutzer des Blindenstocks gilt.

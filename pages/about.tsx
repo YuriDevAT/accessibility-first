@@ -57,7 +57,7 @@ const About = () => {
             </div>
             <Image
               className="h-96 w-96 block object-cover rounded-2xl"
-              src="/assets/authors/julia.jpg"
+              src="/assets/authors/julia.png"
               alt=""
               width="49"
               height="49"
@@ -101,7 +101,7 @@ const About = () => {
             <li className="items-center gap-x-8">
               <Image
                 className="w-full h-56 rounded-2xl object-cover"
-                src="/assets/authors/laura.jpg"
+                src="/assets/authors/laura.png"
                 alt=""
                 width="49"
                 height="49"

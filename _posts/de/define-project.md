@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'UX Research'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/define-project/cover.jpg'
+  url: '/assets/cover/define-project/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/define-project'
 readingTime: 5
@@ -17,7 +17,7 @@ readingTime: 5
 
 Define steht für **D**igital **E**quipment **F**or **In**clusive **E**mpowerment. Die Mission dahinter ist nicht nur, kostengünstige Hilfstechnologien auf den Markt zu bringen, sondern auch die digitale Kompetenz im Prozess zu verbessern. Braille-Tastaturen sind keine grundsätzlich neue Idee. Aber Define verfolgt einen praktischen Ansatz im gesamten Prozess, und das macht es meiner Meinung nach besonders.
 
-![Julia hält eine schwarze Version der Meta Braille-Tastatur.](/assets/cover/define-project/image-1.jpg)
+![Julia hält eine schwarze Version der Meta Braille-Tastatur.](/assets/cover/define-project/image-1.png)
 _Julia hält eine schwarze Version der Meta Braille-Tastatur._
 
 ## Benutzergeführte Co-Kreation
@@ -30,7 +30,7 @@ Deshalb hat das Define-Projekt eine Lösung dafür entwickelt: Anstatt die Konta
 
 Durch diese Workshops sind insgesamt 8 MetaBraille-Tastaturen entstanden. Klingt nicht nach viel? Nun, bedenke, dass der 3D-Druck jeder Hälfte des Tastaturgehäuses etwa 4 Stunden dauert, wenn der Druckprozess reibungslos verläuft! Denn manchmal machen 3D-Drucker Streiche und rutschen beim Drucken ein wenig zur Seite. Das Ergebnis ist ein falsch ausgerichteter, unbrauchbarer Druck. Wenn du also selbst eine machen möchtest, sei dir bewusst, dass es eine Weile dauern kann.
 
-![3 Pläne für den Tastaturaufbau liegen auf dem Tisch. Jeder ist mit Englisch und Braille beschriftet. Oben rechts befindet sich ein Tastaturgehäuse, ein Batteriepack und Tastenteile.](/assets/cover/define-project/image-2.jpg)
+![3 Pläne für den Tastaturaufbau liegen auf dem Tisch. Jeder ist mit Englisch und Braille beschriftet. Oben rechts befindet sich ein Tastaturgehäuse, ein Batteriepack und Tastenteile.](/assets/cover/define-project/image-2.png)
 _3 Pläne für den Tastaturaufbau liegen auf dem Tisch. Jeder ist mit Englisch und Braille beschriftet. Oben rechts befindet sich ein Tastaturgehäuse, ein Batteriepack und Tastenteile. Leider fehlt mir das technische Fachwissen, um genau zu erklären, was wir hier sehen. Wenn du dich besser damit auskennst, erklär es mir bitte!_
 
 ## Wie funktionieren Braille-Tastaturen?
@@ -41,7 +41,7 @@ Die Tastatur heißt MetaBraille. Sie erhielt ihren Namen vom [MakerSpace MetaLab
 
 Braille ist ein Alphabet, bei dem jeder Buchstabe auf ein 2 mal 3 Raster passt. Du merkst dir die Buchstaben anhand ihrer Punktmuster. Braille mit den Fingern zu lesen funktioniert, indem du das Punktmuster als bestimmten Buchstaben identifizierst. Beim Tippen ist es umgekehrt: Du tippst das Punktmuster eines Buchstabens, indem du die Tasten im entsprechenden Muster drückst. Braille zu lernen ist wie das Lernen eines anderen Alphabets, die Buchstaben nehmen einfach neue Formen an!
 
-![Eine grüne Platine mit einem ESP32S3-Prozessor darauf. Dieser Prozessor übersetzt das Braille-Alphabet in das lateinische Alphabet, bevor es an das Gerät übertragen wird, mit dem die Tastatur gekoppelt ist.](/assets/cover/define-project/image-3.jpg)
+![Eine grüne Platine mit einem ESP32S3-Prozessor darauf. Dieser Prozessor übersetzt das Braille-Alphabet in das lateinische Alphabet, bevor es an das Gerät übertragen wird, mit dem die Tastatur gekoppelt ist.](/assets/cover/define-project/image-3.png)
 _Eine grüne Platine mit einem ESP32S3-Prozessor darauf. Dieser Prozessor übersetzt das Braille-Alphabet in das lateinische Alphabet, bevor es an das Gerät übertragen wird, mit dem die Tastatur gekoppelt ist._
 
 ### Wie interagieren sie mit einer Website?

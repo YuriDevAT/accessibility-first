@@ -7,7 +7,7 @@ tags: 'Blog'
 category: 'News'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
   url: '/assets/cover/newsletter/cover.png'
 ogPost:

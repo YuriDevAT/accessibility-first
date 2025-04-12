@@ -7,7 +7,7 @@ tags: 'Blog'
 category: 'Accessibility'
 author:
   name: 'Julia Undeutsch'
-  picture: '/assets/authors/julia.jpg'
+  picture: '/assets/authors/julia.png'
 ogImage:
   url: '/assets/cover/accessibility-the-what-why-&-how/cover.png'
 ogPost:

@@ -7,7 +7,7 @@ tags: 'Blog'
 category: 'Web Development'
 author:
   name: 'Julia Undeutsch'
-  picture: '/assets/authors/julia.jpg'
+  picture: '/assets/authors/julia.png'
 ogImage:
   url: '/assets/cover/html-css-creating-content-japanese/cover.png'
 ogPost:

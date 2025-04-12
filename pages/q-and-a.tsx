@@ -67,10 +67,10 @@ const QandA = () => {
                     className="w-10 h-10 rounded-full"
                     src={
                       item.speaker === 'Julia'
-                        ? '/assets/authors/julia.jpg'
+                        ? '/assets/authors/julia.png'
                         : item.speaker === 'Laura'
-                          ? '/assets/authors/laura.jpg'
-                          : '/assets/authors/default.jpg'
+                          ? '/assets/authors/laura.png'
+                          : '/assets/authors/default.png'
                     }
                     alt=""
                     height={40}

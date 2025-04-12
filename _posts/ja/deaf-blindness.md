@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'UX Research'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/deaf-blindness/cover.jpg'
+  url: '/assets/cover/deaf-blindness/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/deaf-blindness'
 readingTime: 3

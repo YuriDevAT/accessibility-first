@@ -1,18 +1,18 @@
 ---
-title: 'Monthly a11y newsletter'
-excerpt: 'There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why I send out (approximately) monthly newsletters about upcoming events in web accessibility ...'
-coverImage: '/assets/cover/newsletter/cover.png'
-date: '2024-01-22T11:35:07.322Z'
+title: 'The Pokémon Episode that Triggered Seizures in 685 Viewers'
+excerpt: 'How poor Computer Warrior Porygon got his episode banned and Pikachu’s Thunderbolt animation changed. March 26 was Purple Day or Epilepsy Awareness Day. I posted about a Photosensitive Epilepsy Analysis Tool (PEAT) ...'
+coverImage: '/assets/cover/the-pokemon-episode-that-triggered-seizures-in-685-viewers/cover.png'
+date: '2025-04-11T11:35:07.322Z'
 tags: 'Blog'
-category: 'News'
+category: 'UX Research'
 author:
   name: 'Laura Wissiak'
   picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/newsletter/cover.png'
+  url: '/assets/cover/the-pokemon-episode-that-triggered-seizures-in-685-viewers/cover.png'
 ogPost:
   url: ''
-readingTime: 2
+readingTime: 3
 ---
 
 There are a lot of resources and events that can be hard to find outside the online accessibility bubble. Gatekeeping is the opposite of accessibility, which is why I send out (approximately) monthly newsletters about upcoming events in web accessibility.

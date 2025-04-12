@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'UX Research'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/define-project/cover.jpg'
+  url: '/assets/cover/define-project/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/define-project'
 readingTime: 5
@@ -17,7 +17,7 @@ readingTime: 5
 
 Define stands for **D**igital **E**quipment **F**or **I**nclusive **E**mpowerment. The mission behind it is not only to bring low-cost assistive tech to the market but also to improve digital literacy in the process. Braille keyboards aren’t an inherently new idea. But Define takes a hands-on approach to the whole process, and that’s what makes it special in my opinion.
 
-![Julia is holding a black version of the Meta Braille keyboard.](/assets/cover/define-project/image-1.jpg)
+![Julia is holding a black version of the Meta Braille keyboard.](/assets/cover/define-project/image-1.png)
 _Julia is holding a black version of the Meta Braille keyboard._
 
 ## User-Led Co-Creation
@@ -30,7 +30,7 @@ So the Define Project workshopped a solution to this: Instead of contact points 
 
 Through these workshops, a total of 8 MetaBraille keyboards were born. Doesn’t sound like a lot? Well, keep in mind that 3D printing each half of the keyboard shell takes around 4 hours, if the printing process goes smoothly! Because sometimes 3D printers are pranksters and shimmy a bit to the side while printing. The result is a misaligned, unusable print. So if you want to make one yourself, just know it could take a while.
 
-![3 plans for the keyboard construction lie on the table. Each one is labeled with English and Braille. In the top right corner is a keyboard shell, battery pack and key-parts.](/assets/cover/define-project/image-2.jpg)
+![3 plans for the keyboard construction lie on the table. Each one is labeled with English and Braille. In the top right corner is a keyboard shell, battery pack and key-parts.](/assets/cover/define-project/image-2.png)
 _3 plans for the keyboard construction lie on the table. Each one is labeled with English and Braille. In the top right corner is a keyboard shell, battery pack and key-parts. Unfortunately, I lack the technical expertise to explain in detail what exactly we are looking at here. If you have a closer understanding of the matter, please do explain it to me!_
 
 ## How do Braille Keyboards work?
@@ -41,7 +41,7 @@ The keyboard is called the MetaBraille. It got its name from the [MakerSpace Met
 
 Braille is an alphabet where every letter fits on a 2 by 3 grid. You memorize the letters by their dot patterns. Reading braille with your fingers works by identifying the dot pattern as a distinct letter. So for typing, it’s the other way around: You type the dot pattern of a letter by pressing the keys in the corresponding pattern. Learning braille is like memorizing any other alphabet, the letters just take on new shapes!
 
-![A green circuit board with an ESP32S3 processor on it. This processor is what translates the braille to latin alphabet before transmitting it to the device the keyboard is paired with.](/assets/cover/define-project/image-3.jpg)
+![A green circuit board with an ESP32S3 processor on it. This processor is what translates the braille to latin alphabet before transmitting it to the device the keyboard is paired with.](/assets/cover/define-project/image-3.png)
 _A green circuit board with an ESP32S3 processor on it. This processor is what translates the braille to latin alphabet before transmitting it to the device the keyboard is paired with._
 
 ### How do they interact with a website?

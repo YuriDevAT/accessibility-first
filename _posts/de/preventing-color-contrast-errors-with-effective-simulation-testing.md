@@ -7,7 +7,7 @@ tags: 'Blog'
 category: 'QA Testing'
 author:
   name: 'Julia Undeutsch'
-  picture: '/assets/authors/julia.jpg'
+  picture: '/assets/authors/julia.png'
 ogImage:
   url: '/assets/cover/preventing-color-contrast-errors-with-effective-simulation-testing/cover.png'
 ogPost:

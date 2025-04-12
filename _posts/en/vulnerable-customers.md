@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'UX Research'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/vulnerable-customers/cover.jpg'
+  url: '/assets/cover/vulnerable-customers/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/vulnerable-customers'
 readingTime: 3

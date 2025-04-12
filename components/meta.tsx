@@ -38,6 +38,7 @@ const Meta = ({
         color="#0C0A09"
       />
       <link rel="shortcut icon" href="/favicon/favicon.ico" />
+      <title>{title}</title>
       <meta name="apple-mobile-web-app-title" content="Accessibility First" />
       <meta
         name="viewport"

@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'Accessibility'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/why-fulfilling-the-wcag-is-not-enough/cover.jpg'
+  url: '/assets/cover/why-fulfilling-the-wcag-is-not-enough/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-fulfilling-the-wcag-is-not-enough'
 readingTime: 3

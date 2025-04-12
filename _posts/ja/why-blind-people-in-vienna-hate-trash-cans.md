@@ -7,9 +7,9 @@ tags: 'Blog'
 category: 'UX Research'
 author:
   name: 'Laura Wissiak'
-  picture: '/assets/authors/laura.jpg'
+  picture: '/assets/authors/laura.png'
 ogImage:
-  url: '/assets/cover/why-blind-people-in-vienna-hate-trash-cans/cover.jpg'
+  url: '/assets/cover/why-blind-people-in-vienna-hate-trash-cans/cover.png'
 ogPost:
   url: 'https://www.laura-wissiak.com/blog/why-blind-people-in-vienna-hate-trash-cans'
 readingTime: 3
@@ -36,6 +36,6 @@ readingTime: 3
 
 Hope Techの文脈では、これはおそらく日常的な使用例となるでしょう。チームの誰も予想していなかったものです：その隠れたゴミ箱を避けること。しかし、長期的には、ウィーン市もこれを考慮してくれることを期待します。もし、ゴミ箱の管理に少しでも関わっている方がこれを読んでいたら、ぜひご連絡ください！このアクセシビリティの問題を解決するお手伝いをさせていただきたいです。
 
-![ウィーンの青いバス停の標識に取り付けられたグレーとオレンジのゴミ箱。背景には、ウィーン1区の歴史的なファサードの前に白いハイビスカスの花が咲いています。](/assets/cover/why-blind-people-in-vienna-hate-trash-cans/image-1.jpg)
+![ウィーンの青いバス停の標識に取り付けられたグレーとオレンジのゴミ箱。背景には、ウィーン1区の歴史的なファサードの前に白いハイビスカスの花が咲いています。](/assets/cover/why-blind-people-in-vienna-hate-trash-cans/image-1.png)
 
 このブログ投稿は、ウィーン在住の視覚障害者2人とのユーザーインタビューに特に触発されました。彼らは長期間にわたって進行する視力低下を経験しましたが、この投稿では彼らを盲目と呼んでいます。なぜなら、それが彼らの自己認識だったからです。しかし、私はこのゴミ箱の問題がほとんどすべての白杖ユーザーに及ぶものだと確信しています。
