@@ -33,7 +33,7 @@ Turns out that we did not collectively fabulize about one episode triggering sei
 
 Although it wasn’t exclusively children, there was a significantly higher incidence rate among 11 to 15-year-olds. With over 90% of the affected being from middle and high school age ranges, we can skip the causation-correlation question for this one.
 
-According to a [survey by Japan's Fire and Disaster Management Agency](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1528-1157.1998.tb01334.x), 685 viewers - 310 male and 375 female - were taken to hospitals by ambulances. Of these, 208 were admitted to said hospitals, including three who were admitted while unconscious.
+According to a [survey by Japan's Fire and Disaster Management Agency [Shōbōchō]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1528-1157.1998.tb01334.x), 685 viewers - 310 male and 375 female - were taken to hospitals by ambulances. Of these, 208 were admitted to said hospitals, including three who were admitted while unconscious.
 
 And can I just say that it’s kinda weird that Wikipedia has the whole 4-second clip, in original speed at the top of the page?
 

@@ -25,6 +25,10 @@
   @apply outline-slate-950;
 }
 
+.markdown strong {
+  @apply font-bold;
+}
+
 .markdown blockquote {
   @apply border-l-4 pl-6 border-l-stone-950;
 }

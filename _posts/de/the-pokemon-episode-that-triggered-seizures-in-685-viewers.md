@@ -31,7 +31,7 @@ Wie sich herausgestellt hat, ist die Geschichte mit der Anfall-auslösenden Pok�
 
 > Die Folge wurde berüchtigt, weil sie bei vielen Zuschauern gesundheitliche Probleme verursachte – darunter [epileptische Anfälle](<https://de.wikipedia.org/wiki/Photosensibilit%C3%A4t_(Neurologie)>), Erbrechen, gereizte Augen und mehr – wegen eines starken Stroboskop-Effekts. Und das bei seiner ersten und einzigen Ausstrahlung. [Die Folge wurde nie wieder ausgestrahlt oder veröffentlicht](https://bulbapedia.bulbagarden.net/wiki/Banned_episodes). Und danach gab’s erstmal vier Monate Pause für die Serie.
 
-Hauptsächlich betroffen waren Jugendliche zwischen 11 und 15 Jahren. Laut einer [Umfrage der japanischen Feuer- und Katastrophen Management Argentur](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1528-1157.1998.tb01334.x) wurden 685 Menschen mit dem Krankenwagen ins Krankenhaus gebracht – 310 männlich, 375 weiblich. 208 wurden stationär aufgenommen, drei davon waren bewusstlos.
+Hauptsächlich betroffen waren Jugendliche zwischen 11 und 15 Jahren. Laut einer [Umfrage der japanischen Feuer- und Katastrophen Management Argentur [Shōbōchō]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1528-1157.1998.tb01334.x) wurden 685 Menschen mit dem Krankenwagen ins Krankenhaus gebracht – 310 männlich, 375 weiblich. 208 wurden stationär aufgenommen, drei davon waren bewusstlos.
 
 Ach ja, und Wikipedia zeigt tatsächlich den 4-Sekunden-Clip in Originalgeschwindigkeit – bisschen merkwürdig, oder?
 
