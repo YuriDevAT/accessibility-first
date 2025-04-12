@@ -1,7 +1,17 @@
 import Head from 'next/head';
 import { HOME_OG_IMAGE_URL } from '../lib/constants';
 
-const Meta = () => {
+const Meta = ({
+  title = 'Accessibility First',
+  description = 'Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you eradicate invisible barriers.',
+  image = HOME_OG_IMAGE_URL,
+  url = 'https://accessibilityfirst.at',
+}: {
+  title?: string;
+  description?: string;
+  image?: string;
+  url?: string;
+}) => {
   return (
     <Head>
       <link
@@ -28,45 +38,36 @@ const Meta = () => {
         color="#0C0A09"
       />
       <link rel="shortcut icon" href="/favicon/favicon.ico" />
+      <meta name="apple-mobile-web-app-title" content="Accessibility First" />
       <meta
         name="viewport"
         content="width=device-width, initial-scale=1"
       ></meta>
       <meta name="msapplication-TileColor" content="#0C0A09" />
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
-      <meta name="theme-color" content="#084FD4" />
-      <meta property="og:url" content="https://accessibilityfirst.at" />
-      <meta property="og:type" content="website" />
-      <meta property="og:title" content="Accessibility First" />
-      <meta
-        property="og:description"
-        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you eradicate invisible barriers."
-      />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <meta name="description" content={description} />
+      <meta property="og:url" content={url} />
+      <meta property="og:type" content="article" />
+      <meta property="og:title" content={title} />
+      <meta property="og:description" content={description} />
+      <meta property="og:image" content={image} />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta
-        name="description"
-        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you eradicate invisible barriers."
-      />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta property="twitter:domain" content="accessibilityfirst.at" />
-      <meta property="twitter:url" content="https://accessibilityfirst.at" />
-      <meta name="twitter:title" content="Accessibility First" />
-      <meta
-        name="twitter:description"
-        content="Accessibility First is a collection of insights, learnings, and experiences from industry professionals / leaders to spread awareness and help you eradicate invisible barriers."
-      />
-      <meta name="twitter:image" content={HOME_OG_IMAGE_URL} />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link
-        rel="preconnect"
-        href="https://fonts.gstatic.com"
-        crossOrigin="anonymous"
-      />
-      <link
-        href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
-        rel="stylesheet"
+      <meta property="twitter:url" content={url} />
+      <meta name="twitter:title" content={title} />
+      <meta name="twitter:description" content={description} />
+      <meta name="twitter:image" content={image} />
+      <script
+        dangerouslySetInnerHTML={{
+          __html: `
+            if ('theme-color' in document.createElement('meta')) {
+              const meta = document.createElement('meta');
+              meta.name = 'theme-color';
+              meta.content = '#084FD4';
+              document.head.appendChild(meta);
+            }
+          `,
+        }}
       />
     </Head>
   );

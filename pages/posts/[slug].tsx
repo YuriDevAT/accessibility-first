@@ -1,6 +1,7 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
-import Head from 'next/head';
+import { HOME_OG_IMAGE_URL } from '../../lib/constants';
 import { useRouter } from 'next/router';
+import Meta from '../../components/meta';
 import useTranslation from 'next-translate/useTranslation';
 import Container from '../../components/container';
 import Header from '../../components/post/header';
@@ -24,7 +25,6 @@ type Props = {
 export default function Post({ post, preview }: Props) {
   const { t } = useTranslation('slug');
   const router = useRouter();
-  const title = `${post.title} | Accessibility First Blog Post`;
   if (!router.isFallback && !post?.slug) {
     return <Custom404 />;
   }
@@ -38,10 +38,14 @@ export default function Post({ post, preview }: Props) {
         ) : (
           <>
             <article className="mb-32">
-              <Head>
-                <title>{title}</title>
-                <meta property="og:image" content={post.ogImage.url} />
-              </Head>
+              <Meta
+                title={`${post.title} | Accessibility First`}
+                description={post.excerpt}
+                image={
+                  post.ogImage?.url || post.coverImage || HOME_OG_IMAGE_URL
+                }
+                url={`https://www.accessibilityfirst.at${router.locale === 'en' ? '' : `/${router.locale}`}/posts/${post.slug}`}
+              />
               <PostHeader
                 title={post.title}
                 coverImage={post.coverImage}
@@ -67,6 +71,7 @@ export default function Post({ post, preview }: Props) {
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const post = getPostBySlug(locale!, params!.slug as string, [
     'title',
+    'excerpt',
     'date',
     'slug',
     'author',
