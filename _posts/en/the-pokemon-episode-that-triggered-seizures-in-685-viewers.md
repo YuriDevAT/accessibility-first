@@ -27,7 +27,7 @@ March 26 was Purple Day or Epilepsy Awareness Day. I posted about a [Photosensit
 
 ## Computer Warrior Porygon
 
-Turns out that we did not collectively fabulize about one episode triggering seizures in children. It actually happened, and it was Episode 38: Computer Warrior Porygon, first aired on December 16, 1997. And this is where I get to quote the most reliable resource for all Pokémon-related information, [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/EP038>):
+Turns out that we did not collectively fabulize about one episode triggering seizures in children. It actually happened, and it was Episode 38: Computer Warrior Porygon, first aired on December 16, 1997. And this is where I get to quote the most reliable resource for all Pokémon-related information, [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/EP038):
 
 > The episode is infamous for resulting in many viewers suffering adverse health effects, including [epileptic seizures](https://en.wikipedia.org/wiki/Photosensitive_epilepsy), vomiting, irritated eyes, and other related symptoms, due to use of a flashing strobe effect upon its first and only airing. Because of that, [this episode was never commercially released or re-broadcast](https://bulbapedia.bulbagarden.net/wiki/Banned_episodes) anywhere in the world, and the show went on hiatus for four months.
 
