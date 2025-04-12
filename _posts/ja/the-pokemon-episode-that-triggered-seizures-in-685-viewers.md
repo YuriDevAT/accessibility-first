@@ -1,6 +1,6 @@
 ---
-title: 'The Pokémon Episode that Triggered Seizures in 685 Viewers'
-excerpt: 'How poor Computer Warrior Porygon got his episode banned and Pikachu’s Thunderbolt animation changed. March 26 was Purple Day or Epilepsy Awareness Day. I posted about a Photosensitive Epilepsy Analysis Tool (PEAT) ...'
+title: '685人の視聴者に発作を引き起こしたポケモンのエピソード'
+excerpt: 'なぜ可哀そうな「でんのうせんしポリゴン」の回が放送禁止になり、ピカチュウの「かみなり」アニメーションも変更されたのか。3月26日はパープル・デー（てんかん啓発の日）でした。私はLinkedInに、光過敏性てんかんを引き起こす可能性のあるオンラインビデオを分析できるPEAT。。。'
 coverImage: '/assets/cover/the-pokemon-episode-that-triggered-seizures-in-685-viewers/cover.png'
 date: '2025-04-11T11:35:07.322Z'
 tags: 'Blog'
@@ -15,65 +15,65 @@ ogPost:
 readingTime: 3
 ---
 
-March 26 was Purple Day or Epilepsy Awareness Day. I posted about a [Photosensitive Epilepsy Analysis Tool (PEAT) for online video content on my LinkedIn](https://www.linkedin.com/posts/laura-wissiak_in-light-of-purple-day-lets-sensitize-ourselves-activity-7310926103211053056-dJOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJ4z20BXA0OIoT2wBhlMzd52HXCNNZlmmg), which turned into a discussion on that one Pokémon episode.
+3月26日はパープル・デー（てんかん啓発の日）でした。私はLinkedInに、[光過敏性てんかんを引き起こす可能性のあるオンラインビデオを分析できるPEAT [英語で]](https://www.linkedin.com/posts/laura-wissiak_in-light-of-purple-day-lets-sensitize-ourselves-activity-7310926103211053056-dJOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJ4z20BXA0OIoT2wBhlMzd52HXCNNZlmmg)というツールについて投稿しました。これが悪名高いポケモンのエピソードについての議論につながりました。
 
-## Photosensitive Epilepsy Analysis Tool
+## 光感受性てんかん分析ツール
 
-> In light of Purple Day, let's sensitize ourselves about photosensitive seizure disorders and what we can do to make our web content safe and accessible: The [Photosensitive Epilepsy Analysis Tool (PEAT)](https://trace.umd.edu/peat/) by Trace Center is a free and open-source tool designed to help creators identify potential seizure risks in their web content and software.
+> パープル・デーにちなんで、光過敏性発作性障害について、そしてウェブコンテンツを安全でアクセスしやすいものにするために私たちができることについて、自分自身を感受しましょう：Trace Centerによる[Photosensitive Epilepsy Analysis Tool (PEAT) [英語で]](https://trace.umd.edu/peat/)は、クリエイターがウェブコンテンツやソフトウェアに潜在する発作リスクを特定するために設計された、フリーでオープンソースのツールです。
 
-> PEAT uses a specially developed analysis engine for web and computer applications, allowing you to assess if animations or videos in your content could trigger epileptic seizures.
+> PEATは、ウェブやコンピュータアプリケーション用に特別に開発された解析エンジンを使用しており、コンテンツ内のアニメーションや動画がてんかん発作を誘発する可能性があるかどうかを評価することができます。
 
-> It is highly recommended to review videos and animations, especially those with flashing lights or rapid transitions between dark and light backgrounds, to ensure they are safe for all users!
+> すべてのユーザーにとって安全であることを確認するために、ビデオやアニメーション、特に点滅する光や暗い背景と明るい背景の間の急速な遷移を確認することを強くお勧めします！
 
-## Computer Warrior Porygon
+## でんのうせんしポリゴン
 
-Turns out that we did not collectively fabulize about one episode triggering seizures in children. It actually happened, and it was Episode 38: Computer Warrior Porygon, first aired on December 16, 1997. And this is where I get to quote the most reliable resource for all Pokémon-related information, [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/EP038>):
+あるエピソードが子供たちの発作の引き金になるというのは、私たちが集団ででっち上げたことではないことがわかりました。実際にあったことで、それは第38話だった： 1997年12月16日に初放送された「でんのうせんしポリゴン」である。そしてここで、ポケモン関連の情報源として最も信頼できる[Bulbapedia [英語で]](https://bulbapedia.bulbagarden.net/wiki/EP038)を引用させてもらいます：
 
-> The episode is infamous for resulting in many viewers suffering adverse health effects, including [epileptic seizures](https://en.wikipedia.org/wiki/Photosensitive_epilepsy), vomiting, irritated eyes, and other related symptoms, due to use of a flashing strobe effect upon its first and only airing. Because of that, [this episode was never commercially released or re-broadcast](https://bulbapedia.bulbagarden.net/wiki/Banned_episodes) anywhere in the world, and the show went on hiatus for four months.
+> このエピソードは、最初で唯一の放送時に、点滅するストロボ効果を使用したために、多くの視聴者が[てんかん発作](https://ja.wikipedia.org/wiki/光過敏性発作)、嘔吐、目の炎症、その他の関連症状などの健康被害を受けたことで悪名高いものである。そのため、[このエピソードが商業的に発売されたり、再放送されたりすることは](https://bulbapedia.bulbagarden.net/wiki/Banned_episodes)世界のどこにもなく、番組は4ヶ月間休止しました。
 
-Although it wasn’t exclusively children, there was a significantly higher incidence rate among 11 to 15-year-olds. With over 90% of the affected being from middle and high school age ranges, we can skip the causation-correlation question for this one.
+子どもだけの発症ではなかったが、11歳から15歳の発症率がかなり高かった。罹患者の90％以上が中高生の年齢層であることから、因果関係の問題は省略できる。
 
-According to a [survey by Japan's Fire and Disaster Management Agency](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1528-1157.1998.tb01334.x), 685 viewers - 310 male and 375 female - were taken to hospitals by ambulances. Of these, 208 were admitted to said hospitals, including three who were admitted while unconscious.
+[消防庁の調査[英語で]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1528-1157.1998.tb01334.x)によると、685人（男性310人、女性375人）が救急車で病院に運ばれました。このうち208人が入院し、うち3人が意識不明のまま入院したということである。
 
-And can I just say that it’s kinda weird that Wikipedia has the whole 4-second clip, in original speed at the top of the page?
+Wikipediaのトップページに4秒間の映像が原寸大で掲載されているのは、ちょっと奇妙なことだと思いませんか？
 
-![the infamous scene where Pikachu shoots his thunderbolt, with blue red strobe effects](/assets/cover/the-pokemon-episode-that-triggered-seizures-in-685-viewers/image-1.png)
+![ピカチュウがかみなりを放つ悪名高いシーン、青赤のストロボ効果付き](/assets/cover/the-pokemon-episode-that-triggered-seizures-in-685-viewers/image-1.png)
 
-After this episode, the animation studio dropped the strobe effects from Pikachu's thunderbolt. For years following the incident, a disclaimer was broadcast at the beginning of all Japanese television shows, cautioning viewers not to sit too close to the television screen and to watch only in a brightly-lit room:
+このエピソードの後、アニメスタジオはピカチュウのかみなりからストロボ効果を取り除いた。この事件の後何年もの間、日本のすべてのテレビ番組の冒頭で、視聴者はテレビ画面の近くに座りすぎず、明るい部屋でのみ視聴するよう注意する免責事項が放送された：
 「テレビアニメを見るときには、部屋をあかるくして近づきすぎないようにしてみてくださいね。」
 
-A [study following 103 patients over three years after the event](https://onlinelibrary.wiley.com/doi/10.1111/j.0013-9580.2004.18903.x) found that only 22% were reported to have had seizures after the incident. 15 of these patients were determined to have had visually induced seizures, while 56% of the patients who did have more seizures following the incident also had epilepsy. The three-year study of 103 surveyed patients also found that only 25 (24%) of them were determined to have had seizures before the incident took place.
+[事件後3年間にわたって103人の患者を追跡調査した研究[英語で]](https://onlinelibrary.wiley.com/doi/10.1111/j.0013-9580.2004.18903.x)によると、事件後に発作を起こしたと報告されたのはわずか22％であった。これらの患者のうち15人は視覚的に誘発された発作であったと判断されたが、事件後に発作が増えた患者の56％はてんかんでもあった。103人の患者を対象とした3年間の調査でも、事件発生前に発作があったと判断されたのは25人（24％）だけであった。
 
-## Photosensitive Seizure Disorders
+## 光過敏性発作性障害
 
-[Photosensitive Seizure Disorders](https://trace.umd.edu/information-about-photosensitive-seizure-disorders/) are characterized by their common trigger: flashing, intermittent light, and visual patterns. While epilepsy is the most known seizure disorder, it is not all there is.
+[光過敏性発作性障害[英語で]](https://trace.umd.edu/information-about-photosensitive-seizure-disorders/)は、点滅、断続的な光、視覚パターンという共通の引き金によって特徴づけられる。てんかんは最もよく知られた発作性疾患であるが、それがすべてではありません。
 
-### Other types of Seizures
+### その他の発作
 
-We currently distinguish between **Focal and Generalized Seizures**. Focal Seizures start in one area of the brain and may or may not affect awareness, hence, they are called Focal Aware (Simple Partial) Seizures or Focal Impaired Awareness (Complex Partial) Seizures.
+現在、**焦点発作と全般発作** を区別しています。焦点性発作は脳のある部位から始まり、意識に影響を及ぼす場合と及ぼさない場合があるため、焦点性意識（単純部分）発作または焦点性意識障害（複雑部分）発作と呼ばれています。
 
-**Generalized Seizures** involve both hemispheres from the get-go and usually lead to loss of awareness for the duration of the seizure. The best-known one, the poster child of Epilepsy, is the Tonic-Clonic or Grand Mal Seizure. It is characterized by Dragon Ball Fusion of 2 types of seizures:
+**全般化発作** は、最初から両半球を巻き込み、通常、発作の間、意識を失う。最もよく知られているのは、てんかんの申し子と呼ばれる強直間代発作（Tonic-Clonic Seizure）または大発作（Grand Mal Seizure）である。この発作の特徴は2つのタイプに分けられる：
 
-- **Tonic:** Muscles suddenly become stiff, usually affecting the arms and legs, which can cause falls and injury.
-- **Clonic:** Rhythmic jerking movements (Clonic seizures alone occur without the stiffening phase of tonic-clonic seizures)
+- **強直：** 筋肉が突然硬直し、通常は手足に影響を及ぼし、転倒や怪我の原因となる。
+- **間代性：** リズミカルなピクピク運動（間代発作は、強直間代発作の硬直期を伴わずに単独で起こる）
 
-Now that we know Tonic and Clonic, the next ones won’t surprise you much:
+強直と間代がわかったところで、次の発作はあまり驚かないでしょう：
 
-- **Myoclonic:** Characterized by sudden, brief jerks or twitches of muscles, but usually no loss of consciousness.
-- **Atonic Seizures (Drop Attacks):** Sudden loss of muscle tone, causing a person to collapse or fall. Often leads to head injuries due to lack of warning.
+- **ミオクロニー：** 突然の短時間の筋肉のピクピクや痙攣が特徴であるが、通常は意識を失うことはない。
+- **無緊張発作（落下発作）：** 突然の筋緊張の低下により、人が倒れたり転倒したりする。警告がないため、しばしば頭部外傷につながる。
 
-Makes sense, right? Myoclonic is a smaller scale version of clinic seizures, and Atonic is the opposite of tonic, with loss of muscle tone instead of stiffness. There’s one more type of generalized seizure which looks different to all of the above:
+理にかなっているでしょう？ミオクロニックはクリニック発作の小規模版であり、アトニックは強直の逆で、硬直の代わりに筋肉の緊張が失われる。もう一つ、上記の発作とは異なるタイプの全般化発作がある：
 
-**Absence Seizures or Petit Mal Seizures.** They are characterized by brief episodes of blanking out (5–15 seconds). They don’t come with convulsions, but with confusion, as the person loses awareness of their surroundings during this type of seizure.
+**欠神発作またはPetit Mal発作である。** 欠神発作は、空白の短いエピソード（5～15秒）が特徴である。このタイプの発作の間、人は周囲の状況を認識できなくなるため、痙攣を伴わず、混乱を伴います。
 
 ## SUDEP
 
-Something else I learned from my LinkedIn comments: [SUDEP or Sudden Death in Epilepsy](https://sudep.org/epilepsy-safety/what-is-sudep/).
+LinkedInのコメントから学んだことがあります：[SUDEPまたはてんかん突然死[英語で]](https://sudep.org/epilepsy-safety/what-is-sudep/).
 
-SUDEP stands for Sudden Unexpected Death in Epilepsy and is a serious risk for all people with epilepsy. Each year, approximately one in 1,000 affected individuals dies from it. However, even simple measures can help significantly reduce the risk.
+SUDEPはSudden Unexpected Death in Epilepsyの略で、すべてのてんかん患者にとって重大なリスクである。毎年、罹患者の約1,000人に1人がSUDEPで死亡しています。しかし、簡単な対策でもリスクを大幅に減らすことができます。
 
-The Epilepsy Foundation offers [resources on Seizure First Aid](https://www.epilepsy.com/recognition).
+The Epilepsy Foundationは、[Seizure First Aidに関するリソース[英語で]](https://www.epilepsy.com/recognition)を提供しています。.
 
 ---
 
-This post was originally published on [a11y News Newsletter](https://a11ynews.substack.com/p/the-pokemon-episode-that-triggered).
+[a11y News Newsletterでのオリジナル記事。](https://a11ynews.substack.com/p/the-pokemon-episode-that-triggered).
