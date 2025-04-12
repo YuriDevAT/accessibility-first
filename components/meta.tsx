@@ -52,6 +52,7 @@ const Meta = ({
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />
+      <meta property="og:site_name" content={title}></meta>
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content={url} />
