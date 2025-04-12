@@ -37,7 +37,7 @@ According to a [survey by Japan's Fire and Disaster Management Agency](https://o
 
 And can I just say that it’s kinda weird that Wikipedia has the whole 4-second clip, in original speed at the top of the page?
 
-![the infamous scene where Pikachu shoots his thunderbolt, with blue red strobe effects](/assets/cover/the-pokemon-episode-that-triggered-seizures-in-685-viewers/imgage-1.png)
+![the infamous scene where Pikachu shoots his thunderbolt, with blue red strobe effects](/assets/cover/the-pokemon-episode-that-triggered-seizures-in-685-viewers/image-1.png)
 
 After this episode, the animation studio dropped the strobe effects from Pikachu's thunderbolt. For years following the incident, a disclaimer was broadcast at the beginning of all Japanese television shows, cautioning viewers not to sit too close to the television screen and to watch only in a brightly-lit room:
 「テレビアニメを見るときには、部屋をあかるくして近づきすぎないようにしてみてくださいね。」
